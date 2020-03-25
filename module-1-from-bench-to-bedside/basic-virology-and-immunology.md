@@ -1,6 +1,6 @@
 # Basic Virology and Immunology
 
-## **SUPER ADVANCED Virology**
+## **Basic Virology**
 
 ### Introduction
 
