@@ -20,31 +20,23 @@ In summary, no ONE symptom or set of symptoms can reliably diagnose or exclude C
 
 Children infected with COVID-19 are less likely to require hospitalization and ICU admission than their adult counterparts and have lower fatality rates \([CDC MMWR, 3.18.20](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e2.htm#F2_down)\). This difference in disease severity among children and adults is poorly understood at this time, but is under active investigation. If you would like to know more about COVID-19 in children, please reference the [supplemental materials](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#heading=h.fzjmqy11md9f), section **COVID-19 AND CHILDREN.**
 
-\_Thought questions: **\** \_Why might infants and children infected with SARS-CoV-2 have more mild symptoms than in adults and be at a lower risk for progression to serious illness including pneumonia and acute respiratory distress syndrome \(ARDS\)?  \(Note: there is currently no consensus on this topic, and it is still an area of active debate\)  If symptoms are so mild in children, why are we closing schools? \
+_Thought questions:_
 
-## Risk Stratification
+* Why might infants and children infected with SARS-CoV-2 have more mild symptoms than in adults and be at a lower risk for progression to serious illness including pneumonia and acute respiratory distress syndrome \(ARDS\)?
+  * \(Note: there is currently no consensus on this topic, and it is still an area of active debate\)
+* If symptoms are so mild in children, why are we closing schools?Risk Stratification
 
-The largest study from the Wuhan Pulmonary Hospital showed that several common chronic conditions have prognostic implications for patients with COVID-19, including hypertension, type II diabetes, and cardiovascular \(as well as cerebrovascular\) disease \(see Figure 2 below from Osmosis\).
+## Risk Stratification 
 
-&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of12.png\). Store image on your image server and adjust path/filename if necessary.  
-\([Back to top](clinical-presentation-of-covid-19.md)\)\([Next alert](clinical-presentation-of-covid-19.md#gdcalert14)\)  
-&gt;&gt;&gt;&gt;&gt;
+The largest data set from the Wuhan Pulmonary Hospital showed that several common chronic conditions have prognostic implications for patients with COVID-19, including hypertension, type II diabetes, and cardiovascular \(as well as cerebrovascular\) disease \([China CDC Weekly, 2.10.20](https://pubmed.ncbi.nlm.nih.gov/32064853/)\) \(see Figure 2 below from Osmosis\).
 
-![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/b61a2e1d5ebfd8c27737267109cac97306022c32/module-1-from-bench-to-bedside/images/Copy-of12.png)
-
-This summary of a large study of patients in Wuhan in late 2019 and early 2020 demonstrated the above comorbid chronic conditions as having many folds higher risk for fatality in cases of COVID-19 confirmed by RT-PCR. In addition, age above 60 was demonstrated to be an independent risk factor for COVID-19; it is worth noting that elderly patients are also more likely to have the aforementioned comorbid chronic conditions.
+![This summary of a large study of patients in Wuhan in late 2019 and early 2020 demonstrated the above comorbid chronic conditions as having many folds higher risk for fatality in cases of COVID-19 confirmed by RT-PCR. In addition, age above 60 was demonstrated to be an independent risk factor for COVID-19; it is worth noting that elderly patients are also more likely to have the aforementioned comorbid chronic conditions. Osmosis: https://www.youtube.com/watch?v=JKpVMivbTfg](https://lh6.googleusercontent.com/3ywYV-oos0eq_gQDm6M_Mmu1YdQeoqJW53cDo3ZsqpZH3TkyRDWHZU5qF8MJRQItTPeTjxZsAa5xcBd3S7kBPNEEjef9_vIjkCsjRKb3gRF3tS0VuNe2FuECXN2-zWQO5BRh_tqZ)
 
 Osmosis: [https://www.youtube.com/watch?v=JKpVMivbTfg](https://www.youtube.com/watch?v=JKpVMivbTfg)
 
-“Elderly” age has been found to be an independent risk factor for both COVID-19 infection and a more serious disease course \(see above figure\). While the precise age is up for debate, it is clear that the older a patient is \(particularly above 60 years of age\), the higher their mortality risk is. In addition to the increased case fatality rate, older age has also been associated with increased need for ICU admission in the US \(albeit to a lesser extent than case fatality\). It is worth noting, that although young people are commonly thought to be unaffected or very mildly affected by COVID-19, 38% of all patients requiring hospitalization due to COVID-19 in the US as of 3/16/20 were between ages 20-54 \([CDC MMWR, 3.16.2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e2.htm)\).
+“Elderly” age has been found to be an independent risk factor for both COVID-19 infection and a more serious disease course \(see above figure\). While the precise age is up for debate, it is clear that the older a patient is \(particularly above 60 years of age\), the higher their mortality risk is. In addition to the increased case fatality rate, older age has also been associated with increased need for ICU admission in the US \(albeit to a lesser extent than case fatality\). It is worth noting, that although young people are commonly thought to be unaffected or very mildly affected by COVID-19, 38% of all patients requiring hospitalization due to COVID-19 in the US as of 3/16/20 were between ages 20-54 \([CDC MMWR, 3.16.2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e2.htm)\). 
 
-&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of13.png\). Store image on your image server and adjust path/filename if necessary.  
-\([Back to top](clinical-presentation-of-covid-19.md)\)\([Next alert](clinical-presentation-of-covid-19.md#gdcalert15)\)  
-&gt;&gt;&gt;&gt;&gt;
-
-![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/b61a2e1d5ebfd8c27737267109cac97306022c32/module-1-from-bench-to-bedside/images/Copy-of13.png)
-
-\([CDC MMWR, 3.16.2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e2.htm)\)
+![\(CDC MMWR, 3.16.2020\)](https://lh6.googleusercontent.com/_OJiCAPjq72liikLnxMrm70mTPwwB_wIR6K2qFqhso1Lx4c-ZFkxVKD-JLIxKrtVN_vywYSXMonzqyyWRW1GxWVSn1uYoY61Rp6km_ve8QTILeBYzjt0GOfptRjJ_SrNYKZs9poi)
 
 Immunocompromised and immunosuppressed patients are considered to be at high risk for COVID-19 infection as well as fatality in confirmed cases. Data is currently lacking to characterize what precise clinical population should be considered: healthcare professionals and media are generally being cautious and telling people on any immunosuppressive agents for any reason that they are at higher risk for infection and possibly a more severe disease course. It is important to remember that many diseases are treated with immunosuppressive agents \(corticosteroids such as prednisone as well as disease-modifying anti-rheumatic drugs \(DMARDs\) such as methotrexate and anti-TNF agents are common\), and thus the spectrum of significantly immunosuppressed patients may be large. Patients with primary immunodeficiencies are considered to be immunocompromised and also at theoretically higher risk for infection and fatality.
 
@@ -52,17 +44,15 @@ Immunocompromised and immunosuppressed patients are considered to be at high ris
 
 _Thought question:_
 
-Given that treatment for COVID-19 is primarily supportive, what are the benefits of testing for SARS-CoV-2?
+* Given that treatment for COVID-19 is primarily supportive, what are the benefits of testing for SARS-CoV-2?
+* Given what you have learned about the basic virology of SARS-CoV-2, how would you design a test to look for infection? From where would you collect samples?
 
-Given what you have learned about the basic virology of SARS-CoV-2, how would you design a test to look for infection? From where would you collect samples?
+### Molecular Assays
 
-Molecular Assays
+**After the emergence of COVID-19, labs around the world rapidly began developing diagnostic tests for SARS-CoV-2. Most tests so far have consisted of  real-time RT-PCR techniques against the RNA-dependent RNA polymerase \(RdRp\), E \(envelope\), N \(nucleocapsid\), S \(spike protein\), and/or ORF1b transcripts \(video review of** [**RT-PCR**](https://www.youtube.com/watch?v=0MJIbrS4fbQ)**\). The WHO initially dispatched 250,000 kits based on initial work from Christian Drosten \(Institute of Virology, Charité University Hospital, Berlin\) and collaborators in Europe and Hong Kong. The CDC then developed its own rRT-PCR diagnostic panel, though critical errors in primer development limited its scale-up and initially caused testing shortages in the United States \(review:** [**Sheridan, Nature 2020**](https://www.nature.com/articles/d41587-020-00002-2)**\). Several commercial laboratories have developed and distributed  their own PCR diagnostic tests to meet this growing need \(see** [**Module 3**](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit?ts=5e743dc3#)**\).** 
 
-After the emergence of COVID-19, labs around the world rapidly began developing diagnostic tests for SARS-CoV-2, with most so far developing real-time RT-PCR techniques against the RNA-dependent RNA polymerase \(RdRp\), E \(envelope\), N \(nucleocapsid\), S \(spike protein\), and/or ORF1b transcripts \(Video review of [RT-PCR](https://www.youtube.com/watch?v=0MJIbrS4fbQ)\). The WHO initially dispatched 250,000 kits based on initial work from Christian Drosten \(Institute of Virology, Charité University Hospital, Berlin\) and collaborators in Europe and Hong Kong. The CDC then developed its own rRT-PCR diagnostic panel, though critical errors in primer development limited its scale-up and have caused testing shortages in the United States \(review: [Sheridan, Nature 2020](https://www.nature.com/articles/d41587-020-00002-2)\). Several commercial laboratories are developing and distributing their own PCR diagnostic tests to meet this growing need \(see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit?ts=5e743dc3#)\).
-
-**Currently, all diagnostic tests use respiratory specimens, primarily from nasopharyngeal, and sometimes oropharyngeal, swabs**. Although RT-PCR appears to be highly specific, sensitivities across kits vary dramatically, and can be as low as 70% compared against clinical suspicion with positive CT findings, especially early in the disease course \([Fang et al., Rad 2020](https://pubs.rsna.org/doi/full/10.1148/radiol.2020200432); [Ai et al., Rad 2020](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)\). Given this higher likelihood for false negatives, if clinical suspicion remains for COVID-19 despite a negative initial test, the [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/surveillance-and-case-definitions) recommends resampling and retesting from multiple sites. Additional PCR testing can be done on stool and urine samples, though whether this represents active infection or continued viral shedding is unknown.
-
-The current status of PCR testing resources and guidelines will be discussed in [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#).
+**Currently, all diagnostic tests use respiratory specimens, primarily from nasopharyngeal, and sometimes oropharyngeal, swabs. Although RT-PCR appears to be highly specific, sensitivities across kits vary dramatically, and can be as low as 70% compared against clinical suspicion with positive CT findings, especially early in the disease course \(**[**Fang et al., Rad 2020**](https://pubs.rsna.org/doi/full/10.1148/radiol.2020200432)**;** [**Ai et al., Rad 2020**](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)**\). Given this higher likelihood for false negatives, if clinical suspicion remains for COVID-19 despite a negative initial test, the** [**WHO**](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/surveillance-and-case-definitions) **recommends resampling and retesting from multiple sites. Additional PCR testing can be done on stool samples, though whether this represents active infection or continued viral shedding is unknown.   
+The current status of PCR testing resources and guidelines will be discussed in** [**Module 3**](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#)**.**
 
 _Thought questions:_
 
