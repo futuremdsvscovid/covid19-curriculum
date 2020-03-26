@@ -1,16 +1,15 @@
 # Investigational Therapeutics & Vaccine Development
 
-This section will build off the fundamental SARS-CoV-2 virology and hypotheses of COVID-19 pathogenesis that you learned in the beginning of this module and explore the scientific basis of potential therapeutics and vaccines. For the most up-to-date information on clinical trials and approval of COVID-19 therapeutics and vaccine development see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#heading=h.tq7k39cqufi). As of 3/2/2020, [here is a detailed guide of drugs and vaccines in development.](https://www.statnews.com/2020/03/02/coronavirus-drugs-and-vaccines-in-development/) As best as possible, we will maintain an update of _in vitro_ and animal based studies of therapeutic effectiveness in this section.
+This section will build off the fundamental SARS-CoV-2 virology and hypotheses of COVID-19 pathogenesis that you learned in the beginning of this module and explore the scientific basis of potential therapeutics and vaccines. For the most up-to-date information on clinical trials and approval of COVID-19 therapeutics and vaccine development see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#heading=h.tq7k39cqufi). As of 3/2/2020, [here is a detailed guide of drugs and vaccines in development.](https://www.statnews.com/2020/03/02/coronavirus-drugs-and-vaccines-in-development/) As best as possible, we will maintain an update of in vitro and animal based studies of therapeutic effectiveness in this section.
 
 _Thought Questions:_
 
-Based on what you know about viral structure and pathogenesis, what kinds of drug targets do we already have on the market that could have efficacy in treating COVID-19?
-
-Who will most benefit from investigational therapeutics? From a vaccine?
+* Based on what you know about viral structure and pathogenesis, what kinds of drug targets do we already have on the market that could have efficacy in treating COVID-19?
+* Who will most benefit from investigational therapeutics? From a vaccine?
 
 ## Investigational Therapeutics
 
-There are currently **no approved treatments or vaccines for any coronavirus in the US**; this includes SARS & MERS. It is also important to note that corticosteroid treatment is **not recommended for treating viral pneumonia, unless indicated for another medical reason** \(\[WHO 2020\]\([https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-\(ncov\)-infection-is-suspected](https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-%28ncov%29-infection-is-suspected)\); \[Russell et al., The Lancet 2020\]\([https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30317-2/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930317-2/fulltext)\)\).
+**There are currently no approved treatments or vaccines for any coronavirus in the US; this includes SARS & MERS. It is also important to note that corticosteroid treatment is not recommended for treating viral pneumonia, unless indicated for another medical reason \(**[**WHO 2020**](https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-%28ncov%29-infection-is-suspected)**;** [**Russell et al., The Lancet 2020**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930317-2/fulltext)**\).**
 
 _Thought Question:_
 
