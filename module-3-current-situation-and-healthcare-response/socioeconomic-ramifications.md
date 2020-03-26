@@ -12,15 +12,15 @@ As we know, illness and health have an impact on our lives and communities, and 
 
 Several of these effects are discussed below, with others explored in the further reading section.
 
-**Social Isolation**
+## **Social Isolation**
 
 Social distancing asks us to stay physically separated from one another, which poses the risk of increasing social isolation and loneliness \(social distancing still allows for other forms of social connection, mostly through technology, that can help decrease social isolation and loneliness\). This risk is particularly high for elderly individuals and those already isolated. While social distancing itself has not been studied, experts on social isolation and associated negative health outcomes have begun to [weigh in](https://www.sciencemag.org/news/2020/03/we-are-social-species-how-will-social-distancing-affect-us) on potential impacts social distancing may have. If you’re interested, check out [this meta-analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2910600/) on the effect of social relationships on morbidity and mortality.
 
-**Impact on Work**
+## **Impact on Work**
 
 Social distancing has become an important strategy for slowing down spread of the virus and ‘flattening the curve’. For those unable to work from home or take time off work, social distancing could mean making the choice between risking spread of the virus and not having the resources to secure food, rent, and/or childcare. As of March 17, [one in five](https://www.npr.org/2020/03/17/817158521/poll-nearly-1-in-5-households-have-lost-work-because-of-pandemic) US households had experienced layoffs or reduced work hours. [This article](https://www.vox.com/the-goods/2020/3/13/21178879/coronavirus-covid-19-restaurant-workers-sick-leave-chipotle-mcdonalds) describes the struggle of food service workers whose work requires them to be public-facing, often without the option for paid sick leave. In addition, small business owners [here in Boston](https://www.wgbh.org/news/local-news/2020/03/12/covid-19-hitting-boston-area-small-businesses) are grappling with closing their doors to help with social distancing efforts, even if that means losing income.
 
-**Financial Instability**
+## **Financial Instability**
 
 On a larger scale, COVID-19 is already affecting the global marketplace, and will likely continue to evolve over the coming weeks. For anyone watching the nightly news, it’s hard to ignore the market tickers at the bottom of the screen as they drop precipitously. Stocks have had some of their largest single day declines since 1987, and continue their downward trajectory. While certainly not this audience’s area of expertise, it may prove beneficial to understand the economic implications of a pandemic as its impact will be felt universally. To understand how the economy has already been impacted, please see [this article](https://www.bbc.com/news/business-51706225) from the BBC.
 
@@ -28,11 +28,11 @@ The likely economic impact of this pandemic is two-fold. First, there will be a 
 
 Both supply and demand shocks are quite complex and interact in a complex manner. Structural and political mismanagement of the situation could further an economic downturn. These and other economic principles, in addition to GDP trends during other pandemics in history, are nicely outlined in [an article](https://hbr.org/2020/03/what-coronavirus-could-mean-for-the-global-economy) from the Harvard Business review.
 
-**Social Stigma and Racism**
+## **Social Stigma and Racism**
 
 As rates of COVID-19 infection have increased across the United States, so too have racist and xenophobic sentiments toward Chinese and Chinese-American people, or, more broadly, people who appear East Asian. This has escalated to  include [verbal and physical attacks and avoidance of Asian American small businesses](https://www.nytimes.com/2020/03/23/us/chinese-coronavirus-racist-attacks.html). While it has been difficult to quantify, various community organizations and media outlets have noted a sharp increase in tips and reports. Many have linked this behavior to politicians’ [repeated use](https://www.nytimes.com/2020/03/18/us/politics/china-virus.html) of “the Chinese virus” rather than “COVID-19” or “coronavirus,” raising concerns about scapegoating. The WHO has cautioned against language that promotes social stigma or attaches locations to the illness. Further guidance from the WHO in preventing social stigma and the spread of inaccurate information can be found [here](https://www.who.int/docs/default-source/coronaviruse/covid19-stigma-guide.pdf).
 
-**What Is Being Done in Response?**
+## **What Is Being Done in Response?**
 
 Congress has begun to address these social and economic impacts with the Families First Coronavirus Response Act, which has passed both chambers of Congress and been signed by the President ****on March 18. This bill includes the following \(read the full text [here](https://www.congress.gov/bill/116th-congress/house-bill/6201/text)\):
 
@@ -56,11 +56,9 @@ As of last week, the White House has invoked the [Defense Production Act](https:
 
 _Thought questions:_
 
-What types of public health and health care delivery interventions introduced during this crisis have staying power, and why? \(e.g. telemedicine, expansion of sick leave\)
-
-How might the healthcare response to COVID-19 affect patients with chronic illness? How might the risk of illness affect the healthcare workforce in terms of numbers of workers, attitudes, and burnout?
-
-The pandemic has been described as a global phenomenon that has exposed the “Achilles’ heel” of many social and structural shortcomings. What shortcomings have you identified during this pandemic and if given the chance, how would you propose we address them after the pandemic is over?
+* What types of public health and health care delivery interventions introduced during this crisis have staying power, and why? \(e.g. telemedicine, expansion of sick leave\)
+* How might the healthcare response to COVID-19 affect patients with chronic illness? How might the risk of illness affect the healthcare workforce in terms of numbers of workers, attitudes, and burnout?
+* The pandemic has been described as a global phenomenon that has exposed the “Achilles’ heel” of many social and structural shortcomings. What shortcomings have you identified during this pandemic and if given the chance, how would you propose we address them after the pandemic is over?
 
 ## **Further Reading and Updates**
 
