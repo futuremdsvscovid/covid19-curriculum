@@ -1,6 +1,6 @@
 # Module 4: Communicating Information about COVID-19
 
-## MODULE 4: Communicating Information about COVID-19
+## Module 4: Communicating Information about COVID-19
 
 _Student authors:_ Isaac Alty; Andrew Foley, MPH; Michael Kochis, EdM; Ashwini Joshi; and Joyce Zhou
 
@@ -12,11 +12,11 @@ We’ve now discussed [**Brian and Diane**](https://docs.google.com/document/d/1
 
 Think of the people in your own life who may be struggling in similar ways to Brian and Diane. What makes communicating with them challenging, and how may you try to understand or support them differently?
 
-**OVERARCHING LEARNING GOAL**
+## **OVERARCHING LEARNING GOAL**
 
 Now that you’ve bolstered your COVID-19 knowledge, prepare to productively communicate that information, especially with a non-medical audience who may have varying attitudes towards the pandemic.
 
- **LEARNING OBJECTIVES**
+##  **LEARNING OBJECTIVES**
 
 At the end of this module, medical students should be able to:
 

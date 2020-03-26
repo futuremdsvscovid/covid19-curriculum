@@ -2,9 +2,7 @@
 
 Recognizing the differential impact that COVID-19 has on people based on their past experiences or their current circumstances is foundational for effective communication. Practicing cultural humility as you approach conversations around COVID-19 includes, but is not limited to, bearing witness to a person's lived experience, recognizing the unique elements of someone’s personal experiences based on their background and culture, and acknowledging the authority that each person has over their experiences and story. Practicing cultural humility requires looking beyond one’s own experience and approaching the experiences of others without judgment.
 
-_Thought Question:_ 
-
-* Think of 2-3 ways in which someone’s past experiences could impact their receptiveness or response to a conversation about COVID-19.
+_Thought Question:_ Think of 2-3 ways in which someone’s past experiences could impact their receptiveness or response to a conversation about COVID-19.
 
 If you need a brainstorm bump, consider the following circumstances or review the ways in which this pandemic may further inequity from [this summary by the NAACP](https://live-naacp-site.pantheonsite.io/wp-content/uploads/2020/03/Ten-Equity-Considerations-of-the-Coronavirus-COVID-19-Outbreak-in-the-United-States-FINAL.pdf):
 
