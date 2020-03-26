@@ -1,6 +1,6 @@
 # Introduction to Epidemiological Terms
 
-## INTRODUCTION TO EPIDEMIOLOGICAL TERMS
+## Introduction to Epidemiological Terms
 
 **Attack Rate/Ratio:** Refers to the \(number of new cases of disease\)/\(population at risk\) during a specified time interval. Generally, the time interval here is defined as “the duration of the outbreak”. \([CDC](https://www.cdc.gov/csels/dsepd/ss1978/glossary.html)\)
 
@@ -16,15 +16,7 @@
 
 **Serial interval:** The period of time between symptom onsets in an infector-infectee pair. This period is often used as a proxy for **generation interval**, which is the period of time between infection of an infector-infectee pair. The serial interval helps determine the speed with which an outbreak spreads, and along with Re is a key parameter for how “steep” or “flat” an epidemic curve will appear.
 
-&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of0.png\). Store image on your image server and adjust path/filename if necessary.  
-\([Back to top](introduction-to-epidemiological-terms.md)\)\([Next alert](introduction-to-epidemiological-terms.md#gdcalert2)\)  
-&gt;&gt;&gt;&gt;&gt;
-
-![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/e2770fb14fae8fc4117e1540d84e1dc485ab474a/module-2-epidemiology-principles/images/Copy-of0.png)
-
-```text
-Adapted from Giesecke, J. Modern Infectious Disease Epidemiology. 2002.
-```
+![Adapted from Giesecke, J. Modern Infectious Disease Epidemiology. 2002.](https://lh6.googleusercontent.com/JuXtFn-a7Bq8rz5QTO0taFwFNFbHKmHSDGwUm4ZWQu5OBytoraQTTQ_BwHOEp9x7lA5ePxJl5FwD7tY0TmHg3vCoozyQ7qj7eZkBmmMmYBuoDaSNIEwT9HsU3fsodKfUIaCLp3Wr)
 
 **Community transmission:** Refers to transmission occurring between people within the same community. This phenomenon is separate from people acquiring the infection while traveling or due to close contact with someone who visited an area with the infection as it implies that there are unknown cases spreading the infection locally. \([CDC](https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf)\)
 
@@ -32,17 +24,11 @@ Adapted from Giesecke, J. Modern Infectious Disease Epidemiology. 2002.
 
 **Flattening the curve:** The concept is based on the reality that the healthcare system can only handle a limited number of sick patients at one time. Measures to “flatten the curve” attempt to slow the spread so that there are fewer cases at any one time \(however, cases are spread out over a longer period of time\) and the healthcare system is capable of providing appropriate care without being overwhelmed. Failing to do so increases the spread of the infection and the case fatality rate as the healthcare system is unable to provide appropriate care to every patient. Should improvements in treatment occur, a larger proportion of the infected population will have access to appropriate treatment. Should a vaccine be developed, more people will gain immunity that way rather than by getting sick.
 
-```text
-*Note: flattening the curve does not necessarily mean that fewer people will become infected and require medical care in total - the area under the curve is not necessarily reduced (even though many graphs on the Internet might suggest otherwise)
-```
+_Note: flattening the curve does not necessarily mean that fewer people will become infected and require medical care in total - the area under the curve is not necessarily reduced \(even though many graphs on the Internet might suggest otherwise\)_
 
-&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of1.png\). Store image on your image server and adjust path/filename if necessary.  
-\([Back to top](introduction-to-epidemiological-terms.md)\)\([Next alert](introduction-to-epidemiological-terms.md#gdcalert3)\)  
-&gt;&gt;&gt;&gt;&gt;
+![](https://lh5.googleusercontent.com/p6vpfE1XTzmhdaALgyghn0X6vFAqaPcCn2wcOOwC6JADJD-YmUWXRXNbJF-zGtMcTV4_1Boe8wn-82gFNueIZi-65woTT4uvG2sZ6VnhzrpPwosaH9_7gMpdasKHnilo8Tb4fMUr)
 
-![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/e2770fb14fae8fc4117e1540d84e1dc485ab474a/module-2-epidemiology-principles/images/Copy-of1.png)
-
-## WHERE ARE WE NOW?
+## W**here are we now**?
 
 The following is a set of basic figures about the epidemic as a snapshot, which will be updated in this document as we receive new information.
 
