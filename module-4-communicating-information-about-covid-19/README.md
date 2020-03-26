@@ -12,11 +12,11 @@ We’ve now discussed [**Brian and Diane**](https://docs.google.com/document/d/1
 
 Think of the people in your own life who may be struggling in similar ways to Brian and Diane. What makes communicating with them challenging, and how may you try to understand or support them differently?
 
-## **OVERARCHING LEARNING GOAL**
+## **Overarching Learning Goal** 
 
 Now that you’ve bolstered your COVID-19 knowledge, prepare to productively communicate that information, especially with a non-medical audience who may have varying attitudes towards the pandemic.
 
-##  **LEARNING OBJECTIVES**
+##  **Learning Objectives**
 
 At the end of this module, medical students should be able to:
 
@@ -25,7 +25,7 @@ At the end of this module, medical students should be able to:
 * Recognize the tool that would be most appropriate for a given situation
 * Rehearse a potentially difficult situation with someone from your life
 
-## CORE MATERIALS
+## Core Materials
 
 * Stone, Patton, and Heen, “Difficult Conversations,” [Introduction and Chapter 1](https://drive.google.com/file/d/1S-R5-b5lSgOvQqO4OJqCWMrEHFzPKZzS/view?usp=sharing).
 * VitalTalk, [COVID-ready communication skills](https://docs.google.com/document/d/1uSh0FeYdkGgHsZqem552iC0KmXIgaGKohl7SoeY2UXQ/mobilebasic).
