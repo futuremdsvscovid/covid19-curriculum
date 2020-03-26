@@ -24,19 +24,19 @@ We want these lessons to be as widely helpful as possible.  Given the range of c
 
 ### Learning goals
 
-\*\*\*\*[**Module 1: From Bench to Bedside**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside)\*\*\*\*
+[**Module 1: From Bench to Bedside**](https://docs.google.com/document/d/1gjUuqTLi7xqMVzgWeYAFulmaIiKzhYY89PVOJJVvlNo/edit)
 
 Evaluate how the emerging understanding of COVID-19 pathophysiology translates to evolving diagnosis, treatment, and prevention efforts.
 
-\*\*\*\*[**Module 2: Epidemiology Principles**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles)\*\*\*\*
+[**Module 2: Epidemiology Principles**](https://docs.google.com/document/d/1EFBj_94umrCbgP3qsdJkjBzWci9uY32wBJL5h8Ap5YA/edit#heading=h.3jtn66ypa565)
 
 Introduce epidemiological principles underlying the current public health interventions regarding COVID-19, and evaluate how these interventions could influence the impact of the pandemic.
 
-\*\*\*\*[**Module 3: Current Situation and Healthcare Response, in Massachusetts and Beyond**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response)\*\*\*\*
+\*\*\*\*[**Module 3: Current Situation and Healthcare Response, in Massachusetts and Beyond**](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#)\*\*\*\*
 
 Appreciate the complex and rapidly changing landscape of the COVID-19 pandemic as it stands in Massachusetts, as well as the adapting responses of the healthcare system and society as a whole.
 
-\*\*\*\*[**Module 4: Communicating Information about COVID-19**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-4-communicating-information-about-covid-19)
+\*\*\*\*[**Module 4: Communicating Information about COVID-19**](https://docs.google.com/document/d/1DSr-3wzw9eEMbfbmVtZEAMUS4C-m9Zu6FeA_CIAxi54/edit#)\*\*\*\*
 
 Now that you’ve bolstered your COVID-19 knowledge, prepare to productively communicate that information, especially with a non-medical audience who may have varying attitudes towards the pandemic.
 
