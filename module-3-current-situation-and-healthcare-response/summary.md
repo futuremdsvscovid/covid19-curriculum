@@ -12,7 +12,7 @@ The situation around the world and here in Massachusetts is rapidly evolving, as
 
 We hope this module helped capture the complex and rapidly changing landscape of the COVID-19 pandemic as it stands in Massachusetts, as well as the adapting responses of the healthcare system and society as a whole.
 
-To continue in our COVID-19 curriculum, please click here: [Module 4: Communicating Information about COVID-19](https://docs.google.com/document/d/1DSr-3wzw9eEMbfbmVtZEAMUS4C-m9Zu6FeA_CIAxi54/edit#). Click here to return to our [Overview](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/edit?ts=5e743589#).
+To continue in our COVID-19 curriculum, please click here: [Module 4: Communicating Information about COVID-19](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-4-communicating-information-about-covid-19). Click here to return to our [Overview](https://futuremdvscovid.gitbook.io/covid19-curriculum/).
 
 We welcome your feedback on this module and on the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).
 
