@@ -1,4 +1,4 @@
-# Clinical Presentation of COVID-19
+# Diagnosis of COVID-19
 
 ## Clinical Presentation
 
