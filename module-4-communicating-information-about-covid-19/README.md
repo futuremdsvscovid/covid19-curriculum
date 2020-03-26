@@ -4,7 +4,7 @@
 
 _Student authors:_ Isaac Alty; Andrew Foley, MPH; Michael Kochis, EdM; Ashwini Joshi; and Joyce Zhou
 
-\_Faculty reviewers: \_Kate Treadway, MD; Katie Greenzang, MD, EdM; Andrea Wershof Schwartz, MD, MPH
+_Faculty reviewers:_ Kate Treadway, MD; Katie Greenzang, MD, EdM; Andrea Wershof Schwartz, MD, MPH
 
 As physicians, we must master not only the science of medicine but also the art. Module 2 touches on the impact that this disease has on a population level, and Module 3 addresses how the healthcare system is mobilizing to address the pandemic. Quite frankly, these are exceptionally stressful developments. While not everyone will become infected with SARS-CoV-19, in the setting of a pandemic, everyone is a patient. The art of medicine involves bringing that recognition to our encounters with _friends_ and _family\_as well as to \_patients_ in a direct clinical setting. Furthermore, social distancing measures impose new realities on what interactions can even look like. These changes are as good a time as any to review the communication skills that will serve us well in this uncertain time.
 
