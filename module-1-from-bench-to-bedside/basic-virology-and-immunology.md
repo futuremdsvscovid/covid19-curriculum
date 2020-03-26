@@ -14,7 +14,7 @@ Coronaviruses are positive-sense, single-stranded enveloped RNA viruses with hel
 
 
 
-![Schematic of Baltimore classification scheme based on type of genome and replication for virus families \(text in blue\), highlighting SARS-CoV-2 and select virus families with viruses \(influenza virus, rhinovirus\) known to cause common human respiratory infections. Adapted from Collier, Oxford, Kellam, Human Virology 5e 2016. ](https://lh3.googleusercontent.com/sBThmvmgHvLBa1taTVxyJH3hZ8Jv8T8xnNIIxW2mI5zTbmag33wtVc7uRdpN9b8sqq2zpkjbPTKdudcmJTxfUOI35KmMwtzaqEH2SNHWhJlSNZxtPUk_tUcXXlIQE5ZmatkhpZNv)
+![Schematic of the taxonomy of Coronaviridae family of viruses as per ICTV classification, highlighting coronaviruses known to infect humans. From Pillaiyar et al., Drug Discovery Today, 2020.](https://lh3.googleusercontent.com/sBThmvmgHvLBa1taTVxyJH3hZ8Jv8T8xnNIIxW2mI5zTbmag33wtVc7uRdpN9b8sqq2zpkjbPTKdudcmJTxfUOI35KmMwtzaqEH2SNHWhJlSNZxtPUk_tUcXXlIQE5ZmatkhpZNv)
 
 ### Genome
 
@@ -57,6 +57,22 @@ _Thought questions:_
 * How could the specific proteins \(S, E, M, and N\) on SARS-CoV-2 be useful targets for diagnosis? For treatment?
 * What technologies or molecular diagnostics/therapeutics would be useful?
 
-  
+#### **Pathogenesis of COVID-19 Infection** 
+
+Research is ongoing to characterize the pathogenesis of how SARS-CoV-2 results in COVID-19 disease in humans. Below is our current understanding of the literature.
+
+**Viral entry**
+
+Two types of epithelial cells make up the lining of the airways at the level of the alveoli. Type 1 pneumocytes are simple squamous epithelial cells that collectively make up 97% of alveolar epithelium; they are thin and form the blood-gas barrier adjacent to the pulmonary capillary endothelium. In contrast, type 2 pneumocytes are cuboidal epithelium, and make up only 3% of the alveolar epithelium. They secrete pulmonary surfactant \(dipalmitoyl phosphatidylcholine\) to decrease the surface tension of the lungs, and also act as stem cells for the alveolar epithelium. They proliferate in the setting of lung inflammation and damage to regenerate alveolar tissue.  
 ****
+
+SARS-CoV-2 enters host cells through interacting with ACE2, a transmembrane protein on type 2 pneumocytes in the alveoli and intestinal epithelial cells. ACE2 is implicated in the renin-angiotensin-aldosterone system \(RAAS\) and the pathogenesis of hypertension. Of note, ACE2 is a distinct enzyme from the ACE that converts angiotensin I to angiotensin II in the lungs as part of RAAS. While ACE acts to generate angiotensin II, a potent vasoconstrictor that will increase systemic vascular resistance and drive the synthesis of aldosterone, ACE2 instead acts in the opposite direction to convert active angiotensin II to angiotensin 1-7. This functions as negative regulation of RAAS, as ACE2 both decreases the concentration of Ang II and produces a primary vasodilatory agent \(Ang 1-7\). ACE2 is an interferon-induced gene and in addition to type 2 pneumocytes is expressed on intestinal epithelial cells and nasal goblet secretory cells \([Ziegler et al., Cell preprint 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555145)\). SARS-CoV-2 mainly infects type 2 pneumocytes in the lung \([Zhu et al., NEJM 2020](https://www.nejm.org/doi/10.1056/NEJMoa2001017?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov)\), but has also been found inside intestinal epithelial cells \([Xiao et al., Gastroenterology 2020](https://www.gastrojournal.org/article/S0016-5085%2820%2930282-1/pdf)\).   
+
+
+Binding of the SARS-CoV-2 S protein to ACE2 triggers a conformational change in the viral S protein, allowing for proteolytic digestion by host cell proteases \([Zhou et al., Nature 2020](https://www.nature.com/articles/s41586-020-2012-7)\). TMPRSS2 is a serine protease on the host cell membrane that primes the viral S protein by cleaving it, which allows fusion of the viral and host cell membranes. The encoded TMPRSS2 protein contains a type II transmembrane domain, a receptor class A domain, a scavenger receptor cysteine-rich domain and the serine protease domain. Both SARS-CoV and SARS-CoV-2 use the ACE2 receptor for entry and are primed by TMPRSS2, and TMPRSS2 has been investigated as a therapeutic target. Experimental use of an inhibitor of TMPRSS2, camostat mesylate, decreased the infectiousness of virus particles with coronavirus surface proteins in cell culture \([Hoffmann et al., Cell 2020](https://www.cell.com/cell/fulltext/S0092-8674%2820%2930229-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302294%3Fshowall%3Dtrue)\).   
+
+
+SARS-CoV-2 can enter by two pathways: through endocytosis, and through non-endocytosis cell surface entry \([Zumla et al., Nat Rev Drug Discovery 2016](https://www.nature.com/articles/nrd.2015.37)\). The endocytic pathway is a potential target of drugs like chloroquine and hydroxychloroquine \([Liu et al., Cell Discovery 2020](https://www.nature.com/articles/s41421-020-0156-0)\). Upon entering in a membrane vesicle, the virion fuses with the vesicle and releases its single segmented RNA genome into the cytosol. Since the virus is positive-sense, it can essentially serve as mRNA and be translated immediately into viral proteins by the endogenous cell machinery; some of these proteins form a replication complex to produce more RNA with a viral RNA-based RNA polymerase for building up more SARS-CoV-2 virions to be released from the cell. Within the cytosol, positive-sense RNA and viral proteins form a virion, which fuses with the cell membrane and is released to infect further cells.
+
+![](https://lh4.googleusercontent.com/uQBQ2HQ8mIsT2mR3ca8fc3gLQIlYZIIyO72FYw990473c0KRzC7Iq67gpU0mOTO_ld773blGBurXgVDkdAPXIKFwtLfR4yU4E5i0gA-5fuLEnEFoN_xjzpy2yqY_bRaiheiKn4ND)
 
