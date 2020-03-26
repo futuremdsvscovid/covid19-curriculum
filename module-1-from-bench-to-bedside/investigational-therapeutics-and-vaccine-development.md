@@ -1,6 +1,6 @@
 # Investigational Therapeutics & Vaccine Development
 
-This section will build off the fundamental SARS-CoV-2 virology and hypotheses of COVID-19 pathogenesis that you learned in the beginning of this module and explore the scientific basis of potential therapeutics and vaccines. For the most up-to-date information on clinical trials and approval of COVID-19 therapeutics and vaccine development see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#heading=h.tq7k39cqufi). As of 3/2/2020, [here is a detailed guide of drugs and vaccines in development.](https://www.statnews.com/2020/03/02/coronavirus-drugs-and-vaccines-in-development/) As best as possible, we will maintain an update of in vitro and animal based studies of therapeutic effectiveness in this section.
+This section will build off the fundamental SARS-CoV-2 virology and hypotheses of COVID-19 pathogenesis that you learned in the beginning of this module and explore the scientific basis of potential therapeutics and vaccines. For the most up-to-date information on clinical trials and approval of COVID-19 therapeutics and vaccine development see [Module 3](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#treatment). As of 3/2/2020, [here is a detailed guide of drugs and vaccines in development.](https://www.statnews.com/2020/03/02/coronavirus-drugs-and-vaccines-in-development/) As best as possible, we will maintain an update of in vitro and animal based studies of therapeutic effectiveness in this section.
 
 _Thought Questions:_
 
@@ -72,7 +72,8 @@ A collection of case reports and/or series of cases from patients with SARS-CoV 
           improvement in those who received the medication early in their disease
           course (<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2001282?fbclid=IwAR1Ikh2t3S1hThz7d8FZQqHY0wdXYlKZWe96w5UZuebbdWPZ__6lSoGy7K8">Cao et al., NEJM 2020)</a>.</p>
         <p></p>
-        <p><a href="https://drive.google.com/open?id=1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o">See module 3 for clinical trial updates</a>.</p>
+        <p>See <a href="https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#treatment">module 3</a> for
+          clinical trial updates.</p>
       </td>
     </tr>
     <tr>
@@ -144,9 +145,9 @@ A collection of case reports and/or series of cases from patients with SARS-CoV 
         <p>A case series showed excellent safety and decrease in oxygen requirement
           and temperature after tocilizumab safety (<a href="https://www.ser.es/wp-content/uploads/2020/03/TCZ-and-COVID-19.pdf">Xu et al., chinaXriv 2020, preprint</a>).</p>
         <p></p>
-        <p><a href="https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#heading=h.f3d1ogo2d4x8">See module 3 for updates.</a>
-          <br
-          />
+        <p>See <a href="https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#treatment">module 3</a> for
+          updates.
+          <br />
         </p>
       </td>
     </tr>
@@ -163,7 +164,7 @@ Influenza: [Luke et al, AIM 2006](https://annals.org/aim/fullarticle/729754/meta
 
 ![Graphical representation from Casadevall and Pirofski, JCI 2020 of a potential convalescent sera therapy protocol in COVID-19. Serum collected from recovered COVID-19 patients that have high titers of neutralizing antibody would be administered prophylactically to high-risk individuals \(elderly, patients with comorbid conditions, health care workers or individuals with known exposure\) or to patients with severe disease to dampen severity of symptoms and mortality.](https://lh6.googleusercontent.com/f-44zUin8uqllms16B82k4n_UNpR1T-bYSKpgAcYHFwP864MbeJiXgnXwElpRYUtScnrazTGj-kfLQD2kwO1PFzvUNle3CBMoqf62voKYNV1fP_6pOUV43vr11LKjcL1oIqirsGg)
 
-There is indeed a historical grounding for using passive antibody transfer in the treatment of related coronavirus infection. During the epidemics of SARS1 and MERS, high mortality and dearth of effective treatment options led to use of convalescent serum \([Cheng et al., Eur J Clin Micro Infect Dis. 2005](https://link.springer.com/article/10.1007%2Fs10096-004-1271-9)\). In terms of using this kind of therapy for treating COVID-19, evidence is still lacking, but there is a great deal of interest. A recent study reported that sera collected from confirmed positive SARS-CoV-2 patients have the ability to neutralize SARS-CoV-2 in an in vitro plaque assay \([Zhou et al., Nature 2020](https://www.nature.com/articles/s41586-020-2012-7)\), which suggests this sera contains factors produced by a successfully mounted humoral response to SARS-CoV-2 antigens. There have been some reports that [convalescent plasma therapy has already begun](http://www.xinhuanet.com/english/2020-02/28/c_138828177.htm), but for the most recent updates on the investigation or approval of this therapy in COVID-19 see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#heading=h.ct1aplmkvshu).
+There is indeed a historical grounding for using passive antibody transfer in the treatment of related coronavirus infection. During the epidemics of SARS1 and MERS, high mortality and dearth of effective treatment options led to use of convalescent serum \([Cheng et al., Eur J Clin Micro Infect Dis. 2005](https://link.springer.com/article/10.1007%2Fs10096-004-1271-9)\). In terms of using this kind of therapy for treating COVID-19, evidence is still lacking, but there is a great deal of interest. A recent study reported that sera collected from confirmed positive SARS-CoV-2 patients have the ability to neutralize SARS-CoV-2 in an in vitro plaque assay \([Zhou et al., Nature 2020](https://www.nature.com/articles/s41586-020-2012-7)\), which suggests this sera contains factors produced by a successfully mounted humoral response to SARS-CoV-2 antigens. There have been some reports that [convalescent plasma therapy has already begun](http://www.xinhuanet.com/english/2020-02/28/c_138828177.htm), but for the most recent updates on the investigation or approval of this therapy in COVID-19 see [Module 3](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#treatment).
 
 ## Vaccine Development
 
@@ -210,7 +211,7 @@ Knowledge on COVID-19 pathogenesis is emerging at a lightning pace, and the evid
 
 We hope that this module highlighted the frontier of basic science and translational research on COVID-19. It provides a conceptual grounding on COVID-19 pathophysiology and how this relates to evolving diagnosis, treatment, and prevention efforts to prepare you for the impacts that this disease has on society, the government and our healthcare systems. 
 
-To continue in our COVID-19 curriculum, please click here: [Module 2: Epidemiology Principles](https://docs.google.com/document/d/1EFBj_94umrCbgP3qsdJkjBzWci9uY32wBJL5h8Ap5YA/edit#). Click here to return to the [Overview](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/edit#). 
+To continue in our COVID-19 curriculum, please click here: [Module 2: Epidemiology Principles](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles). Click here to return to the [Overview](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/edit#). 
 
 We welcome your feedback on this module and on the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).  
 
