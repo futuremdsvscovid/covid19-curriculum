@@ -9,13 +9,13 @@ _Thought Questions:_
 
 ## Investigational Therapeutics
 
-**There are currently no approved treatments or vaccines for any coronavirus in the US; this includes SARS & MERS. It is also important to note that corticosteroid treatment is not recommended for treating viral pneumonia, unless indicated for another medical reason \(**[**WHO 2020**](https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-%28ncov%29-infection-is-suspected)**;** [**Russell et al., The Lancet 2020**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930317-2/fulltext)**\).**
+There are currently no approved treatments or vaccines for any coronavirus in the US; this includes SARS & MERS. It is also important to note that corticosteroid treatment is not recommended for treating viral pneumonia, unless indicated for another medical reason \([WHO 2020](https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-%28ncov%29-infection-is-suspected); [Russell et al., The Lancet 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930317-2/fulltext)\).
 
-_Thought Question:_
+_Thought Questions:_
 
-Given what you have learned previously about corticosteroids \([a very nice visual review here!](https://www.youtube.com/watch?v=sSP6QrTvPlo)\), why may they be detrimental to treatment of viral pneumonia? Under what circumstances may a patient with COVID-19 be considered for corticosteroid treatment?
+* Given what you have learned previously about corticosteroids \([a very nice visual review here!](https://www.youtube.com/watch?v=sSP6QrTvPlo)\), why may they be detrimental to treatment of viral pneumonia? Under what circumstances may a patient with COVID-19 be considered for corticosteroid treatment?
 
-A collection of case reports and/or series of cases from patients with SARS-CoV & MERS-CoV and more recent animal and _in vitro_ studies indicate the following drugs as warranting further study. Please see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#heading=h.tq7k39cqufi) for the most updated clinical trials related to these drugs.
+**A collection of case reports and/or series of cases from patients with SARS-CoV & MERS-CoV and more recent animal and in vitro studies indicate the following drugs as warranting further study. Please see** [**Module 3**](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#heading=h.tq7k39cqufi) **for the most updated clinical trials related to these drugs.**
 
 <table>
   <thead>
