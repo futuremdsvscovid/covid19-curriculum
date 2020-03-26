@@ -84,35 +84,29 @@ _Thought question:_
 
 * Given what you know about laboratory values in viral infections in general, what would you predict the laboratory values to be in patients with COVID-19?
 
-**The hallmark laboratory findings in COVID-19 cases reported thus far is lymphocytopenia. In the Guan cohort of 1099 patients discussed above, these trends were seen: lymphocytopenia \(83%\), elevated CRP \(61%\), thrombocytopenia \(36%\), and leukopenia \(33%\). Less commonly, elevations were seen in ALT, AST, CK, and d-dimer \(**[**Guan et al., NEJM 2020**](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032)**\). These laboratory trends are represented below in the typical fishbone format but REMEMBER - a patient need not have all or any of these laboratory values to be infected:**
+The hallmark laboratory findings in COVID-19 cases reported thus far is lymphocytopenia. In the Guan cohort of 1099 patients discussed above, these trends were seen: lymphocytopenia \(83%\), elevated CRP \(61%\), thrombocytopenia \(36%\), and leukopenia \(33%\). Less commonly, elevations were seen in ALT, AST, CK, and d-dimer \([Guan et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032)\). These laboratory trends are represented below in the typical fishbone format but REMEMBER - a patient need not have all or any of these laboratory values to be infected:
 
 ![](https://lh6.googleusercontent.com/5DJZayagbzNSgXP0ogilJr062gzSzcMpQnjnd_zd4tDinJoNQ69L-MdSH0xWQZMriTPnC8gJq3fIdYVJrt4HTe78nNs71DpI-5qZZBwi8CXujYZlTdR5upSTaI3HcL68jdZ0tQ2o)
 
 \([Nick Mark, A Seattle intensivist’s one-pager on COVID-19](https://www.onepagericu.com/)\)
 
-A strong push has been made for identifying laboratory markers that can be used as clinical predictors of disease severity. Unsurprisingly, patients with more severe disease have been seen to have more prominent laboratory abnormalities across the board than those with nonsevere disease \([Guan et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032)\). Additionally, some inflammatory markers have been found to be significantly different between admitted patients that recover from COVID-19 compared to those who die. Specifically, those who died had higher levels of troponin, myoglobin, CRP, IL-6, ferritin, procalcitonin, LDH, creatine kinase, D-dimer, and lower lymphocyte counts, platelet counts and albumin \([Ruan et al., Intensive Care Med 2020](https://link.springer.com/article/10.1007/s00134-020-05991-x); \[Zhou et al., Lancet 2020\]\([https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30566-3/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930566-3/fulltext)\)\). Larger scale studies will be needed to determine if these markers can accurately be used as clinical predictors of mortality and appropriate guides of resource allocation.
+A strong push has been made for identifying laboratory markers that can be used as clinical predictors of disease severity. Unsurprisingly, patients with more severe disease have been seen to have more prominent laboratory abnormalities across the board than those with nonsevere disease \([Guan et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032)\). Additionally, some inflammatory markers have been found to be significantly different between admitted patients that recover from COVID-19 compared to those who die. Specifically, those who died had higher levels of troponin, myoglobin, CRP, IL-6, ferritin, procalcitonin, LDH, creatine kinase, D-dimer, and lower lymphocyte counts, platelet counts and albumin \([Ruan et al., Intensive Care Med 2020](https://link.springer.com/article/10.1007/s00134-020-05991-x); [Zhou et al., Lancet 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930566-3/fulltext)\). Larger scale studies will be needed to determine if these markers can accurately be used as clinical predictors of mortality and appropriate guides of resource allocation.
 
-&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of16.png\). Store image on your image server and adjust path/filename if necessary.  
-\([Back to top](clinical-presentation-of-covid-19.md)\)\([Next alert](clinical-presentation-of-covid-19.md#gdcalert18)\)  
-&gt;&gt;&gt;&gt;&gt;
+![Temporal changes in laboratory markers from illness onset in patients hospitalised with COVID-19 \(Zhou et al., Lancet 2020\).](https://lh6.googleusercontent.com/5usdcA5g880VnsyyHmPWPHo6RaUhJsxsikzyMiFngUXyZNPoIw2jHaOPYKrrm0JSRJ0s59h9XBBtiadfOPjLY5onkDXInT2CS9EHAgYXbIVWQlBpjjIq44RSKqz_UKGMEJxMwvUA)
 
-![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/b61a2e1d5ebfd8c27737267109cac97306022c32/module-1-from-bench-to-bedside/images/Copy-of16.png)
-
-Temporal changes in laboratory markers from illness onset in patients hospitalised with COVID-19 \(\[Zhou et al., Lancet 2020\]\([https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30566-3/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930566-3/fulltext)\)\).
+Elevated procalcitonin has been shown to be associated with a higher risk of more severe SARS-CoV-2 infection. Whether this represents bacterial superinfection or an inherent feature of the immune system’s response to SARS-CoV-2 remains unclear \([Lippi et al., Clin Chim Acta 2020](https://www.sciencedirect.com/science/article/pii/S0009898120301066?via%3Dihub)\).
 
 MGH recently published [COVID-19 Management Guidelines](https://drive.google.com/file/d/1tXWtBLJJm1Y51q14XhRm5WgV5-WEcW63/view?usp=sharing) recommending daily CBC, CMP, and CPK for all patients admitted with confirmed or suspected COVID-19 as well as risk stratification lab recommendations including d-dimer, ferritin/CRP/ESR, LDH, and troponin recommended q2-3 days or with clinical deterioration.
 
-Imaging
+### Imaging
 
 _Thought question:_
 
-What might be barriers to using imaging to routinely screen for COVID-19?
+* What might be barriers to using imaging to routinely screen for COVID-19?
 
-Studies have found that abnormal lung findings can be seen on chest CT for patients with COVID-19, even in asymptomatic cases \(\[Shi et al., Lancet Inf Dis 2020\]\([https://www.thelancet.com/journals/laninf/article/PIIS1473-3099\(20\)30086-4/fulltext](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2820%2930086-4/fulltext)\)\). Despite this, concerns over resource allocation, infection control, and the limited diagnostic specificity of chest imaging for COVID-19 have resulted in recommendations **against**using chest radiographs or CT as a first-line form of diagnosis \([American College of Radiology Position Statement, 3/11/20](https://www.acr.org/Advocacy-and-Economics/ACR-Position-Statements/Recommendations-for-Chest-Radiography-and-CT-for-Suspected-COVID19-Infection)\).
+**Studies have found that abnormal lung findings can be seen on chest CT for patients with COVID-19, even in asymptomatic cases \(**[**Shi et al., Lancet Inf Dis 2020**](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2820%2930086-4/fulltext)**\). Despite this, concerns over resource allocation, infection control, and the limited diagnostic specificity of chest imaging for COVID-19 have resulted in recommendations against using chest radiographs or CT as a first-line form of diagnosis \(**[**American College of Radiology Position Statement, 3/11/20**](https://www.acr.org/Advocacy-and-Economics/ACR-Position-Statements/Recommendations-for-Chest-Radiography-and-CT-for-Suspected-COVID19-Infection)**\).** 
 
-```text
-Chest CT may however be indicated for hospitalized patients with severe respiratory symptoms, and the most commonly seen findings for COVID-19 are described below.
-```
+**Chest CT may however be indicated for hospitalized patients with severe respiratory symptoms, and the most commonly seen findings for COVID-19 are described below.**
 
 _Thought questions:_
 
