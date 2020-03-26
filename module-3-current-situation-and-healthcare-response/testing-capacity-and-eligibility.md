@@ -12,9 +12,11 @@ While as recently as 3/18, Massachusetts only had the ability to test 400 patien
 
 _Thought questions:_
 
-* Based on what you have learned from [Modules 1](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside) and [2](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles), for whom would you recommend PCR testing in an ideal resource situation?
-* With limited testing resources, who should be tested?
-* As we increase testing capacity, which individuals should be the first to be added to testing criteria?
+Based on what you have learned from [Modules 1](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside) and [2](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles), for whom would you recommend PCR testing in an ideal resource situation?
+
+With limited testing resources, who should be tested?
+
+As we increase testing capacity, which individuals should be the first to be added to testing criteria?
 
 ## Testing Eligibility
 
@@ -26,15 +28,17 @@ Per MA DPH guidelines, all persons under investigation for COVID-19 should self-
 
 _Thought question:_ 
 
-* Do you agree with the testing guidelines of the Massachusetts Department of Public Health? \(This is an area of active controversy!\)
-* What high-risk groups might be missing from these categories?
+Do you agree with the testing guidelines of the Massachusetts Department of Public Health? \(This is an area of active controversy!\)
+
+What high-risk groups might be missing from these categories?
 
 While the MA DPH guidelines are being followed locally, other institution-specific testing guidelines approach eligibility from a purely clinical view, rather than an epidemiological one. Especially for _inpatients_ with severe disease, these guidelines may incorporate additional workup, including signs \(SpO2 &lt;93%\), and/or pertinent positive or negative laboratory findings \(lymphopenia, negative procalcitonin\) and imaging findings \(bilateral pneumonia on chest X-ray or bilateral ground-glass opacities on CT\). Additional workup for _outpatients_ may be costly, however, and carry the potential for disease transmission to healthcare workers and other patients in that healthcare facility. The differences in these guidelines emphasize the “art” of medicine.
 
 _Thought questions:_
 
-* How would increased testing help or hinder the healthcare system response to COVID-19?
-* What factors would be important to consider in implementing a widespread testing protocol for asymptomatic individuals? How might you weigh test characteristics, clinical management strategies, risks of testing, and economic implications?
+How would increased testing help or hinder the healthcare system response to COVID-19?
+
+What factors would be important to consider in implementing a widespread testing protocol for asymptomatic individuals? How might you weigh test characteristics, clinical management strategies, risks of testing, and economic implications?
 
 ## Telephone Triage and Drive-Through Testing
 
