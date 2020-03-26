@@ -36,7 +36,7 @@ Introduce epidemiological principles underlying the current public health interv
 
 Appreciate the complex and rapidly changing landscape of the COVID-19 pandemic as it stands in Massachusetts, as well as the adapting responses of the healthcare system and society as a whole.
 
-\*\*\*\*[**Module 4: Communicating Information about COVID-19**](https://docs.google.com/document/d/1DSr-3wzw9eEMbfbmVtZEAMUS4C-m9Zu6FeA_CIAxi54/edit#)\*\*\*\*
+\*\*\*\*[**Module 4: Communicating Information about COVID-19**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-4-communicating-information-about-covid-19)
 
 Now that you’ve bolstered your COVID-19 knowledge, prepare to productively communicate that information, especially with a non-medical audience who may have varying attitudes towards the pandemic.
 
