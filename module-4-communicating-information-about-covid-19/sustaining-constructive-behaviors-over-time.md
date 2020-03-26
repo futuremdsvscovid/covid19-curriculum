@@ -36,5 +36,7 @@ Evoking “change talk” in which patients express their **D**esires, **A**bili
 
 Planning next steps that are **S**pecific, **M**easurable, **A**chievable, **R**elevant, and **T**ime-bound. Remember, this person has the autonomy to execute the plan. All your efforts to this point to reinforce that should enable them to feel motivated to execute it!
 
+![](../.gitbook/assets/rule-mi.png)
+
 
 
