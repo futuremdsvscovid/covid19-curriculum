@@ -1,62 +1,50 @@
-## CLINICAL PRESENTATION OF COVID-19
+# Clinical Presentation of COVID-19
 
-#### Clinical Presentation
+## Clinical Presentation
 
-Information regarding the clinical presentation of COVID-19 is continually evolving. Much of our understanding at this point comes from cohort studies of patients with COVID-19 out of China. The largest of these cohort studies being a report of 55,924 patients with laboratory confirmed COVID-19 ([WHO-China Joint Commission Report, 2020](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)). The most common signs and symptoms are detailed in the following graph:
+Information regarding the clinical presentation of COVID-19 is continually evolving. Much of our understanding at this point comes from cohort studies of patients with COVID-19 out of China. The largest of these cohort studies being a report of 55,924 patients with laboratory confirmed COVID-19 \([WHO-China Joint Commission Report, 2020](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)\). The most common signs and symptoms are detailed in the following graph:
 
-Of note, though a majority of patients have fever at some point in their disease course, a study of 1,099 patients (both hospitalized and outpatient) with laboratory-diagnosed COVID-19 from 522 hospitals in 30 provinces of China found that **only 44% of patients were febrile at the time of diagnosis**, which highlights some of the diagnostic challenges associated with variable clinical presentations ([Guan et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032)).
+Of note, though a majority of patients have fever at some point in their disease course, a study of 1,099 patients \(both hospitalized and outpatient\) with laboratory-diagnosed COVID-19 from 522 hospitals in 30 provinces of China found that **only 44% of patients were febrile at the time of diagnosis**, which highlights some of the diagnostic challenges associated with variable clinical presentations \([Guan et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032)\).
 
 _Thought questions:_
 
-**Diane **wakes up feeling “off,” and she calls her doctor to ask about the possibility of having coronavirus. If you were her doctor, what questions might you ask?  What is on your differential alongside COVID-19? \
-Does the lack of a fever mean a patient is not infected with SARS-CoV-2? Why not? What about the presence of a sore throat or nasal congestion?
+**Diane** wakes up feeling “off,” and she calls her doctor to ask about the possibility of having coronavirus. If you were her doctor, what questions might you ask? What is on your differential alongside COVID-19?  Does the lack of a fever mean a patient is not infected with SARS-CoV-2? Why not? What about the presence of a sore throat or nasal congestion?
 
 So if **Brian** is correct and the majority of people will have “just a bad cold” with fever, dry cough, and fatigue, why are we taking such drastic measures to contain this virus?
 
- \
-    In summary, no ONE symptom or set of symptoms can reliably diagnose or exclude COVID-19 infection but it is clear that **cough**, **fever**, and **fatigue** are most commonly seen. While sore throat and nasal congestion, typical upper respiratory infection symptoms, have been seen in COVID-19 patients, they are less common and may suggest an alternate etiology, such as a viral pathogen that more commonly infects the upper respiratory tract or possible co-infection. As discussed in the basic virology section, it is also important to remember that **a person begins shedding the virus (i.e. can transmit the virus to others) prior to symptom onset andsome people will never develop symptoms and remain asymptomatic carriers** ([Li et al., Science 2020](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221); [Pan et al., Lancet 2020](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30114-6/fulltext); [Roth et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMc2001468?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)).
+ In summary, no ONE symptom or set of symptoms can reliably diagnose or exclude COVID-19 infection but it is clear that **cough**, **fever**, and **fatigue** are most commonly seen. While sore throat and nasal congestion, typical upper respiratory infection symptoms, have been seen in COVID-19 patients, they are less common and may suggest an alternate etiology, such as a viral pathogen that more commonly infects the upper respiratory tract or possible co-infection. As discussed in the basic virology section, it is also important to remember that **a person begins shedding the virus \(i.e. can transmit the virus to others\) prior to symptom onset andsome people will never develop symptoms and remain asymptomatic carriers** \([Li et al., Science 2020](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221); \[Pan et al., Lancet 2020\]\([https://www.thelancet.com/journals/laninf/article/PIIS1473-3099\(20\)30114-6/fulltext](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2820%2930114-6/fulltext)\); [Roth et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMc2001468?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)\).
 
- \
-    Children infected with COVID-19 are less likely to require hospitalization and ICU admission than their adult counterparts and have lower fatality rates ([CDC MMWR, 3.18.20](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e2.htm#F2_down)). This difference in disease severity among children and adults is poorly understood at this time, but is under active investigation. If you would like to know more about COVID-19 in children, please reference the [supplemental materials](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#heading=h.fzjmqy11md9f), section COVID-19 and children. 
+ Children infected with COVID-19 are less likely to require hospitalization and ICU admission than their adult counterparts and have lower fatality rates \([CDC MMWR, 3.18.20](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e2.htm#F2_down)\). This difference in disease severity among children and adults is poorly understood at this time, but is under active investigation. If you would like to know more about COVID-19 in children, please reference the [supplemental materials](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#heading=h.fzjmqy11md9f), section COVID-19 and children.
 
-_Thought questions: **\** _Why might infants and children infected with SARS-CoV-2 have more mild symptoms than in adults and be at a lower risk for progression to serious illness including pneumonia and acute respiratory distress syndrome (ARDS)?  \
-    (Note: there is currently no consensus on this topic, and it is still an area of active debate) \
-If symptoms are so mild in children, why are we closing schools? \
+\_Thought questions: **\** \_Why might infants and children infected with SARS-CoV-2 have more mild symptoms than in adults and be at a lower risk for progression to serious illness including pneumonia and acute respiratory distress syndrome \(ARDS\)?  \(Note: there is currently no consensus on this topic, and it is still an area of active debate\)  If symptoms are so mild in children, why are we closing schools? \
 
+## Risk Stratification
 
+The largest study from the Wuhan Pulmonary Hospital showed that several common chronic conditions have prognostic implications for patients with COVID-19, including hypertension, type II diabetes, and cardiovascular \(as well as cerebrovascular\) disease \(see Figure 2 below from Osmosis\).
 
-#### Risk Stratification
+&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of12.png\). Store image on your image server and adjust path/filename if necessary.  
+\([Back to top](clinical-presentation-of-covid-19.md)\)\([Next alert](clinical-presentation-of-covid-19.md#gdcalert14)\)  
+&gt;&gt;&gt;&gt;&gt;
 
-The largest study from the Wuhan Pulmonary Hospital showed that several common chronic conditions have prognostic implications for patients with COVID-19, including hypertension, type II diabetes, and cardiovascular (as well as cerebrovascular) disease (see Figure 2 below from Osmosis).
-
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of12.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Copy-of12.png "image_tooltip")
-
+![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/b61a2e1d5ebfd8c27737267109cac97306022c32/module-1-from-bench-to-bedside/images/Copy-of12.png)
 
 This summary of a large study of patients in Wuhan in late 2019 and early 2020 demonstrated the above comorbid chronic conditions as having many folds higher risk for fatality in cases of COVID-19 confirmed by RT-PCR. In addition, age above 60 was demonstrated to be an independent risk factor for COVID-19; it is worth noting that elderly patients are also more likely to have the aforementioned comorbid chronic conditions.
 
 Osmosis: [https://www.youtube.com/watch?v=JKpVMivbTfg](https://www.youtube.com/watch?v=JKpVMivbTfg)
 
-“Elderly” age has been found to be an independent risk factor for both COVID-19 infection and a more serious disease course (see above figure). While the precise age is up for debate, it is clear that the older a patient is (particularly above 60 years of age), the higher their mortality risk is. In addition to the increased case fatality rate, older age has also been associated with increased need for ICU admission in the US (albeit to a lesser extent than case fatality). It is worth noting, that although young people are commonly thought to be unaffected or very mildly affected by COVID-19, 38% of all patients requiring hospitalization due to COVID-19 in the US as of 3/16/20 were between ages 20-54 ([CDC MMWR, 3.16.2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e2.htm)). 
+“Elderly” age has been found to be an independent risk factor for both COVID-19 infection and a more serious disease course \(see above figure\). While the precise age is up for debate, it is clear that the older a patient is \(particularly above 60 years of age\), the higher their mortality risk is. In addition to the increased case fatality rate, older age has also been associated with increased need for ICU admission in the US \(albeit to a lesser extent than case fatality\). It is worth noting, that although young people are commonly thought to be unaffected or very mildly affected by COVID-19, 38% of all patients requiring hospitalization due to COVID-19 in the US as of 3/16/20 were between ages 20-54 \([CDC MMWR, 3.16.2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e2.htm)\).
 
+&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of13.png\). Store image on your image server and adjust path/filename if necessary.  
+\([Back to top](clinical-presentation-of-covid-19.md)\)\([Next alert](clinical-presentation-of-covid-19.md#gdcalert15)\)  
+&gt;&gt;&gt;&gt;&gt;
 
+![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/b61a2e1d5ebfd8c27737267109cac97306022c32/module-1-from-bench-to-bedside/images/Copy-of13.png)
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of13.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+\([CDC MMWR, 3.16.2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e2.htm)\)
 
+Immunocompromised and immunosuppressed patients are considered to be at high risk for COVID-19 infection as well as fatality in confirmed cases. Data is currently lacking to characterize what precise clinical population should be considered: healthcare professionals and media are generally being cautious and telling people on any immunosuppressive agents for any reason that they are at higher risk for infection and possibly a more severe disease course. It is important to remember that many diseases are treated with immunosuppressive agents \(corticosteroids such as prednisone as well as disease-modifying anti-rheumatic drugs \(DMARDs\) such as methotrexate and anti-TNF agents are common\), and thus the spectrum of significantly immunosuppressed patients may be large. Patients with primary immunodeficiencies are considered to be immunocompromised and also at theoretically higher risk for infection and fatality.
 
-![alt_text](images/Copy-of13.png "image_tooltip")
-
-
-([CDC MMWR, 3.16.2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e2.htm))
-
-Immunocompromised and immunosuppressed patients are considered to be at high risk for COVID-19 infection as well as fatality in confirmed cases. Data is currently lacking to characterize what precise clinical population should be considered: healthcare professionals and media are generally being cautious and telling people on any immunosuppressive agents for any reason that they are at higher risk for infection and possibly a more severe disease course. It is important to remember that many diseases are treated with immunosuppressive agents (corticosteroids such as prednisone as well as disease-modifying anti-rheumatic drugs (DMARDs) such as methotrexate and anti-TNF agents are common), and thus the spectrum of significantly immunosuppressed patients may be large. Patients with primary immunodeficiencies are considered to be immunocompromised and also at theoretically higher risk for infection and fatality.
-
-
-#### Diagnostics
+## Diagnostics
 
 _Thought question:_
 
@@ -64,11 +52,11 @@ Given that treatment for COVID-19 is primarily supportive, what are the benefits
 
 Given what you have learned about the basic virology of SARS-CoV-2, how would you design a test to look for infection? From where would you collect samples?
 
-<span style="text-decoration:underline;"><span style="text-decoration:underline;">Molecular Assays</span>
+Molecular Assays
 
-After the emergence of COVID-19, labs around the world rapidly began developing diagnostic tests for SARS-CoV-2, with most so far developing real-time RT-PCR techniques against the RNA-dependent RNA polymerase (RdRp), E (envelope), N (nucleocapsid), S (spike protein), and/or ORF1b transcripts (Video review of [RT-PCR](https://www.youtube.com/watch?v=0MJIbrS4fbQ)). The WHO initially dispatched 250,000 kits based on initial work from Christian Drosten (Institute of Virology, Charité University Hospital, Berlin) and collaborators in Europe and Hong Kong. The CDC then developed its own rRT-PCR diagnostic panel, though critical errors in primer development limited its scale-up and have caused testing shortages in the United States (review: [Sheridan, Nature 2020](https://www.nature.com/articles/d41587-020-00002-2)). Several commercial laboratories are developing and distributing their own PCR diagnostic tests to meet this growing need (see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit?ts=5e743dc3#)). 
+After the emergence of COVID-19, labs around the world rapidly began developing diagnostic tests for SARS-CoV-2, with most so far developing real-time RT-PCR techniques against the RNA-dependent RNA polymerase \(RdRp\), E \(envelope\), N \(nucleocapsid\), S \(spike protein\), and/or ORF1b transcripts \(Video review of [RT-PCR](https://www.youtube.com/watch?v=0MJIbrS4fbQ)\). The WHO initially dispatched 250,000 kits based on initial work from Christian Drosten \(Institute of Virology, Charité University Hospital, Berlin\) and collaborators in Europe and Hong Kong. The CDC then developed its own rRT-PCR diagnostic panel, though critical errors in primer development limited its scale-up and have caused testing shortages in the United States \(review: [Sheridan, Nature 2020](https://www.nature.com/articles/d41587-020-00002-2)\). Several commercial laboratories are developing and distributing their own PCR diagnostic tests to meet this growing need \(see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit?ts=5e743dc3#)\).
 
-**Currently, all diagnostic tests use respiratory specimens, primarily from nasopharyngeal, and sometimes oropharyngeal, swabs**. Although RT-PCR appears to be highly specific, sensitivities across kits vary dramatically, and can be as low as 70% compared against clinical suspicion with positive CT findings, especially early in the disease course ([Fang et al., Rad 2020](https://pubs.rsna.org/doi/full/10.1148/radiol.2020200432); [Ai et al., Rad 2020](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)). Given this higher likelihood for false negatives, if clinical suspicion remains for COVID-19 despite a negative initial test, the [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/surveillance-and-case-definitions) recommends resampling and retesting from multiple sites. Additional PCR testing can be done on stool and urine samples, though whether this represents active infection or continued viral shedding is unknown. 
+**Currently, all diagnostic tests use respiratory specimens, primarily from nasopharyngeal, and sometimes oropharyngeal, swabs**. Although RT-PCR appears to be highly specific, sensitivities across kits vary dramatically, and can be as low as 70% compared against clinical suspicion with positive CT findings, especially early in the disease course \([Fang et al., Rad 2020](https://pubs.rsna.org/doi/full/10.1148/radiol.2020200432); [Ai et al., Rad 2020](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)\). Given this higher likelihood for false negatives, if clinical suspicion remains for COVID-19 despite a negative initial test, the [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/surveillance-and-case-definitions) recommends resampling and retesting from multiple sites. Additional PCR testing can be done on stool and urine samples, though whether this represents active infection or continued viral shedding is unknown.
 
 The current status of PCR testing resources and guidelines will be discussed in [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#).
 
@@ -76,101 +64,89 @@ _Thought questions:_
 
 What are the limitations of testing via nasopharyngeal swab?
 
-What might be the benefits of developing a serological test for SARS-CoV-2? How would you design a serological test, and what would you look for? (Hint: consider HIV and hepatitis panels)
+What might be the benefits of developing a serological test for SARS-CoV-2? How would you design a serological test, and what would you look for? \(Hint: consider HIV and hepatitis panels\)
 
-<span style="text-decoration:underline;"><span style="text-decoration:underline;">Immunoassays</span>
+Immunoassays
 
-Serologic diagnosis was validated during the SARS epidemic with SARS-CoV ([Woo et al., J Clin Microbiol 2004](https://onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=8&doi=10.1002%2Fjmv.25702&key=15131220)), and many hypothesize that similar serologic tests against COVID-19 specific antibodies or antigens could be used for SARS-CoV-2 (video review of [ELISA](https://www.thermofisher.com/us/en/home/life-science/protein-biology/protein-biology-learning-center/protein-biology-resource-library/pierce-protein-methods/overview-elisa.html), the primary method of antibody/antigen detection). Zhou and colleagues discovered that the blood samples of patients with COVID-19 mounted the expected dynamic pattern of IgM followed by IgG antibody levels against a bat SARSr‐111 CoV Rp3 nucleocapsid protein (NP) antigen, at significantly higher levels than healthy patients ([Zhou et al., Nature 2020](https://www.nature.com/articles/s41586-020-2012-7), figure below). **IgM/IgG testing thus could reveal not only those with active infection but also those with a missed previous infection, improving our epidemiological understanding of the disease** (Sabeti, [Massachusetts General Hospital Grand Rounds 3/12/20](https://externalmediasite.partners.org/Mediasite/Play/53a4003de5ab4b4da5902f078744435a1d)). A rapid diagnostic antibody test against the SARS-CoV-2 spike protein (both the full length protein, and its smaller receptor binding domain) has recently been designed and validated, and is awaiting FDA approval ([Amanat et al., bioRxiv preprint 2020](https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v1)). The authors argue that obtaining blood rather than respiratory samples, especially if blood is collected by finger prick onto a paper strip, might also decrease risk of transmission to healthcare workers handling the specimens, and allow for rapid diagnostic turnaround. Of note, it still may take days before IgM antibodies are mounted against the virus in detectable quantities, and RT-PCR remains the gold standard diagnostic of active infection.
+Serologic diagnosis was validated during the SARS epidemic with SARS-CoV \([Woo et al., J Clin Microbiol 2004](https://onlinelibrary.wiley.com/servlet/linkout?suffix=null&dbid=8&doi=10.1002%2Fjmv.25702&key=15131220)\), and many hypothesize that similar serologic tests against COVID-19 specific antibodies or antigens could be used for SARS-CoV-2 \(video review of [ELISA](https://www.thermofisher.com/us/en/home/life-science/protein-biology/protein-biology-learning-center/protein-biology-resource-library/pierce-protein-methods/overview-elisa.html), the primary method of antibody/antigen detection\). Zhou and colleagues discovered that the blood samples of patients with COVID-19 mounted the expected dynamic pattern of IgM followed by IgG antibody levels against a bat SARSr‐111 CoV Rp3 nucleocapsid protein \(NP\) antigen, at significantly higher levels than healthy patients \([Zhou et al., Nature 2020](https://www.nature.com/articles/s41586-020-2012-7), figure below\). **IgM/IgG testing thus could reveal not only those with active infection but also those with a missed previous infection, improving our epidemiological understanding of the disease** \(Sabeti, [Massachusetts General Hospital Grand Rounds 3/12/20](https://externalmediasite.partners.org/Mediasite/Play/53a4003de5ab4b4da5902f078744435a1d)\). A rapid diagnostic antibody test against the SARS-CoV-2 spike protein \(both the full length protein, and its smaller receptor binding domain\) has recently been designed and validated, and is awaiting FDA approval \([Amanat et al., bioRxiv preprint 2020](https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v1)\). The authors argue that obtaining blood rather than respiratory samples, especially if blood is collected by finger prick onto a paper strip, might also decrease risk of transmission to healthcare workers handling the specimens, and allow for rapid diagnostic turnaround. Of note, it still may take days before IgM antibodies are mounted against the virus in detectable quantities, and RT-PCR remains the gold standard diagnostic of active infection.
 
-Here is a frequently updated [list](https://www.finddx.org/covid-19/pipeline/) of what diagnostic tests for COVID-19 are being developed worldwide; see which studies are marked with “(FDA)” to know which are available, or in the pipeline, for the US.
+Here is a frequently updated [list](https://www.finddx.org/covid-19/pipeline/) of what diagnostic tests for COVID-19 are being developed worldwide; see which studies are marked with “\(FDA\)” to know which are available, or in the pipeline, for the US.
 
+&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of14.png\). Store image on your image server and adjust path/filename if necessary.  
+\([Back to top](clinical-presentation-of-covid-19.md)\)\([Next alert](clinical-presentation-of-covid-19.md#gdcalert16)\)  
+&gt;&gt;&gt;&gt;&gt;
 
+![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/b61a2e1d5ebfd8c27737267109cac97306022c32/module-1-from-bench-to-bedside/images/Copy-of14.png)
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of14.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Molecular detection of 2019-nCoV in seven patients. Patient information can be found in Extended Data Tables [1](https://www.nature.com/articles/s41586-020-2012-7#Tab1), [2](https://www.nature.com/articles/s41586-020-2012-7#Tab2). Detection methods are described in the [Methods](https://www.nature.com/articles/s41586-020-2012-7#Sec2). AS, anal swab; OS, oral swab. b, Dynamics of 2019-nCoV antibody levels in one patient who showed signs of disease on 23 December 2019 \(ICU-06\). OD ratio, optical density at 450–630 nm. The right and left _y_ axes indicate ELISA OD ratios for IgM and IgG, respectively. c, Serological test of 2019-nCoV antibodies in five patients \(Extended Data Table [2](https://www.nature.com/articles/s41586-020-2012-7#Tab2)\). The asterisk indicates data collected from patient ICU-06 on 10 January 2020. b, c, The cut-off was to 0.2 for the IgM analysis and to 0.3 for the IgG analysis, according to the levels of healthy controls.
 
+\([Zhou et al., Nature 2020](https://www.nature.com/articles/s41586-020-2012-7)\)
 
-![alt_text](images/Copy-of14.png "image_tooltip")
+## Ancillary Studies
 
+Workup for hospitalized patients
 
-Molecular detection of 2019-nCoV in seven patients. Patient information can be found in Extended Data Tables [1](https://www.nature.com/articles/s41586-020-2012-7#Tab1), [2](https://www.nature.com/articles/s41586-020-2012-7#Tab2). Detection methods are described in the [Methods](https://www.nature.com/articles/s41586-020-2012-7#Sec2). AS, anal swab; OS, oral swab. b, Dynamics of 2019-nCoV antibody levels in one patient who showed signs of disease on 23 December 2019 (ICU-06). OD ratio, optical density at 450–630 nm. The right and left _y_ axes indicate ELISA OD ratios for IgM and IgG, respectively. c, Serological test of 2019-nCoV antibodies in five patients (Extended Data Table [2](https://www.nature.com/articles/s41586-020-2012-7#Tab2)). The asterisk indicates data collected from patient ICU-06 on 10 January 2020. b, c, The cut-off was to 0.2 for the IgM analysis and to 0.3 for the IgG analysis, according to the levels of healthy controls.
+ __ Given initial resource limitations and delays of PCR testing, hospitals around the world have been working off a clinical diagnosis of COVID-19 while awaiting definitive microbiological diagnosis. Many have shared laboratory and imaging findings of COVID-19 cases, helping physicians more precisely determine the pre-test probability of a given patient having COVID-19. This is a brief review of these findings for hospitalized patients; how exactly each component corresponds to the viral pathophysiology is still under investigation.
 
-([Zhou et al., Nature 2020](https://www.nature.com/articles/s41586-020-2012-7))
-
-
-#### Ancillary Studies
-
-<span style="text-decoration:underline;"><span style="text-decoration:underline;">Workup for hospitalized patients</span>
-
- _  _ Given initial resource limitations and delays of PCR testing, hospitals around the world have been working off a clinical diagnosis of COVID-19 while awaiting definitive microbiological diagnosis. Many have shared laboratory and imaging findings of COVID-19 cases, helping physicians more precisely determine the pre-test probability of a given patient having COVID-19. This is a brief review of these findings for hospitalized patients; how exactly each component corresponds to the viral pathophysiology is still under investigation.
-
-<span style="text-decoration:underline;"><span style="text-decoration:underline;">Laboratory diagnostics</span>
+Laboratory diagnostics
 
 _Thought question:_
 
 Given what you know about laboratory values in viral infections in general, what would you predict the laboratory values to be in patients with COVID-19?
 
-**The hallmark laboratory findings in COVID-19 cases reported thus far is lymphocytopenia.** In the Guan cohort of 1099 patients discussed above, these trends were seen: lymphocytopenia (83%), elevated CRP (61%), thrombocytopenia (36%), and leukopenia (33%). Less commonly, elevations were seen in ALT, AST, CK, and d-dimer ([Guan et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032)). These laboratory trends are represented below in the typical fishbone format but REMEMBER - a patient need not have all or any of these laboratory values to be infected:
+**The hallmark laboratory findings in COVID-19 cases reported thus far is lymphocytopenia.** In the Guan cohort of 1099 patients discussed above, these trends were seen: lymphocytopenia \(83%\), elevated CRP \(61%\), thrombocytopenia \(36%\), and leukopenia \(33%\). Less commonly, elevations were seen in ALT, AST, CK, and d-dimer \([Guan et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032)\). These laboratory trends are represented below in the typical fishbone format but REMEMBER - a patient need not have all or any of these laboratory values to be infected:
 
+&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of15.png\). Store image on your image server and adjust path/filename if necessary.  
+\([Back to top](clinical-presentation-of-covid-19.md)\)\([Next alert](clinical-presentation-of-covid-19.md#gdcalert17)\)  
+&gt;&gt;&gt;&gt;&gt;
 
+![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/b61a2e1d5ebfd8c27737267109cac97306022c32/module-1-from-bench-to-bedside/images/Copy-of15.png)
 
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of15.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+\([Nick Mark, A Seattle intensivist’s one-pager on COVID-19](https://www.onepagericu.com/)\)
 
+A strong push has been made for identifying laboratory markers that can be used as clinical predictors of disease severity. Unsurprisingly, patients with more severe disease have been seen to have more prominent laboratory abnormalities across the board than those with nonsevere disease \([Guan et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032)\). Additionally, some inflammatory markers have been found to be significantly different between admitted patients that recover from COVID-19 compared to those who die. Specifically, those who died had higher levels of troponin, myoglobin, CRP, IL-6, ferritin, procalcitonin, LDH, creatine kinase, D-dimer, and lower lymphocyte counts, platelet counts and albumin \([Ruan et al., Intensive Care Med 2020](https://link.springer.com/article/10.1007/s00134-020-05991-x); \[Zhou et al., Lancet 2020\]\([https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30566-3/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930566-3/fulltext)\)\). Larger scale studies will be needed to determine if these markers can accurately be used as clinical predictors of mortality and appropriate guides of resource allocation.
 
-![alt_text](images/Copy-of15.png "image_tooltip")
+&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of16.png\). Store image on your image server and adjust path/filename if necessary.  
+\([Back to top](clinical-presentation-of-covid-19.md)\)\([Next alert](clinical-presentation-of-covid-19.md#gdcalert18)\)  
+&gt;&gt;&gt;&gt;&gt;
 
+![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/b61a2e1d5ebfd8c27737267109cac97306022c32/module-1-from-bench-to-bedside/images/Copy-of16.png)
 
-([Nick Mark, A Seattle intensivist’s one-pager on COVID-19](https://www.onepagericu.com/))
+Temporal changes in laboratory markers from illness onset in patients hospitalised with COVID-19 \(\[Zhou et al., Lancet 2020\]\([https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30566-3/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930566-3/fulltext)\)\).
 
-A strong push has been made for identifying laboratory markers that can be used as clinical predictors of disease severity. Unsurprisingly, patients with more severe disease have been seen to have more prominent laboratory abnormalities across the board than those with nonsevere disease ([Guan et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032)). Additionally, some inflammatory markers have been found to be significantly different between admitted patients that recover from COVID-19 compared to those who die. Specifically, those who died had higher levels of troponin, myoglobin, CRP, IL-6, ferritin, procalcitonin, LDH, creatine kinase, D-dimer, and lower lymphocyte counts, platelet counts and albumin ([Ruan et al., Intensive Care Med 2020](https://link.springer.com/article/10.1007/s00134-020-05991-x); [Zhou et al., Lancet 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)). Larger scale studies will be needed to determine if these markers can accurately be used as clinical predictors of mortality and appropriate guides of resource allocation. 
+MGH recently published [COVID-19 Management Guidelines](https://drive.google.com/file/d/1tXWtBLJJm1Y51q14XhRm5WgV5-WEcW63/view?usp=sharing) recommending daily CBC, CMP, and CPK for all patients admitted with confirmed or suspected COVID-19 as well as risk stratification lab recommendations including d-dimer, ferritin/CRP/ESR, LDH, and troponin recommended q2-3 days or with clinical deterioration.
 
- 
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of16.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Copy-of16.png "image_tooltip")
-
-
-Temporal changes in laboratory markers from illness onset in patients hospitalised with COVID-19 ([Zhou et al., Lancet 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)).
-
-MGH recently published [COVID-19 Management Guidelines](https://drive.google.com/file/d/1tXWtBLJJm1Y51q14XhRm5WgV5-WEcW63/view?usp=sharing) recommending daily CBC, CMP, and CPK for all patients admitted with confirmed or suspected COVID-19 as well as risk stratification lab recommendations including d-dimer, ferritin/CRP/ESR, LDH, and troponin recommended q2-3 days or with clinical deterioration. 
-
-
-
-<span style="text-decoration:underline;"><span style="text-decoration:underline;">Imaging</span>
+Imaging
 
 _Thought question:_
 
 What might be barriers to using imaging to routinely screen for COVID-19?
 
-    
+Studies have found that abnormal lung findings can be seen on chest CT for patients with COVID-19, even in asymptomatic cases \(\[Shi et al., Lancet Inf Dis 2020\]\([https://www.thelancet.com/journals/laninf/article/PIIS1473-3099\(20\)30086-4/fulltext](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2820%2930086-4/fulltext)\)\). Despite this, concerns over resource allocation, infection control, and the limited diagnostic specificity of chest imaging for COVID-19 have resulted in recommendations **against**using chest radiographs or CT as a first-line form of diagnosis \([American College of Radiology Position Statement, 3/11/20](https://www.acr.org/Advocacy-and-Economics/ACR-Position-Statements/Recommendations-for-Chest-Radiography-and-CT-for-Suspected-COVID19-Infection)\).
 
-Studies have found that abnormal lung findings can be seen on chest CT for patients with COVID-19, even in asymptomatic cases ([Shi et al., Lancet Inf Dis 2020](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30086-4/fulltext)). Despite this, concerns over resource allocation, infection control, and the limited diagnostic specificity of chest imaging for COVID-19 have resulted in recommendations **against**using chest radiographs or CT as a first-line form of diagnosis ([American College of Radiology Position Statement, 3/11/20](https://www.acr.org/Advocacy-and-Economics/ACR-Position-Statements/Recommendations-for-Chest-Radiography-and-CT-for-Suspected-COVID19-Infection)). 
-
-    Chest CT may however be indicated for hospitalized patients with severe respiratory symptoms, and the most commonly seen findings for COVID-19 are described below.
+```text
+Chest CT may however be indicated for hospitalized patients with severe respiratory symptoms, and the most commonly seen findings for COVID-19 are described below.
+```
 
 _Thought questions:_
 
-What imaging findings would you expect to see in a viral pneumonia? 
+What imaging findings would you expect to see in a viral pneumonia?
 
 Are the imaging findings for COVID-19 different from other viral pneumonias? How?
 
-[                              ](https://www.youtube.com/watch?v=7de8LJE4owg)
+[ ](https://www.youtube.com/watch?v=7de8LJE4owg)
 
-For a concise summary and multiple images of CT findings, please watch this [video](https://www.youtube.com/watch?v=7de8LJE4owg). 
+For a concise summary and multiple images of CT findings, please watch this [video](https://www.youtube.com/watch?v=7de8LJE4owg).
 
-The majority of imaging findings for COVID-19 are consistent with a viral pneumonia, with diffuse, bilateral involvement of the lung. The most common patterns seen are [ground-glass opacities](https://radiopaedia.org/articles/ground-glass-opacification-3?lang=us) (GGOs), air-space consolidations, [crazy paving](https://radiopaedia.org/articles/crazy-paving?lang=us) (pattern of GGOs with inter/intra-lobular septal thickening), vascular enlargement, and traction bronchiectasis. Of note, GGOs, vascular thickening, and the peripheral distribution of these findings have been the most helpful in allowing radiologists to distinguish COVID-19 pneumonia from other viral pneumonias, but specificity remained quite variable across radiologists (24-100%) ([Bai et al., Rad 2020](https://pubs.rsna.org/doi/10.1148/radiol.2020200823)). Imaging findings evolve over time, with abnormalities peaking at 10 days post symptom onset ([Pan et al., Rad 2020](https://pubs.rsna.org/doi/10.1148/radiol.2020200370)), and fibrous stripes appearing with resolution ([Pan et al., Eur Rad 2020](https://link.springer.com/article/10.1007%2Fs00330-020-06731-x)). Imaging abnormalities, perhaps unsurprisingly, also correspond to disease severity, with dramatic increase in lung involvement correlating to rapid decline in patient prognosis ([Shi et al., Lancet Inf Dis 2020](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30086-4/fulltext)). 
+The majority of imaging findings for COVID-19 are consistent with a viral pneumonia, with diffuse, bilateral involvement of the lung. The most common patterns seen are [ground-glass opacities](https://radiopaedia.org/articles/ground-glass-opacification-3?lang=us) \(GGOs\), air-space consolidations, [crazy paving](https://radiopaedia.org/articles/crazy-paving?lang=us) \(pattern of GGOs with inter/intra-lobular septal thickening\), vascular enlargement, and traction bronchiectasis. Of note, GGOs, vascular thickening, and the peripheral distribution of these findings have been the most helpful in allowing radiologists to distinguish COVID-19 pneumonia from other viral pneumonias, but specificity remained quite variable across radiologists \(24-100%\) \([Bai et al., Rad 2020](https://pubs.rsna.org/doi/10.1148/radiol.2020200823)\). Imaging findings evolve over time, with abnormalities peaking at 10 days post symptom onset \([Pan et al., Rad 2020](https://pubs.rsna.org/doi/10.1148/radiol.2020200370)\), and fibrous stripes appearing with resolution \([Pan et al., Eur Rad 2020](https://link.springer.com/article/10.1007%2Fs00330-020-06731-x)\). Imaging abnormalities, perhaps unsurprisingly, also correspond to disease severity, with dramatic increase in lung involvement correlating to rapid decline in patient prognosis \(\[Shi et al., Lancet Inf Dis 2020\]\([https://www.thelancet.com/journals/laninf/article/PIIS1473-3099\(20\)30086-4/fulltext](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2820%2930086-4/fulltext)\)\).
 
+&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of17.png\). Store image on your image server and adjust path/filename if necessary.  
+\([Back to top](clinical-presentation-of-covid-19.md)\)\([Next alert](clinical-presentation-of-covid-19.md#gdcalert19)\)  
+&gt;&gt;&gt;&gt;&gt;
 
+![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/b61a2e1d5ebfd8c27737267109cac97306022c32/module-1-from-bench-to-bedside/images/Copy-of17.png)
 
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Copy-of17.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+**Transverse thin-section CT scans in patients with COVID-19 pneumonia.** \(A\) 56-year-old man, day 3 after symptom onset: focal ground-glass opacity associated with smooth interlobular and intralobular septal thickening in the right lower lobes. \(B\) 74-year-old woman, day 10 after symptom onset: bilateral, peripheral ground-glass opacity associated with smooth interlobular and intralobular septal thickening \(crazy-paving pattern\). \(C\) 61-year-old woman, day 20 after symptom onset: bilateral and peripheral predominant consolidation pattern with a round cystic change internally \(arrow\). \(D\) 63-year-old woman, day 17 after symptom onset: bilateral, peripheral mixed pattern associated with air bronchograms in both lower and upper lobes, with a small amount of pleural effusion \(arrows\). \(\[Shi et al., Lancet Inf Dis 2020\]\([https://www.thelancet.com/journals/laninf/article/PIIS1473-3099\(20\)30086-4/fulltext](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2820%2930086-4/fulltext)\)\)
 
-
-![alt_text](images/Copy-of17.png "image_tooltip")
-
-
-**Transverse thin-section CT scans in patients with COVID-19 pneumonia. **(A) 56-year-old man, day 3 after symptom onset: focal ground-glass opacity associated with smooth interlobular and intralobular septal thickening in the right lower lobes. (B) 74-year-old woman, day 10 after symptom onset: bilateral, peripheral ground-glass opacity associated with smooth interlobular and intralobular septal thickening (crazy-paving pattern). (C) 61-year-old woman, day 20 after symptom onset: bilateral and peripheral predominant consolidation pattern with a round cystic change internally (arrow). (D) 63-year-old woman, day 17 after symptom onset: bilateral, peripheral mixed pattern associated with air bronchograms in both lower and upper lobes, with a small amount of pleural effusion (arrows). ([Shi et al., Lancet Inf Dis 2020](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30086-4/fulltext))
-
-Lung ultrasound has also been used to evaluate critically ill COVID-19 patients, lung consolidation, B lines, septal thickening, and A lines during recovery (letter, [Peng et al., Intensive Care Med 2020](https://link.springer.com/article/10.1007%2Fs00134-020-05996-6)). 
-
+Lung ultrasound has also been used to evaluate critically ill COVID-19 patients, lung consolidation, B lines, septal thickening, and A lines during recovery \(letter, [Peng et al., Intensive Care Med 2020](https://link.springer.com/article/10.1007%2Fs00134-020-05996-6)\).
 

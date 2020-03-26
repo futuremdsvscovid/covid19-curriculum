@@ -12,7 +12,7 @@
   * [Approaches to Prediction](module-2-epidemiology-principles/approaches-to-prediction.md)
   * [Case Study: 1918 Influenza Pandemic](module-2-epidemiology-principles/case-study-1918-influenza-pandemic.md)
   * [Case Study: South Korea 2020](module-2-epidemiology-principles/case-study-south-korea-2020.md)
-  * [Summary](summary.md)
+  * [Summary](module-2-epidemiology-principles/summary.md)
 * [Module 3: Current Situation and Healthcare Response, in Massachusetts and Beyond](module-3-current-situation-and-healthcare-response/README.md)
   * [Current Landscape for COVID-19 in Massachusetts and Beyond](module-3-current-situation-and-healthcare-response/current-landscape-for-covid-19-in-massachusetts.md)
   * [Testing Capacity and Eligibility](module-3-current-situation-and-healthcare-response/testing-capacity-and-eligibility.md)
@@ -25,3 +25,4 @@
   * [Sustaining Constructive Behaviors Over Time](module-4-communicating-information-about-covid-19/sustaining-constructive-behaviors-over-time.md)
   * [Activity: Putting it to Practice](module-4-communicating-information-about-covid-19/activity-putting-it-to-practice.md)
   * [Summary](module-4-communicating-information-about-covid-19/summary.md)
+
