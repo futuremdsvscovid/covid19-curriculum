@@ -6,7 +6,7 @@
 
 **There is currently no controlled clinical data supporting the efficacy of any agent for the treatment of COVID-19.** Therefore, current treatment recommendations by the WHO and the CDC comprise optimal supportive care only. Both organizations state that investigational agents should only be administered in the context of ethically-approved clinical trials or under the Monitored Emergency Use of Unregistered Interventions \(MEURI\) framework \(known as “compassionate use”\).
 
-[Module 1: Investigational Therapeutics](https://docs.google.com/document/d/1gjUuqTLi7xqMVzgWeYAFulmaIiKzhYY89PVOJJVvlNo/edit#) provides background information and prior data on some of the most prominent antiviral agents currently being investigated for repurposing including chloroquine, hydroxychloroquine, remdesivir, lopinavir/ritonavir, and tocilizumab.
+[Module 1: Investigational Therapeutics](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside/investigational-therapeutics-and-vaccine-development) provides background information and prior data on some of the most prominent antiviral agents currently being investigated for repurposing including chloroquine, hydroxychloroquine, remdesivir, lopinavir/ritonavir, and tocilizumab.
 
 Here, we will outline recent reports and ongoing trials. A registry of clinical trials ongoing globally can be found on the [WHO International Clinical Trials Platform](http://apps.who.int/trialsearch/AdvSearch.aspx?SearchTermStat=117&ReturnUrl=~%2fListBy.aspx%3fTypeListing%3d0).
 
