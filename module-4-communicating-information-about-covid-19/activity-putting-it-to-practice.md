@@ -1,6 +1,6 @@
 # Activity: Putting it to Practice
 
-Now that we’ve reviewed several approaches to empathetically communicate across differences and share difficult information in the context of **Brian** and **Diane**, identify a real person in your life whom you’ve noticed may benefit from a conversation about COVID-19. Reach out.
+Now that we’ve reviewed several approaches to empathetically communicate across differences and share difficult information in the context of [**Brian** and **Diane**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases), identify a real person in your life whom you’ve noticed may benefit from a conversation about COVID-19. Reach out.
 
 Remember that in today’s world, there are many ways to reach people/networks from your life. Some ideas:
 
