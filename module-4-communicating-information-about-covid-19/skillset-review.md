@@ -62,6 +62,6 @@ Regardless of the framework used, giving bad news is challenging for both the pe
 
 _Thought questions:_ 
 
-* How might you apply these frameworks differently when talking to [**Diane**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases#case-2-diane) and [**Brian**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases#case-1-brian)?
+* How might you apply these frameworks differently when talking to [**Diane** and **Brian**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases)?
 * [This activity](https://www.nytimes.com/interactive/2019/11/26/opinion/family-holiday-talk-impeachment.html) from the NYT is an opportunity to play out a conversation with someone who holds different political views. Unrelated as it may seem, there is a reason why we recommend it. How might our frameworks compliment their conflict resolution approaches?
 
