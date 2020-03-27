@@ -6,7 +6,7 @@ _Faculty Reviewers:_ Brian Chan, MD; Holly Rawizza, MD; Michael Dougan, MD, PhD
 
 **Highlight of Updates \(3/27/20\):**
 
-**\*\*Updates have not yet been reviewed by our faculty reviewers\*\***
+**\*\*Updates have not yet been reviewed by all faculty reviewers\*\***
 
 * Updated “positive” definition per new CDC guidelines
 * Governor Baker’s emergency stay at home order

@@ -4,24 +4,24 @@ _Student authors:_ Adi Achanta; Kendall Carpenter; Pamela Chen; Nicole M. Gilett
 
 _Faculty reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD
 
-**Highlight of Updates \(3/27/20\):**
+**Highlight of Updates \(3/26/20\):**
 
 **\*\*Updates have not yet been reviewed by our faculty reviewers\*\***
 
-* Clarification of viral genome structure and relatedness to other coronaviruses
-* Role of endocytosis in entry, highlighting potential chloroquine mechanism
-* Timing of viral shedding, location and statistics on asymptomatic transmission
-* Pre-existing serum immunity to SARS-CoV-2
-* Expanded discussion of co-infectivity with other common respiratory pathogens
-* Update on children and COVID-19 in supplemental materials
-* New subsection on emerging CRISPR-based diagnostics
-* New discussion of procalcitonin and disease severity
-* New "Clinical Course" figure
-* Updated disease severity classifications \(mild, moderate, severe, critical\)
-* Updates on mild disease at-home management and link to Emory University tool
-* New discussion of PPE recommendations \(droplet vs. airborne\)
-* Expanded discussion of NSAID use in COVID-19 patients
-* Clinical trial updates on lopinavir/ritonavir, favipiravir, hydroxychloroquine, and tocilizumab
+* **Clarification of viral genome structure and relatedness to other coronaviruses**
+* **Role of endocytosis in entry, highlighting potential chloroquine mechanism**
+* **Timing of viral shedding, location and statistics on asymptomatic transmission**
+* **Pre-existing serum immunity to SARS-CoV-2**
+* **Expanded discussion of co-infectivity with other common respiratory pathogens**
+* **Update on children and COVID-19 in supplemental materials**
+* **New subsection on emerging CRISPR-based diagnostics**
+* **New discussion of procalcitonin and disease severity**
+* **New "Clinical Course" figure**
+* **Updated disease severity classifications \(mild, moderate, severe, critical\)**
+* **Updates on mild disease at-home management and link to Emory University tool**
+* **New discussion of PPE recommendations \(droplet vs. airborne\)**
+* **Expanded discussion of NSAID use in COVID-19 patients**
+* **Clinical trial updates on lopinavir/ritonavir, favipiravir, hydroxychloroquine, and tocilizumab**
 
 ## Introduction
 
