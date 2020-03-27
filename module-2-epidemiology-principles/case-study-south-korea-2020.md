@@ -4,7 +4,7 @@ As COVID-19 cases in the US continue to rise, we can look to other countries tha
 
 ![Total confirmed cases of SARS-CoV-2 starting from 100th case \(data through 3/24\)](https://lh3.googleusercontent.com/tkqRr7ZnPQ-TXxHi5VyBxigTi76fk1cDz7sMj8CcHhEgnHWo1zSWzvvj8Fltv9UdHueNr0w6dKxQttcPS754tfQFHTLZRQyV-c_n3keCo4GPkhkkGs-IyhL18Ovc6zLtbGUEFBuN)
 
-Italy and SK had initially shown similar trajectory in the rise of cases, however, SK in recent days has plateaued**.** The US is about 1-2 weeks behind SK and Italy.
+Italy and SK had initially shown similar trajectory in the rise of cases, however, SK in recent days has plateaued**.** The US is about 1-2 weeks behind SK and Italy \(fact and figure [source](https://www.vox.com/policy-and-politics/2020/3/13/21178289/confirmed-coronavirus-cases-us-countries-italy-iran-singapore-hong-kong)\).
 
 ## Strategies for Testing
 
