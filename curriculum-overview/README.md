@@ -26,7 +26,7 @@ Now that you’ve bolstered your COVID-19 knowledge, prepare to productively com
 
 \*\*\*\*[**Module 5: Training for Potential Clinical Roles**](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles)\*\*\*\*
 
-Prepare for clinical roles that medical students may play in the COVID-19 response.
+Develop technical know-how in preparation for roles that medical students may play in the clinical setting.
 
 **Module 6: Medical Ethics Related to COVID-19**
 
