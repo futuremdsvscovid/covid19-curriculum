@@ -1,6 +1,6 @@
 # Module 3: Current Situation and Healthcare Response, in Massachusetts and Beyond
 
-_Student Authors_:  Stephanie Alden, Pamela Chen, Michael Fuchs, Nicole Gilette, Ashwini Joshi, Katherine Nabel, Hema Pingali, Simone Sasse, Morgan Sehdev, Katie Shaffer, Allen Zhou
+_Student Authors:_  Stephanie Alden, Pamela Chen, Michael Fuchs, Nicole Gilette, Ashwini Joshi, Katherine Nabel, Hema Pingali, Simone Sasse, Morgan Sehdev, Katie Shaffer, Allen Zhou
 
 _Faculty Reviewers:_ Brian Chan, MD; Holly Rawizza, MD; Michael Dougan, MD, PhD
 
