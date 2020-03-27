@@ -30,7 +30,7 @@
   * [Sustaining Constructive Behaviors Over Time](module-4-communicating-information-about-covid-19/sustaining-constructive-behaviors-over-time.md)
   * [Activity: Putting it to Practice](module-4-communicating-information-about-covid-19/activity-putting-it-to-practice.md)
   * [Summary](module-4-communicating-information-about-covid-19/summary.md)
-* [Module 5: Training for Medical Student-Specific Roles](module-5-training-for-medical-student-specific-roles/README.md)
+* [Module 5: Training for Potential Clinical Roles](module-5-training-for-medical-student-specific-roles/README.md)
   * [Personal Protective Equipment](module-5-training-for-medical-student-specific-roles/personal-protective-equipment.md)
   * [Triage](module-5-training-for-medical-student-specific-roles/triage.md)
   * [Mechanical Ventilation: The Basics](module-5-training-for-medical-student-specific-roles/mechanical-ventilation-the-basics.md)
