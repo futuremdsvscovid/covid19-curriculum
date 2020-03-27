@@ -90,7 +90,7 @@ The following measures are used for treatment of admitted patients who are moder
 
 Please take a look at this link for up-to-date recommendations about how resources and space should be managed in ED and ICU settings: [University of Washington](https://em.uw.edu/faculty/uw-department-emergency-medicine-edicu-covid-19-preparedness?fbclid=IwAR1nn6Y0h_mQ22F7Bt0tZHnNoivvXNcJNdpyhVcB4C7aGOrRt-3YPMgWiOU) 
 
-For examples of how experimental therapies are being used in clinic settings: click this link to see MGH  [COVID-19 Management Guidelines](https://drive.google.com/file/d/1tXWtBLJJm1Y51q14XhRm5WgV5-WEcW63/view?usp=sharing). Continue reading “Investigational Therapeutics” for information on the scientific basis for many of these experimental therapies. 
+For examples of how experimental therapies are being used in clinic settings: click this link to see [MGH treatment algorithms](https://drive.google.com/drive/folders/1DDCQ8TyzXX_UDtRJ9Rq8Ysreu6GEEJ2G). Continue reading “Investigational Therapeutics” for information on the scientific basis for many of these experimental therapies. 
 
 _Thought questions:_
 

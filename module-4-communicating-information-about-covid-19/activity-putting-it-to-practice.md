@@ -11,7 +11,7 @@ During that conversation, consider your new frameworks. Reflect on the “identi
 
 Let’s imagine that you have a chance to speak with Brian and engage in some motivational interviewing. Together, you explore ways for him to spend his time besides going out with friends. He mentions his grandmother, and in time makes a habit of talking with her every couple days. She, in turn, begins to feel comfortable with Brian and even asks if he would be willing to go out and shop for her groceries next week. Thanks to your empathetic counseling, both our characters find ways to make important changes to their lives, and they stay in touch with one another via FaceTime and help support each other through this difficult time.
 
-To help you with these conversations, our classmates have prepared a number of information resources intended for public audiences without medical training. Please take a look at this student-created [FAQ document](https://docs.google.com/document/d/1bvuRWyJJzcQN0zO8H--UYo1YE17GSdweYBVW6cDQ2RE/edit), this [infographic](https://drive.google.com/drive/folders/1DDCQ8TyzXX_UDtRJ9Rq8Ysreu6GEEJ2G), and these social media channels:
+To help you with these conversations, our classmates have prepared a number of information resources intended for public audiences without medical training. Please take a look at this student-created [FAQ document](https://docs.google.com/document/d/1bvuRWyJJzcQN0zO8H--UYo1YE17GSdweYBVW6cDQ2RE/edit), this [infographic](https://drive.google.com/drive/u/1/folders/1DDCQ8TyzXX_UDtRJ9Rq8Ysreu6GEEJ2G), and these social media channels:
 
 * Twitter: [@FutureMDvsCOVID](https://twitter.com/FutureMDvsCOVID)
 * Instagram: [futuremdvscovid](https://www.instagram.com/futuremdvscovid/)
