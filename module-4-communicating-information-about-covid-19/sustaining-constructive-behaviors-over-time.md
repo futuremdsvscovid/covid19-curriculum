@@ -8,9 +8,7 @@ Recall the 6 stages of change discussed in the ICS curriculum \([Levinson et al.
 
 ![](../.gitbook/assets/stages-of-change.png)
 
-_Thought Question_: 
-
-* With this framework in mind, how would you start a conversation with **Brian** about social distancing? How would you start a conversation with **Diane** about social distancing?
+_Thought Question_: With this framework in mind, how would you start a conversation with **Brian** about social distancing? How would you start a conversation with **Diane** about social distancing?
 
 ## Motivational Interviewing
 
