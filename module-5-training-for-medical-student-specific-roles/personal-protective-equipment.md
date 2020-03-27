@@ -10,7 +10,7 @@ Personal protective equipment \(PPE\) is designed to protect the wearer from ill
 
 Medical professionals commonly use PPE in the inpatient and outpatient settings, as well as in clinical laboratories. Correct use successfully creates a barrier between the wearer’s skin and potentially infectious materials such as patients’ bodily fluids, thereby stopping transmission of bacterial or viral pathogens. Patients at high risk for contracting infections, such as those with significant cardiopulmonary comorbidities or an immunodeficiency, can also use PPE to protect themselves from exposure to infectious agents brought in by visitors or healthcare workers. Correct use of PPE, in combination with other infection control practices \(e.g. washing hands, using alcohol-based hand sanitizers, covering coughs and sneezes\), reduces the spread of infection \([FDA](https://www.fda.gov/medical-devices/general-hospital-devices-and-supplies/personal-protective-equipment-infection-control)\).
 
-The [CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html) provides clear guidelines concerning the selection and use of PPE in healthcare settings for both patients and healthcare personnel. Significantly, staff caring for patients with confirmed or suspected COVID-19 should wear a gown, gloves, eye protection, and a mask. Currently, many institutions are reserving   N95 masks for aerosolizing procedures due to the limited stock. 
+The [CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html) provides clear guidelines concerning the selection and use of PPE in healthcare settings for both patients and healthcare personnel. Significantly, staff caring for patients with confirmed or suspected COVID-19 should wear a gown, gloves, eye protection, and a mask. Currently, many institutions are reserving N95 masks for aerosolizing procedures due to the limited stock. 
 
 ![https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Coronavirus/MSHS-COVID-19-PPE-Practices.pdf](https://lh6.googleusercontent.com/_6Mfa87rbMgfESFKkzUyDCJ50yG2FyMZgwMPGqw64Nxv7U3oXwLv5bbOjXHS4JgGZ3aWZbbax_1LMZttXxCdSUkuGuJqa7gNc4X9Qayvjg1jR5tRhOL35Z00G2HSmMhNHfaxDnN3)
 
@@ -33,9 +33,13 @@ Due to shortages, new terminology is arising regarding extension or re-use of PP
 The current shortage has led many healthcare organizations to consider different avenues of conserving supplies to meet the needs of their staff, such as community donations. Furthermore, hospitals including Massachusetts General Hospital, Brigham and Women’s Hospital, and Beth Israel Deaconess Medical Center have instituted new policies, such as requiring universal face masks for all workers to be worn throughout the day for all cases, as the situation continues to evolve. See [current FDA recommendations](https://www.fda.gov/medical-devices/letters-health-care-providers/surgical-mask-and-gown-conservation-strategies-letter-healthcare-providers) for conservation recommendations for crisis situations.   
 
 
-Thought questions:
+_Thought questions:_
 
-Your community hospital has been experiencing greater pressures on conserving the necessary protective equipment as well as personnel to help combat the virus. You receive an email requesting opportunities to help. Which PPE would the hospital need? What are some strategies to help provide enough protective attire to healthcare workers? What are some FDA approved alternatives/options?
+Your community hospital has been experiencing greater pressures on conserving the necessary protective equipment as well as personnel to help combat the virus. You receive an email requesting opportunities to help. Which PPE would the hospital need? 
+
+What are some strategies to help provide enough protective attire to healthcare workers? 
+
+What are some FDA approved alternatives/options?
 
 ## PPE Training
 
