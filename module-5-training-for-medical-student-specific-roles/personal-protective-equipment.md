@@ -6,7 +6,7 @@
 
 Personal protective equipment \(PPE\) is designed to protect the wearer from illness or injury due to contact with occupational hazards, such as dangerous chemicals, radioactive materials, or infectious biological agents. PPE may include items such as gloves, goggles, shoe covers, helmets, respirators, masks, gowns, or full body suits \([Occupational Safety and Health Administration](https://www.osha.gov/SLTC/personalprotectiveequipment/)\).
 
-## Importance of PPE:
+## Importance of PPE
 
 Medical professionals commonly use PPE in the inpatient and outpatient settings, as well as in clinical laboratories. Correct use successfully creates a barrier between the wearer’s skin and potentially infectious materials such as patients’ bodily fluids, thereby stopping transmission of bacterial or viral pathogens. Patients at high risk for contracting infections, such as those with significant cardiopulmonary comorbidities or an immunodeficiency, can also use PPE to protect themselves from exposure to infectious agents brought in by visitors or healthcare workers. Correct use of PPE, in combination with other infection control practices \(e.g. washing hands, using alcohol-based hand sanitizers, covering coughs and sneezes\), reduces the spread of infection \([FDA](https://www.fda.gov/medical-devices/general-hospital-devices-and-supplies/personal-protective-equipment-infection-control)\).
 
@@ -18,7 +18,7 @@ Healthcare organizations may further delineate the circumstances as to when whic
 
 ![](https://lh4.googleusercontent.com/_1Kw0lsUJLwWys7VSOAbYE5MzU5ge-9N3NGN8kSak_SjSnVGa09rep9Z8oXa2VAcFeNEmMAuK5Cxypn1Tti28HH8akQKmLfzBEC0zGraTeteGcc7MZI9fSGoIpN6ksR7YsPIs8xf)
 
-## Current Status / Shortage
+## Current Status/Shortage
 
 As the COVID-19 outbreak continues to expand globally, the supply chain for PPE will continue to be stressed if demand exceeds available supplies \([FDA](http://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/faqs-shortages-surgical-masks-and-gowns)\).  
 
@@ -26,9 +26,9 @@ The FDA [recommends strategies](https://www.fda.gov/medical-devices/letters-heal
 
 Due to shortages, new terminology is arising regarding extension or re-use of PPE: 
 
-Extended Use: wearing PPE without removal or redonning between patients. 
+**Extended Use**: wearing PPE without removal or redonning between patients. 
 
-Re-Use: removal and reuse of PPE between patients. 
+**Re-Use**: removal and reuse of PPE between patients. 
 
 The current shortage has led many healthcare organizations to consider different avenues of conserving supplies to meet the needs of their staff, such as community donations. Furthermore, hospitals including Massachusetts General Hospital, Brigham and Women’s Hospital, and Beth Israel Deaconess Medical Center have instituted new policies, such as requiring universal face masks for all workers to be worn throughout the day for all cases, as the situation continues to evolve. See [current FDA recommendations](https://www.fda.gov/medical-devices/letters-health-care-providers/surgical-mask-and-gown-conservation-strategies-letter-healthcare-providers) for conservation recommendations for crisis situations.   
 
