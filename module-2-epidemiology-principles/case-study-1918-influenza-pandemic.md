@@ -4,7 +4,7 @@
 
 Prior to COVID-19, the 1918 influenza pandemic was the most severe pandemic in recent history. First identified in military personnel in the spring of 1918, the influenza was an H1N1 virus of avian origin. It is commonly referred to by scientists and historians as “the Mother of all Pandemics.” This pandemic is often referred to as the “Spanish Flu” in the lay press, though this name is a misnomer and the virus likely originated elsewhere. Contemporary reporting focused heavily on Spain as it was one of few places at the time that did not have restrictions on the press during World War I.
 
-**Fast Facts about the 1918 Flu:**
+## **Fast Facts about the 1918 Flu:**
 
 * Infectivity: 500 million people or ⅓ of the world’s population. Note that this is smaller than estimates for SARS-CoV-2, as the population had some pre-existing immunity from prior influenza exposure.
 * Death rates: at least 50 million people worldwide with 675,000 deaths in the United States

@@ -32,5 +32,5 @@ Patients may be able to transmit the virus for a prolonged period of time, , as 
 
 _Thought Question:_
 
-How would you talk with [**Brian**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) about the importance of speedy social distancing, including with peers? \(For a more extensive dive into this task, stay tuned for [Module 4](https://docs.google.com/document/d/1DSr-3wzw9eEMbfbmVtZEAMUS4C-m9Zu6FeA_CIAxi54/edit#).\)
+How would you talk with [**Brian**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) about the importance of speedy social distancing, including with peers? \(For a more extensive dive into this task, stay tuned for [Module 4](https://app.gitbook.com/@futuremdvscovid/s/covid19-curriculum/module-4-communicating-information-about-covid-19).\)
 
