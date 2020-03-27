@@ -207,11 +207,11 @@ In general, previous vaccine strategies for SARS & MERS have targeted the S prot
 
 Knowledge on COVID-19 pathogenesis is emerging at a lightning pace, and the evidence-basis underpinning our diagnosis and treatment guidelines are constantly under review. We as medical students and global citizens are living and learning through a formative time. Now, more than ever, it is critical for the scientific and medical community to collaborate, to innovate, and to push the frontiers of our understanding.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 We hope that this module highlighted the frontier of basic science and translational research on COVID-19. It provides a conceptual grounding on COVID-19 pathophysiology and how this relates to evolving diagnosis, treatment, and prevention efforts to prepare you for the impacts that this disease has on society, the government and our healthcare systems. 
 
-To continue in our COVID-19 curriculum, please click here: [Module 2: Epidemiology Principles](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles). Click here to return to the [Overview](https://curriculum.covidstudentresponse.org/curriculum-overview). 
+To continue in our COVID-19 curriculum, please click here: [Module 2: Epidemiology Principles](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles). Click here to return to the [Overview](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/edit#). 
 
 We welcome your feedback on this module and on the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).  
 
