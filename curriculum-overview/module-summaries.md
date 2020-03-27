@@ -14,5 +14,3 @@ description: 'Click the links below to view up-to-date summaries of each of the 
 
 **\[Module 5: Training for Medical Student-Specific Roles\]**
 
-\*\*\*\*
-
