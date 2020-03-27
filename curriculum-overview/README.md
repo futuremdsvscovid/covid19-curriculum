@@ -22,17 +22,7 @@ Appreciate the complex and rapidly changing landscape of the COVID-19 pandemic a
 
 Now that you’ve bolstered your COVID-19 knowledge, prepare to productively communicate that information, especially with a non-medical audience who may have varying attitudes towards the pandemic.
 
-\*\*\*\*[**Module 5: Training for Medical Student-Specific Roles**](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles)\*\*\*\*
+**\[Module 5: Clinical Role-Specific Skills\]**
 
-Prepare for clinical roles that medical students may play in the COVID-19 response.
-
-**Module 6: Medical Ethics Related to COVID-19**
-
-_To be released soon_
-
-**Module 7: Global Health**
-
-_To be released soon_
-
-
+This forthcoming module will address some of the practical skills that students may require as they are called upon to fill new clinical roles.
 
