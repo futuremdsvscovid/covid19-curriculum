@@ -1,3 +1,10 @@
+---
+description: >-
+  Now that you’ve bolstered your COVID-19 knowledge, prepare to productively
+  communicate that information, especially with a non-medical audience who may
+  have varying attitudes towards the pandemic.
+---
+
 # Module 4: Communicating Information about COVID-19
 
 ## Module 4: Communicating Information about COVID-19
@@ -11,10 +18,6 @@ As physicians, we must master not only the science of medicine but also the art.
 We’ve now discussed [**Brian and Diane**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) in the context of their medical risk and why our community benefits from all of us practicing social distancing. But knowing the facts is only a small part of effective engagement. In this module, we pivot to developing concrete tools that can help us communicate effectively with individuals like Brian and Diane.
 
 Think of the people in your own life who may be struggling in similar ways to Brian and Diane. What makes communicating with them challenging, and how may you try to understand or support them differently?
-
-## **Overarching Learning Goal** 
-
-Now that you’ve bolstered your COVID-19 knowledge, prepare to productively communicate that information, especially with a non-medical audience who may have varying attitudes towards the pandemic.
 
 ##  **Learning Objectives**
 
