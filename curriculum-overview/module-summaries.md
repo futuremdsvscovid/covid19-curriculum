@@ -1,10 +1,6 @@
----
-description: >-
-  Here you can find links to up-to-date summaries of each of the modules for
-  your review.
----
-
 # Module Summaries
+
+### Click the links below to view up-to-date summaries of each of the modules:
 
 \*\*\*\*[**Module 1: From Bench to Bedside**](https://docs.google.com/document/d/1wf66ssePqEXIfnxUQ_wXs7kpVar4XufOkjO4wk-q9lU/edit?usp=sharing)\*\*\*\*
 
