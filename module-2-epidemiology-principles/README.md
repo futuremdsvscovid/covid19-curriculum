@@ -6,7 +6,8 @@ _External Reviewers:_ Rebecca Kahn, MS; James Hay, PhD.
 
 _Faculty Reviewers:_ Wolfram Goessling, MD, PhD; Andrea Wershof Schwartz, MD, MPH; William Hanage, PhD.
 
-**Highlight of Updates \(3/27/20\):**
+**Highlight of Updates \(3/27/20\):  
+\(Reviewed by Rebecca Kahn, MS; Wolfram Goessling, MD, PhD; and Andrea Wershof Schwartz, MD, MPH\)**
 
 * NEW CASE: 2009 H1N1 pandemic
 * Added information on containment strategies, including contact tracing, isolation, and quarantine
