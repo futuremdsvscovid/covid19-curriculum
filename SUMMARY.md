@@ -17,7 +17,7 @@
   * [Case Study: 1918 Influenza Pandemic](module-2-epidemiology-principles/case-study-1918-influenza-pandemic.md)
   * [Case Study: 2009 H1N1 Pandemic](module-2-epidemiology-principles/case-study-2009-h1n1-pandemic.md)
   * [Case Study: South Korea 2020](module-2-epidemiology-principles/case-study-south-korea-2020.md)
-  * [Graphic Summary](module-2-epidemiology-principles/summary.md)
+  * [Summary](module-2-epidemiology-principles/summary.md)
 * [Module 3: Current Situation and Healthcare Response, in Massachusetts and Beyond](module-3-current-situation-and-healthcare-response/README.md)
   * [Current Landscape for COVID-19 in Massachusetts and Beyond](module-3-current-situation-and-healthcare-response/current-landscape-for-covid-19-in-massachusetts.md)
   * [Testing Capacity and Eligibility](module-3-current-situation-and-healthcare-response/testing-capacity-and-eligibility.md)

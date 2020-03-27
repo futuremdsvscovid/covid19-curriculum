@@ -211,8 +211,6 @@ Knowledge on COVID-19 pathogenesis is emerging at a lightning pace, and the evid
 
 We hope that this module highlighted the frontier of basic science and translational research on COVID-19. It provides a conceptual grounding on COVID-19 pathophysiology and how this relates to evolving diagnosis, treatment, and prevention efforts to prepare you for the impacts that this disease has on society, the government and our healthcare systems. 
 
-To continue in our COVID-19 curriculum, please click here: [Module 2: Epidemiology Principles](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles). Click here to return to the [Overview](https://curriculum.covidstudentresponse.org/curriculum-overview). 
-
 We welcome your feedback on this module and on the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).  
 
 
