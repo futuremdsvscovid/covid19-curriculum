@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Medical Student COVID-19 Curriculum](README.md)
-* [Cases](cases.md)
+* [Curriculum Overview](curriculum-overview/README.md)
+  * [Cases](curriculum-overview/cases.md)
+  * [Module Summaries](curriculum-overview/module-summaries.md)
 * [Module 1: From Bench to Bedside](module-1-from-bench-to-bedside/README.md)
   * [Basic Virology and Immunology](module-1-from-bench-to-bedside/basic-virology-and-immunology.md)
   * [Diagnosis of COVID-19](module-1-from-bench-to-bedside/clinical-presentation-of-covid-19.md)
