@@ -10,8 +10,7 @@ _Student authors:_ James Agolia, Fang Cao, Bina Kassamali, Soumyaa Mazumder, Niy
 
 _Faculty reviewers:_ Jeremy B. Richards, MD; Harvey Simon, MD; Clyde Crumpacker, MD
 
-_Infectious Disease Fellow reviewer_: Christian Larsen, MD  
-
+_Infectious Disease Fellow reviewer_: Christian Larsen, MD
 
 The COVID-19 pandemic has prompted numerous questions as to how best to prepare medical students to engage in efforts to stop the disease. This fifth module guides the reader through relevant information to smooth the transition onto hospital floors and play important roles in the clinic. Protocols regarding testing, triage, and PPE use for managing COVID-19 are constantly evolving at an institutional, state, and federal level.
 
