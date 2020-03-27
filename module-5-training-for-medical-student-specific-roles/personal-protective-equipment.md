@@ -70,7 +70,11 @@ The face shield is a good option for eye protection if you wear glasses. The ext
 
 **Reuse of Disposable Safety Glasses**
 
-Disposable safety glasses consist of a plastic frame \(blue section in picture\) and an eye shield lens. The lens must be removed from the frame to adequately clean the glasses. This type of safety glasses can be worn over personal prescription glasses.![](https://lh5.googleusercontent.com/tZyqH2kJIj_wfbOA4klRgBLds5tmlEfC4dzFlEEyOo4ZmEHpwYcmcE7vgryz_EkPV3VRAgfArlkdWem0Yh2pO_kq9axNg9n5seqSWRvMAoOM54Jm-A9FY0v3mW8hFWUd9P2hfB8R)
+Disposable safety glasses consist of a plastic frame \(blue section in picture\) and an eye shield lens. The lens must be removed from the frame to adequately clean the glasses. This type of safety glasses can be worn over personal prescription glasses.
+
+![](https://lh5.googleusercontent.com/tZyqH2kJIj_wfbOA4klRgBLds5tmlEfC4dzFlEEyOo4ZmEHpwYcmcE7vgryz_EkPV3VRAgfArlkdWem0Yh2pO_kq9axNg9n5seqSWRvMAoOM54Jm-A9FY0v3mW8hFWUd9P2hfB8R)
+
+
 
 _Option 1: if replacement eye shields are NOT available_
 
