@@ -1,7 +1,5 @@
 ---
-description: >-
-  Welcome to the Medical Student COVID-19 Curriculum!  Material was last updated
-  on 3/27/2020, unless otherwise specified.
+description: Welcome to the Medical Student COVID-19 Curriculum!
 ---
 
 # Medical Student COVID-19 Curriculum
