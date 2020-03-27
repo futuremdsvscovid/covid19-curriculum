@@ -1,8 +1,6 @@
 # Introduction to Epidemiological Terms
 
-## Introduction to Epidemiological Terms
-
-### Descriptors of Disease Spread
+## Descriptors of Disease Spread
 
 **Attack Rate/Ratio:** Refers to the \(number of new cases of disease\)/\(population at risk\) during a specified time interval. Generally, the time interval here is defined as “the duration of the outbreak”. \([CDC](https://www.cdc.gov/csels/dsepd/ss1978/glossary.html)\)
 
@@ -22,7 +20,9 @@
 
 **Community transmission:** Refers to transmission occurring between people within the same community. This phenomenon is separate from people acquiring the infection while traveling or due to close contact with someone who visited an area with the infection as it implies that there are unknown cases spreading the infection locally. \([CDC](https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf)\)
 
-### Non-Pharmaceutical Interventions: Containment
+## Non-Pharmaceutical Interventions
+
+### Containment
 
 **Contact tracing:** An intervention in which close contacts of known cases are traced, notified of their potential exposure, and encouraged to self-quarantine. Relies on speedy testing and significant effort for each case.
 
@@ -30,7 +30,7 @@
 
 **Isolation:** Separation of sick people with a contagious disease from those who are not sick. Individuals can also choose to self-isolate. \([CDC](https://www.cdc.gov/quarantine/index.html)\)
 
-### Non-Pharmaceutical Interventions: Mitigation
+### Mitigation
 
 **Social distancing:** A [public health practice](https://hub.jhu.edu/2020/03/13/what-is-social-distancing/) that aims to prevent sick people from coming in close physical contact with healthy people in order to reduce opportunities for disease transmission. It can include large-scale measures like canceling group events or closing public spaces, as well as [individual decisions](https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4), such as avoiding crowds. The goal of these interventions is to avoid infecting high-risk populations and “flatten the curve”.
 
@@ -50,7 +50,7 @@ The following is a set of basic figures about the epidemic as a snapshot, which 
 * More complete global [map](https://coronavirus.jhu.edu/map.html) and associated \[publication\]\([https://www.thelancet.com/journals/laninf/article/PIIS1473-3099\(20\)30120-1/fulltext](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2820%2930120-1/fulltext)\) from Johns Hopkins, featuring data from a variety of sources.
 * Additional [maps and resources](http://www.cidrap.umn.edu/covid-19/maps-visuals).
 
-Reported cases **underestimate**the total number of cases due to the incubation period, asymptomatic carriers, limited testing availability, and delays in receiving testing results after the initial onset of symptoms. The following resource is an excellent explanation of this phenomenon working from data publicly available in early March.
+Reported cases **underestimate** the total number of cases due to the incubation period, asymptomatic carriers, limited testing availability, and delays in receiving testing results after the initial onset of symptoms. The following resource is an excellent explanation of this phenomenon working from data publicly available in early March.
 
 **CORE TEXT:** [**Pueyo - Coronavirus: Why You Must Act Now. 3/10/20. Medium.**](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
@@ -68,7 +68,7 @@ Overall, it seems like _\*\*_ patients infected with SARS-CoV-2 have a 1-2% chan
 
 ### Asymptomatic Transmission
 
-Recall that the **latent period**, or time from exposure to transmissibility, can differ from the **incubation period,** or time from exposure to first symptoms \(see Fig. II.1\). Several sources of evidence suggest SARS-CoV-2 has a shorter latent period than incubation period, **opening the door for presymptomatic transmission**. Current estimates of the SARS-CoV-2 incubation period, from initial exposure to symptom onset, range from 1-14 days with a **median of 5-7.5 days \(** [Bi et al. 03.03.2020](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.full.pdf); [Tapiwa et al. 03.05.2020](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1.full.pdf)\) and 95th percentile of 12 days \([Lauer et al., Ann Intern Med 2020](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported); [Li et al., NEJM 2020](https://www.nejm.org/doi/10.1056/NEJMoa2001316?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov)\). Meanwhile, analyses of infector-infectee pairs show a mean serial interval of 4.0 days \[95% CI 3.1, 4.9\] \([Nishiura et al, Int J Infect Dis., 3.4.20](https://www.ncbi.nlm.nih.gov/pubmed/32145466)\) or 3.96 days \[95% CI 3.53-4.39\], widely distributed with SD of 4.75 days. Put together, these estimates imply a period of presymptomatic transmissibility. Patients may be able to transmit the virus for a prolonged period of time, , as SARS-CoV-2 RNA has been detected in patients for an average of20 days, lasting as long as 37 days \(\[Zhou et al., Lancet 2020\]\([https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30566-3/fulltext\#seccestitle10](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930566-3/fulltext#seccestitle10)\)\). However, detection of RNA does not necessarily indicate the presence of live virus, and it is still unclear for how many days patients remain infectious.
+Recall that the **latent period**, or time from exposure to transmissibility, can differ from the **incubation period,** or time from exposure to first symptoms \(see Fig. II.1\). Several sources of evidence suggest SARS-CoV-2 has a shorter latent period than incubation period, **opening the door for pre-symptomatic transmission**. Current estimates of the SARS-CoV-2 incubation period, from initial exposure to symptom onset, range from 1-14 days with a **median of 5-7.5 days \(** [Bi et al. 03.03.2020](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.full.pdf); [Tapiwa et al. 03.05.2020](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1.full.pdf)\) and 95th percentile of 12 days \([Lauer et al., Ann Intern Med 2020](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported); [Li et al., NEJM 2020](https://www.nejm.org/doi/10.1056/NEJMoa2001316?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov)\). Meanwhile, analyses of infector-infectee pairs show a mean serial interval of 4.0 days \[95% CI 3.1, 4.9\] \([Nishiura et al, Int J Infect Dis., 3.4.20](https://www.ncbi.nlm.nih.gov/pubmed/32145466)\) or 3.96 days \[95% CI 3.53-4.39\], widely distributed with SD of 4.75 days. Put together, these estimates imply a period of presymptomatic transmissibility. Patients may be able to transmit the virus for a prolonged period of time, , as SARS-CoV-2 RNA has been detected in patients for an average of20 days, lasting as long as 37 days \(\[Zhou et al., Lancet 2020\]\([https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30566-3/fulltext\#seccestitle10](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930566-3/fulltext#seccestitle10)\)\). However, detection of RNA does not necessarily indicate the presence of live virus, and it is still unclear for how many days patients remain infectious.
 
 &gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of2.png\). Store image on your image server and adjust path/filename if necessary.  
 \([Back to top](introduction-to-epidemiological-terms.md)\)\([Next alert](introduction-to-epidemiological-terms.md#gdcalert4)\)  
@@ -84,5 +84,5 @@ It is becoming increasingly clear that **most new confirmed COVID-19 cases \(an 
 
 ### _Thought Question:_
 
-How would you talk with **Brian** about the importance of speedy social distancing, including with peers? \(For a more extensive dive into this task, stay tuned for [Module 4](https://docs.google.com/document/d/1DSr-3wzw9eEMbfbmVtZEAMUS4C-m9Zu6FeA_CIAxi54/edit#).\)
+How would you talk with [**Brian**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) about the importance of speedy social distancing, including with peers? \(For a more extensive dive into this task, stay tuned for [Module 4](https://docs.google.com/document/d/1DSr-3wzw9eEMbfbmVtZEAMUS4C-m9Zu6FeA_CIAxi54/edit#).\)
 

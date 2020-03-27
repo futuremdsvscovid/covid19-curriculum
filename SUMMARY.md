@@ -15,6 +15,7 @@
   * [Where Are We Now?](module-2-epidemiology-principles/where-are-we-now.md)
   * [Where Will We Be Next?](module-2-epidemiology-principles/approaches-to-prediction.md)
   * [Case Study: 1918 Influenza Pandemic](module-2-epidemiology-principles/case-study-1918-influenza-pandemic.md)
+  * [Case Study: 2009 H1N1 Pandemic](module-2-epidemiology-principles/case-study-2009-h1n1-pandemic.md)
   * [Case Study: South Korea 2020](module-2-epidemiology-principles/case-study-south-korea-2020.md)
   * [Graphic Summary](module-2-epidemiology-principles/summary.md)
 * [Module 3: Current Situation and Healthcare Response, in Massachusetts and Beyond](module-3-current-situation-and-healthcare-response/README.md)

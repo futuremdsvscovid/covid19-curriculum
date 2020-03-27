@@ -1,14 +1,6 @@
 # Case Study: 1918 Influenza Pandemic
 
-&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/Copy-of6.png\). Store image on your image server and adjust path/filename if necessary.  
-\([Back to top](case-study-1918-influenza-pandemic.md)\)\([Next alert](case-study-1918-influenza-pandemic.md#gdcalert8)\)  
-&gt;&gt;&gt;&gt;&gt;
-
-![image\_tooltip](https://github.com/futuremdsvscovid/covid19-curriculum/tree/e2770fb14fae8fc4117e1540d84e1dc485ab474a/module-2-epidemiology-principles/images/Copy-of6.png)
-
-```text
-    [(Image from Arnett, 03.14.2020)](https://www.bostonglobe.com/2020/03/14/metro/100-years-ago-another-epidemic-terrorized-city/)
-```
+![Image from Arnett, Boston Globe 3/2020 - print edition.](https://lh3.googleusercontent.com/jAEqPWzV1MqzAiA7fL6QYnLWRzpxvR4pZO83sXJ964eduG5RApqAkDlPRuSbHfvcAcbrx8HwcNgA2cB8cUOnVNK84qKOt6-lgJBPr5dMMmX20k6GUAcq6FnZtLLM0zX6e2MUA6Tn)
 
 Prior to COVID-19, the 1918 influenza pandemic was the most severe pandemic in recent history. First identified in military personnel in the spring of 1918, the influenza was an H1N1 virus of avian origin. It is commonly referred to by scientists and historians as “the Mother of all Pandemics.” This pandemic is often referred to as the “Spanish Flu” in the lay press, though this name is a misnomer and the virus likely originated elsewhere. Contemporary reporting focused heavily on Spain as it was one of few places at the time that did not have restrictions on the press during World War I.
 
@@ -23,7 +15,7 @@ Prior to COVID-19, the 1918 influenza pandemic was the most severe pandemic in r
   * First wave: March 1918 - Summer 1918
   * Second wave: Fall 1918 \(peak of epidemic\)
   * Third wave: Winter 1918 - Spring 1919
-* According to a 2007 study in the _Internal Journal of Epidemiology_\([Vynnycky et al.](https://www.ncbi.nlm.nih.gov/pubmed/17517812)\)\_,\_the **R**for the 1918 influenza virus was in the range of 1.2-3.0 for community-based settings.
+* According to a 2007 study in the _Internal Journal of Epidemiology_ \([Vynnycky et al.](https://www.ncbi.nlm.nih.gov/pubmed/17517812)\), the **Re** for the 1918 influenza virus was in the range of 1.2-3.0 for community-based settings.
   * The study estimates that in a totally susceptible population, a single infectious case could have led to 2.4-4.3 cases in a community-based setting. 
 * Link out: CDC’s [1918 Pandemic Influenza Historic Timeline](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/pandemic-timeline-1918.htm)
 
@@ -54,18 +46,16 @@ California governor William Stephens declared it the “patriotic duty of every 
 
 San Francisco did well in the second wave of the epidemic through the fall of 1918. When the third wave struck in January 1919, businesses and theater owners fought back against closings, as they believed masks were what saved them the first time. The 2007 NIH analysis found that **if San Francisco had kept up the same flu protections in the third wave as it did in the second wave, it could have reduced deaths by 90%.**
 
-```text
-**CORE TEXT: Barry, J. [The Single Most Important Lesson From the 1918 Influenza](https://www.nytimes.com/2020/03/17/opinion/coronavirus-1918-spanish-flu.html). New York Times, (March 17, 2020)**
-```
+**CORE TEXT: Barry, J.** [**The Single Most Important Lesson From the 1918 Influenza**](https://www.nytimes.com/2020/03/17/opinion/coronavirus-1918-spanish-flu.html)**. New York Times, \(March 17, 2020\).**
 
 Supplementary reading:
 
 * “[How U.S. Cities Tried to Halt the Spread of the 1918 Spanish Flu](https://www.history.com/news/spanish-flu-pandemic-response-cities),” Dave Roos. History.com \(March 11, 2020\)
 * “[The effect of public health measures on the 1918 influenza pandemic in U.S. cities](https://www.pnas.org/content/104/18/7588),” M. C. J. Bootsma and N. M. Ferguson. PNAS \(May 1, 2007\). 
 * _The Great Influenza: The Story of the Deadliest Pandemic in History_, John Barry \(2004\). 
-* \_Global Flu and You: A History of Influenza, \_George Dehner \(2012\). 
+* _Global Flu and You: A History of Influenza_, George Dehner \(2012\). 
 
-## _Thought Questions:_
+_Thought Questions:_
 
 1. If you were a public health official in the early 1900s trying to determine what the cause of the outbreak was, what methods would you use to find the answer? \(Assume you can only use resources available from the early 1900s\)
 2. How could public health officials in San Francisco have probed deeper into whether it was gauze face masks that reduced transmission or closing of public spaces?
