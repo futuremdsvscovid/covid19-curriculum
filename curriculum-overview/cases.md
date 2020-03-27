@@ -9,11 +9,9 @@ description: >-
 
 ## Case 1: Brian
 
-Brian is a healthy, 22 year-old college senior in Boston who just received a 5-day notice to pack up his dorm room belongings, say goodbye to his friends, and return home. He posts on Twitter about being mad at the administration for taking such “ridiculous measures” and “ruining his senior spring.” He has been looking forward to walking at graduation with his friends all year and now the school has made it “virtual.” To celebrate these last few days of school, he goes out to dinner with his roommates and is surprised when the restaurant is basically empty. He is convinced the chances he’ll get COVID-19 are miniscule--there’s only a few dozen cases in Boston--and even if he does, he’ll be asymptomatic. People are overreacting, he thinks to himself. It’s just a bad cold, right?  
+Brian is a healthy, 22 year-old college senior in Boston who just received a 5-day notice to pack up his dorm room belongings, say goodbye to his friends, and return home. He posts on Twitter about being mad at the administration for taking such “ridiculous measures” and “ruining his senior spring.” He has been looking forward to walking at graduation with his friends all year and now the school has made it “virtual.” To celebrate these last few days of school, he goes out to dinner with his roommates and is surprised when the restaurant is basically empty. He is convinced the chances he’ll get COVID-19 are miniscule--there’s only a few dozen cases in Boston--and even if he does, he’ll be asymptomatic. People are overreacting, he thinks to himself. It’s just a bad cold, right?
 
-
-He puts on a brave face, but inside he is really concerned. He doesn’t have a place to live after graduation and was planning on staying with his grandmother, Diane, until he earned enough money to pay rent. Now he’s being told he can’t move in with her because of the dangers he may pose to her. On top of that, he has no earnings, student debt, and a post-grad job that is on indefinite hold.   
-
+He puts on a brave face, but inside he is really concerned. He doesn’t have a place to live after graduation and was planning on staying with his grandmother, Diane, until he earned enough money to pay rent. Now he’s being told he can’t move in with her because of the dangers he may pose to her. On top of that, he has no earnings, student debt, and a post-grad job that is on indefinite hold. 
 
 The next day, he notices that a few people have commented on his insta-story from last night at dinner with his friends, reprimanding him for being irresponsible and not “socially distancing.” Brian feels like they are acting holier-than-thou and is frustrated that they don’t understand everything he is going through right now. 
 
