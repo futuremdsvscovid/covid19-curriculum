@@ -24,5 +24,5 @@ Now that you’ve bolstered your COVID-19 knowledge, prepare to productively com
 
 \*\*\*\*[**Module 5: Training for Medical Student-Specific Roles**](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles)\*\*\*\*
 
-This forthcoming module will address some of the practical skills that students may require as they are called upon to fill new clinical roles.
+Prepare for potential clinical roles in the COVID-19 response in healthcare facilities.
 
