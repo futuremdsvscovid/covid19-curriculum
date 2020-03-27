@@ -2,7 +2,7 @@
 description: 'Click the links below to view downloadable one-page summaries of each module:'
 ---
 
-# Module Summary Documents
+# One-Page Summaries
 
 \*\*\*\*[**Module 1: From Bench to Bedside**](https://docs.google.com/document/d/1wf66ssePqEXIfnxUQ_wXs7kpVar4XufOkjO4wk-q9lU/edit?usp=sharing)\*\*\*\*
 
@@ -12,5 +12,5 @@ description: 'Click the links below to view downloadable one-page summaries of e
 
 \*\*\*\*[**Module 4: Communicating Information about COVID-19**](https://docs.google.com/document/d/1QM3Xr9yIl3k7thI4d7EnC4_5zGpwjRnJZj7gZBSJbPY/edit?usp=sharing)\*\*\*\*
 
-**\[Module 5: Training for Medical Student-Specific Roles\]**
+\*\*\*\*[**Module 5: Training for Potential Clinical Roles**](https://docs.google.com/document/d/1H87Re6p_V7_sIyPZqTRYYJa5Bns-gptcyH4AvuXByqo/edit?usp=sharing)\*\*\*\*
 

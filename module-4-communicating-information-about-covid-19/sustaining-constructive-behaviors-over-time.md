@@ -10,7 +10,7 @@ Recall the 6 stages of change discussed in the ICS curriculum \([Levinson et al.
 
 _Thought Question_: 
 
-* With this framework in mind, how would you start a conversation with [**Brian**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) about social distancing? How would you start a conversation with [**Diane**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) about social distancing?
+* With this framework in mind, how would you start a conversation with [**Brian**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases#case-1-brian) about social distancing? How would you start a conversation with [**Diane**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases#case-2-diane) about social distancing?
 
 ## Motivational Interviewing
 

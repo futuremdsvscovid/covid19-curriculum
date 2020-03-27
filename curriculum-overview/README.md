@@ -2,7 +2,9 @@
 
 ## How To Use This Curriculum
 
-We want these lessons to be as widely helpful as possible.  Given the range of circumstances in which medical students may find themselves right now, we do not have a single approach in mind.  For those with the time, we suggest you proceed through the modules start-to-finish, ideally spaced over two or more sittings. However, for those with more urgent needs, the modules are stand-alone, and you can selectively access content on an as-needed basis.  The subsequent overarching goals, learning objectives, and table of contents may help you locate content that is most important. Many modules reference supplemental resources that may be worth accessing in the future, either in anticipation of specific patient interactions or simply to find the most current statistics of the pandemic.  Also included in this sheet are one-page summaries of each module’s key takeaways.
+We want these lessons to be as widely helpful as possible.  Given the range of circumstances in which medical students may find themselves right now, we do not have a single approach in mind.  For those with the time, we suggest you proceed through the modules start-to-finish, ideally spaced over two or more sittings. However, for those with more urgent needs, the modules are stand-alone, and you can selectively access content on an as-needed basis.  The subsequent learning objectives and table of contents may help you locate content that is most important. 
+
+Many modules reference supplemental resources that may be worth accessing in the future, either in anticipation of specific patient interactions or simply to find the most current statistics of the pandemic.  Also included on this website are one-page summaries of each module’s key takeaways.
 
 ## Learning goals
 
@@ -22,7 +24,17 @@ Appreciate the complex and rapidly changing landscape of the COVID-19 pandemic a
 
 Now that you’ve bolstered your COVID-19 knowledge, prepare to productively communicate that information, especially with a non-medical audience who may have varying attitudes towards the pandemic.
 
-**\[Module 5: Clinical Role-Specific Skills\]**
+\*\*\*\*[**Module 5: Training for Potential Clinical Roles**](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles)\*\*\*\*
 
-This forthcoming module will address some of the practical skills that students may require as they are called upon to fill new clinical roles.
+Develop technical know-how in preparation for roles that medical students may play in the clinical setting.
+
+**Module 6: Medical Ethics Related to COVID-19**
+
+_To be released soon_
+
+**Module 7: Global Health**
+
+_To be released soon_
+
+
 
