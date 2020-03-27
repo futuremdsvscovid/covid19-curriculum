@@ -70,11 +70,7 @@ The face shield is a good option for eye protection if you wear glasses. The ext
 
 **Reuse of Disposable Safety Glasses**
 
-Disposable safety glasses consist of a plastic frame \(blue section in picture\) and an eye shield lens. The lens must be removed from the frame to adequately clean the glasses. This type of safety glasses can be worn over personal prescription glasses.
-
-![](https://lh5.googleusercontent.com/tZyqH2kJIj_wfbOA4klRgBLds5tmlEfC4dzFlEEyOo4ZmEHpwYcmcE7vgryz_EkPV3VRAgfArlkdWem0Yh2pO_kq9axNg9n5seqSWRvMAoOM54Jm-A9FY0v3mW8hFWUd9P2hfB8R)
-
-
+Disposable safety glasses consist of a plastic frame \(blue section in picture\) and an eye shield lens. The lens must be removed from the frame to adequately clean the glasses. This type of safety glasses can be worn over personal prescription glasses.![](https://lh5.googleusercontent.com/tZyqH2kJIj_wfbOA4klRgBLds5tmlEfC4dzFlEEyOo4ZmEHpwYcmcE7vgryz_EkPV3VRAgfArlkdWem0Yh2pO_kq9axNg9n5seqSWRvMAoOM54Jm-A9FY0v3mW8hFWUd9P2hfB8R)
 
 _Option 1: if replacement eye shields are NOT available_
 
@@ -225,15 +221,9 @@ MGH has published videos outlining and modeling the use reuse of [N95 respirator
 
 ### Beth Israel \(BILH\) Guidelines 
 
-Beth Israel has provided all guidelines under a [COVID-19 Information and Materials](https://www.bilh.org/covid19-information-assets) section of their website, updated frequently. Guidelines include:
+Beth Israel has provided all guidelines under a [COVID-19 Information and Materials](https://www.bilh.org/covid19-information-assets) section of their website, updated frequently. Guidelines include: [PPE recommendations](https://static1.squarespace.com/static/5c5b3374ca525b57bb9b3e4d/t/5e6992213d430e6e35aa5b99/1583976993771/BILH+COVID-19+PPE+Grid+by+Location.pdf) for providers and patients depending on location \(inpatient vs ambulatory setting\). 
 
-[PPE recommendations](https://static1.squarespace.com/static/5c5b3374ca525b57bb9b3e4d/t/5e6992213d430e6e35aa5b99/1583976993771/BILH+COVID-19+PPE+Grid+by+Location.pdf) for providers and patients depending on location \(inpatient vs ambulatory setting\). 
-
-[Reuse policies](https://static1.squarespace.com/static/5c5b3374ca525b57bb9b3e4d/t/5e6da511ea160c0c82a63970/1584243985185/BILH+PPE+Reuse+Procedure+for+Respiratory+Evaluation+Units_Urgent+Care_Emergency+Department.pdf) for gowns, surgical masks, and eye protection.
-
- [Reuse instructions](https://covid-19.bilh.org/wp-content/uploads/2020/03/BILH-N95-Reuse-Procedure_3.18.20-2.pdf) for N95 respirators.
-
- [Reuse instructions](https://covid-19.bilh.org/wp-content/uploads/2020/03/BILH-Eye-Protection-Reuse-Guideline_3.20.20.pdf) for eye protection.  
+[Reuse policies](https://static1.squarespace.com/static/5c5b3374ca525b57bb9b3e4d/t/5e6da511ea160c0c82a63970/1584243985185/BILH+PPE+Reuse+Procedure+for+Respiratory+Evaluation+Units_Urgent+Care_Emergency+Department.pdf) for gowns, surgical masks, and eye protection. [Reuse instructions](https://covid-19.bilh.org/wp-content/uploads/2020/03/BILH-N95-Reuse-Procedure_3.18.20-2.pdf) for N95 respirators. [Reuse instructions](https://covid-19.bilh.org/wp-content/uploads/2020/03/BILH-Eye-Protection-Reuse-Guideline_3.20.20.pdf) for eye protection.  
 
 
 _Thought questions:_
