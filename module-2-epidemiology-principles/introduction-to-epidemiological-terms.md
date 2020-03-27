@@ -2,6 +2,8 @@
 
 ## Introduction to Epidemiological Terms
 
+### Descriptors of Disease Spread
+
 **Attack Rate/Ratio:** Refers to the \(number of new cases of disease\)/\(population at risk\) during a specified time interval. Generally, the time interval here is defined as “the duration of the outbreak”. \([CDC](https://www.cdc.gov/csels/dsepd/ss1978/glossary.html)\)
 
 **R0 \(basic reproduction number or “R naught”\):** Refers to the estimated contagiousness of an infectious agent and is affected by its biological features as well as human behaviors. Generally, it refers to the average number of people an infectious person is expected to infect in an entirely susceptible population \(i.e., no immunity or vaccination\). For this reason, R0 is by definition unaffected by vaccination but it can change over time and place and is not a constant of the disease \(i.e., an outbreak of a disease can have a different R0 the second time there is an outbreak in the same place if population density is higher.\). R0 can also be defined as R0= probability of transmission per contact  _contact rate_  duration of infectiousness. \([CDC](https://wwwnc.cdc.gov/eid/article/25/1/17-1901_article)\)
@@ -19,6 +21,16 @@
 ![Adapted from Giesecke, J. Modern Infectious Disease Epidemiology. 2002.](https://lh6.googleusercontent.com/JuXtFn-a7Bq8rz5QTO0taFwFNFbHKmHSDGwUm4ZWQu5OBytoraQTTQ_BwHOEp9x7lA5ePxJl5FwD7tY0TmHg3vCoozyQ7qj7eZkBmmMmYBuoDaSNIEwT9HsU3fsodKfUIaCLp3Wr)
 
 **Community transmission:** Refers to transmission occurring between people within the same community. This phenomenon is separate from people acquiring the infection while traveling or due to close contact with someone who visited an area with the infection as it implies that there are unknown cases spreading the infection locally. \([CDC](https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf)\)
+
+### Non-Pharmaceutical Interventions: Containment
+
+**Contact tracing:** An intervention in which close contacts of known cases are traced, notified of their potential exposure, and encouraged to self-quarantine. Relies on speedy testing and significant effort for each case.
+
+**Quarantine:** An intervention that separates and restricts the movement of people who were exposed to a contagious disease to see if they become sick. Individuals can also choose to self-quarantine. \([CDC](https://www.cdc.gov/quarantine/index.html)\) 
+
+**Isolation:** Separation of sick people with a contagious disease from those who are not sick. Individuals can also choose to self-isolate. \([CDC](https://www.cdc.gov/quarantine/index.html)\)
+
+### Non-Pharmaceutical Interventions: Mitigation
 
 **Social distancing:** A [public health practice](https://hub.jhu.edu/2020/03/13/what-is-social-distancing/) that aims to prevent sick people from coming in close physical contact with healthy people in order to reduce opportunities for disease transmission. It can include large-scale measures like canceling group events or closing public spaces, as well as [individual decisions](https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4), such as avoiding crowds. The goal of these interventions is to avoid infecting high-risk populations and “flatten the curve”.
 

@@ -1,2 +1,34 @@
 # Where Are We Now?
 
+The following is a set of basic figures about the epidemic as a snapshot, which will be updated in this document as we receive new information.
+
+### Case Numbers
+
+* Simple [map](https://www.cnn.com/2020/03/03/health/us-coronavirus-cases-state-by-state/index.html?utm_term=image&utm_content=2020-03-16T18:50:07&utm_medium=social&utm_source=twCNN) of the US
+* More complete global [map](https://coronavirus.jhu.edu/map.html) and associated [publication](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2820%2930120-1/fulltext) from Johns Hopkins, featuring data from a variety of sources.
+* Additional [maps and resources](http://www.cidrap.umn.edu/covid-19/maps-visuals)
+
+Reported cases **underestimate** the total number of cases due to the incubation period, asymptomatic carriers, limited testing availability, and delays in receiving testing results after the initial onset of symptoms. The following resource is an excellent explanation of this phenomenon working from data publicly available in early March.
+
+**CORE TEXT:** [**Pueyo - Coronavirus: Why You Must Act Now. 3/10/20. Medium.**](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+
+**It is estimated that for every 1 case that is reported, there are at least 10-50 other cases that we don’t know about.** So when you hear “confirmed cases”, mentally multiply that number by 10 to have an idea of the disease incidence \([NYTimes U.S. Coronavirus Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html), [Lipsitch M. Presentation 3.16.20](https://drive.google.com/file/d/1VvRoIRi8GjatUhlaWh0BAYRC-yemi3pv/view?usp=sharing)\). For more on these principles, here is a supplementary [video](https://www.youtube.com/watch?v=mCa0JXEwDEk) on how to accurately estimate actual COVID-19 cases based on reported data.
+
+### Case Fatality Rate
+
+Overall, it seems that patients infected with SARS-CoV-2 have a **1-2% chance of dying** worldwide \(as of 3/16/2020\). This case fatality rate rate increases substantially with age and certain comorbidities \(see [Module 1](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside/clinical-presentation-of-covid-19#risk-stratification) for more information\). It is important to note that since it takes 1-2 weeks for newly infected patients to develop symptoms, there is a corresponding 1-2 week delay to see the effect of new interventions on disease infection and mortality rates \([Fauci et. al. 2.28.2020](https://www.nejm.org/doi/full/10.1056/NEJMe2002387); [Lipsitch M. Presentation 3.16.20](https://drive.google.com/file/d/1VvRoIRi8GjatUhlaWh0BAYRC-yemi3pv/view?usp=sharing)\).
+
+### Asymptomatic Transmission
+
+Recall that the **latent \(presymptomatic\) period**, or time from exposure to transmissibility, can differ from the **incubation period,** or time from exposure to first symptoms \(see figure below, from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Concept_of_incubation_period.svg/330px-Concept_of_incubation_period.svg.png)\). Several sources of evidence suggest SARS-CoV-2 has a shorter latent period than incubation period, **opening the door for presymptomatic transmission**. Current estimates of the SARS-CoV-2 incubation period, from initial exposure to symptom onset, range from 1-14 days with a **median of 5-7.5 days \(** [Bi et al. 03.03.2020](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.full.pdf); [Tapiwa et al. 03.05.2020](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1.full.pdf)\) and 95th percentile of 12 days \([Lauer et al., Ann Intern Med 2020](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported); [Li et al., NEJM 2020](https://www.nejm.org/doi/10.1056/NEJMoa2001316?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov)\). Meanwhile, analyses of infector-infectee pairs show a mean serial interval of 4.0 days \[95% CI 3.1, 4.9\] \([Nishiura et al, Int J Infect Dis., 3.4.20](https://www.ncbi.nlm.nih.gov/pubmed/32145466)\). **Generation intervals** in case clusters in Tianjin, China are estimated to be **3.95 \[95% CI 3.01-4.91\] days** and in Singapore to be **5.20 \[95% CI 3.68-6.78\] days** \([Tapiwa et al., medRxiv preprint, 3/2020](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1.full.pdf)\). ****Put together, these estimates imply a period of presymptomatic transmissibility. 
+
+It is becoming increasingly clear that **most new confirmed COVID-19 cases \(an estimated 79%, from models based on data from Wuhan\) are likely spread by people that show mild or no symptoms of the disease** \([Ruiyan et al. Science 3.16.20](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)\). Similarly, data from case clusters in Tianjin, China and Singapore give rise to estimates of 48-77% asymptomatic transition \([Tapiwa et al. 3/2020](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1.full.pdf)\). **Social isolation, especially of young, healthy, asymptomatic people, will be critical to controlling disease spread.**
+
+Patients may be able to transmit the virus for a prolonged period of time, , as SARS-CoV-2 RNA has been detected in patients for an average of20 days, lasting as long as 37 days \(\[Zhou et al., Lancet 2020\]\([https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30566-3/fulltext\#seccestitle10](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930566-3/fulltext#seccestitle10)\)\). However, detection of RNA does not necessarily indicate the presence of live virus, and it is still unclear for how many days patients remain infectious.
+
+![A difference between latent period and incubation period can lead to a period of asymptomatic communicability. The period of communicability may also extend beyond the duration of symptoms. Figure from Wikimedia, contributor Patilsaurabhr.](https://lh5.googleusercontent.com/uc-9xhbQCaLFcv4TbrhLg3MQD98NDX6FH3fpQ779NCTQ6BgcZWVSN9ACpDp11orFcjndq9-eMFplm_ynPcp202nhH73Asa79JHVluGPv6Z7IHQfvACUzJag_B7cboXYEPy8vJGEJ)
+
+_Thought Question:_
+
+How would you talk with **Brian** about the importance of speedy social distancing, including with peers? \(For a more extensive dive into this task, stay tuned for [Module 4](https://docs.google.com/document/d/1DSr-3wzw9eEMbfbmVtZEAMUS4C-m9Zu6FeA_CIAxi54/edit#).\)
+
