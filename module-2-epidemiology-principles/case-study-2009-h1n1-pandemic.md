@@ -2,7 +2,7 @@
 
 While certain comparisons can be drawn to the H1N1 outbreak in 2009, it is important to remember key distinctions between H1N1 and SARS-CoV-2. Certainly, the public health measures implemented to prevent COVID-19 have been far more widespread and disruptive to normal life than the H1N1 outbreak. To understand why these measures have been different, a short background on H1N1 is needed. 
 
-### **Fast Facts about the 2009 Flu**
+### **Fast Facts About the 2009 Flu**
 
 A novel influenza A \(H1N1\) virus emerged in the spring of 2009. This virus, designated as \(H1N1\)pdm09 \(colloquially called the 2009 swine flu\), was very different from other H1N1 strains circulating at the time. Very few young people had pre-existing immunity to the virus, but nearly ⅓ of people over age 60 had antibodies against \(H1N1\)pdm09, suggesting exposure to an older H1N1 earlier in their lives. The [CDC estimates](https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html) that in the United States, from April 12, 2009 and April 10, 2010, the \(H1N1\)pdm09 virus led to: 
 
