@@ -12,11 +12,9 @@ While as recently as 3/18, Massachusetts only had the ability to test 400 patien
 
 _Thought questions:_
 
-Based on what you have learned from [Modules 1](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside) and [2](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles), for whom would you recommend PCR testing in an ideal resource situation?
-
-With limited testing resources, who should be tested?
-
-As we increase testing capacity, which individuals should be the first to be added to testing criteria?
+* Based on what you have learned from [Modules 1](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside) and [2](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles), for whom would you recommend PCR testing in an ideal resource situation?
+* With limited testing resources, who should be tested?
+* As we increase testing capacity, which individuals should be the first to be added to testing criteria?
 
 ## Testing Eligibility
 
@@ -28,22 +26,20 @@ Per MA DPH guidelines, all persons under investigation for COVID-19 should self-
 
 _Thought question:_ 
 
-Do you agree with the testing guidelines of the Massachusetts Department of Public Health? \(This is an area of active controversy!\)
-
-What high-risk groups might be missing from these categories?
+* Do you agree with the testing guidelines of the Massachusetts Department of Public Health? \(This is an area of active controversy!\)
+* What high-risk groups might be missing from these categories?
 
 While the MA DPH guidelines are being followed locally, other institution-specific testing guidelines approach eligibility from a purely clinical view, rather than an epidemiological one. Especially for _inpatients_ with severe disease, these guidelines may incorporate additional workup, including signs \(SpO2 &lt;93%\), and/or pertinent positive or negative laboratory findings \(lymphopenia, negative procalcitonin\) and imaging findings \(bilateral pneumonia on chest X-ray or bilateral ground-glass opacities on CT\). Additional workup for _outpatients_ may be costly, however, and carry the potential for disease transmission to healthcare workers and other patients in that healthcare facility. The differences in these guidelines emphasize the “art” of medicine.
 
 _Thought questions:_
 
-How would increased testing help or hinder the healthcare system response to COVID-19?
-
-What factors would be important to consider in implementing a widespread testing protocol for asymptomatic individuals? How might you weigh test characteristics, clinical management strategies, risks of testing, and economic implications?
+* How would increased testing help or hinder the healthcare system response to COVID-19?
+* What factors would be important to consider in implementing a widespread testing protocol for asymptomatic individuals? How might you weigh test characteristics, clinical management strategies, risks of testing, and economic implications?
 
 ## Telephone Triage and Drive-Through Testing
 
 Many strategies are being implemented to limit transmission of SARS-CoV-2 from those awaiting testing to other patients in healthcare waiting rooms or healthcare workers themselves. Often, patients are screened remotely, using the above guidelines, via virtual visit or telephone. Exact triage protocol varies by institution. For those who are determined to require testing, some institutions are developing “[drive-through](https://www.nytimes.com/2020/03/17/nyregion/new-rochelle-coronavirus-testing.html)” testing capabilities to further limit exposure. As of 3/18, drive-through testing for patients who meet certain criteria by telephone triage is available in Massachusetts at several sites including [Atrius Health](https://www.wbur.org/commonhealth/2020/03/17/drive-through-coronavirus-tests-boston) in Fenway, Peabody, and Braintree; Beth Israel Deaconess Medical Center; [Cambridge Health Alliance](https://www.nbcboston.com/news/local/remote-coronavirus-testing-facilities-begin-to-open-in-mass/2093138/) in Somerville; Brigham and Women’s Hospital at multiple sites; and multiple sites in Cape Cod and Worcester. As of 3/25, more drive through testing centers have been added including [Southcoast Health](https://www.southcoasttoday.com/news/20200323/southcoast-health-opens-first-drive-through-covid-19-testing-site-in-region), in [Waltham,](https://whdh.com/news/waltham-opens-drive-thru-coronavirus-testing-site/) at AFC Urgent Care and [CVS](https://www.cnbc.com/2020/03/19/coronavirus-cvs-opens-its-first-drive-up-testing-site-in-massachusetts.html) in Shrewsbury for first responders. **The list of available drive-through testing sites is growing daily, and institutions will notify their healthcare personnel and patients.** All healthcare workers must wear droplet precaution personal protective equipment when obtaining respiratory specimens and N95 respirators and eyewear if there is a risk of aerosolization of droplets during specimen collection \(e.g. bronchoalveolar lavage\).
 
-Finally, it is important to note that RT-PCR testing of respiratory samples is imperfect. One estimate of this test’s sensitivity is around 70% \([Xia et al, 2020](https://pubs.rsna.org/doi/full/10.1148/radiol.2020200642)\). Serological tests are also being developed to aid in diagnosis and detection of prior infection with COVID-19, though they are not considered to be the gold standard. [CRISPR-based testing](https://www.nature.com/articles/d41586-020-00827-6), a more rapid technique that could also reduce turnaround time, is being developed at the University of Washington School of Medicine, the Broad Institute, and Mammoth Biosciences. Chest CT may aid in diagnosis, though this modality is not recommended as the first line. See [Module 1](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside) for more information.  
+Finally, it is important to note that RT-PCR testing of respiratory samples is imperfect. One estimate of this test’s sensitivity is around 70% \([Xia et al, 2020](https://pubs.rsna.org/doi/full/10.1148/radiol.2020200642)\). Serological tests are also being developed to aid in diagnosis and detection of prior infection with COVID-19, though they are not considered to be the gold standard. [CRISPR-based testing](https://www.nature.com/articles/d41586-020-00827-6), a more rapid technique that could also reduce turnaround time, is being developed at the University of Washington School of Medicine, the Broad Institute, and Mammoth Biosciences. Chest CT may aid in diagnosis, though this modality is not recommended as the first line. See sections from Module 1 regarding [Immunoassays](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside/clinical-presentation-of-covid-19#immunoassays) and [CRISPR](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside/clinical-presentation-of-covid-19#crispr) for more information.  
 
 
