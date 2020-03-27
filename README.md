@@ -1,6 +1,6 @@
 # Medical Student COVID-19 Curriculum
 
-### Introduction
+## Introduction
 
 On March 15, a group of students at Harvard Medical School created a Response Team to organize their efforts against the COVID-19 pandemic.  They identified two main opportunities for impact: education and activism. Education efforts have resulted in this curriculum intended for the medical community and a public-facing social media campaign \(see @FutureMDvsCOVID\).  Activism work has involved coordinating ways that students can provide on-the-ground help in both the community and clinical settings. For inquiries about the HMS COVID-19 Student Response Team’s efforts, please contact: [hmscovid19studentresponse@gmail.com](mailto:hmscovid19studentresponse@gmail.com).
 
@@ -18,11 +18,11 @@ Michael Kochis, EdM
 
 Education Committee Leader, HMS COVID-19 Student Response Team 
 
-### How to use this curriculum
+## How to use this curriculum
 
 We want these lessons to be as widely helpful as possible.  Given the range of circumstances in which medical students may find themselves right now, we do not have a single approach in mind.  For those with the time, we suggest you proceed through the modules start-to-finish, ideally spaced over two or more sittings. However, for those with more urgent needs, the modules are stand-alone, and you can selectively access content on an as-needed basis.  The subsequent overarching goals, learning objectives, and table of contents may help you locate content that is most important. Many modules reference supplemental resources that may be worth accessing in the future, either in anticipation of specific patient interactions or simply to find the most current statistics of the pandemic.  Also included in this sheet are one-page summaries of each module’s key takeaways.
 
-### Learning goals
+## Learning goals
 
 \*\*\*\*[**Module 1: From Bench to Bedside**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside)\*\*\*\*
 
