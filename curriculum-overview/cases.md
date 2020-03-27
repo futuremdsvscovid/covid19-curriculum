@@ -1,8 +1,8 @@
 ---
 description: >-
-  To help you link this curriculum’s clinical, epidemiological, and social
+  To help link this curriculum’s clinical, epidemiological, and social
   principles into real-world human narratives, the modules will repeatedly
-  reference two characters.  We’d like to introduce you
+  reference two characters. We’d like to introduce them now:
 ---
 
 # Cases
