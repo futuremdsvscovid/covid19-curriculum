@@ -6,11 +6,11 @@
 
 Personal protective equipment \(PPE\) is designed to protect the wearer from illness or injury due to contact with occupational hazards, such as dangerous chemicals, radioactive materials, or infectious biological agents. PPE may include items such as gloves, goggles, shoe covers, helmets, respirators, masks, gowns, or full body suits \([Occupational Safety and Health Administration](https://www.osha.gov/SLTC/personalprotectiveequipment/)\).
 
-## Importance of PPE
+## Importance of PPE:
 
 Medical professionals commonly use PPE in the inpatient and outpatient settings, as well as in clinical laboratories. Correct use successfully creates a barrier between the wearer’s skin and potentially infectious materials such as patients’ bodily fluids, thereby stopping transmission of bacterial or viral pathogens. Patients at high risk for contracting infections, such as those with significant cardiopulmonary comorbidities or an immunodeficiency, can also use PPE to protect themselves from exposure to infectious agents brought in by visitors or healthcare workers. Correct use of PPE, in combination with other infection control practices \(e.g. washing hands, using alcohol-based hand sanitizers, covering coughs and sneezes\), reduces the spread of infection \([FDA](https://www.fda.gov/medical-devices/general-hospital-devices-and-supplies/personal-protective-equipment-infection-control)\).
 
-The [CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html) provides clear guidelines concerning the selection and use of PPE in healthcare settings for both patients and healthcare personnel. Significantly, staff caring for patients with confirmed or suspected COVID-19 should wear a gown, gloves, eye protection, and a mask. Currently, many institutions are reserving N95 masks for aerosolizing procedures due to the limited stock. 
+The [CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html) provides clear guidelines concerning the selection and use of PPE in healthcare settings for both patients and healthcare personnel. Significantly, staff caring for patients with confirmed or suspected COVID-19 should wear a gown, gloves, eye protection, and a mask. Currently, many institutions are reserving   N95 masks for aerosolizing procedures due to the limited stock. 
 
 ![https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Coronavirus/MSHS-COVID-19-PPE-Practices.pdf](https://lh6.googleusercontent.com/_6Mfa87rbMgfESFKkzUyDCJ50yG2FyMZgwMPGqw64Nxv7U3oXwLv5bbOjXHS4JgGZ3aWZbbax_1LMZttXxCdSUkuGuJqa7gNc4X9Qayvjg1jR5tRhOL35Z00G2HSmMhNHfaxDnN3)
 
@@ -18,7 +18,7 @@ Healthcare organizations may further delineate the circumstances as to when whic
 
 ![](https://lh4.googleusercontent.com/_1Kw0lsUJLwWys7VSOAbYE5MzU5ge-9N3NGN8kSak_SjSnVGa09rep9Z8oXa2VAcFeNEmMAuK5Cxypn1Tti28HH8akQKmLfzBEC0zGraTeteGcc7MZI9fSGoIpN6ksR7YsPIs8xf)
 
-## Current Status/Shortage
+## Current Status / Shortage
 
 As the COVID-19 outbreak continues to expand globally, the supply chain for PPE will continue to be stressed if demand exceeds available supplies \([FDA](http://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/faqs-shortages-surgical-masks-and-gowns)\).  
 
@@ -26,20 +26,16 @@ The FDA [recommends strategies](https://www.fda.gov/medical-devices/letters-heal
 
 Due to shortages, new terminology is arising regarding extension or re-use of PPE: 
 
-**Extended Use**: wearing PPE without removal or redonning between patients. 
+Extended Use: wearing PPE without removal or redonning between patients. 
 
-**Re-Use**: removal and reuse of PPE between patients. 
+Re-Use: removal and reuse of PPE between patients. 
 
 The current shortage has led many healthcare organizations to consider different avenues of conserving supplies to meet the needs of their staff, such as community donations. Furthermore, hospitals including Massachusetts General Hospital, Brigham and Women’s Hospital, and Beth Israel Deaconess Medical Center have instituted new policies, such as requiring universal face masks for all workers to be worn throughout the day for all cases, as the situation continues to evolve. See [current FDA recommendations](https://www.fda.gov/medical-devices/letters-health-care-providers/surgical-mask-and-gown-conservation-strategies-letter-healthcare-providers) for conservation recommendations for crisis situations.   
 
 
-_Thought questions:_
+Thought questions:
 
-Your community hospital has been experiencing greater pressures on conserving the necessary protective equipment as well as personnel to help combat the virus. You receive an email requesting opportunities to help. Which PPE would the hospital need? 
-
-What are some strategies to help provide enough protective attire to healthcare workers? 
-
-What are some FDA approved alternatives/options?
+Your community hospital has been experiencing greater pressures on conserving the necessary protective equipment as well as personnel to help combat the virus. You receive an email requesting opportunities to help. Which PPE would the hospital need? What are some strategies to help provide enough protective attire to healthcare workers? What are some FDA approved alternatives/options?
 
 ## PPE Training
 
@@ -74,11 +70,7 @@ The face shield is a good option for eye protection if you wear glasses. The ext
 
 **Reuse of Disposable Safety Glasses**
 
-Disposable safety glasses consist of a plastic frame \(blue section in picture\) and an eye shield lens. The lens must be removed from the frame to adequately clean the glasses. This type of safety glasses can be worn over personal prescription glasses.
-
-![](https://lh5.googleusercontent.com/tZyqH2kJIj_wfbOA4klRgBLds5tmlEfC4dzFlEEyOo4ZmEHpwYcmcE7vgryz_EkPV3VRAgfArlkdWem0Yh2pO_kq9axNg9n5seqSWRvMAoOM54Jm-A9FY0v3mW8hFWUd9P2hfB8R)
-
-
+Disposable safety glasses consist of a plastic frame \(blue section in picture\) and an eye shield lens. The lens must be removed from the frame to adequately clean the glasses. This type of safety glasses can be worn over personal prescription glasses.![](https://lh5.googleusercontent.com/tZyqH2kJIj_wfbOA4klRgBLds5tmlEfC4dzFlEEyOo4ZmEHpwYcmcE7vgryz_EkPV3VRAgfArlkdWem0Yh2pO_kq9axNg9n5seqSWRvMAoOM54Jm-A9FY0v3mW8hFWUd9P2hfB8R)
 
 _Option 1: if replacement eye shields are NOT available_
 
@@ -229,12 +221,10 @@ MGH has published videos outlining and modeling the use reuse of [N95 respirator
 
 ### Beth Israel \(BILH\) Guidelines 
 
-Beth Israel has provided all guidelines under a [COVID-19 Information and Materials](https://www.bilh.org/covid19-information-assets) section of their website, updated frequently. Guidelines include:
+Beth Israel has provided all guidelines under a [COVID-19 Information and Materials](https://www.bilh.org/covid19-information-assets) section of their website, updated frequently. Guidelines include: [PPE recommendations](https://static1.squarespace.com/static/5c5b3374ca525b57bb9b3e4d/t/5e6992213d430e6e35aa5b99/1583976993771/BILH+COVID-19+PPE+Grid+by+Location.pdf) for providers and patients depending on location \(inpatient vs ambulatory setting\). 
 
-* [PPE recommendations](https://static1.squarespace.com/static/5c5b3374ca525b57bb9b3e4d/t/5e6992213d430e6e35aa5b99/1583976993771/BILH+COVID-19+PPE+Grid+by+Location.pdf) for providers and patients depending on location \(inpatient vs ambulatory setting\)
-* [Reuse policies](https://static1.squarespace.com/static/5c5b3374ca525b57bb9b3e4d/t/5e6da511ea160c0c82a63970/1584243985185/BILH+PPE+Reuse+Procedure+for+Respiratory+Evaluation+Units_Urgent+Care_Emergency+Department.pdf) for gowns, surgical masks, and eye protection
-* [Reuse instructions](https://covid-19.bilh.org/wp-content/uploads/2020/03/BILH-N95-Reuse-Procedure_3.18.20-2.pdf) for N95 respirators
-* [Reuse instructions](https://covid-19.bilh.org/wp-content/uploads/2020/03/BILH-Eye-Protection-Reuse-Guideline_3.20.20.pdf) for eye protection
+[Reuse policies](https://static1.squarespace.com/static/5c5b3374ca525b57bb9b3e4d/t/5e6da511ea160c0c82a63970/1584243985185/BILH+PPE+Reuse+Procedure+for+Respiratory+Evaluation+Units_Urgent+Care_Emergency+Department.pdf) for gowns, surgical masks, and eye protection. [Reuse instructions](https://covid-19.bilh.org/wp-content/uploads/2020/03/BILH-N95-Reuse-Procedure_3.18.20-2.pdf) for N95 respirators. [Reuse instructions](https://covid-19.bilh.org/wp-content/uploads/2020/03/BILH-Eye-Protection-Reuse-Guideline_3.20.20.pdf) for eye protection.  
+
 
 _Thought questions:_
 
