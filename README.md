@@ -18,7 +18,7 @@ While our primary audience is our classmates, we suspect the curriculum will be 
 
 ![Countries represented in guest book, created via batchgeo.com](.gitbook/assets/image%20%283%29.png)
 
-The contents in each module were reviewed for accuracy by expert faculty members at the time of initial publication.  We thank them for their attention during this particularly demanding time. However, given our constantly changing understanding of SARS-CoV-2 and the pandemic’s spread in society, the material in this curriculum will need to be updated frequently, and we cannot guarantee the accuracy of the information at any given time.  We plan to update content every Friday.  
+The contents in each module were reviewed for accuracy by expert faculty members at the time of initial publication.  We thank them for their attention during this particularly demanding time. However, given our constantly changing understanding of SARS-CoV-2 and the pandemic’s spread in society, the material in this curriculum will need to be updated frequently, and we cannot guarantee the accuracy of the information at any given time.  We plan to update content every Friday.  Please share your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).
 
 Michael Kochis, EdM
 
