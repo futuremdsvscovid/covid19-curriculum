@@ -51,7 +51,7 @@ Actually implementing social distancing requires fundamentally changing our habi
 
 **CORE TEXT:** [**Bitton, A. Social Distancing: This Is Not a Snow Day**](https://www.ariadnelabs.org/resources/articles/news/social-distancing-this-is-not-a-snow-day/)**, Ariadne Labs, 3.13.20**
 
-**Social Distancing is a Long-Term Intervention**
+## **Social Distancing is a Long-Term Intervention**
 
 Many governors and mayors around the country have implemented policies in recent weeks promoting social distancing for their states/cities \(closing bars and restaurants, moving schooling online, banning public gatherings, etc\). As of March 16th, the CDC and the White House recommended canceling events expected to host at least [10 people](https://www.whitehouse.gov/wp-content/uploads/2020/03/03.16.20_coronavirus-guidance_8.5x11_315PM.pdf). Some cities, such as San Francisco, have already implemented or are strongly considering shelter-in-place precautions for their citizens, meaning that individuals must stay home except to conduct essential activities related to health, work, food and exercise. These initiatives help to flatten the curve, decreasing the peak number of COVID cases and increasing the length of the pandemic. Yet they come at a substantial economic and social cost, including increased rates of unemployment, which will likely in themselves impact population health in the long-term.
 
