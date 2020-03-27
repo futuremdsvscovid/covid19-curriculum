@@ -2,7 +2,7 @@
 description: 'Click the links below to view downloadable one-page summaries of each module:'
 ---
 
-# One-Page Summaries
+# Module Summary Documents
 
 \*\*\*\*[**Module 1: From Bench to Bedside**](https://docs.google.com/document/d/1wf66ssePqEXIfnxUQ_wXs7kpVar4XufOkjO4wk-q9lU/edit?usp=sharing)\*\*\*\*
 

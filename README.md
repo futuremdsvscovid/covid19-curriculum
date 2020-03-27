@@ -12,7 +12,7 @@ This curriculum was entirely written and compiled by Harvard Medical School stud
 
 While our primary audience is our classmates, we suspect the curriculum will be of use to other medical students and health professionals around the world.  We encourage you to share these materials with anyone whom you believe may benefit from them. If you are from outside the HMS community, welcome.  
 
-We invite you to sign the [guest book](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) so we can track this material’s reach.
+We invite you to sign the [guest book](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) so we can track this material’s reach.  As of March 27, it has been accessed by users in 65 countries across six continents!
 
 The contents in each module were reviewed for accuracy by expert faculty members at the time of initial publication.  We thank them for their attention during this particularly demanding time. However, given our constantly changing understanding of SARS-CoV-2 and the pandemic’s spread in society, the material in this curriculum will need to be updated frequently, and we cannot guarantee the accuracy of the information at any given time.  A date stamp is included at the bottom right of each page to indicate how recently the material was revisited. We plan to update content every Friday.  
 
