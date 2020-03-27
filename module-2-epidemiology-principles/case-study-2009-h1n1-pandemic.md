@@ -39,5 +39,5 @@ According to Dr. Steffanie Strathdee, the Associate Dean of Global Health Scienc
 **CORE TEXT: Baird, R.** [**What Went Wrong with Coronavirus Testing in the U.S.**](https://www.newyorker.com/news/news-desk/what-went-wrong-with-coronavirus-testing-in-the-us) **New Yorker, 3.16.20**
 
 _Thought Question:_  
-**Brian** has just posted on Facebook: “Swine flu was a pandemic but no one called for us to turn our lives upside down. Why are we freaking out about COVID-19?” What would you write?
+[**Brian**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases#case-1-brian) has just posted on Facebook: “Swine flu was a pandemic but no one called for us to turn our lives upside down. Why are we freaking out about COVID-19?” What would you write?
 

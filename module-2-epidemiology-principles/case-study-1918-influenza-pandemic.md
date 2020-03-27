@@ -57,9 +57,7 @@ Supplementary reading:
 
 _Thought Questions:_
 
-If you were a public health official in the early 1900s trying to determine what the cause of the outbreak was, what methods would you use to find the answer? \(Assume you can only use resources available from the early 1900s\)
-
-How could public health officials in San Francisco have probed deeper into whether it was gauze face masks that reduced transmission or closing of public spaces?
-
-What are the challenges for trying to determine R0 and Re values for the 1918 flu epidemic? What assumptions can be made in modeling? What challenges do these assumptions bring?
+1. If you were a public health official in the early 1900s trying to determine what the cause of the outbreak was, what methods would you use to find the answer? \(Assume you can only use resources available from the early 1900s\)
+2. How could public health officials in San Francisco have probed deeper into whether it was gauze face masks that reduced transmission or closing of public spaces?
+3. What are the challenges for trying to determine R0 and Re values for the 1918 flu epidemic? What assumptions can be made in modeling? What challenges do these assumptions bring?
 

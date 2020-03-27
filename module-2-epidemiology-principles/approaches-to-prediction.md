@@ -63,7 +63,6 @@ It is important to note that models, such as those in the Imperial College repor
 
 _Thought Questions:_
 
-Current models estimate that social distancing measures might need to be implemented for months, not weeks, to slow the spread of the virus and its impact on our healthcare system. How will our society need to adapt to these long-term changes?
-
-How do we make sure vulnerable populations \(including families dependent on jobs unable to be adapted to remote work\) are adequately supported during this time? 
+1. Current models estimate that social distancing measures might need to be implemented for months, not weeks, to slow the spread of the virus and its impact on our healthcare system. How will our society need to adapt to these long-term changes?
+2. How do we make sure vulnerable populations \(including families dependent on jobs unable to be adapted to remote work\) are adequately supported during this time? 
 

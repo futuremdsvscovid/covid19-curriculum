@@ -26,9 +26,9 @@ All identified close contacts are put under quarantine and monitored daily for d
 
 In addition, the government bears the cost of testing and medical care received for COVID-19. It is free regardless of immigration status, for anyone with doctor’s referral or with contact with an infected person. Those required to quarantine are provided [food and other essentials](https://observers.france24.com/en/20200305-south-korea-coronavirus-COVID-19-kits-masks) via package deliveries, paid for by the government. This decreases barriers for those in low socioeconomic status, helps curb the panic and allows for individuals to adhere to strict quarantine.
 
-_Thought question:_
+_Thought questions:_
 
-What factor\(s\) may contribute to differences in case fatality rates between countries? 
+1. What factor\(s\) may contribute to differences in case fatality rates between countries? 
 
 ## Strategy for Mitigation: Social Distancing
 
@@ -50,9 +50,8 @@ South Korea and other Asian countries experienced the [MERS outbreak in 2015](ht
 
 _Thought Questions:_
 
-What strategies to reduce disease spreading and case fatality rates can we implement here in the US?
-
-How could we advocate to increase preparedness for the next pandemic as future physicians?  
+1. What strategies to reduce disease spreading and case fatality rates can we implement here in the US?
+2. How could we advocate to increase preparedness for the next pandemic as future physicians?  
 
 Supplementary Reading:
 
