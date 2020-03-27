@@ -36,4 +36,5 @@
   * [Mechanical Ventilation: The Basics](module-5-training-for-medical-student-specific-roles/mechanical-ventilation-the-basics.md)
   * [Current Medical Student Involvement](module-5-training-for-medical-student-specific-roles/current-medical-student-involvement.md)
   * [Summary](module-5-training-for-medical-student-specific-roles/summary.md)
+* [COVID-19 Student Response Website](https://covidstudentresponse.org/)
 
