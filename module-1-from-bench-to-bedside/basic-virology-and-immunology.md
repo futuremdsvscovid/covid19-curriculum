@@ -101,8 +101,8 @@ _Thought questions:_
 
 * How would you predict that a difference in infected cell types might change the presentation and transmission of COVID-19?
 * Imagine a few real-life scenarios that you may soon encounter or may have already encountered:
-  * **Diane** wants to order food from a delivery service, but is worried about getting sick. What advice would you give her about touching packages, meeting the delivery person, and ordering premade food?
-  * **Brian** has a friend who had low fevers, fatigue, and a dry cough, but was never tested for COVID-19. His friend self-quarantined at home and now has not had any symptoms for the past day. Brian wants to hang out with this friend today. What would you tell him about his risk of exposure?
+  * \*\*\*\*[**Diane** ](https://curriculum.covidstudentresponse.org/curriculum-overview/cases)wants to order food from a delivery service, but is worried about getting sick. What advice would you give her about touching packages, meeting the delivery person, and ordering premade food?
+  * \*\*\*\*[**Brian**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) has a friend who had low fevers, fatigue, and a dry cough, but was never tested for COVID-19. His friend self-quarantined at home and now has not had any symptoms for the past day. Brian wants to hang out with this friend today. What would you tell him about his risk of exposure?
 * How do estimates of incubation periods and viral shedding inform public health efforts?
 
 ## Immune Response in COVID-19
