@@ -66,3 +66,6 @@ Boston:
 10. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment.
 11. The Department of Housing and Community Development is recommending suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
 
+**On March 26, 2020:** Governor Charlie Baker requested that all Massachusetts medical schools graduate their fourth year medical students early.  UMass Medical School, Tufts School of Medicine, BU School of Medicine, and Harvard Medical School have [fulfilled this request](https://www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-medical-students-graduate-early-to-join-the-chaotic-response-to-covid-19.html), with further logistics pending, including [offering automatic, short-term licenses](https://www.wbur.org/news/2020/03/26/baker-massachusetts-coronavirus) to graduated students.  
+
+
