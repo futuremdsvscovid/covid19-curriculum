@@ -2,7 +2,7 @@
 
 ## Introduction
 
-On March 15, a group of students at Harvard Medical School created a Response Team to organize their efforts against the COVID-19 pandemic.  They identified two main opportunities for impact: education and activism. Education efforts have resulted in this curriculum intended for the medical community and a public-facing social media campaign \(see @FutureMDvsCOVID\).  Activism work has involved coordinating ways that students can provide on-the-ground help in both the community and clinical settings. For inquiries about the HMS COVID-19 Student Response Team’s efforts, please see: [https://covidstudentresponse.org/](https://covidstudentresponse.org/)
+On March 15, a group of students at Harvard Medical School created a Response Team to organize their efforts against the COVID-19 pandemic.  They identified two main opportunities for impact: education and activism. Education efforts have resulted in this curriculum intended for the medical community and a public-facing social media campaign \(see [@FutureMDvsCOVID](https://twitter.com/FutureMDvsCOVID)\).  Activism work has involved coordinating ways that students can provide on-the-ground help in both the community and clinical settings. For inquiries about the HMS COVID-19 Student Response Team’s efforts, please see: [https://covidstudentresponse.org/](https://covidstudentresponse.org/)
 
 This curriculum was entirely written and compiled by Harvard Medical School students.  This document is not an official publication of the institution. It is provided for educational purposes only and does not constitute medical advice.
 
