@@ -64,5 +64,5 @@ Boston:
 8. Pharmacies are mandated to provide at least 1 hour of shopping for seniors over the age of 60 per day. 
 9. Hospitals must cancel elective procedures.
 10. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment.
-11. The Department of Housing and Community Development is recommending against suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
+11. The Department of Housing and Community Development is recommending suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
 
