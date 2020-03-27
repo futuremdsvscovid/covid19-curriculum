@@ -18,7 +18,7 @@ In studying a variety of conversations, they found:
 
 The three conversations can be summarized as:
 
-**1. The Facts Conversation.** In discussions about COVID-19, this would encapsulate things like R0 or the anticipated impact of social distancing on flattening the infection curve. This knowledge is critical for us as physicians. Given our own biases as physicians-in-training \(perhaps including, among other things, our personality types, coping styles, and all the effort we’ve invested into amassing our medical knowledge\), our go-to approach to uncertain or challenging situations is often to return to the facts. However, no matter how convincing the evidence may be, or how effective we are as communicators and teachers, facts alone are not enough to reliably fuel real change.
+**1.The Facts Conversation.** In discussions about COVID-19, this would encapsulate things like R0 or the anticipated impact of social distancing on flattening the infection curve. This knowledge is critical for us as physicians. Given our own biases as physicians-in-training \(perhaps including, among other things, our personality types, coping styles, and all the effort we’ve invested into amassing our medical knowledge\), our go-to approach to uncertain or challenging situations is often to return to the facts. However, no matter how convincing the evidence may be, or how effective we are as communicators and teachers, facts alone are not enough to reliably fuel real change.
 
 Psychologist Jonathan Haidt describes this idea in his metaphor of the [Elephant and the Rider](https://www.creativehuddle.co.uk/the-elephant-and-the-rider). Although it may seem like the Rider, representing logic and reason, can control where the two end up, the Rider’s commands are worthless unless they’re directing the Elephant’s own efforts. If they are in opposition, the Elephant always wins out. How is it that we can tap into the Elephant?
 
@@ -32,9 +32,7 @@ And all this cuts both ways: the conversation involves both your identity as wel
 
 In short, focusing on facts without feelings will only make the conversation worse. To best anticipate your partner’s feelings, it helps to think about their identity and how the situation may relate to their most important values. The subsequent sections review specific communication techniques that have been proven to help clinicians provide facts about challenging situations in a way that also addresses the underlying emotions.
 
-_Thought Question:_ 
-
-* As we hear from Dr. Laura Rock during Clinical Capstone, “Emotions before cognition.” How does the principle of responding to emotions before cognition surface in the attached resource, [COVID ready communication](https://docs.google.com/document/d/1uSh0FeYdkGgHsZqem552iC0KmXIgaGKohl7SoeY2UXQ/mobilebasic)?
+_Thought Question:_ As we hear from Dr. Laura Rock during Clinical Capstone, “Emotions before cognition.” How does the principle of responding to emotions before cognition surface in the attached resource, [COVID ready communication](https://docs.google.com/document/d/1uSh0FeYdkGgHsZqem552iC0KmXIgaGKohl7SoeY2UXQ/mobilebasic)?
 
 It is equally important that you take stock of your own reactions in preparing for potentially difficult encounters with patients. Anticipating your own negative feelings--especially in light of how stressed you are or how many demands are being placed on you--may help you recognize them and let them go in the interest of a more productive interaction. For example, you may find that the anxiety of patients who are not sick or the demands of patients who are mildly ill evoke in you feelings of annoyance and even anger when you are also seeing severely ill patients. These are perfectly normal reactions, but they will not lead to productive encounters. The important thing is to accept your feelings and try to let them go as you turn your attention to the patient.
 
@@ -60,8 +58,7 @@ Regardless of the framework used, giving bad news is challenging for both the pe
 
 ![](../.gitbook/assets/nurse.png)
 
-_Thought questions:_ 
+_Thought question:_ How might you apply these frameworks differently when talking to **Diane** and **Brian**?
 
-* How might you apply these frameworks differently when talking to [**Diane** and **Brian**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases)?
-* [This activity](https://www.nytimes.com/interactive/2019/11/26/opinion/family-holiday-talk-impeachment.html) from the NYT is an opportunity to play out a conversation with someone who holds different political views. Unrelated as it may seem, there is a reason why we recommend it. How might our frameworks compliment their conflict resolution approaches?
+_Thought question:_ [This activity](https://www.nytimes.com/interactive/2019/11/26/opinion/family-holiday-talk-impeachment.html) from the NYT is an opportunity to play out a conversation with someone who holds different political views. Unrelated as it may seem, there is a reason why we recommend it. How might our frameworks compliment their conflict resolution approaches?
 
