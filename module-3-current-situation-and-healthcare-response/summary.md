@@ -12,5 +12,5 @@ The situation around the world and here in Massachusetts is rapidly evolving, as
 
 We hope this module helped capture the complex and rapidly changing landscape of the COVID-19 pandemic as it stands in Massachusetts, as well as the adapting responses of the healthcare system and society as a whole.
 
-We welcome your feedback on this module and on the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).
+We welcome your feedback on this module and the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).
 
