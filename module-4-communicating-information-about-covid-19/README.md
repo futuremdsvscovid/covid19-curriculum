@@ -7,8 +7,6 @@ description: >-
 
 # Module 4: Communicating Information about COVID-19
 
-## Module 4: Communicating Information about COVID-19
-
 _Student authors:_ Isaac Alty; Andrew Foley, MPH; Michael Kochis, EdM; Ashwini Joshi; and Joyce Zhou
 
 _Faculty reviewers:_ Kate Treadway, MD; Katie Greenzang, MD, EdM; Andrea Wershof Schwartz, MD, MPH
