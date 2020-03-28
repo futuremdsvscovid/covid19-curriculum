@@ -23,7 +23,7 @@ A collection of case reports and/or series of cases from patients with SARS-CoV 
       <th style="text-align:left">Drug</th>
       <th style="text-align:left">Current prescribed use</th>
       <th style="text-align:left">Mechanism of Action</th>
-      <th style="text-align:left">Prior evidence for use against related coronaviruses &amp; <em>in vitro</em> SARS-COV-2
+      <th style="text-align:left">Prior evidence for use against related coronaviruses &amp; <em>in vitro</em> SARS-CoV-2
         work</th>
     </tr>
   </thead>
@@ -58,21 +58,21 @@ A collection of case reports and/or series of cases from patients with SARS-CoV 
         </p>
       </td>
       <td style="text-align:left">Prevention of HIV</td>
-      <td style="text-align:left"><b>L</b>opinavir inhibits HIV-1 protease, inhibiting the cleavage of GAG-POL
+      <td style="text-align:left">Lopinavir inhibits HIV-1 protease, inhibiting the cleavage of GAG-POL
         polyprotein precursors into their functional products. Ritonavir increases
         plasma concentrations of lopinavir by inhibiting its metabolism by CYP3A.
         Of note, they are the wrong class of protease inhibitors for coronavirus
         proteases (cysteine protease).</td>
       <td style="text-align:left">
-        <p>Treatment with Lopinavir/Ritonavir was associated with lower rates of
+        <p>Treatment with lopinavir/ritonavir was associated with lower rates of
           death and ARDS <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(05)01307-1/fulltext">in retrospective studies of SARS-CoV-1.</a> However,
-          in a recent open label RCT with 199 patients in Wuhan, China (enrollment
+          in a recent open-label RCT with 199 patients in Wuhan, China (enrollment
           from Jan 18 to Feb 3), lopinavir/ritonavir was not observed to have any
           benefit over standard of care, although there was a trend towards faster
           improvement in those who received the medication early in their disease
           course (<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2001282?fbclid=IwAR1Ikh2t3S1hThz7d8FZQqHY0wdXYlKZWe96w5UZuebbdWPZ__6lSoGy7K8">Cao et al., NEJM 2020)</a>.</p>
         <p></p>
-        <p>See <a href="https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#treatment">module 3</a> for
+        <p>See <a href="https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#treatment">Module 3</a> for
           clinical trial updates.</p>
       </td>
     </tr>
@@ -136,16 +136,16 @@ A collection of case reports and/or series of cases from patients with SARS-CoV 
       <td style="text-align:left">Humanized monoclonal antibody against the interleukin-6 receptor. Its
         action against this receptor is thought to mitigate the profound inflammatory
         response observed in severely affected individuals (personal communication,
-        Shiv Pillai, MD PhD)</td>
+        Shiv Pillai, MD, PhD)</td>
       <td style="text-align:left">
         <p>Interest in use generated solely from <a href="https://112.international/society/italy-claims-to-find-drugs-against-coronavirus-49605.html">international human observational data</a> during
           the SARS-CoV-2 outbreak.
           <br />
         </p>
         <p>A case series showed excellent safety and decrease in oxygen requirement
-          and temperature after tocilizumab safety (<a href="https://www.ser.es/wp-content/uploads/2020/03/TCZ-and-COVID-19.pdf">Xu et al., chinaXriv 2020, preprint</a>).</p>
+          and temperature after tocilizumab (<a href="https://www.ser.es/wp-content/uploads/2020/03/TCZ-and-COVID-19.pdf">Xu et al., chinaXriv 2020, preprint</a>).</p>
         <p></p>
-        <p>See <a href="https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#treatment">module 3</a> for
+        <p>See <a href="https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#treatment">Module 3</a> for
           updates.
           <br />
         </p>
@@ -154,9 +154,9 @@ A collection of case reports and/or series of cases from patients with SARS-CoV 
   </tbody>
 </table>## Passive Antibody Transfer
 
-The role of our immune system is to develop “memory” against foreign pathogens so that once exposed a second time to said pathogens, neutralizing antibodies are used to quickly eradicate an impending infection. With this understanding, physicians and scientists have long argued that the transfusion of human convalescent sera \(that which contains neutralizing antibodies from a recovered patient\) could treat infection or be administered prophylactically to inhibit systemic infection \([Casadevall and Scharff, Clin Infect Dis. 1995](https://www.ncbi.nlm.nih.gov/pubmed/7578724)\). In general, passive antibody transfer tends to be more effective for prophylaxis than for treating systemic infection, and therefore should be given shortly after symptom onset. While we don’t fully understand why temporality of administration affects efficacy, it is thought that smaller inoculums may be more manageable for neutralization than systemic infection or that the transferred antibodies modulate the receiver’s inflammatory response which is more easily done at earlier stages of infection. 
+The role of our immune system is to develop “memory” against foreign pathogens so that once exposed to said pathogens a second time, neutralizing antibodies are used to quickly eradicate an impending infection. With this understanding, physicians and scientists have long argued that the transfusion of human convalescent sera \(that which contains neutralizing antibodies from a recovered patient\) could treat infection or be administered prophylactically to inhibit systemic infection \([Casadevall and Scharff, Clin Infect Dis. 1995](https://www.ncbi.nlm.nih.gov/pubmed/7578724)\). In general, passive antibody transfer tends to be more effective for prophylaxis than for treating systemic infection, and therefore should be given shortly after symptom onset. While we do not fully understand why temporality of administration affects efficacy, it is thought that smaller inoculums may be more manageable for neutralization than systemic infection or that the transferred antibodies modulate the receiver’s inflammatory response, which is more easily done at earlier stages of infection. 
 
-_If interested in learning more about previous uses of convalescent sera for treatment of viral infections please read:_  
+_If interested in learning more about previous uses of convalescent sera for treatment of viral infections, please read:_  
 Poliomyelitis: [Park, JAMA 1932](https://key-idp.iam.harvard.edu/idp/profile/SAML2/POST/SSO)  
 ****Measles: [Gallagher, Am J Pub Health Nat Health 1935](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1559172/); [Park et al., JAMA 1926](https://jamanetwork.com/journals/jama/article-abstract/242400)  
 Ebola: [Sahr et al., J. Infection 2017](https://www.journalofinfection.com/article/S0163-4453%2816%2930291-2/fulltext)  
@@ -164,7 +164,7 @@ Influenza: [Luke et al, AIM 2006](https://annals.org/aim/fullarticle/729754/meta
 
 ![Graphical representation from Casadevall and Pirofski, JCI 2020 of a potential convalescent sera therapy protocol in COVID-19. Serum collected from recovered COVID-19 patients that have high titers of neutralizing antibody would be administered prophylactically to high-risk individuals \(elderly, patients with comorbid conditions, health care workers or individuals with known exposure\) or to patients with severe disease to dampen severity of symptoms and mortality.](https://lh6.googleusercontent.com/f-44zUin8uqllms16B82k4n_UNpR1T-bYSKpgAcYHFwP864MbeJiXgnXwElpRYUtScnrazTGj-kfLQD2kwO1PFzvUNle3CBMoqf62voKYNV1fP_6pOUV43vr11LKjcL1oIqirsGg)
 
-There is indeed a historical grounding for using passive antibody transfer in the treatment of related coronavirus infection. During the epidemics of SARS1 and MERS, high mortality and dearth of effective treatment options led to use of convalescent serum \([Cheng et al., Eur J Clin Micro Infect Dis. 2005](https://link.springer.com/article/10.1007%2Fs10096-004-1271-9)\). In terms of using this kind of therapy for treating COVID-19, evidence is still lacking, but there is a great deal of interest. A recent study reported that sera collected from confirmed positive SARS-CoV-2 patients have the ability to neutralize SARS-CoV-2 in an in vitro plaque assay \([Zhou et al., Nature 2020](https://www.nature.com/articles/s41586-020-2012-7)\), which suggests this sera contains factors produced by a successfully mounted humoral response to SARS-CoV-2 antigens. There have been some reports that [convalescent plasma therapy has already begun](http://www.xinhuanet.com/english/2020-02/28/c_138828177.htm), but for the most recent updates on the investigation or approval of this therapy in COVID-19 see [Module 3](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#treatment).
+There is indeed a historical grounding for using passive antibody transfer in the treatment of related coronavirus infection. During the epidemics of SARS1 and MERS, high mortality and dearth of effective treatment options led to use of convalescent serum \([Cheng et al., Eur J Clin Micro Infect Dis. 2005](https://link.springer.com/article/10.1007%2Fs10096-004-1271-9)\). In terms of using this kind of therapy for treating COVID-19, evidence is still lacking, but there is a great deal of interest. A recent study reported that sera collected from confirmed positive SARS-CoV-2 patients have the ability to neutralize SARS-CoV-2 in an in vitro plaque assay \([Zhou et al., Nature 2020](https://www.nature.com/articles/s41586-020-2012-7)\), which suggests this sera contains factors produced by a successfully mounted humoral response to SARS-CoV-2 antigens. There have been some reports that [convalescent plasma therapy has already begun](http://www.xinhuanet.com/english/2020-02/28/c_138828177.htm), but, for the most recent updates on the investigation or approval of this therapy in COVID-19, see [Module 3](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#treatment).
 
 ## Vaccine Development
 
@@ -172,40 +172,40 @@ _Thought Questions:_
 
 * Coronaviruses are a large family of viruses that cause the common cold and circulate widely - how do we find specific antigens to SARS-CoV-2 that will allow for specificity in protection against SARS-CoV-2?
 * How do we balance the need to quickly develop and distribute a vaccine vs. the ethical considerations of testing the vaccine to make sure it is safe and effective?
-* How will a potential vaccine be shared with the world and who should receive the vaccine first in instances where there is a limited supply \(i.e. rationing\)?
+* How will a potential vaccine be shared with the world, and who should receive the vaccine first in instances where there is a limited supply \(i.e. rationing\)?
 
-Vaccination holds the key to the effective prevention and potential eradication of various infectious diseases, and SARS-CoV-2 is no exception. Vaccines are used in healthy individuals to prevent the development of future illness, as well as to attenuate the duration and severity of symptoms in those who do develop illness in the future. Most sources are indicating that a COVID-19 vaccine will not be ready for public use until at least 1 year from now \([MGH Grand Rounds, 3/12/20](https://externalmediasite.partners.org/Mediasite/Play/53a4003de5ab4b4da5902f078744435a1d)\). 
+Vaccination holds the key to the effective prevention and potential eradication of various infectious diseases, and SARS-CoV-2 is no exception. Vaccines are used in healthy individuals to prevent the development of future illness, as well as to attenuate the duration and severity of symptoms in those who do develop illness in the future. Most sources are indicating that a COVID-19 vaccine will not be ready for public use until at least one year from now \([MGH Grand Rounds, 3/12/20](https://externalmediasite.partners.org/Mediasite/Play/53a4003de5ab4b4da5902f078744435a1d)\). 
 
 Prior to a vaccine’s introduction on the market, scientists not only need to identify specific markers of the virus \(antigens\) to be incorporated into a vaccine used to stimulate the immune system, but will also need to undergo the entire clinical trial process to demonstrate that the vaccine is both safe and effective. \(Review: [Vaccine Testing and Approval Process](https://www.cdc.gov/vaccines/basics/test-approve.html) and [video](https://youtu.be/ek3T8xiu1Fw)\).
 
-* Phase 1 trials with small numbers of healthy patients will first strive to demonstrate that the vaccine is safe, void of adverse side effects and establish an acceptable dosage. This is especially important given that vaccines are given to healthy individuals, rather than sick individuals, and must reach a greater threshold for safety. 
-* Phase 2 trials enroll a larger group of individuals and aim to demonstrate the vaccine is effective in preventing the symptoms or disease under investigation. The subjects enrolled tend to be people that are considered to most benefit from a new treatment \(i.e. elderly, persons with comorbid conditions\).
+* Phase 1 trials with small numbers of healthy patients will first strive to demonstrate that the vaccine is safe, void of adverse side effects, and establish an acceptable dosage. This is especially important given that vaccines are given to healthy individuals, rather than sick individuals, and must reach a greater threshold for safety. 
+* Phase 2 trials enroll a larger group of individuals and aim to demonstrate the vaccine is effective in preventing the symptoms or disease under investigation. The subjects enrolled tend to be people that are considered to benefit most from a new treatment \(i.e. elderly, persons with comorbid conditions\).
 * Upon successful completion of the prior stage, phase 3 trials enrolling even more patients will seek to show continued safety and efficacy. 
-* After a phase 3 trial, the vaccine is generally approved and available to the general public, though formal phase 4 trials are encouraged \(but not usually formally required\) to assess for longer-term safety and efficacy. 
+* After a phase 3 trial, the vaccine is generally approved and available to the general public, though formal phase 4 trials are encouraged \(but usually not formally required\) to assess for longer-term safety and efficacy. 
 
-While some clinical trials for COVID-19 vaccines are already underway in the US and abroad, what the medical and scientific community must consider is **which viral component will be used as a basis for developing immunity.**
+While some clinical trials for COVID-19 vaccines are already underway in the US and abroad, the medical and scientific community must consider **which viral component will be used as a basis for developing immunity.**
 
-The vaccine development for SARS-CoV-2 has evolved at a rapid pace and likely has been informed by knowledge from previous SARS and MERS vaccine development \(see below figure\). There are many different types of vaccines in the modern era, including whole pathogen vaccines which can be either 1\) killed/inactivated or 2\) live attenuated\), subunit vaccines, mRNA vaccines, and DNA vaccines \([Vaccine Types \| NIH](https://www.niaid.nih.gov/research/vaccine-types)\). The figure below illustrates some of the vaccines that had been previously developed for SARS and MERS, whose scientific basis are informing the approach to SARS-CoV-2 vaccine development.
+The vaccine development for SARS-CoV-2 has evolved at a rapid pace and likely has been informed by knowledge from previous SARS and MERS vaccine development \(see below figure\). There are many different types of vaccines in the modern era, including whole pathogen vaccines, which can be either 1\) killed/inactivated or 2\) live attenuated, subunit vaccines, mRNA vaccines, and DNA vaccines \([Vaccine Types \| NIH](https://www.niaid.nih.gov/research/vaccine-types)\). The figure below illustrates some of the vaccines that had been previously developed for SARS and MERS, whose scientific basis are informing the approach to SARS-CoV-2 vaccine development.
 
 ![Developed vaccines that have been in testing for SARS &amp; MERS Prompetchara et al., APJAI 2020](https://lh3.googleusercontent.com/5PyesN741nKuljvP9gwOMKDaRd1J8DRgmZWcKb_ac_fN0PGeu8pc86qO5r5ETcWK6GshxXb9e-z-5Wkze7LVUMBaoomy-fb06N6WIrj7vVFdyd9m1Nlu9r9JqywjSVpDA7jRODh9)
 
-**Whole pathogen vaccines** require the pathogen to be grown in the laboratory, where they can then either be killed with chemicals, heat, or radiation \(to make a killed/inactivated vaccine\) or weakened \(to make a live attenuated vaccine\), and then incorporated into the vaccine. Another approach is to incorporate part of the pathogen of interest’s genetic material into that of a harmless pathogen to create a “chimeric pathogen”, which can be used to stimulate the immune system.
+**Whole pathogen vaccines** require the pathogen to be grown in the laboratory, where they can then either be killed with chemicals, heat, or radiation \(to make a killed/inactivated vaccine\) or weakened \(to make a live attenuated vaccine\), and then incorporated into the vaccine. Another approach is to incorporate part of the pathogen of interest’s genetic material into that of a harmless pathogen to create a “chimeric pathogen” that can be used to stimulate the immune system.
 
 **Subunit vaccines** utilize laboratory techniques to create the components \(i.e. antigens\) of the pathogen that best stimulate the immune system and incorporate these into a vaccine.
 
 **mRNA vaccines** are developed by identifying the genetic sequence of the pathogen and then determining which sequences code important, unique components \(antigens\) of the pathogen. RNA for these genetic sequences is developed and then included in the vaccine. Once this RNA is introduced to a patient, the patient’s cells will use this RNA to make the corresponding pathogen’s protein, which will then stimulate the immune system. Another approach has been to target unique viral messenger RNAs as antigenic substrates for a host antibody response. These designs have been shown to have greater stability and protein translation efficiency which translates into a more robust immune response.
 
-**DNA vaccines** work similarly to RNA vaccines. Instead of RNA, DNA is introduced in the vaccine to the patient. The patient’s cells use the DNA to make RNA, which then is used to make the corresponding pathogen’s protein and thus stimulate the immune system.
+**DNA vaccines** work similarly to RNA vaccines. Instead of RNA, DNA is introduced to the patient in the vaccine. The patient’s cells use the DNA to make RNA, which then is used to make the corresponding  protein and, thus, stimulate the immune system.
 
-**Nanoparticle vaccines** utilize an understanding of synthetic biology to create nanoparticles out of proteins that are then studded with pathogenic components \(antigens\) for a pathogen. The idea is that while the underlying nanoparticle could stay consistent from vaccine to vaccine, the antigens could be switched out easily and interchangeably, allowing for rapid vaccine development. This could be especially important if the SARS-CoV-2 virus, as is feared, becomes a yearly illness like influenza. \([To develop a coronavirus vaccine, synthetic biologists try to outdo nature](https://www.statnews.com/2020/03/09/coronavirus-scientists-play-legos-with-proteins-to-build-next-gen-vaccine/)\)
+**Nanoparticle vaccines** utilize an understanding of synthetic biology to create nanoparticles out of proteins that are then studded with pathogenic components \(antigens\) for a pathogen. The idea is that, while the underlying nanoparticle could stay consistent from vaccine to vaccine, the antigens could be switched out easily and interchangeably, allowing for rapid vaccine development. This could be especially important if the SARS-CoV-2 virus, as is feared, becomes a yearly illness like influenza. \([To develop a coronavirus vaccine, synthetic biologists try to outdo nature](https://www.statnews.com/2020/03/09/coronavirus-scientists-play-legos-with-proteins-to-build-next-gen-vaccine/)\)
 
-Vaccines also commonly have adjuvants, which are used in order to increase the immune system’s response to a vaccine and thus develop a more effective immunity to a pathogen in the future. They have been used safely in vaccines for decades. \([Adjuvants help vaccines work better. \| Vaccine Safety](https://www.cdc.gov/vaccinesafety/concerns/adjuvants.html)\)
+Vaccines also commonly have adjuvants, which are used in order to increase the immune system’s response to a vaccine and, thus, develop a more effective immunity to a pathogen in the future. They have been used safely in vaccines for decades. \([Adjuvants help vaccines work better. \| Vaccine Safety](https://www.cdc.gov/vaccinesafety/concerns/adjuvants.html)\)
 
-In general, previous vaccine strategies for SARS & MERS have targeted the S protein, since it has been shown to play a role in inducing protective immunity by eliciting the production of neutralizing-antibodies and T-cell responses \([Keng et al., J Virol. 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1075733/); [Zhou et al, J Virol. 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC421657/); [Bukreyev et al., Lancet 2004](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2804%2916501-X/fulltext)\). Based on the function of this protein it is also an attractive target because immunity against this protein could block virus binding, impair membrane fusion or neutralize infection. However, the practical use of full-length S protein based vaccines is potentially hindered by the observation that they can induce immune mediated liver injury or enhanced infection following SARS-CoV rechallenge, despite successfully eliciting neutralizing antibody responses. 
+In general, previous vaccine strategies for SARS and MERS targeted the S protein, since it has been shown to play a role in inducing protective immunity by eliciting the production of neutralizing-antibodies and T-cell responses \([Keng et al., J Virol. 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1075733/); [Zhou et al, J Virol. 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC421657/); [Bukreyev et al., Lancet 2004](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2804%2916501-X/fulltext)\). Based on the function of this protein, it is also an attractive target because immunity against this protein could block viral binding, impair membrane fusion, or neutralize infection. However, the practical use of full-length S protein based vaccines is potentially hindered by the observation that they can induce immune-mediated liver injury or enhance infection following SARS-CoV re-challenge, despite successfully eliciting neutralizing antibody responses. 
 
 ## **Summary**
 
-Knowledge on COVID-19 pathogenesis is emerging at a lightning pace, and the evidence-basis underpinning our diagnosis and treatment guidelines are constantly under review. We as medical students and global citizens are living and learning through a formative time. Now, more than ever, it is critical for the scientific and medical community to collaborate, to innovate, and to push the frontiers of our understanding.
+Knowledge of COVID-19 pathogenesis is emerging at a lightning pace, and the evidence-basis underpinning our diagnosis and treatment guidelines are constantly under review. We as medical students and global citizens are living and learning through a formative time. Now, more than ever, it is critical for the scientific and medical community to collaborate, to innovate, and to push the frontiers of our understanding.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
