@@ -24,7 +24,7 @@ _Thought questions:_
 
 * Why might infants and children infected with SARS-CoV-2 have more mild symptoms than in adults and be at a lower risk for progression to serious illness including pneumonia and acute respiratory distress syndrome \(ARDS\)?
   * \(Note: there is currently no consensus on this topic, and it is still an area of active debate\)
-* If symptoms are so mild in children, why are we closing schools?Risk Stratification
+* If symptoms are so mild in children, why are we closing schools?
 
 ## Risk Stratification 
 
