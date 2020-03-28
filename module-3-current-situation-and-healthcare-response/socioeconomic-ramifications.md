@@ -42,7 +42,7 @@ Congress has begun to address these social and economic impacts with the Familie
 * Mandates that COVID-19 testing will be free
 * Expands requirements around employers’ infectious disease control plans
 
-Senate Republicans and Democrats have also been working on a [$2 trillion stimulus package](https://www.nytimes.com/2020/03/25/us/politics/whats-in-coronavirus-stimulus-bill.html). The [Senate has unanimously voted in its favor](https://www.cnn.com/2020/03/25/politics/stimulus-senate-action-coronavirus/index.html), and the package is now awaiting approval by the House. This package will include \(read the most recent text [here](https://www.congress.gov/bill/116th-congress/house-bill/6379/text?q=%7B%22search%22%3A%5B%22stimulus+package+coronavirus%22%5D%7D&r=1&s=1)\):
+Senate Republicans and Democrats have also been working on a [$2 trillion stimulus package](https://www.nytimes.com/2020/03/25/us/politics/whats-in-coronavirus-stimulus-bill.html). The [Senate has unanimously voted in its favor](https://www.cnn.com/2020/03/25/politics/stimulus-senate-action-coronavirus/index.html), and the package is now awaiting approval by the House. This package will include \(read the most recent text [here](https://www.congress.gov/bill/116th-congress/senate-bill/3548/text)\):
 
 * Direct payments to taxpayers
 * Extension of unemployment benefits
