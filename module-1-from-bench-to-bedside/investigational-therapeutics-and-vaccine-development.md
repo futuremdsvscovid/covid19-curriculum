@@ -209,7 +209,7 @@ Knowledge of COVID-19 pathogenesis is emerging at a lightning pace, and the evid
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-We hope that this module highlighted the frontier of basic science and translational research on COVID-19. It provides a conceptual grounding on COVID-19 pathophysiology and how this relates to evolving diagnosis, treatment, and prevention efforts to prepare you for the impacts that this disease has on society, the government and our healthcare systems. 
+We hope that this module highlighted the frontier of basic science and translational research on COVID-19. It provides a conceptual grounding on COVID-19 pathophysiology and how this relates to evolving diagnosis, treatment, and prevention efforts to prepare you for the impacts that this disease has on society, the government, and our healthcare systems. 
 
 We welcome your feedback on this module and on the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).  
 
