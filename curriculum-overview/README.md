@@ -12,7 +12,7 @@ Many modules reference supplemental resources that may be worth accessing in the
 
 Evaluate how the emerging understanding of COVID-19 pathophysiology translates to evolving diagnosis, treatment, and prevention efforts.
 
-\*\*\*\*[**Module 2: Epidemiology Principles**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles)\*\*\*\*
+\*\*\*\*[**Module 2: Epidemiology Principles**](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles)\*\*\*\*
 
 Introduce epidemiological principles underlying the current public health interventions regarding COVID-19, and evaluate how these interventions could influence the impact of the pandemic.
 
