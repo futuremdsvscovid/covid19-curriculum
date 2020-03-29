@@ -178,10 +178,10 @@ Vaccination holds the key to the effective prevention and potential eradication 
 
 Prior to a vaccine’s introduction on the market, scientists not only need to identify specific markers of the virus \(antigens\) to be incorporated into a vaccine used to stimulate the immune system, but will also need to undergo the entire clinical trial process to demonstrate that the vaccine is both safe and effective. \(Review: [Vaccine Testing and Approval Process](https://www.cdc.gov/vaccines/basics/test-approve.html) and [video](https://youtu.be/ek3T8xiu1Fw)\).
 
-* Phase 1 trials with small numbers of healthy patients will first strive to demonstrate that the vaccine is safe, void of adverse side effects, and establish an acceptable dosage. This is especially important given that vaccines are given to healthy individuals, rather than sick individuals, and must reach a greater threshold for safety. 
-* Phase 2 trials enroll a larger group of individuals and aim to demonstrate the vaccine is effective in preventing the symptoms or disease under investigation. The subjects enrolled tend to be people that are considered to benefit most from a new treatment \(i.e. elderly, persons with comorbid conditions\).
-* Upon successful completion of the prior stage, phase 3 trials enrolling even more patients will seek to show continued safety and efficacy. 
-* After a phase 3 trial, the vaccine is generally approved and available to the general public, though formal phase 4 trials are encouraged \(but usually not formally required\) to assess for longer-term safety and efficacy. 
+* **Phase 1** trials with small numbers of healthy patients will first strive to demonstrate that the vaccine is safe, void of adverse side effects, and establish an acceptable dosage. This is especially important given that vaccines are given to healthy individuals, rather than sick individuals, and must reach a greater threshold for safety. 
+* **Phase 2** trials enroll a larger group of individuals and aim to demonstrate the vaccine is effective in preventing the symptoms or disease under investigation. The subjects enrolled tend to be people that are considered to benefit most from a new treatment \(i.e. elderly, persons with comorbid conditions\).
+* Upon successful completion of the prior stage, **phase 3** trials enrolling even more patients will seek to show continued safety and efficacy. 
+* After a phase 3 trial, the vaccine is generally approved and available to the general public, though formal **phase 4** trials are encouraged \(but usually not formally required\) to assess for longer-term safety and efficacy. 
 
 While some clinical trials for COVID-19 vaccines are already underway in the US and abroad, the medical and scientific community must consider **which viral component will be used as a basis for developing immunity.**
 
