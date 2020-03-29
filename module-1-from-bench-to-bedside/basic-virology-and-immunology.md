@@ -131,7 +131,7 @@ _Thought question:_
 
 * How might the initial mild presentation and later severe disease seen in COVID-19 be explained by the immune response to the virus?
 
-### **Immune factors involved in outcome of infection**
+### **Immune Factors Involved in Infection Outcome**
 
 Many of the inflammatory markers discussed above have been investigated as possible predictors of disease mortality. See laboratory diagnostics in ****"Clinical Presentation of COVID-19" ****for more information.
 
