@@ -125,7 +125,7 @@ Once exposed, people can form a detectable humoral immune response to SARS-CoV-2
 
 A key question for understanding the dynamics of the epidemic and whether a vaccine will be protective is whether previously infected individuals can be re-infected. A pre-print suggests that macaques are protected from subsequent SARS-CoV-2 infection \([Bao et al., bioRxiv 2020](https://www.biorxiv.org/content/10.1101/2020.03.13.990226v1)\). At least one case of human reinfection has been reported \([Science Times, 2/27/20](https://www.sciencetimes.com/articles/24915/20200227/japan-confirms-first-case-of-reinfection.htm)\), although some experts dispute this finding \([The Hill, 2/27/20](https://thehill.com/changing-america/well-being/prevention-cures/484942-japan-confirms-first-case-of-person-reinfected?fbclid=IwAR002rLTW2nR_B_bQZ6Qob2KHu12QfiJE8VdJkgCR79PCjJMxDkDOfJrqdw)\). For more detailed information on vaccine development, see the below [section](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside/investigational-therapeutics-and-vaccine-development#vaccine-development). For more information about how this affects epidemiological modeling, see [Module 2](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-2-epidemiology-principles).
 
-For more details on immune responses to SARS-CoV-2, please see an [expanded version](https://drive.google.com/open?id=1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4) in the supplementary materials.
+For more details on immune responses to SARS-CoV-2, please see an [expanded version](https://drive.google.com/open?id=1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4) in the supplemental materials.
 
 _Thought question:_
 
