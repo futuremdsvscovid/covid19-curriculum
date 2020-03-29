@@ -8,7 +8,7 @@ Many modules reference supplemental resources that may be worth accessing in the
 
 ## Learning goals
 
-\*\*\*\*[**Module 1: From Bench to Bedside**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside)\*\*\*\*
+\*\*\*\*[**Module 1: From Bench to Bedside**](../module-1-from-bench-to-bedside/)\*\*\*\*
 
 Evaluate how the emerging understanding of COVID-19 pathophysiology translates to evolving diagnosis, treatment, and prevention efforts.
 
