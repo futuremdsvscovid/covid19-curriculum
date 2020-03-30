@@ -4,11 +4,11 @@
 
 Prior to COVID-19, the 1918 influenza pandemic was the most severe pandemic in recent history. First identified in military personnel in the spring of 1918, the influenza was an H1N1 virus of avian origin. It is commonly referred to by scientists and historians as “the Mother of all Pandemics.” This pandemic is often referred to as the “Spanish Flu” in the lay press, though this name is a misnomer, and the virus likely originated elsewhere. Contemporary reporting focused heavily on Spain, as it was one of few places at the time that did not have restrictions on the press during World War I.
 
-## **Fast Facts about the 1918 Flu:**
+## **Fast Facts about the 1918 Flu**
 
-* Infectivity: 500 million people or ⅓ of the world’s population. Note that this is smaller than estimates for SARS-CoV-2, as the population had some pre-existing immunity from prior influenza exposure.
+* Infectivity: 500 million people, or ⅓ of the world’s population. Note that this is smaller than estimates for SARS-CoV-2, as the population had some pre-existing immunity from prior influenza exposure.
 * Death rates: at least 50 million people worldwide, with 675,000 deaths in the United States.
-* Mortality: highest in people age &lt; 5, 20-40, and 65+ years. It is thought that this unusual age-distribution of cases may be due to differences in prior influenza exposure across different age groups.
+* Mortality: highest in people age &lt;5, 20-40, and 65+ years. It is thought that this unusual age-distribution of cases may be due to differences in prior influenza exposure across different age groups.
 * More soldiers died from the 1918 flu pandemic than were killed in battle during World War I in 1918.
 * In 1918, there were no flu vaccines, antiviral drugs, antibiotics, or mechanical ventilators. Treatment options were limited to supportive care and unproven remedies. 
 * There were 3 waves of the epidemic, which lasted from January 1918 - December 1920 \([CDC](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/three-waves.htm)\):
@@ -57,7 +57,7 @@ Supplementary reading:
 
 _Thought Questions:_
 
-* If you were a public health official in the early 1900s trying to determine the cause of the outbreak, what methods would you use to find the answer? \(Assume you can only use resources available from the early 1900s\)
+* If you were a public health official in the early 1900s trying to determine the cause of the outbreak, what methods would you use to find the answer? \(Assume you can only use resources available from the early 1900s.\)
 * How could public health officials in San Francisco have probed deeper into whether it was gauze face masks that reduced transmission or closing of public spaces?
 * What are the challenges for trying to determine R0 and Re values for the 1918 flu epidemic? What assumptions can be made in modeling? What challenges do these assumptions bring?
 
