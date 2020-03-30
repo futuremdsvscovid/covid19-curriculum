@@ -25,7 +25,7 @@ As more people are infected, the spread of an epidemic slows down because there 
 
 ![](https://lh5.googleusercontent.com/6chbMUnZ0yQvpmTJOj97ZlhU1ExglupHBkbsL6ZoHRNyR8MYGf44Qo8HlDM8XteuGYNnun0zTOirdo1fAq7CSoKmNahTlxNGTjLxjasSiRObhgm2-nPfLREGcchKYkWQI1I_jHdB)
 
-**Without a vaccine, the majority of people in the entire world will eventually become infected by SARS-CoV-2. This is why the curve flattens out: because there will be no one left to infect. Our goal is for the spread of the virus to slow down, so that our healthcare system can provide the best possible clinical care for the critical cases of SARS-CoV-2 coming in every day, along with the routine clinical cases that you would expect irrespective of the pandemic \(heart attacks, cancer treatments, hip replacements, car accidents\).** 
+Without a vaccine, the majority of people in the entire world will eventually become infected by SARS-CoV-2. This is why the curve flattens out: because there will be no one left to infect. **Our goal is for the spread of the virus to slow down, so that our healthcare system can provide the best possible clinical care for the critical cases of SARS-CoV-2 coming in every day**, along with the routine clinical cases that you would expect irrespective of the pandemic \(heart attacks, cancer treatments, hip replacements, car accidents\). 
 
 In the worst case scenario, if we do nothing to change the disease doubling rate, the CDC estimates up to 214 million cumulative infections \(⅔ of the American population\), and 1.7 million deaths \(assuming 1-2% case fatality rate\) in the United States in the coming months \([NYTimes 3.13.20](https://www.nytimes.com/2020/03/13/us/coronavirus-deaths-estimate.html)\).
 
@@ -37,17 +37,17 @@ Our main strategy to stop these outcomes is **mitigation**: we cannot stop trans
 
 Supplementary material: a [tunable model](https://art-bd.shinyapps.io/nCov_control/) that allows the user to change model parameters to visualize how they could affect virus spread.
 
-There is a lot to be hopeful for. Regions that implement these mitigating interventions, which use social distancing to slow down the spread of the virus, may reduce the Re. If we can reduce the Re by half \(from 2-3 new cases per infected person to ~1.2 per case\), then ****the doubling time will be **4 times longer.**
+There is a lot to be hopeful for. Regions that implement these mitigating interventions, which use social distancing to slow down the spread of the virus, may reduce the Re. If we can reduce the Re by half \(from 2-3 new cases per infected person to ~1.2 per case\), then ****the doubling time will be ****4 times longer.
 
-The key take-away is that social distancing measures will have a profound effect in delaying the “peak” in the number of critical COVID-19 cases in the US. **We buy the healthcare system valuable time to get ready for this crisis by increasing the personal protective equipment, beds, ventilators, and healthcare workers available to care for those critically ill from the virus and from causes other than the virus, decreasing overall mortality. This is why social distancing is critical.**
+The key take-away is that social distancing measures will have a profound effect in delaying the “peak” in the number of critical COVID-19 cases in the US. We buy the healthcare system valuable time to get ready for this crisis by increasing the personal protective equipment, beds, ventilators, and healthcare workers available to care for those critically ill from the virus and from causes other than the virus, decreasing overall mortality. This is why social distancing is critical.
 
-**Simulations show that slowing disease spread by a couple of months will dramatically affect the number of critically ill COVID-19 patients who can get hospital beds:**
+Simulations show that slowing disease spread by a couple of months will dramatically affect the number of critically ill COVID-19 patients who can get hospital beds:
 
 ![](https://lh6.googleusercontent.com/54Mgr3WoJZT_h-l6MgdiF4867zs6FDyE_hjX2klK5eMZnmK2kqqPpzaINN_qpOzhK98JSqoRaQ3Dmm-jNwyqYhRV_16QC704WXBlRtabnIMPmDsTMdoXfre-wUUCYWrK0iaOVYeL)
 
 In the figure above, each line describes the number of simulated COVID-19 cases under different assumptions about the total number of infected cases needed to establish herd immunity \(20, 40, or 60%\) and the success of social distancing. Successful social distancing is simulated, "flattening the curve," such that the spread of the virus lasts 6, 12, or 18 months respectively. Full [simulation](https://www.nytimes.com/interactive/2020/03/17/upshot/hospital-bed-shortages-coronavirus.html?auth=login-google) linked here.
 
-Actually implementing social distancing requires fundamentally changing our habits and daily routines. Though many households across the country have adopted social distancing measures, many are not yet there**. The brief article below makes these recommendations concrete and clear, including reducing all public gatherings of** _**any**_ **size, ceasing visits to others’ homes, and limiting trips. We recommend reading it if you haven’t already and sharing it with friends and family.**
+Actually implementing social distancing requires fundamentally changing our habits and daily routines. Though many households across the country have adopted social distancing measures, many are not yet there**. The brief article below makes these recommendations concrete and clear, including reducing all public gatherings of** _**any**_ **size, ceasing visits to others’ homes, and limiting trips.** We recommend reading it if you haven’t already and sharing it with friends and family.
 
 **CORE TEXT:** [**Bitton, A. Social Distancing: This Is Not a Snow Day**](https://www.ariadnelabs.org/resources/articles/news/social-distancing-this-is-not-a-snow-day/)**, Ariadne Labs, 3.13.20**
 
