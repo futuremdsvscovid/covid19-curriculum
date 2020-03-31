@@ -16,11 +16,11 @@ _Additional Reviewers:_ Rebecca Kahn, MS; James Hay, PhD.
 **Highlight of Updates \(3/27/20\):  
 \(Reviewed by Rebecca Kahn, MS; Wolfram Goessling, MD, PhD; and Andrea Wershof Schwartz, MD, MPH\)**
 
-* NEW CASE: 2009 H1N1 pandemic
-* Added information on containment strategies, including contact tracing, isolation, and quarantine
-* Added estimates of generation interval
-* Reviewed and updated modeling assumptions, including a shortening of U.S. doubling time to 3 days
-* South Korea case - added logistics of contact tracing and self-quarantine
+* NEW CASE: [2009 H1N1 pandemic](case-study-2009-h1n1-pandemic.md)
+* Added information on containment strategies, including contact tracing, isolation, and quarantine \([definitions](introduction-to-epidemiological-terms.md#containment), South Korea's [interventions](case-study-south-korea-2020.md#strategies-for-containment-contact-tracing-quarantine-and-treatment)\)
+* Added estimates of [generation interval](where-are-we-now.md#asymptomatic-transmission) for COVID-19
+* Reviewed and updated [modeling assumptions](approaches-to-prediction.md#common-assumptions-about-virus-spread), including a shortening of U.S. doubling time to 3 days
+* South Korea case - added [logistics](case-study-south-korea-2020.md#strategies-for-containment-contact-tracing-quarantine-and-treatment) of contact tracing and self-quarantine
 
 ## Introduction
 
