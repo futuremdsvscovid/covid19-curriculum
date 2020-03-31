@@ -11,7 +11,7 @@ _Student authors:_ Adi Achanta; Kendall Carpenter; Pamela Chen; Nicole M. Gilett
 _Faculty reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD
 
 **Highlight of Updates \(3/27/20\):  
-\*\*Updates are yet to be reviewed by our faculty reviewers\*\***
+\*\*Updates have yet to be reviewed by our faculty reviewers\*\***
 
 * Clarification of viral genome structure and relatedness to other coronaviruses
 * Role of endocytosis in entry, highlighting potential chloroquine mechanism
