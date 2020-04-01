@@ -29,7 +29,7 @@ Make a list of self-care activities that you enjoy, such as painting, baking, or
 
 **Relax and reflect.**
 
-This is an unprecedented time, surely one that will be remembered. Take the time to reflect on how you are feeling and what you are experiencing in whatever way you find can best capture your thoughts and feelings. If you would  like to reflect in solidarity with other Harvard Medical and Dental Students, you can contribute to the [COVID-19 Reflection Blog](https://www.npr.org/2020/03/13/815457669/isle-of-calm-stream-6-hours-of-soothing-music).  
+This is an unprecedented time, surely one that will be remembered. Take the time to reflect on how you are feeling and what you are experiencing in whatever way you find can best capture your thoughts and feelings. If you would  like to reflect in solidarity with other Harvard Medical and Dental Students, you can contribute to the [COVID-19 Reflection Blog](https://docs.google.com/forms/d/e/1FAIpQLSfDXWUtL0c6OmiVphV8g8l070tGvIb8plYleNvbua8PB5xG5g/viewform).  
 
 
 _Thought questions:_
