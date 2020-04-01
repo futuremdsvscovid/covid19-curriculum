@@ -11,7 +11,7 @@ _Student Authors:_  Stephanie Alden, Pamela Chen, Michael Fuchs, Nicole Gilette,
 
 _Current Faculty Reviewers:_ Brian Chan, MD; Michael Dougan, MD, PhD
 
-_Past Faculty Reviews:_ Holly Rawizza, MD
+_Past Faculty Reviewers:_ Holly Rawizza, MD
 
 **Highlight of Updates \(3/27/20\):**
 
