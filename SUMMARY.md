@@ -35,6 +35,7 @@
   * [Triage](module-5-training-for-medical-student-specific-roles/triage.md)
   * [Mechanical Ventilation: The Basics](module-5-training-for-medical-student-specific-roles/mechanical-ventilation-the-basics.md)
   * [Current Medical Student Involvement](module-5-training-for-medical-student-specific-roles/current-medical-student-involvement.md)
+  * [Managing Anxiety and Stress and Promoting Self-Care](module-5-training-for-medical-student-specific-roles/managing-anxiety-and-stress-and-promoting-self-care.md)
   * [Summary](module-5-training-for-medical-student-specific-roles/summary.md)
 * [COVID-19 Student Response Website](https://covidstudentresponse.org/)
 

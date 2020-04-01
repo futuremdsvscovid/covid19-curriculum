@@ -18,7 +18,7 @@ In short, PPE minimizes exposures to hazards that result in serious infectious i
 
 The next section covers basic mechanical ventilator settings and modes, with an emphasis on ARDS. While students are unlikely to be directly involved in mechanical ventilator management of patients, a fundamental understanding of mechanical ventilator function may be useful for communicating with healthcare providers and as a foundation for further patient care. 
 
-In addition to providing relevant information regarding PPE use, triaging, and mechanical ventilator function, this module aims to inform medical students about ways to support healthcare workers. Examples of clinical and non-clinical opportunities include phone triage for patient care and community initiatives to donate PPE.
+In addition to providing relevant information regarding PPE use, triaging, and mechanical ventilator function, this module aims to inform medical students about ways to support healthcare workers. Examples of clinical and non-clinical opportunities include phone triage for patient care and community initiatives to donate PPE. Finally, during this unprecedented and anxiety-provoking time, we bring up that everyone should consider mechanisms for their own self-care. 
 
 ## Learning Objectives:
 
@@ -30,4 +30,5 @@ By the end of this module, medical students should be able to:
 * Describe an algorithm by which patients with suspected COVID-19 should be tested
 * Explain how mechanical ventilation is managed in patients with ARDS
 * Appreciate the wide variety of student roles in clinical and non-clinical settings during this pandemic
+* Reflect on ways to promote their own well-being during an anxiety-provoking time 
 
