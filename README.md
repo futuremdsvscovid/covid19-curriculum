@@ -14,7 +14,7 @@ While our primary audience is our classmates, we suspect the curriculum will be 
 
 **We invite you to sign the** [**guest book**](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) **so we can track this material’s reach.**  As of March 27, it has been accessed by users in 66 countries across six continents!
 
-![Countries represented in guest book, map created on batchgeo.com](.gitbook/assets/image%20%283%29.png)
+![Countries represented in guest book, map created on batchgeo.com](.gitbook/assets/image%20%285%29.png)
 
 The contents in each module were reviewed for accuracy by expert faculty members at the time of initial publication.  We thank them for their attention during this particularly demanding time. However, given our constantly changing understanding of SARS-CoV-2 and the pandemic’s spread in society, the material in this curriculum will need to be updated frequently, and we cannot guarantee the accuracy of the information at any given time.  We plan to update content every Friday.  Please share your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).
 
