@@ -25,7 +25,7 @@ _Past Faculty Reviewers:_ Holly Rawizza, MD
 * The COVID-19 has many impacts on the healthcare system beyond direct infection including telemedicine, changes to care of chronic illness, postponement of some non-urgent care, and healthcare worker shortages and burnout
 * Nursing homes and skilled nursing facilities are particularly vulnerable sites for outbreaks due to elderly individuals with multiple comorbidities living in close proximity
 * The United States has hit record levels of unemployment, with three million Americans filing for unemployment in the week of 3/15-3/21
-* The United States has passed a $2 trillion stimulus bill, known as the Coronavirus Aid, Relief, and Economic Security Act \(CARES\)
+* The United States has passed a $2 trillion stimulus bill, known as the Coronavirus Aid, Relief, and Economic Security Act \(CARES Act\)
 * The United States has extended social distancing measures through April 30, a change from previous plans for “re-opening” of the country on April 12
 * Understanding the medical supply shortage, with a focus on PPE
 
