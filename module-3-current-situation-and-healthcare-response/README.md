@@ -13,21 +13,23 @@ _Current Faculty Reviewers:_ Brian Chan, MD; Michael Dougan, MD, PhD
 
 _Past Faculty Reviewers:_ Holly Rawizza, MD
 
-**Highlight of Updates \(3/27/20\):**
+**Highlight of Updates \(4/1/20\):**
 
-* Updated “positive” definition per new CDC guidelines
-* Governor Baker’s emergency stay at home order
-* Increased testing capacity, new testing locations, and future directions for serological testing
-* CDC guidelines for discontinuation of home isolation
-* Clinical trial for remdesivir treatment
-* FDA temporary authorization of convalescent plasma
-* Vaccine trials: explanation of BCG vaccine trial, brief updates on additional trials
-* Legislative update: stimulus package underway
-* Social stigma and racism targeting Asian American communities
-* Explanation of the Defense Production Act
+**\*\*Not yet reviewed by faculty reviewers\*\***
 
-In Module 3 of this curriculum, students will begin to consider the broader implications of the COVID-19 pandemic, locally and globally. The first section of the module will walk students through the current landscape of the pandemic locally in Massachusetts. In order to stay up-to-date, this section will provide students with several useful links, so that real time data may be accessed. In the next two sections, students will see how the basic science principles behind COVID-19 diagnosis, investigational therapeutics, and vaccines \(discussed in [Module 1](https://docs.google.com/document/d/1gjUuqTLi7xqMVzgWeYAFulmaIiKzhYY89PVOJJVvlNo/edit?ts=5e743689)\) are currently being implemented; the status of testing in the United States regarding capacity and eligibility; and the most recent data on various therapies and vaccines. Finally, students will receive a general overview of how the pandemic impacts social and financial aspects of daily life. While the final section is by no means a complete review, we hope that this will invite further consideration of the broader scope of the pandemic. We expect that this module will take 2 hours to complete.  
-.
+* Massachusetts has chosen to graduate its fourth year medical students early so they have the option to aid in the fight against COVID-19
+* New rapid point-of-care testing is available, providing the ability to return results in minutes
+* New open-label, randomized, adaptive global megatrials \(SOLIDARITY, WHO and DISCOVERY, INSERM\) launched to investigate the four most promising COVID-19 treatments, designed for simple and rapid data collection at the front lines
+* Emergency use authorization \(EUA\) of chloroquine/hydroxychloroquine for COVID-19 by the FDA
+* New case-series study demonstrating improvement in severe COVID-19 after convalescent plasma 
+* The COVID-19 has many impacts on the healthcare system beyond direct infection including telemedicine, changes to care of chronic illness, postponement of some non-urgent care, and healthcare worker shortages and burnout
+* Nursing homes and skilled nursing facilities are particularly vulnerable sites for outbreaks due to elderly individuals with multiple comorbidities living in close proximity
+* The United States has hit record levels of unemployment, with three million Americans filing for unemployment in the week of 3/15-3/21
+* The United States has passed a $2 trillion stimulus bill, known as the Coronavirus Aid, Relief, and Economic Security Act \(CARES\)
+* The United States has extended social distancing measures through April 30, a change from previous plans for “re-opening” of the country on April 12
+* Understanding the medical supply shortage, with a focus on PPE
+
+In Module 3 of this curriculum, students will begin to consider the broader implications of the COVID-19 pandemic, locally and globally. The first section of the module will walk students through the current landscape of the pandemic locally in Massachusetts. In order to stay up-to-date, this section will provide students with several useful links, so that real time data may be accessed. In the next two sections, students will see how the basic science principles behind COVID-19 diagnosis, investigational therapeutics, and vaccines \(discussed in [Module 1](https://docs.google.com/document/d/1gjUuqTLi7xqMVzgWeYAFulmaIiKzhYY89PVOJJVvlNo/edit?ts=5e743689)\) are currently being implemented; the status of testing in the United States regarding capacity and eligibility; and the most recent data on various therapies and vaccines. Finally, students will receive a general overview of how the pandemic impacts social and financial aspects of daily life. While the final section is by no means a complete review, we hope that this will invite further consideration of the broader scope of the pandemic. We expect that this module will take 2 hours to complete.
 
 ## Learning Objectives:
 
