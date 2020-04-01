@@ -97,7 +97,7 @@ _Thought questions:_
 * What types of public health and health care delivery interventions introduced during this crisis have staying power, and why? \(e.g. telemedicine, expansion of sick leave\)
 * The pandemic has been described as a global phenomenon that has exposed the “Achilles’ heel” of many social and structural shortcomings. What shortcomings have you identified during this pandemic and if given the chance, how would you propose we address them after the pandemic is over?
 
-## **Further Reading and Updates**
+## **Further reading and updates**
 
 * Detailed description of the economic impact of the pandemic from KPMG: [Mapping & Analyzing the Possible Impact of \#COVID-19](https://www.kpmg.us/insights/2020/mapping-covid-19.html)
 * Details and loopholes on paid sick leave as proposed in Families First bill: [Paid sick leave: Who gets it during the coronavirus outbreak](https://www.washingtonpost.com/business/2020/03/16/paid-sick-leave-coronavirus-house-bill/)
