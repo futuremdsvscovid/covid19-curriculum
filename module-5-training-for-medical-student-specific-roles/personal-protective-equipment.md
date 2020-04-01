@@ -113,7 +113,7 @@ Non-disposable safety glasses are meant to be reused. They cannot be worn over p
 
 1. Perform hand hygiene.
 2. Carefully remove the mask from the face. Do NOT touch the exterior surface of the mask.
-3. Place the mask in a container, such as a paper bag or plastic container, so that only the exterior surface of the mask is in contact with the container. Ensure that the elastic strap is placed to the side of the mask rather than lying inside the mask.
+3. Place the mask in a container, such as a paper bag or plastic container, so that only the exterior surface of the mask is in contact with the container. Ensure that the elastic strap is placed to the side of the mask rather than lying inside the bag.
 4. Perform hand hygiene.
 
 **Donning a Reused Surgical or N95 Mask**
