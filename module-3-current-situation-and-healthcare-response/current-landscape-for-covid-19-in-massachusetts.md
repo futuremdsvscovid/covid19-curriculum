@@ -11,7 +11,7 @@ Important [definitions](https://www.cdc.gov/coronavirus/2019-ncov/php/reporting-
 
 ## Latest number of cases \(updated frequently\)
 
-Mass. Department of Health COVID-19 cases as of **4/01/20 at 4 PM**  \(reporting from [boston.gov](https://www.boston.gov/news/coronavirus-disease-covid-19-boston)\):
+Mass. Department of Health COVID-19 cases as of **4/1/20 at 4 PM**  \(reporting from [boston.gov](https://www.boston.gov/news/coronavirus-disease-covid-19-boston)\):
 
 * Massachusetts:  **7,738** 
 * Boston:  **1,057** 
