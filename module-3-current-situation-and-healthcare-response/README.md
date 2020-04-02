@@ -13,7 +13,7 @@ _Current Faculty Reviewers:_ Brian Chan, MD; Michael Dougan, MD, PhD
 
 _Past Faculty Reviewers:_ Holly Rawizza, MD
 
-**Highlight of Updates \(4/1/2020\):**
+**Highlight of Updates \(4/2/2020\):**
 
 **\*\*Not yet reviewed by faculty reviewers\*\***
 
