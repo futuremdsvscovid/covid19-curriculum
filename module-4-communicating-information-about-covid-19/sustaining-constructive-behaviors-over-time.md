@@ -30,7 +30,7 @@ Focusing on one problem behavior can help improve chances of successfully changi
 
 ![](../.gitbook/assets/summary-mi.png)
 
-Evoking “change talk” in which patients express their **D**esires, **A**bilities, **R**easons, **N**eeds, and **C**ommitment to change \(DARN-C\). This can be done by
+Evoking “change talk” in which patients express their **D**esires, **A**bilities, **R**easons, **N**eeds, and **C**ommitment to change \(DARN-C\). This can be done by:
 
 * Summarizing/Reflecting as a part of active listening. You don’t have to use the person’s exact words, as the purpose is to show the patient you are listening and perhaps accentuate their unconsciously uttered change talk.
 * “On a Scale from 1 to 10, how likely are you to change X?” Then ask, “Why not a lower number?” This will get them to express motivations for change.
