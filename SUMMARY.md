@@ -43,5 +43,6 @@
   * [Resource Distribution](module-6-medical-ethics-in-relation-to-covid-19/untitled-1.md)
   * [Vulnerable Populations](module-6-medical-ethics-in-relation-to-covid-19/vulnerable-populations.md)
   * [Commitment of Healthcare Professionals and Trainees During Crisis](module-6-medical-ethics-in-relation-to-covid-19/commitment-of-healthcare-professionals-and-trainees-during-crisis.md)
+  * [Clinical Trials, Research, and Treatments](module-6-medical-ethics-in-relation-to-covid-19/clinical-trials-research-and-treatments.md)
 * [COVID-19 Student Response Website](https://covidstudentresponse.org/)
 
