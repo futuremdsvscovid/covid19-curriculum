@@ -6,11 +6,11 @@ description: 'Welcome!  Material was last updated on 3/27/2020, unless otherwise
 
 ## Introduction
 
-On March 15, a group of students at Harvard Medical School created a Response Team to organize their efforts against the COVID-19 pandemic.  They identified two main opportunities for impact: education and activism. Education efforts have resulted in this curriculum, intended for the medical community, and a public-facing social media campaign \(see [@FutureMDvsCOVID](https://twitter.com/FutureMDvsCOVID)\).  Activism work has involved coordinating ways that students can provide on-the-ground help in both the community and clinical settings. For inquiries about the HMS COVID-19 Student Response Team’s efforts, please see: [https://covidstudentresponse.org/](https://covidstudentresponse.org/)
+One of the greatest difficulties facing everyone nowadays is a lack of clarity about what is going on and what lies ahead.  We students especially feel a need to deepen our knowledge of the situation, as we are often viewed as resources by our friends and family.  However, it soon became clear how challenging it was to process the wealth of information coming our way.  A team of us at Harvard Medical School set out to quickly collate and synthesize accurate information about the pandemic to share with our classmates still eager to learn while sidelined from their regular classes and clinical activities, professors seeking to quickly change their course syllabi, and practicing health providers who were too occupied with clinical care to perform the research themselves.
 
-This curriculum was entirely written and compiled by Harvard Medical School students.  This document is not an official publication of the institution. It is provided for educational purposes only and does not constitute medical advice.
+This curriculum was entirely written and compiled by Harvard Medical School students.  This document is not an official publication of the institution.  It is provided for educational purposes only and does not constitute medical advice.
 
-While our primary audience is our classmates, we suspect the curriculum will be of use to other medical students and professionals around the world.  We encourage you to share these materials with anyone whom you believe may benefit from them. If you are from outside the HMS community, welcome.  
+We suspect the curriculum will be of use to students and professionals around the world.  We encourage you to share these materials with anyone whom you believe may benefit from them. 
 
 **We invite you to sign the** [**guest book**](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) **so we can track this material’s reach.**  As of March 27, it has been accessed by users in 66 countries across six continents!
 
@@ -22,5 +22,5 @@ Michael Kochis, EdM
 
 [michael\_kochis@hms.harvard.edu](mailto:michael_kochis@hms.harvard.edu)
 
-Education Committee Leader, HMS COVID-19 Student Response Team 
+Education Committee Leader, [HMS COVID-19 Student Response Team](https://covidstudentresponse.org/about/) 
 
