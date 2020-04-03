@@ -58,7 +58,7 @@ REMAP is a [mnemonic developed](https://www.ncbi.nlm.nih.gov/pubmed/28445100) to
 
 Regardless of the framework used, giving bad news is challenging for both the person delivering the news and the person receiving such news. Sometimes, a person receiving the news may react with anger, frustration, heightened anxiety, sadness, or another emotion. Having a framework for your response in this moment can be helpful for demonstrating how much you care. The NURSE framework is one guide. A review of this concept is provided below with relevant examples; both “I wish” and “I wonder” statements can be helpful. Brainstorm 1-2 scenarios where you would use the NURSE framework in the context of COVID-19.
 
-![](../.gitbook/assets/nurse.png)
+![](../.gitbook/assets/empathicresponseshandout1.jpg)
 
 _Thought questions:_ 
 
