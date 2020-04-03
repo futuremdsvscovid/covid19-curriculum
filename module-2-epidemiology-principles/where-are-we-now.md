@@ -14,9 +14,7 @@ Reported cases _underestimate_ the total number of cases due to the incubation p
 
 Based on previous epidemics, it is estimated that for every 1 case that is reported, there may be as many as 10-50 other cases that we don’t know about. So when you hear “confirmed cases,” mentally multiply that number by 10 to have an idea of the disease incidence \([NYTimes U.S. Coronavirus Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html), [Lipsitch M. Presentation 3.16.20](https://drive.google.com/file/d/1VvRoIRi8GjatUhlaWh0BAYRC-yemi3pv/view?usp=sharing)\). One way to get a better estimate for the true prevalence of COVID-19 and future pandemics is ongoing surveillance testing \([Lipsitch et al. NEJM 3.26.20](https://www.nejm.org/doi/full/10.1056/NEJMp2002125)\). For more on these principles, here is a supplementary [video](https://www.youtube.com/watch?v=mCa0JXEwDEk) on how to accurately estimate actual COVID-19 cases based on reported data.
 
-{% embed url="https://ourworldindata.org/grapher/total-cases-covid-19?yScale=log&country=OWID\_WRL+KOR+USA+ITA" %}
-
-{% embed url="https://ourworldindata.org/grapher/total-deaths-covid-19?yScale=log&time=40..71&country=USA+ITA+KOR" %}
+{% embed url="https://ourworldindata.org/grapher/total-cases-covid-19?yScale=log&country=OWID\_WRL+KOR+USA+ITA" caption="Continuously updating number of cases worldwide, with U.S., Italy and South Korea for comparison. From Our World in Data" %}
 
 
 
