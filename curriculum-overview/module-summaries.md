@@ -14,3 +14,5 @@ description: 'Click the links below to view downloadable one-page summaries of e
 
 \*\*\*\*[**Module 5: Training for Potential Clinical Roles**](https://docs.google.com/document/d/1H87Re6p_V7_sIyPZqTRYYJa5Bns-gptcyH4AvuXByqo/edit?usp=sharing)\*\*\*\*
 
+\*\*\*\*[**Module 6: Medical Ethics in Relation to COVID-19**](https://docs.google.com/document/d/13LjR_iFNy1O2uL7w9zZNPrTseOkr9E62Gn83xBqSF7s/edit?usp=sharing)\*\*\*\*
+

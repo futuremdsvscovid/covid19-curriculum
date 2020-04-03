@@ -30,7 +30,7 @@ Develop technical know-how in preparation for roles that medical students may pl
 
 **Module 6: Medical Ethics in Relation to COVID-19**
 
-_To be released soon_
+Discuss various ethical controversies related to COVID-19, and apply ethical frameworks to examine the impacts of personal, medical, and governmental decisions related to the pandemic.
 
 **Module 7: Global Health**
 
