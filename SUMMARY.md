@@ -41,5 +41,6 @@
 * [Module 6: Medical Ethics in Relation to COVID-19](module-6-medical-ethics-in-relation-to-covid-19/README.md)
   * [Overview of U.S. Medical Ethics](module-6-medical-ethics-in-relation-to-covid-19/overview-of-u.s.-medical-ethics.md)
   * [Resource Distribution](module-6-medical-ethics-in-relation-to-covid-19/untitled-1.md)
+  * [Vulnerable Populations](module-6-medical-ethics-in-relation-to-covid-19/vulnerable-populations.md)
 * [COVID-19 Student Response Website](https://covidstudentresponse.org/)
 
