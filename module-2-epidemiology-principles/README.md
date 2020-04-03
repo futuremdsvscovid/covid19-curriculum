@@ -13,6 +13,13 @@ _Faculty Reviewers:_ Wolfram Goessling, MD, PhD; Andrea Wershof Schwartz, MD, MP
 
 _Additional Reviewers:_ Rebecca Kahn, MS; James Hay, PhD.
 
+**Highlight of Updates \(4/3/20\):  
+\(Not yet reviewed\)**
+
+* NEW GRAPHIC SUMMARY
+* Confirmed R0 estimate, updated U.S. doubling times
+* South Korea \(SK\) case study: added discussion of mask precautions, added SK’s response to increasing number of imported cases, updated figures and graphs, updated case fatality rate with caveat, and added link to continuously updated Re for SK in supplementary reading
+
 **Highlight of Updates \(3/27/20\):  
 \(Reviewed by Rebecca Kahn, MS; Wolfram Goessling, MD, PhD; and Andrea Wershof Schwartz, MD, MPH\)**
 
