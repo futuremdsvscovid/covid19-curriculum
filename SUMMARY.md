@@ -45,5 +45,6 @@
   * [Commitment of Healthcare Professionals and Trainees During Crisis](module-6-medical-ethics-in-relation-to-covid-19/commitment-of-healthcare-professionals-and-trainees-during-crisis.md)
   * [Clinical Trials, Research, and Treatments](module-6-medical-ethics-in-relation-to-covid-19/clinical-trials-research-and-treatments.md)
   * [Public Health](module-6-medical-ethics-in-relation-to-covid-19/public-health.md)
+  * [Summary](module-6-medical-ethics-in-relation-to-covid-19/summary.md)
 * [COVID-19 Student Response Website](https://covidstudentresponse.org/)
 
