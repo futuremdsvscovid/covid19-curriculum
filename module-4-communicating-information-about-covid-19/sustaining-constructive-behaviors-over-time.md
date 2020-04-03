@@ -6,7 +6,7 @@ As you have learned in previous modules, public health measures like social dist
 
 Recall the 6 stages of change discussed in the ICS curriculum \([Levinson et al., Ann Intern Med 2001](https://annals.org/aim/article-abstract/714741/change-change-sounds-like-you-have-dilemma)\). The most effective approach to addressing a change in behavior should take into account the person’s willingness to change, motivating factors towards change, and barriers standing in the way. Although it is not clear whether identifying a person’s “stage” actually helps them change, this framework is important as a roadmap for the process of behavior change, and it aids in discussing individuals engaged in the process of change.
 
-![](../.gitbook/assets/stages-of-change.png)
+![Adopted from Levinson et al., Ann Intern Med 2001 \(link available above\)](../.gitbook/assets/stages-of-change.png)
 
 _Thought Question_: 
 
