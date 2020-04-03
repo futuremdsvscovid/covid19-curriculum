@@ -12,16 +12,16 @@ _Faculty reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD,
 
 **Highlight of Updates \(4/3/20\):**
 
-* Included recombination in discussion of challenges in identifying SARS-CoV-2 origins
-* Expanded discussion on potential fecal-oral transmission 
-* Expanded discussion on potential maternal-fetal transmission
-* Added role of Type I interferon response in disease
-* Added association of increased antibody titers with worse disease
-* Included anecdotal reports of olfactory and taste disorders \(OTDs\) in COVID-19
-* Expanded discussion of risk stratification for immunosuppressed individuals
-* Updated clinical course section with expanded discussion of disease timeline
-* ID NOW uses isothermal nucleic acid amplification similar to current rapid influenza and strep tests to deliver COVID-19 test results in less than 15 minutes \(FDA Emergency Use Authorization \(EUA\) granted 3/27\)
-* FDA EUA of hydroxychloroquine and chloroquine for use in hospitalized COVID-19 patients
+* Included [recombination](basic-virology-and-immunology.md#genetic-analyses-relatedness-to-other-viruses-suspected-origins-and-continued-surveillance) in discussion of challenges in identifying SARS-CoV-2 origins
+* Expanded discussion on potential [fecal-oral transmission](basic-virology-and-immunology.md#transmission-dynamics) 
+* Expanded discussion on potential [maternal-fetal transmission](basic-virology-and-immunology.md#transmission-dynamics)
+* Added role of [Type I interferon response](basic-virology-and-immunology.md#innate-immune-response) in disease
+* Added association of [increased antibody titers with worse disease](basic-virology-and-immunology.md#adaptive-immune-response)
+* Included anecdotal reports of [olfactory and taste disorders \(OTDs\)](clinical-presentation-of-covid-19.md#clinical-presentation) in COVID-19
+* Expanded discussion of risk stratification for [immunosuppressed individuals](clinical-presentation-of-covid-19.md#risk-stratification)
+* ID NOW uses isothermal nucleic acid amplification similar to current rapid influenza and strep tests to deliver COVID-19 test [results in less than 15 minutes](clinical-presentation-of-covid-19.md#molecular-assays) \(FDA Emergency Use Authorization \(EUA\) granted 3/27\)
+* Updated clinical course section with expanded discussion of [disease timeline](management-of-covid-19.md#clinical-course)
+* FDA [EUA of hydroxychloroquine and chloroquine](investigational-therapeutics-and-vaccine-development.md#investigational-therapeutics) for use in hospitalized COVID-19 patients
 
 ## Introduction
 
