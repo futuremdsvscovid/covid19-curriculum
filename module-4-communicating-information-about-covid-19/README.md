@@ -34,4 +34,5 @@ At the end of this module, medical students should be able to:
 * Infographic: [COVID-19: What you need to know: a 1-page guide](https://drive.google.com/file/d/1DhgIqGB7MNaK8LCH5_M2oew2N0oGPFnD/view?usp=sharing)
 * Twitter: [@FutureMDvsCOVID](https://twitter.com/FutureMDvsCOVID)
 * Instagram: [futuremdvscovid](https://www.instagram.com/futuremdvscovid/)
+* Facebook: [Future MD VS COVID](https://www.facebook.com/futureMDvsCOVID/)
 
