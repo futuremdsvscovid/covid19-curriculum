@@ -4,9 +4,21 @@
 
 **Attack Rate/Ratio:** Refers to the \(number of new cases of disease\)/\(population at risk\) during a specified time interval. Generally, the time interval here is defined as “the duration of the outbreak.” \([CDC](https://www.cdc.gov/csels/dsepd/ss1978/glossary.html)\)
 
-**R0 \(basic reproduction number or “R naught”\):** Refers to the estimated contagiousness of an infectious agent and is affected by its biological features as well as human behaviors. Generally, it refers to the average number of people an infectious person is expected to infect in an entirely susceptible population \(i.e., no immunity or vaccination\). For this reason, R0 is by definition unaffected by vaccination but it can change over time and place and is not a constant of the disease \(i.e., an outbreak of a disease can have a different R0 the second time there is an outbreak in the same place if population density is higher\). R0 can also be defined as R0= probability of transmission per contact \* contact rate __\* __duration of infectiousness. \([CDC](https://wwwnc.cdc.gov/eid/article/25/1/17-1901_article)\)
+**R0 \(basic reproduction number or “R naught”\):** Refers to the estimated contagiousness of an infectious agent and is affected by its biological features as well as human behaviors. Generally, it refers to the average number of people an infectious person is expected to infect in an entirely susceptible population \(i.e., no immunity or vaccination\). For this reason, R0 is by definition unaffected by vaccination but it can change over time and place and is not a constant of the disease \(i.e., an outbreak of a disease can have a different R0 the second time there is an outbreak in the same place if population density is higher\). R0 can also be mathematically defined as follows:
 
-**Re \(effective reproduction number\):** The same as R0 without the assumption that everyone is susceptible. Re = R0\*X, where X is the proportion of the population susceptible. Therefore, vaccination would decrease X and correspondingly the Re value. Additionally, as more people are infected with a virus, more individuals become immune to reinfection from the virus, and X decreases. When Re &lt; 1, the total number of infected persons declines, and the outbreak dies out. Re = 1 would keep numbers stable, and Re &gt; 1 would lead to continued growth in the numbers of infected persons. Re gives an idea of transmission over time and is useful for monitoring during an outbreak, as compared to R0, which is most useful in forecasting potential severity and spread at the start of an outbreak. \([CDC](https://wwwnc.cdc.gov/eid/article/25/1/17-1901_article)\)
+$$
+R_{0} = \beta *  \kappa * D
+$$
+
+in which **β** is the risk of transmission per contact, **κ** is the contact rate, and **D** __is the duration of infectiousness. \([CDC](https://wwwnc.cdc.gov/eid/article/25/1/17-1901_article)\)
+
+**Re \(effective reproduction number\):** The same as R0 without the assumption that everyone is susceptible. As a formula,
+
+$$
+R_e = R_o * X
+$$
+
+where X is the proportion of the population susceptible. Therefore, vaccination would decrease X and correspondingly the Re value. Additionally, as more people are infected with a virus, more individuals become immune to reinfection from the virus, and X decreases. When Re &lt; 1, the total number of infected persons declines, and the outbreak dies out. Re = 1 would keep numbers stable, and Re &gt; 1 would lead to continued growth in the numbers of infected persons. Re gives an idea of transmission over time and is useful for monitoring during an outbreak, as compared to R0, which is most useful in forecasting potential severity and spread at the start of an outbreak. \([CDC](https://wwwnc.cdc.gov/eid/article/25/1/17-1901_article), [Giesecke 2002](https://books.google.com/books/about/Modern_Infectious_Disease_Epidemiology_S.html?id=lHSBQgAACAAJ)\)
 
 **Epidemic curve:** A graph of cases vs. time. Most graphs being used in articles are examples of this type of curve. Epidemic curves may be presented as the cumulative number of cases or number of new cases over time, the latter being more commonly used. It can be used to make predictions about how well interventions are working and compare across different communities. Like any graph or curve, it is only as reliable as the data it is based on. \([CDC](https://www.cdc.gov/training/quicklearns/createepi/index.html)\)
 
