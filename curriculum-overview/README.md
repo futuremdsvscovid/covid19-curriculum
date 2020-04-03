@@ -28,7 +28,7 @@ Now that you’ve bolstered your COVID-19 knowledge, prepare to productively com
 
 Develop technical know-how in preparation for roles that medical students may play in the clinical setting.
 
-**Module 6: Medical Ethics in Relation to COVID-19**
+\*\*\*\*[**Module 6: Medical Ethics in Relation to COVID-19**](../module-6-medical-ethics-in-relation-to-covid-19/)\*\*\*\*
 
 Discuss various ethical controversies related to COVID-19, and apply ethical frameworks to examine the impacts of personal, medical, and governmental decisions related to the pandemic.
 
