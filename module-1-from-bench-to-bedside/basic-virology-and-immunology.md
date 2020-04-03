@@ -135,8 +135,7 @@ Many of the inflammatory markers discussed above have been investigated as possi
 
 Additional Readings:
 
-[Prompetchara et al., Asian Pacific Journal of Allergy and Immunology, 2020](http://apjai-journal.org/wp-content/uploads/2020/02/Covid_AP-200220-0772.pdf)
-
+[Prompetchara et al., Asian Pacific Journal of Allergy and Immunology, 2020](http://apjai-journal.org/wp-content/uploads/2020/02/Covid_AP-200220-0772.pdf)  
 [de Wit et al., Nat Rev Microbiol 2016](https://www.nature.com/articles/nrmicro.2016.81.pdf)  
 
 
