@@ -152,31 +152,5 @@ _Thought Questions:_
 * Persad, Govind, Alan Wertheimer, and Ezekiel J. Emanuel. "Principles for allocation of scarce medical interventions." The Lancet 373.9661 \(2009\): 423-431.
 * NCCID. “Understanding Summary Measures Used to Estimate the Burden of Disease: All about HALYs, DALYs and QALYs”. \(2015\)
 * Sheehan, M., and T. Hope. "Allocating healthcare resources in the UK: putting principles into practice." Medicine and social justice: essays on the distribution of healthcare \(2002\): 219-230.
-* White, Douglas B., et al. "Who should receive life support during a public health emergency? Using ethical principles to improve allocation decisions." Annals of Internal Medicine 150.2 \(2009\): 132-138. 
-
-  
-
-
-
-
-  
-
-
-
-
-  
-  
-  
-
-
-  
-  
-  
-  
-
-
-
-
-  
- 
+* White, Douglas B., et al. "Who should receive life support during a public health emergency? Using ethical principles to improve allocation decisions." Annals of Internal Medicine 150.2 \(2009\): 132-138.
 
