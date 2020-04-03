@@ -40,6 +40,6 @@
   * [Summary](module-5-training-for-medical-student-specific-roles/summary.md)
 * [Module 6: Medical Ethics in Relation to COVID-19](module-6-medical-ethics-in-relation-to-covid-19/README.md)
   * [Overview of U.S. Medical Ethics](module-6-medical-ethics-in-relation-to-covid-19/overview-of-u.s.-medical-ethics.md)
-  * [Untitled](module-6-medical-ethics-in-relation-to-covid-19/untitled-1.md)
+  * [Resource Distribution](module-6-medical-ethics-in-relation-to-covid-19/untitled-1.md)
 * [COVID-19 Student Response Website](https://covidstudentresponse.org/)
 
