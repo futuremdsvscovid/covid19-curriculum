@@ -148,8 +148,8 @@ _Thought Questions:_
 
 **References:**
 
-* Emanuel, Ezekiel J., et al. "Fair allocation of scarce medical resources in the time of Covid-19." \(2020\).
-* Persad, Govind, Alan Wertheimer, and Ezekiel J. Emanuel. "Principles for allocation of scarce medical interventions." The Lancet 373.9661 \(2009\): 423-431.
+* [Emanuel, Ezekiel J., et al. "Fair allocation of scarce medical resources in the time of Covid-19." \(2020\).](https://www.nejm.org/doi/full/10.1056/NEJMsb2005114)
+* [Persad, Govind, Alan Wertheimer, and Ezekiel J. Emanuel. "Principles for allocation of scarce medical interventions." The Lancet 373.9661 \(2009\): 423-431.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2809%2960137-9/fulltext)
 * NCCID. “Understanding Summary Measures Used to Estimate the Burden of Disease: All about HALYs, DALYs and QALYs”. \(2015\)
 * Sheehan, M., and T. Hope. "Allocating healthcare resources in the UK: putting principles into practice." Medicine and social justice: essays on the distribution of healthcare \(2002\): 219-230.
 * White, Douglas B., et al. "Who should receive life support during a public health emergency? Using ethical principles to improve allocation decisions." Annals of Internal Medicine 150.2 \(2009\): 132-138.
