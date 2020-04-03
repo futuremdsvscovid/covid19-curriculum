@@ -16,7 +16,7 @@ We have to ask ourselves, are the lives of a smaller group of people \(those who
 
 **References:**
 
-* [https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/)
+* [Yong, Ed. "How the Pandemic Will End." March 25, 2020. The Atlantic.](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/)
 
 ## **Legal Authority During A Pandemic to Enforce Isolation and Quarantine**
 
@@ -30,7 +30,7 @@ Police and law enforcement officers are authorized to help enforce public health
 
 **References:**
 
-* [https://www.cdc.gov/quarantine/aboutlawsregulationsquarantineisolation.html](https://www.cdc.gov/quarantine/aboutlawsregulationsquarantineisolation.html)
+* [CDC: Legal Authorities for Isolation and Quarantine](https://www.cdc.gov/quarantine/aboutlawsregulationsquarantineisolation.html)
 
 ## **What Do We Owe Each Other?**
 
