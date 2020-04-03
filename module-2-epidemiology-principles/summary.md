@@ -1,4 +1,4 @@
-# Summary
+# Graphic Summary
 
 We hope this module introduced you to epidemiological principles used to describe the spread of COVID-19, and helped you evaluate the potential impact of public health interventions via modeling and historical and contemporary examples.
 

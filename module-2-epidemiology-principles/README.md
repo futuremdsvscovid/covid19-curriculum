@@ -16,9 +16,10 @@ _Additional Reviewers:_ Rebecca Kahn, MS; James Hay, PhD.
 **Highlight of Updates \(4/3/20\):  
 \(Not yet reviewed\)**
 
-* NEW GRAPHIC SUMMARY
-* Confirmed R0 estimate, updated U.S. doubling times
-* South Korea \(SK\) case study: added discussion of mask precautions, added SK’s response to increasing number of imported cases, updated figures and graphs, updated case fatality rate with caveat, and added link to continuously updated Re for SK in supplementary reading
+* NEW [GRAPHIC SUMMARY](summary.md)
+* Clarified [formulas](introduction-to-epidemiological-terms.md#descriptors-of-disease-spread) for R0 and Re
+* Confirmed R0 estimate, updated U.S. [doubling times](approaches-to-prediction.md#common-assumptions-about-virus-spread)
+* South Korea \(SK\) case study: added discussion of [mask precautions](case-study-south-korea-2020.md#strategies-for-containment-contact-tracing-quarantine-and-treatment), added SK’s [response](case-study-south-korea-2020.md#current-situation-in-south-korea) to increasing number of imported cases, updated all figures and graphs, updated [case fatality rate](case-study-south-korea-2020.md#strategies-for-containment-contact-tracing-quarantine-and-treatment) with caveat, and added link to continuously updated Re for SK in [supplementary reading](case-study-south-korea-2020.md#summary)
 
 **Highlight of Updates \(3/27/20\):  
 \(Reviewed by Rebecca Kahn, MS; Wolfram Goessling, MD, PhD; and Andrea Wershof Schwartz, MD, MPH\)**
