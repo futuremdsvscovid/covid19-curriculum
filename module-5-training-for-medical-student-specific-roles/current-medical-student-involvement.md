@@ -2,7 +2,7 @@
 
 Given the enormous toll that COVID-19 has taken on medical professionals working in hospitals, there has been a tremendous push by medical students to support health care workers in both clinical and non-clinical capacities.  Students from medical schools across the country have been organizing themselves to aid in roles ranging from collecting excess PPE from the general public to staffing phone hotlines for virtual triage.  Harvard Medical School students have coordinated a number of initiatives to aid medical staff.  Here, we will discuss examples of roles currently being filled by medical student volunteers. 
 
-## Clinical support roles
+## Clinical support activities
 
 In terms of clinical support, HMS teaching hospitals have recently begun approving opportunities for which medical students may volunteer.  These have included:
 
