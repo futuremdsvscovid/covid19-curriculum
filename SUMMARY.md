@@ -38,6 +38,8 @@
   * [Current Medical Student Involvement](module-5-training-for-medical-student-specific-roles/current-medical-student-involvement.md)
   * [Managing Anxiety and Stress and Promoting Self-Care](module-5-training-for-medical-student-specific-roles/managing-anxiety-and-stress-and-promoting-self-care.md)
   * [Summary](module-5-training-for-medical-student-specific-roles/summary.md)
-* [Module 6: Medical Ethics in Relation to COVID-19](module-6-medical-ethics-in-relation-to-covid-19.md)
+* [Module 6: Medical Ethics in Relation to COVID-19](module-6-medical-ethics-in-relation-to-covid-19/README.md)
+  * [Overview of U.S. Medical Ethics](module-6-medical-ethics-in-relation-to-covid-19/overview-of-u.s.-medical-ethics.md)
+  * [Untitled](module-6-medical-ethics-in-relation-to-covid-19/untitled-1.md)
 * [COVID-19 Student Response Website](https://covidstudentresponse.org/)
 

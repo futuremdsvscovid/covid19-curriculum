@@ -1,0 +1,182 @@
+# Overview of U.S. Medical Ethics
+
+## Overview
+
+This section provides an overview of the major schools of thought in Western ethics: consequentialism, deontology, virtue ethics, natural law, and moral relativism. It then highlights principlism, a useful approach to medical ethics that breaks down issues into four major principles: respect for autonomy, beneficence, nonmaleficence, and justice. Moreover, it mentions the themes of negligence and reasonable care, which are often discussed in conjunction with beneficence and nonmaleficence. Finally, this section discusses the ethical principles of allocation of resources.
+
+## Schools of Ethics from Western Philosophy
+
+Centuries of scholarship have resulted in a variety of frameworks making ethical decisions.  Selected frameworks are introduced briefly below, notably biased toward Western ethical approaches from the Scottish and English enlightenment.  Please refer to linked resources for more details.
+
+Sources: [Dobrin 2012](https://www.psychologytoday.com/us/blog/am-i-right/201205/3-approaches-ethics-principles-outcomes-and-integrity), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/ethics/), [Barnhill 2010](https://www.uwosh.edu/facstaff/barnhill/490-docs/thinking/env-ethics), [Page Center](https://pagecentertraining.psu.edu/public-relations-ethics/introduction-to-public-relations-ethics/lesson-1/ethical-theories/)
+
+* **Consequentialism:** Consequentialism is the idea that the morality of an act depends on its consequences.  To decide whether an act would be right or wrong, one should examine the possible results of the act and ask whether the good effects would outweigh the bad effects.  As consequentialist ethics is focused on the ends rather than the means, it is also known as teleological ethics \(from the Greek word telos, which means “end”\).  Two forms of consequentialism are utilitarianism and prioritarianism.
+
+  Notable proponents: see belowSources: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/consequentialism/), [Dobrin 2012](https://www.psychologytoday.com/us/blog/am-i-right/201205/3-approaches-ethics-principles-outcomes-and-integrity), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/ethics/), [The Ethics Centre](https://ethics.org.au/ethics-explainer-consequentialism/), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/conseque/)
+
+  * **Utilitarianism:** Utilitarianism is the most well-known theory of ethics within consequentialism.  Utilitarianism states that one should choose the act that results in the most good - the act that maximizes the good of all parties involved.  In other words, the most ethical action is the one that leads to “the greatest amount of good for the greatest number of people” \(quoted in [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/utilitarianism-history/)\).
+
+    Notable proponents: Jeremy Bentham, John Stuart Mill, Henry Sidgwick, Peter SingerSources: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/consequentialism/), [Dobrin 2012](https://www.psychologytoday.com/us/blog/am-i-right/201205/3-approaches-ethics-principles-outcomes-and-integrity), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/ethics/), [The Ethics Centre](https://ethics.org.au/ethics-explainer-consequentialism/), [Barnhill 2010](https://www.uwosh.edu/facstaff/barnhill/490-docs/thinking/env-ethics), [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/utilitarianism-history/)
+
+  * **Prioritarianism:** Prioritarianism is a theory that, along with utilitarianism, falls under consequentialism. Prioritarianism proposes that priority should be given to those who are worse off because benefits have greater moral weight when given to  those who are worse off. In contrast to the utilitarian perspective of maximizing good for all parties involved, prioritarianism favors assisting those who are worse off, even if this results in a diminished maximal overall good. Prioritarianism can also be distinguished from egalitarianism. Whereas egalitarianism proposes equality \(i.e. treating all equally because all humans are equal in worth and moral status\), prioritarianism suggests an approach more similar to equity \(i.e. providing a good unequally to those who are worse off rather than those who are better off so that there is greater equality in the end\). This is an important distinction to make, and instances may arise where this may be the case. For example, suppose that a government could choose to fund a cure for canker sores \(i.e. aphthous ulcers\) for everyone versus a cure for an orphan disease that kills a very small number of people. An egalitarian approach would suggest that funding a cure for canker sores as the correct choice as this may benefit everyone equally, while prioritarianism would favor curing the rare deadly disease instead to help the few who suffer from it.
+
+    Notable Proponents: Larry Temkin
+
+    Sources: [Oxford Research Encyclopedia](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-232), [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/egalitarianism/)
+
+* **Deontology:** The word “deontology” comes from the Greek word deon, which means “duty.”  Thus, deontological ethics is also known as duty-based ethics.  In deontological ethics, one uses reason to arrive at a foundational ethical standard or standards, and one has a duty to act according to those principles.  Deontological ethics is also called non-consequentialist ethics because one judges the morality of an act based on how that act conforms to ethical principles, not based on the result of the act.  In one version of deontological ethics established by Kant, the basic ethical principle \(“categorical imperative”\) to which all right acts should conform is to “treat people as an end, and never as a means to an end” \([Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/ethics/)\).  In another statement of the categorical imperative, Kant explains that we should always act according to principles which we, as rational agents, would want to be a universal law for all people.  The essence of morality is in these principles, not in the results of the acts themselves.
+
+  Notable proponents: Immanuel Kant, John Locke
+
+  Sources: [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/ethics/), [Dobrin 2012](https://www.psychologytoday.com/us/blog/am-i-right/201205/3-approaches-ethics-principles-outcomes-and-integrity), [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kant-moral/#ForUniLawNat), [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-deontological/#DeoTheKan)
+
+* **Virtue Ethics:** This is one of the oldest schools of ethics, as it is founded on the ideas of Plato and Aristotle.  A virtue is “an excellent trait of character,” a fundamental principle that is deeply held within a person and causes that person to act habitually in a certain way \([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-virtue/)\).  According to Plato, examples of virtues are wisdom, courage, temperance, and justice \([Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/ethics/)\).  Virtue ethics is concerned with forming the good character of a person, that is, becoming a person who embodies the virtues.  If one acquires these fundamental dispositions, then making ethical decisions will naturally follow from them. In other words, in virtue ethics, the primary emphasis is on what kind of people we are, not on what decisions we make.  The decisions that we make are a result of the virtuous character we have developed.
+
+  Notable proponents: Plato, Aristotle, G.E.M. Anscombe, Alasdair MacIntyre
+
+  Sources: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-virtue/), [Page Center](https://pagecentertraining.psu.edu/public-relations-ethics/introduction-to-public-relations-ethics/lesson-1/ethical-theories/), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/ethics/), [Dobrin 2012](https://www.psychologytoday.com/us/blog/am-i-right/201205/3-approaches-ethics-principles-outcomes-and-integrity)
+
+## One Level Higher: Meta-Ethics
+
+As discussed above, consequentialism, deontology, and virtue ethics are three methods that we can use to decide how to act ethically.  But how do we decide which framework to use? Where do ethical standards come from? Although these questions, which fall under the purview of meta-ethics, are largely beyond the scope of this module, two important answers are highlighted below.
+
+* **Natural Law:** Natural law moral theory holds that humans can use reason to find basic moral principles that are central to human nature and that orient us toward the flourishing of all human beings.  In other words, human nature tells us something about morality. Using human nature \(the way humans are\) as a starting point, we can reason toward moral standards. Because moral norms are grounded in human nature, they are objectively right or wrong, and all human beings can have a basic understanding of them.  Thomas Aquinas and many other natural law proponents operate from a theistic perspective; the natural law is given by God who created human nature, and humans can use reason to decide whether acts are in accord with the natural law.
+
+  Notable proponents: St. Thomas Aquinas, Thomas Hobbes, John Finnis, Germain Grisez, Robert GeorgeSources: [International Encyclopedia of the Social & Behavioral Sciences](https://doi.org/10.1016/B978-0-08-097086-8.86084-5), [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/natural-law-ethics/), [Barnhill 2010](https://www.uwosh.edu/facstaff/barnhill/490-docs/thinking/env-ethics), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/natlaw/), [Britannica](https://www.britannica.com/topic/natural-law), [Soper 1992](http://www.jstor.org/stable/1289576), [Queensborough Community College](https://www.qcc.cuny.edu/SocialSciences/ppecorino/ETHICS_TEXT/Chapter_7_Deontological_Theories_Natural_Law/Natural_Law_Theory.htm)
+
+* **Moral Relativism:** Moral relativism states that moral norms are not universal; rather, they are relative to a particular time, place, or culture.  Because moral norms are relative, it is not possible to prove that one moral stance is generally better or more true than another.  Unlike moral objectivists, moral relativists do not believe that any ethical standard is universally or absolutely true in all cases.  Different societies have different standards in evaluating a moral judgment \(that an act is right or wrong\), and these standards may be true for one society but false for another society.  Because the truth of moral standards between societies cannot be rationally debated, moral judgments cannot be absolutely true for all people. All prior theories that have been discussed in this section would be considered moral objectivist theories, as a right answer can be discerned based on certain principles.
+
+  Notable proponents: William Sumner, Gilbert Harman, Jesse J. Prinz, J. David Velleman, David B. WongSources: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/moral-relativism/), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/moral-re/)
+
+_Thought questions:_
+
+* How would you describe, in your own words, the difference between consequentialism and deontology?
+* What potential objections can be raised against moral relativism?  Against natural law theory?
+* In a recent article, [Emanuel et al.](https://www.nejm.org/doi/full/10.1056/NEJMsb2005114) argue that, in a situation of scarce resources, such as a limited number of ventilators during the COVID-19 pandemic, the limited resources should be allocated first to healthcare workers and other workers who maintain and operate critical infrastructure \(see “Recommendation 2”\).  Which ethical framework\(s\) do they use in arriving at this recommendation?
+
+## Non-Western Schools of Ethics
+
+Noting our Western bias in this discussion, we briefly highlight a select few of the many schools of ethical thought and philosophy that did not originate in Europe.  Please see the linked resources for further details.
+
+* **Confucianism:** Confucianism, founded by the Chinese philosopher Confucius ca. 500 B.C., can be described as a virtue ethic, in the sense that a virtue is an ideal character trait that people should strive to attain.  \(However, there are important differences between Western virtue ethics described above and Confucianism; see [Stanford Encyclopedia of Philosophy - Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/) for details.\)  In classic Confucianism, the junzi \(“ethical nobility” who represent the moral ideal\) have certain ideal characteristics, such as filiality \(respectful, loving, supportive way of relating to one’s parents\), respect for ritual or traditional ways of acting towards others, and good judgment of right or wrong actions.  These “virtues” orient the junzi toward following the dao, or the way people should live.  The source of the virtues is ren, which is difficult to translate, but which may be defined as the “co-humanity” or “humaneness” between human individuals.  Confucianism emphasizes the performance of ritual behaviors or customs \(li\) in the attainment of, or as a reflection of the inner presence of, ren.
+
+  Notable proponents: Confucius, Zhu Xi \(neo-Confucianism\)
+
+  Sources: [Stanford Encyclopedia of Philosophy - Comparative Philosophy](https://plato.stanford.edu/entries/comparphil-chiwes/#3), [Stanford Encyclopedia of Philosophy - Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/), [Asia Society](https://asiasociety.org/education/confucianism), [Duke Center for Comparative Philosophy](https://sites.duke.edu/centerforcomparativephilosophy/2016/09/01/neglected-virtue-1-filiality-why-not-be-a-good-child-sungwoo-um-duke-university/), [Internet Encyclopedia of Philosophy - Confucius](https://www.iep.utm.edu/confuciu/), [Internet Encyclopedia of Philosophy - Neo-Confucian Philosophy](https://www.iep.utm.edu/neo-conf/)
+
+* **Daoism:** Daoism has been an alternative or complement to Confucianism throughout Chinese history, and its formulations have varied over time.  The dao, or “way,” is the center of this philosophical framework.  Dao can be imperfectly described as the central force in nature that is behind the way things change and function.  The dao of nature is a road, a path, or a guide for people; it acts as a normative guide for people’s behavior.  People should live in accordance with the dao by practicing wu’wei - acting in a way that conforms to nature’s ebbs and flows.
+
+  Notable proponents: Laozi, ZhuangziSources: [Stanford Encyclopedia of Philosophy - Comparative Philosophy](https://plato.stanford.edu/entries/comparphil-chiwes/#3), [Stanford Encyclopedia of Philosophy - Daoism](https://plato.stanford.edu/entries/daoism/), [Asia Society](https://asiasociety.org/education/daoism), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/daoism/)
+
+* **Buddhism:** Buddhists believe that people must strip away the contrived perception of reality created by thoughts and emotions in order to see the world as it is.  Buddhist ethics is perhaps most well-known for the rule of karma, the foundational principle that a good action leads to a good result, and a bad action leads to a bad result, either in this life or in reincarnated lives.  However, Buddhism is not focused only on the consequences of actions; it also places a heavy emphasis on good intention or internal motivation as a necessary condition for a good action. Early Buddhism includes three parts of ethical training \(right speech, right action, and right livelihood\) as part of the core principles known as the eightfold noble path.  Practical guides for Buddhist ethics include the Five Precepts \(do not kill other living beings, do not steal, do not perform sexual misdeeds, do not speak untruthfully, and do not become intoxicated\) and the Ten Good Courses of Action \(seven actions - do not kill, steal, commit sexual misdeeds, lie, speak divisively, speak harshly, or make idle talk - and three mental states - do not be greedy, spiteful, or ignorant\).
+
+  Notable proponents: Buddha \(Siddhartha Gautama\)
+
+  Sources: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-indian-buddhism/), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/buddha/#H5), [The Buddhist Centre](https://thebuddhistcentre.com/text/ethics), [The Buddhist Society](https://www.thebuddhistsociety.org/page/kamma-actions-and-results)
+
+* **Other schools of ethics:** Due to space limitations, we have omitted the rich traditions of [Islamic](https://iis.ac.uk/islamic-ethics) [ethics](https://www.tandfonline.com/doi/abs/10.1080/0305724970260403), [Hindu ethics](https://www.iep.utm.edu/hindu-ph/), [Jain ethics](https://www.iep.utm.edu/jain/#H3), [Jewish ethics](https://www.myjewishlearning.com/article/jewish-ethics-some-basic-concepts-and-ideas/), [African ethics](https://plato.stanford.edu/entries/african-ethics/), [Latin](https://www.iep.utm.edu/latin-am/) [American](https://plato.stanford.edu/entries/latin-american-philosophy/) [ethics](https://repository.globethics.net/handle/20.500.12424/36), and many others.
+
+## Basic Principles of Medical Ethics
+
+The four basic principles outlined by Beauchamp and Childress in Principles of Biomedical Ethics provide the foundation for modern American biomedical ethics. These principles are 1\) respect for autonomy, 2\) justice, 3\) beneficence, and 4\) nonmaleficence. These principles provide a practical but reductionist framework to approach biomedical ethics and draw on elements of each of the above schools of ethics. For example, deontologists could argue that the morality of an act in medicine could be based on how that act conforms to these principles, rather than on the result of the act. Consequentialists could instead argue that these principles are heuristic ways to have the best likelihood of maximizing the good effects of an act. 
+
+Each of these four principles are considered and may be weighed against one another in the process of ethical decision-making in a given scenario.
+
+* **Respect for Autonomy:** The principle of respect for autonomy originated in the Belmont Report - which summarized ethical principles for research involving human subjects - as “respect for persons.” Under this principle, patients must be given the opportunity to think, decide, and act independently and without coercion. One key way that this principle is seen in everyday medical practice is through the process of informed consent, in which patients must be informed of the relevant information and given the opportunity to evaluate, consider, and agree to a treatment modality prior to initiating a treatment. 
+* **Justice:** The principle of justice is founded upon the idea of fairness. As such, the concept of equality - that all should be treated the same - plays an important role in justice. However, equality can also lead to unfairness because giving the same thing to those who are already better off may not promote justice. Some have argued that justice should actually be based on equity, which is the idea of providing a good un-equally between those who are better and worse off so that there is greater equality in the end. In medicine, the principle of justice has been used to argue that the burdens and benefits of advances in medical treatment and technology should be distributed fairly across all groups of people. Key areas of medical ethics in which justice is often considered are: fair distribution of scarce resources, balancing competing needs, and fulfilling obligations to different communities.
+* **Beneficence:** The principle of beneficence describes the duty to do good for patients. It requires that all interactions, treatments, and decisions have the goal of increasing the well-being of  the patient involved. This principle asks that providers develop and maintain their knowledge and skill-sets, consider the individual circumstances of their patients, and strive for net benefit. It requires providers to take active steps to help their patients, as opposed to merely avoiding harm. Typically, when patient autonomy is compromised \(e.g., incapacity\), beneficence is the guiding ethic for decision-making on behalf of the patient’s best interests.
+* **Nonmaleficence:** This requires that providers do not inflict harm on other persons, and that harm is to be avoided or minimized in pursuit of the greater good. This principle is the underlying tenet of the Hippocratic Oath \(“Primum non nocere” - “First, do no harm”\). Avoiding harm can sometimes be difficult because many beneficial therapies also have serious risks; the pertinent ethical issue is whether the benefits outweigh the burdens. In contrast to beneficence, the core of this principle is avoiding avoidable or unacceptable risks/harm. For instance, nonmaleficence describes not causing unnecessary pain related to a surgery even if the benefits of having the surgery still outweigh the unnecessary pain \(i.e., making sure to give good rather than minimal post-surgical pain control\). Alternatively, perhaps a procedure should not be done even if the benefits would be substantial \(this principle is often evoked in the debate on the ethics of physician-assisted suicide\).
+
+So far we have discussed the rightness of acts, but these principles are also relevant to failures to act, as is illustrated by negligence and reasonable care - legal principles with ethical implications. **Negligence** is when an unintentional injury results from actions that were not intended to do harm. It requires that a provider have a duty, that he or she breach that duty, and that an injury results that was caused by the breach of duty. **Reasonable care** describes the degree of care that a reasonable person in a similar situation would use, and it depends on the standard of care for the procedure being performed.
+
+* Negligence occurs in situations in which a duty to use reasonable care is owed to another person. An injury results from a failure to use reasonable care.
+* Reasonable care may be determined by the applicable standards of care, by statute, or by previous judicial decisions known as precedents. If a duty is not performed with reasonable care, a physician may be held responsible.
+
+_Thought Questions_:
+
+* How can physicians and health care providers balance respect for the autonomy of patients while simultaneously providing their own medical opinions/recommendations? For example, how can we balance a patient’s refusal to quarantine after a positive test for COVID-19 versus a public health requirement to quarantine?
+* Should the fundamental principle of justice be based upon equality or equity? For example, should everyone with COVID-19 be given equal access to ventilators, no matter how sick, or should those who are sickest be favored?
+
+References: 
+
+* Beauchamp TL and Childress JF. Principles of biomedical ethics. Oxford University Press, USA, 2001.
+* Gillon R. "Medical ethics: four principles plus attention to scope." Bmj 309.6948 \(1994\): 184. [https://web.stanford.edu/class/siw198q/websites/reprotech/New%20Ways%20of%20Making%20Babies/EthicVoc.htm](https://web.stanford.edu/class/siw198q/websites/reprotech/New%20Ways%20of%20Making%20Babies/EthicVoc.htm)
+* Miles SH. The Hippocratic Oath and the ethics of medicine. 2004. Oxford; New York: Oxford University Press.
+
+## Principles of Allocation
+
+Our modern societies have chosen to develop medical systems in which only a limited amount of resources - such as nurses and physicians, treatment, equipment, and money - are available. Even in seemingly normal times, patients are triaged in the emergency room based on the urgency of their complaint and the availability of clinicians to see them. In the current COVID-19 pandemic, the limitations in our medical resources as a nation and globally have become increasingly apparent, as we hear in the news daily about shortages of essential equipment for patients and providers such as surgical and N95 masks, beds, and ventilators. As such, determining the allocation of medical resources has become a pressing and important topic for all. Below, we provide a simple framework that incorporates the above basic principles of medical ethics \(autonomy, justice, beneficence, and nonmaleficence\) and guides decision-making regarding who receives a finite medical resource \(i.e. “rationing”\).
+
+Based on the principles of autonomy, justice, beneficence, and nonmaleficence, [Persad et al.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2809%2960137-9/fulltext) propose four categories of ethical values to guide the allocation of scarce medical resources: 1\) treating people equally, 2\) giving priority to the worst off, 3\) maximizing benefits, and 4\) promoting and rewarding social usefulness. \(Persad et al. Lancet 2009 [Principles for allocation of scarce medical interventions](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2809%2960137-9/fulltext)\). Within each category of ethical value, there are two competing ethical principles \(for a total of 8 sub-principles\) that are competing specifications of the higher-order ethical value.
+
+* **Treating people equally:** Allowing people to have equal opportunity to receive a medical intervention underlies this ethical value. The following two principles are based off of this ethical value, though reach different conclusions:
+  * **Lottery \(Random Selection\):** This ethical principle uses a lottery in order to provide people with an equal probability of obtaining a given medical resource, regardless of other circumstances.
+  * **First-come, first-served:** Under this ethical principle, people who require a limited resource first receive it, without regard to differences between people. For example, during non-pandemic times, patients are allotted a hospital bed on a first-come, first-served basis. 
+* **Giving priority to the worst off:** This ethical value embodies prioritarianism \(see above\), in which individuals who are worse off are given priority access to needed medical resources. Below, two ethical principles that incorporate this ethical value are discussed, though they differ in their definition of who is considered worst off. While these two are among the most discussed, they are not the only ones - there are multiple other ways of defining who is “worse off.”
+  * **Sickest first:** In this ethical principle, those with the worst chance of survival without a given scarce medical intervention are prioritized as they are considered to be “worst off.”
+  * **Youngest first:** This ethical principle prioritizes the distribution of resources to those who have lived fewer life years - thus defining those who are “worst off” as those who have yet to benefit from having lived longer. ****
+* **Maximizing benefits:** This ethical value is based upon utilitarianism \(see above for detailed background on utilitarianism\) and, at its core, aims to maximize the possible good that can be done. There are multiple ways, however, to define a “benefit” and different ethical principles differ in the “benefit” that they promote. Two ethical principles falling under this ethical value are described below.
+  * **Saving the most lives:** This ethical principle prioritizes saving the most individual lives. It treats each life as holding equal value and does not compare the individual worth of each life - for example, the lives of a 20-year old and 70-year old are weighed equally.
+  * **Saving the most life-years:** In this ethical principle, saving the most life-years is preferred over saving the most lives, regardless of how this distribution is concentrated or spread. For example, this ethical principle would favor saving one person who goes on to live 21 more years rather than 20 people who each go on to live 1 more year \(20 life-years\). There are multiple ways in which life years are quantified \(see below\).
+* **Promoting and rewarding social usefulness:** This ethical value prioritizes people who have previously provided or will provide, in the future, benefit to society. It is important to recognize the effect that culture and societal norms have on defining these benefits to society and thus who would be prioritized. 
+  * **Instrumental value:** In this ethical principle, people are prioritized who have future usefulness. For example, a system valuing instrumental value could focus on treating health care workers in the current COVID-19 pandemic because of the added value in the future that they may have for treating others. 
+  * **Reciprocity:** This ethical principle prioritizes and rewards people who previously were useful or had to sacrifice. For example, in this system, a person who previously volunteered to test a new COVID-19 vaccine in a clinical trial would be prioritized if they were to require treatment in the future.
+
+An important concept to understand within the context of the allocation of scarce resources \(i.e. rationing\) is the “life-year,” as it underlies the ethical principle of “Saving the most life-years” in order to maximize benefits. There are [two general systems](https://nccid.ca/publications/understanding-summary-measures-used-to-estimate-the-burden-of-disease/) used to quantify life-years.
+
+* **Quality-adjusted life-year:** Quality-adjusted life-year systems measure the gain of equivalent healthy years. In this system, a quality-adjusted life-year \(QALY\) is defined as one year of perfect health. A year of life with a specific illness or disability \(i.e. health-related quality-of-life; HRQOL\) is then normalized relative to this year of perfect health. Specific criteria for determining this normalized value vary, especially given the subjective nature of the “value” of a specific condition. For example, in the UK’s National Health Service, a year of life with a moderate mobility impairment is defined as 0.85 QALYs. 
+  * **QALYs formula: QALYs = additional years of life x health-related quality-of-life \(HRQOL\)** 
+* **Disability-adjusted life-year:** Disability-adjusted life-year systems measure the loss of health. This system measures the total length of time that a specific illness is disabling to an individual over their lifetime. Similar to a QALY, it incorporates quality-of-life factors to normalize a year of living with a specific condition/illness to a year of perfect health. Prior DALY systems included an age-weighting such that a year for a younger person was weighed as more valuable than that for an older person, but these weightings have generally since been removed.
+  * **DALYs formula: DALYs = years of life lost to premature mortality \(YLL\) + years lived with disability \(YLD\)**
+
+Each of these ethical values and principles has advantages and disadvantages \(summarized in Table 1 below\). Persad et al. \(2009\) have also developed a recommendation on whether each ethical principle should be included or excluded when developing guidelines for allocation.
+
+When developing a framework for allocation of scarce resources, it is important to recognize that no single value or principle is sufficient in determining whether a given individual receives the resource. Ultimately, a multi-value and multi-principle framework is necessary to facilitate such decision-making \(Emanuel et al. NEJM 2020 [Fair Allocation of Scarce Medical Resources in the Time of Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMsb2005114)\).
+
+![Table 1: Simple principles and their core ethical values \(Persad et al. 2009\)](https://lh3.googleusercontent.com/-u9LHZ_nQWGE1MeJ0zaHvtevXt8MVaR4yTHN38IS8lFuGS80AOxTDBo--Dx72DZC8TUSEZ5qCuWXEt5RSfYYl7uW9hlMcp3878pfPvGwwivi5U9rJ7u5vPK9WQI_SalHv49kaeXD)
+
+Similar to Persad et al., White and colleagues \(2009\) suggest a framework for the allocation of scarce medical resources that include maximizing life-years, broad social value, instrumental value, and the life-cycle principle \(i.e. providing each individual with an equal opportunity to live through various stages of life\). \([Who Should Receive Life Support During a Public Health Emergency? Using Ethical Principles to Improve Allocation Decisions](https://annals.org/aim/article-abstract/744219/who-should-receive-life-support-during-public-health-emergency-using)\). However, they caution against an over-reliance on the principle of maximizing life-years, as it may selectively discriminate against groups with certain conditions.  For example, maximizing life-years could lead to favoring the lives of the young and able, while disadvantaging those who are old and disabled. Please see [vulnerable populations below](https://docs.google.com/document/d/1eqtWy5fS_qd_e8jM58ii9wUr8_npHaVLPF-mHmqFvsg/edit#bookmark=id.lkprh7i1862w) for further discussion.
+
+Although the above ethical values and principles for medical resource allocation suggested by Persad et al. are well-known, there are others as well. Some advocate for the interrelated concepts of cost, opportunity costs, and cost effectiveness to be considered within the principles of allocation. Sheehan and Hope in Allocating Health Care Resources in the UK promote this approach. Because cost is a limiting factor in medical budgets, they argue that it is important to assess the opportunity costs of one approach to allocation versus another as funding one area means that another area will not receive it. As such, cost effectiveness can be an essential consideration in deciding where to direct medical resource allocation. This approach to cost effectiveness is also not solely limited to the hospital or medical center setting and applies to society more broadly - for instance, during an economic downturn, cost effectiveness is also used when deciding where stimulus money should be directed \(hospital vs. industry vs. directly to families\).
+
+_Thought Questions:_
+
+* If you were developing a system of allocation for your country, which principles would you weigh most heavily and/or least heavily and why?
+* What role should monetary cost have in guiding decisions within an allocation system?
+* What decisions \(societal, governmental, personal, etc\) have been made in the past that have now caused rationing to be necessary in the setting of scarcity?
+* Are there solutions that can solve the scarcity of medical resources besides rationing?
+
+**References:**
+
+* Emanuel, Ezekiel J., et al. "Fair allocation of scarce medical resources in the time of Covid-19." \(2020\).
+* Persad, Govind, Alan Wertheimer, and Ezekiel J. Emanuel. "Principles for allocation of scarce medical interventions." The Lancet 373.9661 \(2009\): 423-431.
+* NCCID. “Understanding Summary Measures Used to Estimate the Burden of Disease: All about HALYs, DALYs and QALYs”. \(2015\)
+* Sheehan, M., and T. Hope. "Allocating healthcare resources in the UK: putting principles into practice." Medicine and social justice: essays on the distribution of healthcare \(2002\): 219-230.
+* White, Douglas B., et al. "Who should receive life support during a public health emergency? Using ethical principles to improve allocation decisions." Annals of Internal Medicine 150.2 \(2009\): 132-138. 
+
+  
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+
+  
+  
+  
+  
+
+
+
+
+  
+ 
+
