@@ -49,7 +49,7 @@ _Thought question:_
 * Given that treatment for COVID-19 is primarily supportive, what are the benefits of testing for SARS-CoV-2?
 * Given what you have learned about the basic virology of SARS-CoV-2, how would you design a test to look for infection? From where would you collect samples?
 
-### Molecular Assays
+### Molecular assays
 
 After the emergence of COVID-19, labs around the world rapidly began developing diagnostic tests for SARS-CoV-2. Most tests so far have consisted of  real-time RT-PCR techniques against the RNA-dependent RNA polymerase \(RdRp\), E \(envelope\), N \(nucleocapsid\), S \(spike protein\), and/or ORF1b transcripts \(video review of [RT-PCR](https://www.youtube.com/watch?v=0MJIbrS4fbQ)\). The WHO initially dispatched 250,000 kits based on initial work from Christian Drosten \(Institute of Virology, Charité University Hospital, Berlin\) and collaborators in Europe and Hong Kong. The CDC then developed its own rRT-PCR diagnostic panel, though critical errors in primer development limited its scale-up and initially caused testing shortages in the United States \(review: [Sheridan, Nature 2020](https://www.nature.com/articles/d41587-020-00002-2)\). Several commercial laboratories have developed and distributed  their own PCR diagnostic tests to meet this growing need \(see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit?ts=5e743dc3#)\). 
 
