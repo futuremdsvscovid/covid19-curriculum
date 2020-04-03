@@ -8,25 +8,20 @@ description: >-
 
 _Student authors:_ Adi Achanta; Kendall Carpenter; Pamela Chen; Nicole M. Gilette; Pinky Langat, PhD; Blake Oberfeld; Jordan Said; Simone Sasse; Abigail Schiff, PhD; and Allen Zhou
 
-_Faculty reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD
+_Faculty reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(3/27/20\):  
-\*\*Updates have yet to be reviewed by our faculty reviewers\*\***
+**Highlight of Updates \(4/3/20\):**
 
-* Clarification of viral genome structure and relatedness to other coronaviruses
-* Role of endocytosis in entry, highlighting potential chloroquine mechanism
-* Timing of viral shedding, location and statistics on asymptomatic transmission
-* Pre-existing serum immunity to SARS-CoV-2
-* Expanded discussion of co-infectivity with other common respiratory pathogens
-* Update on children and COVID-19 in supplemental materials
-* New subsection on emerging CRISPR-based diagnostics
-* New discussion of procalcitonin and disease severity
-* New "Clinical Course" figure
-* Updated disease severity classifications \(mild, moderate, severe, critical\)
-* Updates on mild disease at-home management and link to Emory University tool
-* New discussion of PPE recommendations \(droplet vs. airborne\)
-* Expanded discussion of NSAID use in COVID-19 patients
-* Clinical trial updates on lopinavir/ritonavir, favipiravir, hydroxychloroquine, and tocilizumab
+* Included recombination in discussion of challenges in identifying SARS-CoV-2 origins
+* Expanded discussion on potential fecal-oral transmission 
+* Expanded discussion on potential maternal-fetal transmission
+* Added role of Type I interferon response in disease
+* Added association of increased antibody titers with worse disease
+* Included anecdotal reports of olfactory and taste disorders \(OTDs\) in COVID-19
+* Expanded discussion of risk stratification for immunosuppressed individuals
+* Updated clinical course section with expanded discussion of disease timeline
+* ID NOW uses isothermal nucleic acid amplification similar to current rapid influenza and strep tests to deliver COVID-19 test results in less than 15 minutes \(FDA Emergency Use Authorization \(EUA\) granted 3/27\)
+* FDA EUA of hydroxychloroquine and chloroquine for use in hospitalized COVID-19 patients
 
 ## Introduction
 
