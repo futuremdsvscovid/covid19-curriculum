@@ -2,7 +2,9 @@
 
 As COVID-19 cases in the US continue to rise, we can look to other countries that are farther ahead in their epidemics as sources of instruction. Of particular interest is the case of South Korea. SK is a democratic country, with largely privatized healthcare and strong corporate research presence, much like the US. Cases in SK initially grew exponentially but have flattened in recent days with extensive efforts to scale up testing, perform contact tracing, and promote social distancing, [without nationwide lockdown.](https://www.scmp.com/week-asia/health-environment/article/3075164/south-koreas-coronavirus-response-opposite-china-and) Here we present an overview of SK’s interventions.
 
-![Total confirmed cases of SARS-CoV-2 starting from 100th case \(data through 3/24\).](https://lh3.googleusercontent.com/tkqRr7ZnPQ-TXxHi5VyBxigTi76fk1cDz7sMj8CcHhEgnHWo1zSWzvvj8Fltv9UdHueNr0w6dKxQttcPS754tfQFHTLZRQyV-c_n3keCo4GPkhkkGs-IyhL18Ovc6zLtbGUEFBuN)
+{% embed url="https://ourworldindata.org/grapher/covid-confirmed-cases-since-100th-case?country=USA+KOR+ITA" %}
+
+
 
 Italy and SK had initially shown similar trajectory in the rise of cases, however, SK in recent days has plateaued**.** The US is about 1-2 weeks behind SK and Italy \(fact and figure [source](https://www.vox.com/policy-and-politics/2020/3/13/21178289/confirmed-coronavirus-cases-us-countries-italy-iran-singapore-hong-kong)\).
 
