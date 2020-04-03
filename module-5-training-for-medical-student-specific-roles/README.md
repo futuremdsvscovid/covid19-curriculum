@@ -14,12 +14,11 @@ _Infectious Disease Fellow reviewer_: Christian Larsen, MD
 
 The COVID-19 pandemic has prompted numerous questions as to how best to prepare medical students to engage in efforts to stop the disease. This fifth module guides the reader through relevant information to smooth the transition onto hospital floors and play important roles in the clinic. Protocols regarding testing, triage, and PPE use for managing COVID-19 are constantly evolving at an institutional, state, and federal level.
 
-In short, PPE minimizes exposures to hazards that result in serious infectious illnesses by creating a barrier between the healthcare worker and the infectious agent. For COVID-19, gloves protect the hands, gowns protect skin and clothing, masks and respirators protect nose and mouth, and goggles and face shields protect eyes and the entire face.  It is important to develop an understanding of how to safely put on, take off, and, at least currently, re-use such equipment to minimize the contraction and continued spread of the virus. 
+In short, PPE minimizes exposures to hazards that result in serious infectious illnesses by creating a barrier between the healthcare worker and the infectious agent. For COVID-19, gloves protect the hands, gowns protect skin and clothing, masks and respirators protect nose and mouth, and goggles and face shields protect eyes and the entire face.  It is important to develop an understanding of how to safely put on, take off, and \(at least currently\) re-use such equipment to minimize the contraction and continued spread of the virus. 
 
 The next section covers basic mechanical ventilator settings and modes, with an emphasis on ARDS. While students are unlikely to be directly involved in mechanical ventilator management of patients, a fundamental understanding of mechanical ventilator function may be useful for communicating with healthcare providers and as a foundation for further patient care. 
 
-In addition to providing relevant information regarding PPE use, triaging, and mechanical ventilator function, this module aims to inform medical students about ways to support healthcare workers. Examples of clinical and non-clinical opportunities include phone triage for patient care and community initiatives to donate PPE. Finally, recognizing that this is an uncertain, stressful moment, we have linked to suggestions and resources for promoting self-care.    
-
+In addition to providing relevant information regarding PPE use, triaging, and mechanical ventilator function, this module highlights ways in which students can support healthcare workers. Examples of clinical and non-clinical opportunities include phone triage for patient care and community initiatives to donate PPE. Finally, recognizing that this is an uncertain, stressful moment, we have linked to suggestions and resources for promoting self-care.  
 
 ## Learning Objectives:
 
