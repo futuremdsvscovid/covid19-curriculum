@@ -145,7 +145,7 @@ For more detailed information on mechanical ventilator settings for ARDS \([clic
 
 For quick ICU guidelines for COVID \([click here](https://www.onepagericu.com/)\).
 
-For more information on clinical trials regarding mechanical ventilation, refer to supplementary material in Module 1 \([click here](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#heading=h.fzjmqy11md9f)\).
+For more information on clinical trials regarding mechanical ventilation, refer to supplementary material in Module 1 \([click here](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#bookmark=id.8ldb2jkztow5)\).
 
 _Thought question:_
 
