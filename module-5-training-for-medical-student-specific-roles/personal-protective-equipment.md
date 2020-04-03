@@ -14,7 +14,7 @@ The [CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html)
 
 ![https://www.mountsinai.org/files/MSHealth/Assets/HS/About/Coronavirus/MSHS-COVID-19-PPE-Practices.pdf](https://lh6.googleusercontent.com/_6Mfa87rbMgfESFKkzUyDCJ50yG2FyMZgwMPGqw64Nxv7U3oXwLv5bbOjXHS4JgGZ3aWZbbax_1LMZttXxCdSUkuGuJqa7gNc4X9Qayvjg1jR5tRhOL35Z00G2HSmMhNHfaxDnN3)
 
-Healthcare organizations may further delineate the circumstances as to when which PPE is required. As an example of recommendations as of March 23rd from [BILH Website](https://static1.squarespace.com/static/5c5b3374ca525b57bb9b3e4d/t/5e6992213d430e6e35aa5b99/1583976993771/BILH+COVID-19+PPE+Grid+by+Location.pdf) \(with the important note that protocols are evolving rapidly\), see chart below:
+Healthcare organizations may further delineate the circumstances as to when which PPE is required. As an example of recommendations as of March 23 from [BILH Website](https://static1.squarespace.com/static/5c5b3374ca525b57bb9b3e4d/t/5e6992213d430e6e35aa5b99/1583976993771/BILH+COVID-19+PPE+Grid+by+Location.pdf) \(with the important note that protocols are evolving rapidly\), see chart below:
 
 ![](https://lh4.googleusercontent.com/_1Kw0lsUJLwWys7VSOAbYE5MzU5ge-9N3NGN8kSak_SjSnVGa09rep9Z8oXa2VAcFeNEmMAuK5Cxypn1Tti28HH8akQKmLfzBEC0zGraTeteGcc7MZI9fSGoIpN6ksR7YsPIs8xf)
 
@@ -30,16 +30,13 @@ Due to shortages, new terminology is arising regarding extension or re-use of PP
 
 **Re-Use**: removal and reuse of PPE between patients. 
 
-The current shortage has led many healthcare organizations to consider different avenues of conserving supplies to meet the needs of their staff, such as community donations. Furthermore, hospitals including Massachusetts General Hospital, Brigham and Women’s Hospital, and Beth Israel Deaconess Medical Center have instituted new policies, such as requiring universal face masks for all workers to be worn throughout the day for all cases, as the situation continues to evolve. See [current FDA recommendations](https://www.fda.gov/medical-devices/letters-health-care-providers/surgical-mask-and-gown-conservation-strategies-letter-healthcare-providers) for conservation recommendations for crisis situations.   
-
+The current shortage has led many healthcare organizations to consider different avenues of conserving supplies to meet the needs of their staff, such as community donations. Furthermore, hospitals including Massachusetts General Hospital, Brigham and Women’s Hospital, and Beth Israel Deaconess Medical Center have instituted new policies, such as requiring universal face masks for all workers to be worn throughout the day for all cases, as the situation continues to evolve. See [current FDA recommendations](https://www.fda.gov/medical-devices/letters-health-care-providers/surgical-mask-and-gown-conservation-strategies-letter-healthcare-providers) for conservation recommendations for crisis situations. 
 
 _Thought questions:_
 
-Your community hospital has been experiencing greater pressures on conserving the necessary protective equipment as well as personnel to help combat the virus. You receive an email requesting opportunities to help. Which PPE would the hospital need? 
-
-What are some strategies to help provide enough protective attire to healthcare workers? 
-
-What are some FDA approved alternatives/options?
+* Your community hospital has been experiencing greater pressures on conserving the necessary protective equipment as well as personnel to help combat the virus. You receive an email requesting opportunities to help. Which PPE would the hospital need?
+* What are some strategies to help provide enough protective attire to healthcare workers?
+* What are some FDA approved alternatives/options?
 
 ## PPE Training
 
@@ -52,12 +49,9 @@ These diagrams describe the application and removal of PPE. For a more comprehen
 
 ![](https://lh4.googleusercontent.com/ToTC73mF3KO5C5hTs4y5LEw9y2H3fKTtgexBfDjx7TZqekZNdplF1RNecGRgWR3OKaODQeCsRkEsHgEA-plwAJ6nWdP-_u3LKKEhjs-bQvXJhH_d4X2dw0wGMHSsP5XtQcTc-FgG)
 
-#### 
-
 ### Reusing PPE
 
-Due to the limitations in supplies, many hospitals are creating new trainings concerning the reuse of PPE. PPE that was previously single-use only is now being reused. Contrary to the guidance from the above ‘doffing’ figures, surgical masks, N95 masks and eye protection are currently being reused to preserve hospital supplies.  
-
+Due to the limitations in supplies, many hospitals are creating new trainings on the reuse of PPE. PPE that was previously single-use only is now being reused. Contrary to the guidance from the above "doffing" figures, surgical masks, N95 masks and eye protection are currently being reused to preserve hospital supplies.
 
 The following is taught at the HMS/MGH PPE training session: 
 
@@ -127,13 +121,13 @@ Non-disposable safety glasses are meant to be reused. They cannot be worn over p
 
 _Thought question:_
 
-You volunteer at your medical school’s hospital and are asked to help train staff on how to reuse PPE. Think of up to five critical practices that all medical students need to know about reusing PPE.
+* You volunteer at your medical school’s hospital and are asked to help train staff on how to reuse PPE. Think of up to five critical practices that all medical students need to know about reusing PPE.
 
 ## Frequently Asked Questions 
 
 **Which PPE should healthcare personnel wear when working with COVID-19 positive patients?** 
 
-As of March 19, 2020, the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/infection-control/control-recommendations.html) recommends that healthcare personnel wear non-sterile disposable patient examination gloves, an isolation gown, eye protection \(goggles\), and a properly fitted N95 respirator.  N95 respirators, which can filter aerosolized virus particles from the air, are preferred; regular \(surgical\) facemasks, which do not fit tightly to the face and do not filter viruses from the air, can be used if N95 respirators are unavailable due to a supply shortage.  
+As of March 19, the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/infection-control/control-recommendations.html) recommends that healthcare personnel wear non-sterile disposable patient examination gloves, an isolation gown, eye protection \(goggles\), and a properly fitted N95 respirator.  N95 respirators, which can filter aerosolized virus particles from the air, are preferred; regular \(surgical\) facemasks, which do not fit tightly to the face and do not filter viruses from the air, can be used if N95 respirators are unavailable due to a supply shortage.  
 
 
 **What PPE should patients with confirmed or suspected COVID-19 wear?**
@@ -166,12 +160,13 @@ According to the CDC:
 
 ![](https://lh5.googleusercontent.com/3cYhaZTa6N6G_BX2ID_DLBmYPmoFC5eLXNGD8Z-1uUQVjUvCbf0lZTJ5FeUipNjgYTgb3_8NPAiitAVrLQ42doUzebTbC9Qa-dtZ2vrZp-1HFS1vqA0tu__VUqErTA49Am0mt_VW)
 
-Facemasks should be worn by patients with confirmed or suspected COVID-19 to prevent contamination when the patient coughs or sneezes. A facemask provides protection by containing droplets if someone has the virus and by preventing exposure to the virus if someone has close contact with another person who is infected. For healthcare personnel interacting with a patient with known or suspected COVID-19, the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/infection-control/control-recommendations.html#adhere) recommends using an N95 respirator or a facemask if a respirator is unavailable. In addition, N95 respirators may be needed for clinical situations in which infectious droplets could become aerosolized, which occurs only in specific clinical situations such as when a patient is intubated. \([CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html)\). Practically, there is currently a shortage of N95 respirators, so many hospitals are recommending that healthcare personnel use regular facemasks, reserving N95 use for procedures in which aerosols could be generated. CDC provides guidelines for optimizing the supply of N95, which can be found [here](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/crisis-alternate-strategies.html).   
+Facemasks should be worn by patients with confirmed or suspected COVID-19 to prevent contamination when the patient coughs or sneezes. A facemask provides protection by containing droplets if someone has the virus and by preventing exposure to the virus if someone has close contact with another person who is infected. For healthcare personnel interacting with a patient with known or suspected COVID-19, the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/infection-control/control-recommendations.html#adhere) recommends using an N95 respirator or a facemask if a respirator is unavailable. In addition, N95 respirators may be needed for clinical situations in which infectious droplets could become aerosolized, which occurs only in specific clinical situations such as when a patient is intubated \([CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html)\). Practically, there is currently a shortage of N95 respirators, so many hospitals are recommending that healthcare personnel use regular facemasks, reserving N95 use for procedures in which aerosols could be generated. CDC provides guidelines for optimizing the supply of N95, which can be found [here](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/crisis-alternate-strategies.html).   
 
 
 **How do I make sure that my N95 respirator fits me correctly?**
 
-All healthcare personnel should undergo formal mask fit testing prior to using an N95 respirator \([NIOSH](https://www.osha.gov/SLTC/etools/respiratory/respirator_basics.html#fit_testing)\).  This ensures there is an airtight seal between the healthcare worker’s face and the respirator.  In addition, each time healthcare workers don an N95 respirator, they should perform a [user seal check](https://www.cdc.gov/niosh/docs/2018-130/pdfs/2018-130.pdf?id=10.26616/NIOSHPUB2018130) \([CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#respirators)\).
+All healthcare personnel should undergo formal mask fit testing prior to using an N95 respirator \([NIOSH](https://www.osha.gov/SLTC/etools/respiratory/respirator_basics.html#fit_testing)\).  This ensures there is an airtight seal between the healthcare worker’s face and the respirator.  In addition, each time healthcare workers don an N95 respirator, they should perform a [user seal check](https://www.cdc.gov/niosh/docs/2018-130/pdfs/2018-130.pdf?id=10.26616/NIOSHPUB2018130) \([CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#respirators)\).  
+
 
 **Does the universal mask policy apply to every member of the workforce working anywhere at Partners HealthCare and Beth Israel Deaconess Medical Center?**
 
@@ -186,15 +181,18 @@ Workers that work in nonclinical buildings \(i.e., Assembly Row\) are excluded.
 
 **In procedural areas, can a single face mask be worn continuously, including across different cases?**
 
-Yes, a single mask can be worn across different cases. Masks must be changed, however, if they become wet or contaminated during a case or a shift.
+Yes, a single mask can be worn across different cases. Masks must be changed, however, if they become wet or contaminated during a case or a shift.  
+
 
 **I work in a clinical setting. How can I eat when I am supposed to wear a face mask \(surgical or procedural\)?** 
 
-Eating is not permitted in clinical areas. If you are working in a clinical setting, follow the removal and reuse instructions as is outlined in Partners Infection Control Guidance on Extended Use and Reuse.
+Eating is not permitted in clinical areas. If you are working in a clinical setting, follow the removal and reuse instructions as is outlined in Partners Infection Control Guidance on Extended Use and Reuse.  
+
 
 **I work in a clinical setting. How can I drink when I am supposed to wear a face mask \(surgical or procedural\)?** 
 
-Drinking is permitted in designated locations in clinical areas. If you need to drink, ensure you are 6 feet away from others, perform hand hygiene, remove the mask, drink, and then replace your face mask. 
+Drinking is permitted in designated locations in clinical areas. If you need to drink, ensure you are 6 feet away from others, perform hand hygiene, remove the mask, drink, and then replace your face mask.   
+
 
 **I work in a nonclinical setting. How can I eat and drink when I am supposed to wear a face mask \(surgical or procedural\)?** 
 
@@ -202,20 +200,22 @@ Steps to remove mask in nonclinical settings, where eating/drinking is not restr
 
 1. Perform hand hygiene with soap and water or an alcohol-based hand rub
 2. Remove the face mask and place it on a clean surface such as a paper towel, paper bag or paper tray
-3. Perform hand hygiene with soap and water or an alcohol-based hand rub before eating
+3. Perform hand hygiene with soap and water or an alcohol-based hand rub before eating 
 
 **Steps to replace mask after eating or drinking:**
 
 1. Put on face mask, taking care to avoid touching face or eyes
-2. Perform hand hygiene with soap and water or an alcohol-based hand rub
+2. Perform hand hygiene with soap and water or an alcohol-based hand rub 
 
 **If I need to leave the facility and come back later in my shift, what should I do?**
 
-Every effort should be made to limit exit and entry to the facility during your shift to preserve supplies of face masks. If you leave the facility, the face mask must be discarded and a new one obtained upon re-entry.
+Every effort should be made to limit exit and entry to the facility during your shift to preserve supplies of face masks. If you leave the facility, the face mask must be discarded and a new one obtained upon re-entry.  
+
 
 **Can I use my face mask between patients, including those with confirmed COVID-19, suspect COVID-19, other respiratory viruses or patients in whom none of these apply?** 
 
-Yes. Your face mask should be used according to the BIDMC guidelines and Partners Infection Control Guidance on Extended Use and Reuse, which ensures careful and deliberate handling of the mask to prevent both self-contamination and cross-contamination. Under conditions of extended use or reuse, a face shield is preferentially worn over the face mask as the form of eye protection. 
+Yes. Your face mask should be used according to the BIDMC guidelines and Partners Infection Control Guidance on Extended Use and Reuse, which ensures careful and deliberate handling of the mask to prevent both self-contamination and cross-contamination. Under conditions of extended use or reuse, a face shield is preferentially worn over the face mask as the form of eye protection.   
+
 
 **Should employees be wearing the mask at home and should their families wear masks?** 
 
@@ -238,8 +238,7 @@ Beth Israel has provided all guidelines under a [COVID-19 Information and Materi
 
 _Thought questions:_
 
-There is currently a supply shortage of many forms of PPE.  How are CDC and hospital guidelines attempting to address this issue?  
-Your family member asks you whether he, she, or they should be wearing a mask to protect against coronavirus.  How do you respond?  
-You notice that members of the medical team in the hospital are not following hospital guidelines on appropriate use of PPE.  As a medical student, what do you do?  
-
+* There is currently a supply shortage of many forms of PPE.  How are CDC and hospital guidelines attempting to address this issue?
+* Your family member asks you whether they should be wearing a mask to protect against coronavirus.  How do you respond?
+* You notice that members of the medical team in the hospital are not following hospital guidelines on appropriate use of PPE.  As a medical student, what do you do? 
 
