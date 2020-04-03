@@ -9,7 +9,7 @@ description: >-
 
 _Student Authors:_  Stephanie Alden, Pamela Chen, Michael Fuchs, Nicole Gilette, Ashwini Joshi, Katherine Nabel, Hema Pingali, Simone Sasse, Morgan Sehdev, Katie Shaffer, Allen Zhou
 
-_Current Faculty Reviewers:_ Brian Chan, MD; Michael Dougan, MD, PhD
+_Faculty Reviewers:_ Brian Chan, MD; Michael Dougan, MD, PhD
 
 _Past Faculty Reviewers:_ Holly Rawizza, MD
 
