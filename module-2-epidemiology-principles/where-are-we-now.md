@@ -8,6 +8,8 @@ The following is a set of basic figures about the epidemic as a snapshot, which 
 * More complete global [map](https://coronavirus.jhu.edu/map.html) and associated [publication](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2820%2930120-1/fulltext) from Johns Hopkins, featuring data from a variety of sources.
 * Additional [maps and resources](http://www.cidrap.umn.edu/covid-19/maps-visuals)
 
+&lt;iframe src="[https://ourworldindata.org/grapher/total-deaths-covid-19?yScale=log&time=40..71&country=USA+ITA+KOR](https://ourworldindata.org/grapher/total-deaths-covid-19?yScale=log&time=40..71&country=USA+ITA+KOR)" style="width: 100%; height: 600px; border: 0px none;"&gt;&lt;/iframe&gt;
+
 Reported cases _underestimate_ ****the total number of cases due to the incubation period, asymptomatic carriers, limited testing availability, and delays in receiving testing results after the initial onset of symptoms. The following resource is an excellent explanation of this phenomenon working from data publicly available in early March.
 
 **CORE TEXT:** [**Pueyo - Coronavirus: Why You Must Act Now. 3/10/20. Medium.**](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
