@@ -1,5 +1,5 @@
 ---
-description: 'Welcome!  Material was last updated on 3/27/2020, unless otherwise specified.'
+description: 'Welcome!  Material was last updated on 4/3/2020, unless otherwise specified.'
 ---
 
 # Medical Student COVID-19 Curriculum
