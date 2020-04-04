@@ -54,6 +54,7 @@ _Future Questions:_
 
 1. Trials underway are investigating optimal length of infusion with a loading dose followed by 5 or 10 days. 
 2. Is remdesivir most efficacious for mild, moderate, or severe disease? Trials underway are recruiting patients based on disease severity. 
+3. Given the mechanism of action of remdesivir, why is it considered to be so promising? 
 
 #### **Lopinavir/Ritonavir** 
 
@@ -84,7 +85,7 @@ _Ongoing Clinical Trials_:
 * The WHO registry currently lists three studies \([one RCT](http://www.chictr.org.cn/showprojen.aspx?proj=49409)\) taking place in China, using tocilizumab as the primary intervention for the treatment of COVID-19. 
 * A randomized study on [sarilumab](https://clinicaltrials.gov/ct2/show/NCT04315298?recrs=af&cond=COVID-19&draw=3) will also begin in the U.S.
 
-_Future Questions:_ High levels of IL-6 appear to correlate with disease severity \([Liu et al., bioRxiv preprint, 2020](https://www.medrxiv.org/content/10.1101/2020.03.01.20029769v2)\). More studies need to be conducted to explore this relationship.
+_Future Questions:_ High levels of IL-6 appear to correlate with disease severity \([Liu et al., bioRxiv preprint, 2020](https://www.medrxiv.org/content/10.1101/2020.03.01.20029769v2)\). More studies need to be conducted to explore this relationship. Does this mean that IL-6 is causing harm?
 
 ### Antibody treatments
 

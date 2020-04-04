@@ -65,6 +65,6 @@ Boston:
 7. Assisted living facilities are required to restrict all visitors.
 8. Nursing homes are required to restrict all visitors.
 9. Pharmacies are mandated to provide at least 1 hour of shopping for seniors over the age of 60 per day. 
-10. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment.
+10. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment. Though the level of reimbursement is not consistent, and phone calls are reimbursed at a significantly lower rate.
 11. The Department of Housing and Community Development is recommending suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
 
