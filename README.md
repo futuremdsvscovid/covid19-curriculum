@@ -12,7 +12,7 @@ This curriculum was entirely written and compiled by Harvard Medical School stud
 
 We suspect the curriculum will be of use to students and professionals around the world.  We encourage you to share these materials with anyone whom you believe may benefit from them. 
 
-**We invite you to sign the** [**guest book**](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) **so we can track this material’s reach.**  As of March 27, it has been accessed by users in 66 countries across six continents!
+**We invite you to sign the** [**guest book**](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) **so we can track this material’s reach.**  As of April 3, it has been accessed by users in 85 countries across six continents!
 
 ![Countries represented in guest book, map created on batchgeo.com](.gitbook/assets/image%20%285%29.png)
 
