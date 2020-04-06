@@ -236,6 +236,10 @@ Beth Israel has provided all guidelines under a [COVID-19 Information and Materi
 * [Reuse instructions](https://covid-19.bilh.org/wp-content/uploads/2020/03/BILH-N95-Reuse-Procedure_3.18.20-2.pdf) for N95 respirators
 * [Reuse instructions](https://covid-19.bilh.org/wp-content/uploads/2020/03/BILH-Eye-Protection-Reuse-Guideline_3.20.20.pdf) for eye protection
 
+### Cambridge Health Alliance \(CHA\) Guidelines
+
+CHA has provided all guidelines under a frequently updated [COVID-19 Quick Guide](https://sites.google.com/challiance.org/ncov-quick-guide/home%20), accessible with CHA credentials.
+
 _Thought questions:_
 
 * There is currently a supply shortage of many forms of PPE.  How are CDC and hospital guidelines attempting to address this issue?
