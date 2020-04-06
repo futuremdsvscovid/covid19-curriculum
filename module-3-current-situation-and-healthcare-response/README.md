@@ -15,9 +15,8 @@ _Past Faculty Reviewers:_ Holly Rawizza, MD
 
 **Highlight of Updates \(4/3/2020\):**
 
-**\*\*Not yet reviewed by faculty reviewers\*\***
+[Massachusetts has chosen to graduate its fourth year medical students early so they have the option to aid in the fight against COVID-19](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/current-landscape-for-covid-19-in-massachusetts#latest-announcements-in-massachusetts)
 
-* [Massachusetts has chosen to graduate its fourth year medical students early so they have the option to aid in the fight against COVID-19](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/current-landscape-for-covid-19-in-massachusetts#latest-announcements-in-massachusetts)
 * [New rapid point-of-care testing is available, providing the ability to return results in minutes](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/testing-capacity-and-eligibility#testing-capacity)
 * [New open-label, randomized, adaptive global megatrials \(SOLIDARITY, WHO and DISCOVERY, INSERM\) launched to investigate the four most promising COVID-19 treatments, designed for simple and rapid data collection at the front lines](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#recent-data-supporting-repurposed-drug-candidates-for-covid-19)
 * [Emergency use authorization \(EUA\) of chloroquine/hydroxychloroquine for COVID-19 by the FDA](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#recent-data-supporting-repurposed-drug-candidates-for-covid-19)
