@@ -1,8 +1,12 @@
 ---
-description: Under-development
+description: 'Under-development, please visit the page at a later time'
 ---
 
 # Curriculum Translations
 
-Disclaimer:
+## Introduction
+
+## Disclaimer
+
+## Translation Requests
 
