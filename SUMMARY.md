@@ -47,4 +47,8 @@
   * [Public Health](module-6-medical-ethics-in-relation-to-covid-19/public-health.md)
   * [Summary](module-6-medical-ethics-in-relation-to-covid-19/summary.md)
 * [COVID-19 Student Response Website](https://covidstudentresponse.org/)
+* [Curriculum Translations](curriculum-translations/README.md)
+  * [Disclaimer](curriculum-translations/disclaimer.md)
+  * [Translation Requests](curriculum-translations/translation-requests.md)
+  * [Currently Available Languages](curriculum-translations/currently-available-languages.md)
 
