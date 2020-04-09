@@ -111,6 +111,8 @@ Potential mRNA and DNA vaccines have been developed more quickly because these o
   * Moderna Therapeutics has developed a potential mRNA vaccine \(mRNA-1273\) for SARS-CoV-2. The use of this vaccine entered a Phase 1 study on March 16, 2020 conducted by Kaiser Permanente Washington Health Research Institute in Seattle. The goals of this study are to determine the safety & immunogenicity of the supposed vaccine and not the ability to prevent COVID-19 infection. The study involves 45 healthy adults aged 18-55 who each receive two injections of mRNA-1273 28 days apart. The group is also split up into 3 different series of dosages being tested. Moderna is the first company attempting to use mRNA as a basis for vaccine development. While they have several other vaccines using this technology in development \(H10N8, H7N9, RSV, chikungunya virus, hMPV/PIV3 and CMV\), there are no vaccines currently on the market that utilize this strategy for prophylactic vaccine treatment.
 * Bacillus Calmette-Guerin \(BCG\) vaccine:
   * Based on [limited evidence](https://www.bmj.com/content/355/bmj.i5170), it is hypothesized that the BCG vaccine, first developed in the early 20th century to prevent tuberculosis, may stimulate the immune system in a way that reduces the risk of any given infection. These findings have mainly been observational or in very limited clinical trials. It is thought that the BCG vaccine may upregulate activation of the innate immune system’s macrophages, neutrophils, and natural killer \(NK\) cells, inducing heightened immune responses against all pathogens. This concept is distinct from the general principle of vaccination, in which long-lasting, specific immunity to a pathogen is achieved through antigen-specific activation of the adaptive immune system’s T- and B-cells. Currently, [clinical trials](https://www.sciencemag.org/news/2020/03/can-century-old-tb-vaccine-steel-immune-system-against-new-coronavirus) are beginning with healthcare workers and the elderly in the Netherlands, Australia, England, and Germany.
+* Inovio Pharmaceuticals: DNA vaccine
+  * [Phase 1 Clinical trial began](http://ir.inovio.com/news-and-media/news/press-release-details/2020/INOVIO-Initiates-Phase-1-Clinical-Trial-Of-Its-COVID-19-Vaccine-and-Plans-First-Dose-Today/default.aspx) on April 6, 2020 with 40 healthy volunteers
 * University of Oxford: Chimeric vaccine
   * [Phase 1 Clinical trial has been approved](https://www.covid19vaccinetrial.co.uk/press-release-trial-open) and will be beginning in several weeks in the United Kingdom
 * CanSino Biologics: Chimeric vaccine
@@ -121,8 +123,8 @@ Potential mRNA and DNA vaccines have been developed more quickly because these o
   * Preclinical
 * Johnson and Johnson: Killed/inactivated whole pathogen vaccine
   * Preclinical; expects clinical trials in April
-* Inovio Pharmaceuticals: DNA vaccine
-  * Preclinical
 * Sanofi: Chimeric whole pathogen vaccine
   * Preclinical
+* University of Pittsburgh: subunit vaccine
+  * [Preclinical](https://www.upmc.com/media/news/040220-falo-gambotto-sars-cov2-vaccine); hoping to begin human trials in the next few months
 
