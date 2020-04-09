@@ -1,6 +1,6 @@
 # Testing Capacity and Eligibility
 
-## Testing Capacity
+## Testing capacity
 
 SARS-CoV-2 testing is a rapidly evolving aspect of the healthcare response to the COVID-19 pandemic. As discussed in [Module 1](https://curriculum.covidstudentresponse.org/module-1-from-bench-to-bedside/clinical-presentation-of-covid-19#diagnostics), the current test to detect SARS-CoV-2 is a RT-PCR test, designed to detect small amounts of the pathogen in a patient’s respiratory tract. The assay is described in further detail here: [How Coronavirus Test Kits Work \| WSJ](https://www.youtube.com/watch?v=tgyzdgf66eM), [CDC Tests for COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/about/testing.html), [CDC Detailed Protocol](https://www.cdc.gov/coronavirus/2019-ncov/downloads/rt-pcr-panel-for-detection-instructions.pdf).
 
@@ -22,7 +22,7 @@ _Thought questions:_
 * With limited testing resources, who should be tested?
 * As we increase testing capacity, which individuals should be the first to be added to testing criteria?
 
-## Testing Eligibility
+## Testing eligibility
 
 On the following page is an algorithm simplifying testing eligibility for COVID-19, adapted from MA DPH [guidelines](https://www.mass.gov/doc/covid-19-pui-criteria/download), updated on 4/2/20. Compared to the guidelines previously published on 3/13/20, the updated DPH guidelines: no longer require testing for other respiratory viruses prior to testing for COVID-19; distinguish between groups of patients who can be tested at the state lab and who should be tested at commercial labs; redefine close contact; expand symptoms rendering an individual eligible for testing; and increase consideration of clinical data such as imaging in determining who to test. As resource availability changes, these criteria will continue to change. Additionally, as individual hospitals develop in-house tests, they are developing their own modified testing criteria based on their needs and resources; this information is communicated with providers daily. Nevertheless, note that several categories of test eligibility continue to  query epidemiological risk factors, such as the individual’s risk of disease transmission to others, rather than the probability of an individual having COVID-19. 
 
@@ -42,7 +42,7 @@ _Thought questions:_
 * How would increased testing help or hinder the healthcare system response to COVID-19?
 * What factors would be important to consider in implementing a widespread testing protocol for asymptomatic individuals? How might you weigh test characteristics, clinical management strategies, risks of testing, and economic implications?
 
-## Telephone Triage and Drive-Through Testing
+## Telephone triage and drive-through testing
 
 Many strategies are being implemented to limit transmission of SARS-CoV-2 from those awaiting testing to other patients in healthcare waiting rooms or healthcare workers themselves. Often, patients are screened remotely, using the above guidelines, via virtual visit or telephone. Exact triage protocol varies by institution. For those who are determined to require testing, many institutions have developed  “[drive-through](https://www.nytimes.com/2020/03/17/nyregion/new-rochelle-coronavirus-testing.html)” testing capabilities to limit exposure. The list of available drive-through testing sites is growing daily, and institutions will notify their healthcare personnel and patients. All healthcare workers must wear droplet precaution personal protective equipment \(PPE\) when obtaining respiratory specimens and N95 respirators and eyewear if there is a risk of aerosolization of droplets during specimen collection \(e.g. bronchoalveolar lavage, endoscopy\). At Partners Healthcare, N95 respirators are recommended for all nasopharyngeal swabbing.
 
