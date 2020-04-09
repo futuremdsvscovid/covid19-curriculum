@@ -22,7 +22,7 @@ Mass. residents subject to COVID-19 quarantine by current status as of **4/7/20 
 * Total number of individuals who have completed monitoring \(no longer in quarantine\): **5,402**
 * Total of individuals currently undergoing monitoring/under quarantine: **7,625**
 
-![Daily COVID-19 case count, as of 4/1/2020. Credit to WCVB: https://www.wcvb.com/article/massachusetts-medical-schools-will-graduate-students-early-to-help-hospitals-during-coronavirus-crisis/31945214\#.](../.gitbook/assets/image%20%281%29.png)
+{% embed url="https://e.infogram.com/91521873-76da-44fe-9047-f19eeaedac6d?src=embed" %}
 
 ## Relevant links regarding number of cases and policy changes
 
