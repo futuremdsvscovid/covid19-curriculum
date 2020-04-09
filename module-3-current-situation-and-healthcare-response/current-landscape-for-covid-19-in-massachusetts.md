@@ -49,7 +49,15 @@ Boston:
 
 ## **Latest Announcements in Massachusetts**
 
-**As of March 31, 2020:** Governor Charlie Baker has enacted a number of policies aimed at reducing the spread of COVID-19 and protecting the public. They are summarized here:
+**As of April 7, 2020**: Governor Charlie Baker has enacted a number of policies aimed at reducing the spread of COVID-19 and protecting the public. The following announcements were issued this week:
+
+1. Governor Charlie Baker announced the COVID-19 Community Tracing Collaborative \(CTC\) with Partners in Health.  Public health officials will focus on tracing the contacts of patients who are confirmed positive for COVID-19 and support individuals in quarantine. 
+2. Governor Charlie Baker ordered all coastal beach reservation parking areas to close at noon on Friday, April 3.  State beaches will remain open to pedestrians for transitory use \(such as walking, jogging, or biking\).  
+3. An $800 million financial package to support health care providers during the COVID-19 crisis was announced. This package is in addition to the $290 million in immediate cash relief and $550 million in accelerated payments previously announced. 
+   1. $415 million will be dedicated to acute care hospitals and will cover a four-month period through July 2020.
+   2. $300 million will be dedicated to other healthcare delivering medical care for COVID-19 or providing services that keep residents safe in their homes and out of the hospital.
+
+Ongoing policies for the state of Massachusetts are summarized below \(in chronological order\): 
 
 1. Governor Charlie Baker requested that all Massachusetts medical schools graduate their fourth year medical students early.  UMass Medical School, Tufts School of Medicine, BU School of Medicine, and Harvard Medical School have [fulfilled this request](https://www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-medical-students-graduate-early-to-join-the-chaotic-response-to-covid-19.html), with further logistics pending, including [offering automatic, short-term licenses](https://www.wbur.org/news/2020/03/26/baker-massachusetts-coronavirus) to graduated students. The Board of Registration of Medicine will provide Emergency 90-Day Limited Licenses to graduating medical students who have matched at a Massachusetts healthcare facility.
 2. Governor Charlie Baker ordered that beginning March 27, all travelers arriving in Massachusetts are to self-quarantine for 14 days. Visitors with symptoms are instructed not to come to Massachusetts. Health care workers \(does NOT include students\) are exempt from this policy.
@@ -67,4 +75,9 @@ Boston:
 9. Pharmacies are mandated to provide at least 1 hour of shopping for seniors over the age of 60 per day. 
 10. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment. Though the level of reimbursement is not consistent, and phone calls are reimbursed at a significantly lower rate.
 11. The Department of Housing and Community Development is recommending suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
+
+**As of April 6, 2020**: Mayor Walsh has enacted policies aimed at reducing the spread of COVID-19 within the city of Boston. A complete list of announcements can be found [here](https://www.boston.gov/news/coronavirus-disease-covid-19-boston).  Of note:
+
+1. The Walsh administration recommends everyone wear a face covering when in public. 
+2. The Walsh administration advises all Boston residents to stay at home from 9 p.m. to 6 a.m. \(essential workers are exempt from this advisory\).
 
