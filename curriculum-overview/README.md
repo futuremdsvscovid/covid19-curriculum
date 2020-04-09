@@ -34,7 +34,13 @@ Discuss various ethical controversies related to COVID-19, and apply ethical fra
 
 **Module 7: Global Health**
 
-_To be released soon_
+Coming soon
+
+#### [Curriculum Translations](./#curriculum-translations)
+
+Discover Medical Student COVID-19 Curriculum materials which have been translated into various languages
+
+\*\*\*\*
 
 
 
