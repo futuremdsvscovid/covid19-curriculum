@@ -11,16 +11,16 @@ Important [definitions](https://www.cdc.gov/coronavirus/2019-ncov/php/reporting-
 
 ## Latest number of cases \(updated frequently\)
 
-Mass. Department of Health COVID-19 cases as of **4/1/20 at 4 PM**  \(reporting from [boston.gov](https://www.boston.gov/news/coronavirus-disease-covid-19-boston)\):
+Mass. Department of Health COVID-19 cases as of **4/8/20** \(reporting from [boston.gov](https://www.boston.gov/news/coronavirus-disease-covid-19-boston)\):
 
-* Massachusetts:  **7,738** 
-* Boston:  **1,057** 
+* Massachusetts:  **16,790**
+* Boston:  **2,502**
 
-Mass. residents subject to COVID-19 quarantine by current status as of **3/31/20 at 5 PM** \(reporting from [mass.gov](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring)\)
+Mass. residents subject to COVID-19 quarantine by current status as of **4/7/20 at 5 PM** \(reporting from [mass.gov](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring)\)
 
-* Total number of individuals subject to quarantine: **8,394**
-* Total number of individuals who have completed monitoring \(no longer in quarantine\): **3,218**
-* Total of individuals currently undergoing monitoring/under quarantine: **5,176**
+* Total number of individuals subject to quarantine: **13,027**
+* Total number of individuals who have completed monitoring \(no longer in quarantine\): **5,402**
+* Total of individuals currently undergoing monitoring/under quarantine: **7,625**
 
 ![Daily COVID-19 case count, as of 4/1/2020. Credit to WCVB: https://www.wcvb.com/article/massachusetts-medical-schools-will-graduate-students-early-to-help-hospitals-during-coronavirus-crisis/31945214\#.](../.gitbook/assets/image%20%281%29.png)
 
