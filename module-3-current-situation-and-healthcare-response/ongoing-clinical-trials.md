@@ -20,16 +20,18 @@ _Recent Findings_:
 
 * February 2020: Gao et al. report that in a series of “more than 100 patients” in 10 hospitals across China, “chloroquine phosphate is superior to the control treatment in inhibiting the exacerbation of pneumonia, improving lung imaging findings, promoting a virus-negative conversion, and shortening the disease course” \([Gao et al., BioScience Trends 2020](https://www.jstage.jst.go.jp/article/bst/14/1/14_2020.01047/_article)\). However, no clinical data has been provided, nor information on whether the study protocols were similar across the 10 hospitals.  
 * March 2020: Yao et al. determine that both chloroquine and hydroxychloroquine inhibit SARS-CoV-2 in vitro, with hydroxychloroquine more potent than chloroquine \([Yao et al., Clin Inf Dis 2020](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa237/5801998)\). 
-* March 2020: French researchers report a significant decrease in viral load by nasal swab after treatment with hydroxychloroquine in 20 patients \([Gautret et al. 2020](http://www.mediterranee-infection.com/wp-content/uploads/2020/03/Hydroxychloroquine_final_DOI_IJAA.pdf)\), however, no clinical outcomes, such as mortality, were reported. 
-* March 2020: FDA issued EUA for hydroxychloroquine and chloroquine. EUAs are issued when the FDA determines that the known and potential benefits of a drug outweigh the known and potential risks of the product and that there are no alternatives available. This allows physicians to prescribe these drugs for hospitalized patients when appropriate, but it does not mean that the drugs have demonstrated efficacy through clinical testing.
+* March 2020: French researchers report a significant decrease in viral load by nasal swab after treatment with hydroxychloroquine in 36 patients \([Gautret et al. 2020](http://www.mediterranee-infection.com/wp-content/uploads/2020/03/Hydroxychloroquine_final_DOI_IJAA.pdf)\), however, no clinical outcomes, such as mortality, were reported. 
+* March 2020: The FDA issues an emergency use authorization \(EUA\) for hydroxychloroquine and chloroquine. EUAs are issued when the FDA determines that the known and potential benefits of a drug outweigh the known and potential risks of the product and that there are no alternatives available. This allows physicians to prescribe these drugs for hospitalized patients when appropriate \(and outside of a clinical trial\), but it does not mean that the drugs have demonstrated efficacy through clinical testing. Caution regarding drug toxicity \(particularly QTc prolongation and cardiomyopathy\) is advised by the [American College of Cardiology](https://www.acc.org/latest-in-cardiology/articles/2020/03/27/14/00/ventricular-arrhythmia-risk-due-to-hydroxychloroquine-azithromycin-treatment-for-covid-19). 
+* March 2020: Chen et al. publish a study from Wuhan, China, of 62 patients with mild COVID-19 pneumonia and no hypoxia, reporting that patients receiving hydroxychloroquine had faster time to improvement in symptoms \(fever, cough\) and chest imaging findings than those treated with standard of care \([Chen et al. medRxiv 2020](https://www.medrxiv.org/content/10.1101/2020.03.22.20040758v2.full.pdf)\). 
+* April 2020: Controversy over the use of hydroxychloroquine/chloroquine without solid clinical data and the concern about side effects leads hospitals in some countries, such as Sweden, to discontinue use pending further results \([NYTimes April 2020](https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html)\). See a discussion of the ethics of utilizing treatment authorized under EUA in [Module 6](https://curriculum.covidstudentresponse.org/module-6-medical-ethics-in-relation-to-covid-19/clinical-trials-research-and-treatments).
 
 _Ongoing Clinical Trials_:
 
 *  [&gt; 20 ongoing clinical trials](https://www.sciencedirect.com/science/article/pii/S0883944120303907) in China as of March 10. 
-* A post-exposure prophylaxis trial of hydroxychloroquine is underway at the University of Minnesota \([ClinicalTrials.gov 2020](https://clinicaltrials.gov/ct2/show/NCT04308668)\). 
+* Post-exposure prophylaxis trials of hydroxychloroquine are underway at the [University of Minnesota](https://clinicaltrials.gov/ct2/show/NCT04308668) \(updates available [here](https://covidpep.umn.edu/updates)\) and the [University of Washington](https://clinicaltrials.gov/ct2/show/NCT04308668) \(updates and study enrollment [here](https://depts.washington.edu/covid19pep/)\).  The University of Oxford is beginning a prophylaxis study of 40,0000 healthcare or frontline workers in Asia \(chloroquine\) and Europe \(hydroxychloroquine\) called [COPCOV](https://clinicaltrials.gov/ct2/show/NCT04303507). 
 * March 2020: The WHO launches [the SOLIDARITY trial](https://www.sciencemag.org/news/2020/03/who-launches-global-megatrial-four-most-promising-coronavirus-treatments?fbclid=IwAR301f1WXZM4ypKN0Y1DZtU3OeC-wHOzZPN5XQRukHXx3vtZ59jAwRLnHOY#), a global megatrial of hydroxychloroquine/chloroquine, remdesivir, lopinavir/ritonavir, or lopinavir/ritonavir with interferon-beta \([Science Magazine, 2020](https://www.sciencemag.org/news/2020/03/who-launches-global-megatrial-four-most-promising-coronavirus-treatments?fbclid=IwAR301f1WXZM4ypKN0Y1DZtU3OeC-wHOzZPN5XQRukHXx3vtZ59jAwRLnHOY#)\). It is an open-label, randomized, adaptive trial designed to be as simple as possible, with the goal of rapid data collection in thousands of patients around the world. A physician will input data directly onto the WHO website, including the treatments available at his or her hospital, and the website will randomize to one of the available treatments or standard of care. INSERM, the French biomedical research agency, will coordinate a European add-on study of the same treatments called DISCOVERY \([ClinicalTrials.gov 2020](https://clinicaltrials.gov/ct2/show/NCT04315948?recrs=af&cond=COVID-19&draw=3)\).
 
-_Implications_: Hydroxychloroquine is a widely available drug, whereas chloroquine is currently in limited supply in the U.S.. If proven clinically efficacious, its implementation would be relatively straightforward. 
+_Implications_: Hydroxychloroquine is a widely available drug, whereas chloroquine is currently in limited supply in the U.S. If proven clinically efficacious, its implementation would be relatively straightforward. 
 
 _Future Questions_: Interim trial results of ongoing trials will provide important information on efficacy.
 
@@ -74,16 +76,15 @@ _Future Questions:_ Whether these drugs alone or in combination have an effect o
 
 #### **IL-6 Inhibition**
 
-Humanized monoclonal antibodies against the interleukin-6 receptor, including tocilizumab and sarilumab. 
+Humanized monoclonal antibodies against the interleukin-6 receptor, including tocilizumab, ****sarilumab, and siltuximab. 
 
 _Recent Findings:_
 
-* March 2020: Xu et al. described that in 15 out of 20 patients, treatment with tocilizumab showed rapid resolution of symptoms, prompting China to approve the use of tocilizumab to treat patients with severe or critical disease \([Xu et al., ChinXiv 2020](http://www.chinaxiv.org/abs/202003.00026)\).
+* March 2020: Xu et al. described that in 15 out of 20 patients, treatment with tocilizumab showed rapid resolution of symptoms, prompting China’s National Health Commission to approve the use of tocilizumab to treat patients with severe or critical disease \([Xu et al., ChinXiv 2020](http://www.chinaxiv.org/abs/202003.00026)\).
 
 _Ongoing Clinical Trials_: 
 
-* The WHO registry currently lists three studies \([one RCT](http://www.chictr.org.cn/showprojen.aspx?proj=49409)\) taking place in China, using tocilizumab as the primary intervention for the treatment of COVID-19. 
-* A randomized study on [sarilumab](https://clinicaltrials.gov/ct2/show/NCT04315298?recrs=af&cond=COVID-19&draw=3) will also begin in the U.S.
+* IL-6 inhibition is being evaluated in [multiple clinical trials](https://clinicaltrials.gov/ct2/results?cond=COVID-19&term=IL-6&cntry=&state=&city=&dist=).  
 
 _Future Questions:_ High levels of IL-6 appear to correlate with disease severity \([Liu et al., bioRxiv preprint, 2020](https://www.medrxiv.org/content/10.1101/2020.03.01.20029769v2)\). More studies need to be conducted to explore this relationship. Does this mean that IL-6 is causing harm?
 
