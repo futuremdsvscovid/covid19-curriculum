@@ -46,9 +46,33 @@ Trauma-informed care \(TIC\) is a strengths-based model developed to mitigate th
 
 _Thought Question:_ 
 
-Think about a time you felt overwhelmed. What were some of your strengths in dealing with the situation?  
-  
-****
+Think about a time you felt overwhelmed. What were some of your strengths in dealing with the situation?
+
+### **How do we care for ourselves while performing clinical duties?**
+
+Culturally, many healthcare providers are used to ignoring their own needs, and this is sometimes even celebrated \([Gazelle et al, 2015](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pmc/articles/PMC4371007/#CR20), [Salles and Gold, 2020](https://www.vox.com/2020/4/2/21204402/coronavirus-covid-19-doctors-nurses-health-care-workers)\). However, your physical **safety** is critical to your psychological well-being and ability to provide care. In addition to PPE, proper meals, rest breaks throughout the day, decompression time and sufficient time off are equally as important \([Adams et al. 2020](https://jamanetwork.com/journals/jama/fullarticle/2763136), [National Center for PTSD](https://www.ptsd.va.gov/covid/COVID19ManagingStressHCW032020.pdf)\). Consider high-calorie, low-volume foods such as protein bars if you anticipate you will have little time to eat during clinical care \([ACEP 2020](https://www.acep.org/corona/covid-19-field-guide/home-safety/preparing-for-work/)\). Tuning in to your needs and attending to them is key to working sustainability during the pandemic.
+
+During your clinical duties, you may notice yourself reacting to trauma such as in the reactions described above and reaching the limits of your “window of tolerance”. You might find the following framework helpful to address the emotions in the moment: Calm, Contain, Care, Cope \([Kimberg and Wheeler, 2019](https://www.springer.com/gp/book/9783030043414)\).
+
+* Calm: Do your best to remain calm in your professional environment, you may find grounding techniques particularly helpful \(more below\)
+* Contain: Try and limit your traumatic exposure as you are able. If you are able to remove yourself from the room, do so. If a patient is disclosing traumatic events, you may remind them they do not have to share all of the details.
+* Care: Be kind to yourself. Your reaction is normal.
+* Cope: Reflect on positive coping strategies that have worked for you in the past- which ones are feasible in a clinical setting?
+
+You may find grounding exercises particularly useful in the moment such as “square breathing” \(inhale 4 seconds, hold 4 seconds, exhale 4 seconds, hold 4 seconds, repeat\) or distraction \(focus on the external environment, name all of the colors you see\). More grounding techniques can be found in [SAMHSA’s Tip 57](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/books/NBK207188/box/part1_ch4.box5/?report=objectonly).
+
+You should feel **empowered** to advocate for your own health needs. Whether you are immunocompromised, have an underlying health condition, may be pregnant, or someone in your household has one of these conditions, you may be at higher risk for COVID complications.  As a student, you do not have to act clinically if this is the right decision for your health and safety. If you do want to be involved clinically, consider lower exposure risk clinical duties, such as working from home or seeing patients virtually.
+
+You may also find it helpful to center on the language of resilience: what allows us to bend, not break, in the face of this collective challenge? Expert clinician Nomi Levy-Carrick emphasizes three strategies for individuals and front-line health care workers alike \([Levy-Carrick 2020](https://medium.com/@ariadnelabs/the-covid-resilience-marathon-4dee79f35a51)\):
+
+1. Be able to name what is distressing in real time.
+2. Insist that you should never worry alone.
+3. Maintain a sense of purpose.
+
+_Thought questions:_
+
+* **What are some ways you have forgotten to prioritize your own needs in the past while working clinically?** 
+* **What is one step you can take to prevent this?**
 
   
 
