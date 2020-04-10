@@ -13,29 +13,17 @@ _Peer Reviewers:_ Fang Cao¹, Kendall Carpenter¹, Hemen Muleta¹, Maria Thomas�
 
 _Lead Editor:_ Michael Dykstra¹, [michael\_dykstra@hms.harvard.edu](mailto:michael_dykstra@hms.harvard.edu)
 
-¹ Harvard Medical School, Boston, MA, USA
-
-² Ateneo School of Medicine and Public Health, Pasig City, Philippines
-
-³ Amoud School of Medicine and Surgery, Somaliland
-
-⁴ Federal University of Parana, Curitiba, Brazil 
-
-⁵ Faculté de Médecine et de Pharmacie, Université d'État d'Haïti, Port-au-Prince, Haiti
-
-⁶ University of Rwanda, College of Medicine and Health Sciences, Kigali, Rwanda
-
+¹ Harvard Medical School, Boston, MA, USA  
+² Ateneo School of Medicine and Public Health, Pasig City, Philippines  
+³ Amoud School of Medicine and Surgery, Somaliland  
+⁴ Federal University of Parana, Curitiba, Brazil   
+⁵ Faculté de Médecine et de Pharmacie, Université d'État d'Haïti, Port-au-Prince, Haiti  
+⁶ University of Rwanda, College of Medicine and Health Sciences, Kigali, Rwanda  
 ⁷ Faculty of Medicine, Bel Campus University of Technology, Kinshasa, Democratic Republic of Congo
 
-\_\_
-
-_Faculty Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho](https://ughe.org/meet-the-team/agnes-binagwaho/), MD, PhD**¹**; [Cameron Nutt](https://connects.catalyst.harvard.edu/Profiles/display/Person/122757) MD**²**
-
-**¹** University of Global Health Equity, Butaro, Rwanda
-
+_Faculty Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho](https://ughe.org/meet-the-team/agnes-binagwaho/), MD, PhD**¹**; [Cameron Nutt](https://connects.catalyst.harvard.edu/Profiles/display/Person/122757) MD**²  
+¹** University of Global Health Equity, Butaro, Rwanda  
 **²** Brigham and Women’s Hospital, Boston, MA, USA
-
-\*\*\*\*
 
 **INTRODUCTION**
 
@@ -60,11 +48,11 @@ Understand the concept of collaborative innovation and shared experiences regard
 
 At the end of this module, medical students of all years should be able to:
 
-* Design two ways to redistribute clinician responsibilities through task shifting/sharing that can be applied to surges in demand for triage or critical care in the COVID-19 pandemic.
-* Articulate how community health workers \(CHWs\) constitute an essential component of the healthcare system in some LMICs and how that could be translated into other contexts.
-* Consider innovative approaches to designing personal protective equipment \(PPE\), treatment resources such as oxygen therapy and ventilator use, and facility design to decrease cost without sacrificing efficacy.
-* Assess how structural violence may help to explain why the essential social supports required for people to adhere to public health requests like ‘shelter-in-place’ are not equitably distributed, and the importance of considering those who are most vulnerable in society when making these policy recommendations.
-* Describe the challenges and strengths regarding quarantine and contact tracing of positive cases in diverse contexts,
+* Design two ways to redistribute clinician responsibilities through task shifting/sharing that can be applied to surges in demand for triage or critical care in the COVID-19 pandemic
+* Articulate how community health workers \(CHWs\) constitute an essential component of the healthcare system in some LMICs and how that could be translated into other contexts
+* Consider innovative approaches to designing personal protective equipment \(PPE\), treatment resources such as oxygen therapy and ventilator use, and facility design to decrease cost without sacrificing efficacy
+* Assess how structural violence may help to explain why the essential social supports required for people to adhere to public health requests like ‘shelter-in-place’ are not equitably distributed, and the importance of considering those who are most vulnerable in society when making these policy recommendations
+* Describe the challenges and strengths regarding quarantine and contact tracing of positive cases in diverse contexts
 * Apply lessons from past infectious disease outbreaks in lower-resourced settings to the COVID-19 pandemic and how the lessons from the current COVID-19 pandemic in high income countries can be translated in other settings
 
 
