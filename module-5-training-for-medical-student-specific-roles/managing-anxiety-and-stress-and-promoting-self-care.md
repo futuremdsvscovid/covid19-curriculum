@@ -95,9 +95,35 @@ This is a time of loss. Many trainees have lost clinical opportunities, graduati
 
 _Thought questions:_
 
-* **What is one step you will take in your home life to keep yourself/loved ones well?**
+* What is one step you will take in your home life to keep yourself/loved ones well?
 
-  
-  
+### **How do we care for and support our colleagues?**
 
+For everyone, daily life has changed: first year students have been asked to leave  their dormitories, clerkship students have been removed from clinical duties; healthcare workers have had to adapt to telehealth platforms or deployment to unfamiliar clinical settings overnight; everyone is likely to have a keener sense of their own and their colleagues’ vulnerabilities. These stresses are compounded by the fact that everyone is weathering them at once. At the same time, the fact that we are all in it together enables us to offer and receive **peer support.** 
+
+**Peer support** is one of the core principles of trauma-informed care. For those who are experiencing or have experienced trauma, it can be a source of healing to connect meaningfully with others who have been in a similar situation \([Blanch et al 2012](http://www.theannainstitute.org/Andrea%20Blanch%20TIWA/EngagingWomeninTIPeerSupportGuidebook.pdf)\). In this section, we define your peers as anyone who is working to support patients and their families - from those fielding triage calls to those interpreting for patients and providers; from those synthesizing [information for patients](https://covid19healthliteracyproject.com/#) to those evaluating newcomers to the ED; and from those who keep our EMRs running to those who clean the hospital. If you are currently in training, your peers also include trainees across your country and across the world.  
+
+
+Each of us who is working and learning in the context of this pandemic may switch between giving support and opening ourselves to receive it. That’s okay. When we feel up to it, what are some things we can do to support one another?
+
+* Recognize that the ways in which people \(including supervisors and teachers\) respond to you may be influenced by their own trauma responses; go easy on others as you are encouraged to go easy on yourself
+* When someone is feeling isolated or overwhelmed, your presence and active listening represent a source of healing. Set an intention to reach out regularly to those in your immediate environment and those who cross your mind.
+  * _I’ve been thinking about you and hope you’re okay. I’m happy to talk or listen or help in other ways._
+* When someone discloses an area of particular challenge, it can be helpful to express empathy, validate their experience, and offer assistance as appropriate. It is also okay to ask for this kind of support from your peers and mentors. 
+  * _That’s so hard. I can see why you’re struggling with that. How can I help? Would you like me to help you brainstorm solutions?_
+  * _\[To a mentor\] I am particularly worried about this person for \_\_\_ reason. What would you recommend as a next step?_
+  * _\[To a peer\] I’m having a really hard time right now. Could we talk? / Are you in a space to help me think some things through?_
+* When you are working directly with another person, being **transparent** about your limitations can **empower** both of you to fulfill your roles while respecting each other’s needs.
+  * _I am trained in this procedure but have never done \_\_\_ before._
+  * _My housemate is high-risk; I can support virtually in any way, but not in person at this time._
+* Honor the impacts of others’ **voice and choice** with an explicit acknowledgment. One example is below.
+  * _\[I\] just wanted to say thank you, as a fellow med student, for putting together the module… \[I\] felt really validated that compassion toward patients’ and our own pasts was being incorporated explicitly._
+* **Collaboration and mutuality** come in many forms, from contributing to clinical teams in person or afar, to helping colleagues on the front lines stay afloat with childcare, groceries, and other responsibilities.
+* Attend to **gender, historical, and cultural issues**. You or your colleagues may have additional responsibility as trusted sources for your communities. You or your colleagues may face an additional burden from experiencing racism or xenophobia. Acknowledge these disparities and consider what you could do as an ally.
+
+  * One primer on responding to microaggressions can be found in [Module 4](https://curriculum.covidstudentresponse.org/module-4-communicating-information-about-covid-19/cultural-humility).
+
+_Thought question:_
+
+* **What is one action you might take to support one of your peers? \(at work, at home, in community\)**
 
