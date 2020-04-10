@@ -1,3 +1,9 @@
+---
+description: >-
+  All translations on this page courtesy of:  Luis Guilherme Cardoso
+  (luiscardosofreitas@gmail.com)
+---
+
 # Portuguese
 
 ## Module 1 Graphic Summary 
