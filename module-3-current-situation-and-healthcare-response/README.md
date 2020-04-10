@@ -13,9 +13,9 @@ _Faculty Reviewers:_ Brian Chan, MD; Michael Dougan, MD, PhD
 
 _Past Faculty Reviewers:_ Holly Rawizza, MD
 
-**Highlight of Updates \(4/9/2020\):**
+**Highlight of Updates \(4/10/2020\):**
 
-**\*\*Not yet reviewed by faculty reviewers\*\***
+**\*\*Not yet reviewed by all faculty reviewers\*\***
 
 * [Governor Charlie Baker announced a Community Tracing Collaborative to facilitate contact tracing](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/current-landscape-for-covid-19-in-massachusetts#latest-announcements-in-massachusetts)
 * [Additional $800 million package in MA to support healthcare providers during the COVID-19 crisis](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/current-landscape-for-covid-19-in-massachusetts#latest-announcements-in-massachusetts)
