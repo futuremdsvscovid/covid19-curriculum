@@ -30,16 +30,5 @@ While we have highlighted states here that have taken a unique approach to manag
 
 ## Selected Case Studies
 
-To view the cases, click [HERE](https://docs.google.com/document/d/17dUmXrdfCQtDYfNH4aQfX4pdY9mEpOqqBFeB1KLcC5M/edit?usp=sharing).  
-  
- 
-
-\_\_
-
-  
-__
-
-
-
-
+To view the cases, click [HERE](https://docs.google.com/document/d/17dUmXrdfCQtDYfNH4aQfX4pdY9mEpOqqBFeB1KLcC5M/edit?usp=sharing).
 
