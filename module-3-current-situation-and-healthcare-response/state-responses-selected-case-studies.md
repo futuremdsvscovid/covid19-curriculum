@@ -28,7 +28,9 @@ While we have highlighted states here that have taken a unique approach to manag
 * What kinds of social distancing and non-pharmacologic measures were put in place, and when? How do these measures and timing impact the spread of the virus?
 * How have leaders communicated important information to the public?
 
-  
+## Selected Case Studies
+
+To view the cases, click [HERE](https://docs.google.com/document/d/17dUmXrdfCQtDYfNH4aQfX4pdY9mEpOqqBFeB1KLcC5M/edit?usp=sharing).  
   
  
 
