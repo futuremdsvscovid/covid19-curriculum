@@ -18,7 +18,7 @@ In addition to scaling up testing capacity, SK has come up with creative testing
 * **Drive-through testing:** Patient stays in their vehicle with recirculating air turned on to minimize risk of transmission to healthcare workers. \(Think of it as a makeshift negative pressure vehicle.\) This method is much faster than point of care testing, because time is not wasted in disinfecting the facility and reduces risk of cross transmission. The results are texted to patients the next day. As of mid-March, SK has 43 [drive-through testing centers](https://doi.org/10.3346/jkms.2020.35.e123%20), part of more than 600 testing sites.
 * **Telephone booth testing**: For those without access to vehicles. Nasopharynx and oropharynx swabs are collected while the patient is in a negative-pressure telephone booth sized room, which takes only two minutes to disinfect. This methods has the same advantages as drive-through testing. Link to a [video](http://www.arirang.com/News/News_View.asp?sys_lang=Eng&nseq=254358%20).
 
-![Image Source: AFP                                                          Image Source: CGTN](../.gitbook/assets/image.png)
+![Image Source: AFP                                                          Image Source: CGTN](../.gitbook/assets/image%20%281%29.png)
 
 ## **Strategies for Containment: Contact Tracing, Quarantine, and Treatment**
 
