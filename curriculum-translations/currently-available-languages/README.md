@@ -2,9 +2,7 @@
 
 Listed here are links to curriculum materials that are currently available in various languages. This page will be updated as we continue to receive additional translated materials from our collaborators.
 
+## [Portuguese](portuguese.md) 
 
-
-{% page-ref page="spanish.md" %}
-
-
+## [Spanish](spanish.md)
 
