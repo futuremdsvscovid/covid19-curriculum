@@ -153,6 +153,19 @@ This article from [Shanafelt et al.](https://jamanetwork-com.ezp-prod1.hul.harva
 
 _Thought questions:_ 
 
-1. **What do you need from your institution to feel able to contribute in a sustainable way to the pandemic response?**
-2. **What is the role of these recommendations even in non-crisis times?**
+* What do you need from your institution to feel able to contribute in a sustainable way to the pandemic response?
+* What is the role of these recommendations even in non-crisis times?
+
+### **Where can I find additional resources to stay well in close contact with trauma?**
+
+* [Self-Care When Working With Patients With Histories of Trauma](https://drive.google.com/open?id=1ZeMDwXKjSYEV_8-3W5YjcbwiQsCclXxK) \(Samara Grossman, LICSW\)
+* [Grounding Exercises ](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/books/NBK207188/box/part1_ch4.box5/?report=objectonly)
+* [MGH Psychiatry Guide to Mental Health Resources for COVID-19](https://docs.google.com/document/d/11ZgNncZzNUEm24Z-Rej0g0ESGbRnd5u3cHSXTDpR5Sg/edit)
+* Click [here](https://forms.gle/GaeUHAhZPGq9S2fu8) to sign up with a national network of allied health professional students.
+* [Domestic Violence and Sexual Assault Resources](https://drive.google.com/open?id=1syr38-h9TEUuwCOMcB-tLvMMbReE9tVJ)
+* [Safety Planning with Stay-At-Home Advisories ](https://drive.google.com/open?id=1Ax1dgWD7AISpqcm6Pq0Wg1R2dR_qtvqr)
+* [Online Resources to Support Substance Use Disorder Recovery](https://drive.google.com/file/d/1VV4kgPPqCR3HLH2bPIhPL1sWaPhuGZsk/view?usp=sharing)
+* Self-Service Apps: These apps, which have been clinically vetted by Partners mental health experts, are available and offer a range of support.
+  * [The Headspace app](https://www.headspace.com/headspace-meditation-app), available via iOS, Android or desktop, offers sets of guided meditations aimed at tackling problems related to anxiety, sleeplessness and relationships.
+  * [The Evermind app](https://apps.apple.com/us/app/evermind/id1485424497), available via iOS and Android, can help you build resilience and handle stress using cognitive behavioral therapy techniques. In the app, you can access guided programs on improving sleep, disconnecting, challenging negative thought patterns and more.
 
