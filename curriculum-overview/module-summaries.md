@@ -16,3 +16,5 @@ description: 'Click the links below to view downloadable one-page summaries of e
 
 \*\*\*\*[**Module 6: Medical Ethics in Relation to COVID-19**](https://docs.google.com/document/d/13LjR_iFNy1O2uL7w9zZNPrTseOkr9E62Gn83xBqSF7s/edit?usp=sharing)\*\*\*\*
 
+\*\*\*\*[**Module 7: Global Innovation and Collaboration in Response to the Pandemic**](https://docs.google.com/document/d/1eHf-hKwMDfHbeYogaLEgRoVa6aJrpEagspV8PsIFwDQ/edit?usp=sharing)\*\*\*\*
+
