@@ -101,8 +101,7 @@ _Thought questions:_
 
 For everyone, daily life has changed: first year students have been asked to leave  their dormitories, clerkship students have been removed from clinical duties; healthcare workers have had to adapt to telehealth platforms or deployment to unfamiliar clinical settings overnight; everyone is likely to have a keener sense of their own and their colleagues’ vulnerabilities. These stresses are compounded by the fact that everyone is weathering them at once. At the same time, the fact that we are all in it together enables us to offer and receive **peer support.** 
 
-**Peer support** is one of the core principles of trauma-informed care. For those who are experiencing or have experienced trauma, it can be a source of healing to connect meaningfully with others who have been in a similar situation \([Blanch et al 2012](http://www.theannainstitute.org/Andrea%20Blanch%20TIWA/EngagingWomeninTIPeerSupportGuidebook.pdf)\). In this section, we define your peers as anyone who is working to support patients and their families - from those fielding triage calls to those interpreting for patients and providers; from those synthesizing [information for patients](https://covid19healthliteracyproject.com/#) to those evaluating newcomers to the ED; and from those who keep our EMRs running to those who clean the hospital. If you are currently in training, your peers also include trainees across your country and across the world.  
-
+**Peer support** is one of the core principles of trauma-informed care. For those who are experiencing or have experienced trauma, it can be a source of healing to connect meaningfully with others who have been in a similar situation \([Blanch et al 2012](http://www.theannainstitute.org/Andrea%20Blanch%20TIWA/EngagingWomeninTIPeerSupportGuidebook.pdf)\). In this section, we define your peers as anyone who is working to support patients and their families - from those fielding triage calls to those interpreting for patients and providers; from those synthesizing [information for patients](https://covid19healthliteracyproject.com/#) to those evaluating newcomers to the ED; and from those who keep our EMRs running to those who clean the hospital. If you are currently in training, your peers also include trainees across your country and across the world.
 
 Each of us who is working and learning in the context of this pandemic may switch between giving support and opening ourselves to receive it. That’s okay. When we feel up to it, what are some things we can do to support one another?
 
@@ -120,10 +119,40 @@ Each of us who is working and learning in the context of this pandemic may switc
   * _\[I\] just wanted to say thank you, as a fellow med student, for putting together the module… \[I\] felt really validated that compassion toward patients’ and our own pasts was being incorporated explicitly._
 * **Collaboration and mutuality** come in many forms, from contributing to clinical teams in person or afar, to helping colleagues on the front lines stay afloat with childcare, groceries, and other responsibilities.
 * Attend to **gender, historical, and cultural issues**. You or your colleagues may have additional responsibility as trusted sources for your communities. You or your colleagues may face an additional burden from experiencing racism or xenophobia. Acknowledge these disparities and consider what you could do as an ally.
-
   * One primer on responding to microaggressions can be found in [Module 4](https://curriculum.covidstudentresponse.org/module-4-communicating-information-about-covid-19/cultural-humility).
 
 _Thought question:_
 
-* **What is one action you might take to support one of your peers? \(at work, at home, in community\)**
+* What is one action you might take to support one of your peers? \(at work, at home, in community\)
+
+### What can our institutions do to support us during the pandemic?
+
+Individual and interpersonal approaches to weathering this crisis become much more effective when undergirded by institutional and structural efforts. Here we present several examples of what Boston-based medical schools and hospitals are doing to support the wellbeing of their trainees and staff, highlighting the principles of trauma-informed care. 
+
+**Medical Schools:**
+
+* **Safety:** Pausing mandatory in-person clinical work, making virtual courses available across the full curriculum, offering clinical volunteer opportunities with safeguards to ensure students do not feel pressured
+* **Trust and transparency:** Nightly Zoom calls with medical school leadership and advisors, open to the entire student body, with a centrally accessible place to submit questions and proposals
+* **Peer support:** Holding digital space for written student reflections, with the option to share anonymously; organizing groups of students for weekly hang-out calls; regular student-led collective “breathing space” on Zoom
+* **Empowerment, voice & choice:** Establishing faculty-mentored student task forces to allow students to act collectively in a way that is meaningful to them; one of these task forces gave rise to this curriculum
+* **Collaboration and mutuality:** Faculty taking time to review student-created [educational](https://covid19healthliteracyproject.com/#) [materials](https://curriculum.covidstudentresponse.org/); faculty and staff co-authoring [articles](https://www-nejm-org.ezp-prod1.hul.harvard.edu/doi/full/10.1056/NEJMp2008006) with students; faculty and staff working to continue clinical and preclinical teaching online
+* **Gender, historical, and cultural issues:** Recognizing students may have care duties within their own families and home communities, and enacting travel and attendance policies that accomodate for these duties; teaching about historical injustices laid bare by the pandemic
+
+**Hospitals:**
+
+* **Safety:** PPE procurement and policies - from procurement at the [national](https://www.projectn95.org/) level; to working with engineers to solve problems [locally](https://www.panfab.org/); to soliciting [donations](https://www.challiance.org/about/newsroom/personal_protective_equipment_ppe_donations_includ_1179) from the community \(see [Module 5](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles/personal-protective-equipment) for latest institutional policies on PPE, and [Module 3](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/socioeconomic-ramifications#understanding-the-medical-supply-shortage) for understanding the shortages\)
+* **Transparency:** Daily town halls with transparent data \(\# COVID patients admitted, days of PPE left\); dedicated internal pages maintained by hospitals to share data and the latest policies
+* **Peer support:** Workers and trainees taking time to listen to one another and channel existing learning groups into peer support groups
+* **Empowerment, voice, & choice:** Empowering residents to re-organize schedules to keep as many residents home and minimize back and forth to hospitals; listening to residents as they identify what they need as in-hospital support and making that happen.
+* **Collaboration and mutuality:** Collaboration across specialties and professions, including “gratitude baskets” for health care workers in various roles
+* **Cultural, historical, and gender issues:** Institutions need to address disparities in who is getting sickest \([Kendi, 2020](https://www.theatlantic.com/ideas/archive/2020/04/stop-looking-away-race-covid-19-victims/609250/)\) and recognize that clinicians and trainees are also impacted by the world outside the hospital - that they are part of communities that may be particularly hard-hit.
+
+This article from [Shanafelt et al.](https://jamanetwork-com.ezp-prod1.hul.harvard.edu/journals/jama/fullarticle/2764380?guestAccessKey=01a73ac6-e78a-43e9-8ad2-6019b60b5dcb&utm_source=silverchair&utm_medium=email&utm_campaign=article_alert-jama&utm_content=olf&utm_term=040720) \(2020\) collects front-line clinicians’ concerns about COVID-19 from listening sessions, exemplifying **empowerment, voice and choice**. They distill concerns into 5 “asks” from healthcare professionals to their institutions: “hear me - protect me - prepare me - support me - care for me.” Their suggestions to institutions address the need for **voice and choice** for healthcare professionals in institutional plans and **transparency** about how the situation is unfolding; attention to physical **safety; empowerment** through training for new roles; **collaboration and mutuality** across roles; and attention to the cultural issue that healthcare professionals tend to strive for self-reliance and not ask for help. Additionally they make excellent concrete suggestions for how to support health care professionals both physically and emotionally. See the full table below.
+
+![](https://lh4.googleusercontent.com/KAb-0J6CTHW5Ab08UEsCuat72Adc_gpLnTEbd97kQK8FxSdk-Qlf633wWAS9S5Qz3BkS0P4iZVQPsa95EMsn4nwP_VAcYMGz39oIVGZE5clB59HnBwsfdXbmAeyrvRvFa4BnnAtH)
+
+_Thought questions:_ 
+
+1. **What do you need from your institution to feel able to contribute in a sustainable way to the pandemic response?**
+2. **What is the role of these recommendations even in non-crisis times?**
 
