@@ -5,9 +5,7 @@ While this document will be regularly updated, the data regarding the current la
 Important [definitions](https://www.cdc.gov/coronavirus/2019-ncov/php/reporting-pui.html):
 
 1. Persons under investigation \(PUI\): individuals suspected of having COVID-19
-2. Positive: the CDC has officially categorized both laboratory confirmed and presumptive positive cases as positive
-   1. Presumptive positive cases: an individual who has had a positive COVID-19 test at a state or local lab, but not yet confirmed by the CDC. This word is being phased out as samples can now be confirmed at the Massachusetts state lab.
-   2. Laboratory confirmed cases: an individual who has tested positive for COVID-19 at the CDC lab
+2. Confirmed: an individual with a positive COVID-19 tests at a state, local, or CDC lab
 
 ## Latest number of cases \(updated frequently\)
 
@@ -57,7 +55,7 @@ Boston:
    1. $415 million will be dedicated to acute care hospitals and will cover a four-month period through July 2020.
    2. $300 million will be dedicated to other healthcare delivering medical care for COVID-19 or providing services that keep residents safe in their homes and out of the hospital.
 
-Ongoing policies for the state of Massachusetts are summarized below \(in chronological order\): 
+Ongoing policies for the state of Massachusetts are summarized below \(in reverse chronological order\): 
 
 1. Governor Charlie Baker requested that all Massachusetts medical schools graduate their fourth year medical students early.  UMass Medical School, Tufts School of Medicine, BU School of Medicine, and Harvard Medical School have [fulfilled this request](https://www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-medical-students-graduate-early-to-join-the-chaotic-response-to-covid-19.html), with further logistics pending, including [offering automatic, short-term licenses](https://www.wbur.org/news/2020/03/26/baker-massachusetts-coronavirus) to graduated students. The Board of Registration of Medicine will provide Emergency 90-Day Limited Licenses to graduating medical students who have matched at a Massachusetts healthcare facility.
 2. Governor Charlie Baker ordered that beginning March 27, all travelers arriving in Massachusetts are to self-quarantine for 14 days. Visitors with symptoms are instructed not to come to Massachusetts. Health care workers \(does NOT include students\) are exempt from this policy.
@@ -70,11 +68,10 @@ Ongoing policies for the state of Massachusetts are summarized below \(in chrono
 4. Elementary and secondary schools \(public and private\) are suspended from March 17 through May 4. The Department of Elementary and Secondary Education is recommending development of remote learning materials. 
 5. On-premises consumption of food or drink at restaurants and bars is prohibited.
 6. Hospitals are now restricting all visitors. 
-7. Assisted living facilities are required to restrict all visitors.
-8. Nursing homes are required to restrict all visitors.
-9. Pharmacies are mandated to provide at least 1 hour of shopping for seniors over the age of 60 per day. 
-10. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment. Though the level of reimbursement is not consistent, and phone calls are reimbursed at a significantly lower rate.
-11. The Department of Housing and Community Development is recommending suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
+7. Assisted living facilities and nursing homes are required to restrict all visitors.
+8. Pharmacies are mandated to provide at least 1 hour of shopping for seniors over the age of 60 per day. 
+9. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment, though the level of reimbursement is not consistent, and phone calls are reimbursed at a significantly lower rate.
+10. The Department of Housing and Community Development is recommending suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
 
 **As of April 6, 2020**: Mayor Walsh has enacted policies aimed at reducing the spread of COVID-19 within the city of Boston. A complete list of announcements can be found [here](https://www.boston.gov/news/coronavirus-disease-covid-19-boston).  Of note:
 
