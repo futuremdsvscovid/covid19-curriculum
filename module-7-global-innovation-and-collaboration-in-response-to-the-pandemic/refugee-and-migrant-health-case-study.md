@@ -44,25 +44,21 @@ Lessons from refugee health will also be relevant for dealing with people who ar
 
 _Thought questions_: _Staff_
 
-How can we increase the medical workforce in refugee camps during a pandemic? What role could task shifting play in meeting healthcare demands in refugee camps? How could members of the community directly contribute to the care of patients?
-
-What would be the opportunities and challenges in introducing refugee or otherwise internationally-trained doctors into the American health care system for the first time during a pandemic?
+* How can we increase the medical workforce in refugee camps during a pandemic? What role could task shifting play in meeting healthcare demands in refugee camps? How could members of the community directly contribute to the care of patients?
+* What would be the opportunities and challenges in introducing refugee or otherwise internationally-trained doctors into the American health care system for the first time during a pandemic?
 
 _Thought questions_: _Stuff_
 
-How can a food and water supply to refugee camps be guaranteed with the impending challenges to the global supply chain?
-
-Is deploying proper personal protective equipment to refugee camps feasible? How should it be prioritized against other competing needs? How can materials that are available within refugee camps or the local community be used to make PPE?
+* How can a food and water supply to refugee camps be guaranteed with the impending challenges to the global supply chain?
+* Is deploying proper personal protective equipment to refugee camps feasible? How should it be prioritized against other competing needs? How can materials that are available within refugee camps or the local community be used to make PPE?
 
 _Thought questions_: _Space_
 
-If you could redesign refugee camps, given limited resources and space, how would you create them?
-
-What housing resources can be mobilized in high income countries to improve the health of people who are homeless?
-
-How can treatment facilities be created to meet the needs of the population at the US-Mexico border?
+* If you could redesign refugee camps, given limited resources and space, how would you create them?
+* What housing resources can be mobilized in high income countries to improve the health of people who are homeless?
+* How can treatment facilities be created to meet the needs of the population at the US-Mexico border?
 
 _Thought questions: Systems_
 
-If you are in the ministry of health for a low, middle, or high income country, what recommendations would you make to the government about effective ways to address refugee health in pandemic contingency planning?
+* If you are in the ministry of health for a low, middle, or high income country, what recommendations would you make to the government about effective ways to address refugee health in pandemic contingency planning?
 
