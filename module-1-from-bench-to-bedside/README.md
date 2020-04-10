@@ -12,10 +12,10 @@ _Faculty reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD,
 
 **Highlight of Updates \(4/10/20\):**
 
-* Updated treatment section to include warning about corticosteroid use and recommendations for ACEi/ARB therapy
-* Updated discussion of “COVID-19 and Children” in the supplemental materials to include proposed hypotheses for differences in disease severity 
-* Added preliminary risk stratification information from US cases
-* Added table of current vaccine candidates
+* Updated discussion of “COVID-19 and Children” in the [supplemental materials](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#heading=h.fzjmqy11md9f) to include proposed hypotheses for differences in disease severity 
+* Added [preliminary risk stratification information from US](clinical-presentation-of-covid-19.md#risk-stratification) cases
+* Updated treatment section to include warning about [corticosteroid](management-of-covid-19.md#treatment) use and recommendations for [ACEi/ARB](management-of-covid-19.md#treatment) therapy
+* Added table of [current vaccine candidates](investigational-therapeutics-and-vaccine-development.md#vaccine-development)
 
 ## Introduction
 
