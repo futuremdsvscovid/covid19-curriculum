@@ -53,7 +53,6 @@
   * [Space](module-7-global-innovation-and-collaboration-in-response-to-the-pandemic/space.md)
   * [Systems](module-7-global-innovation-and-collaboration-in-response-to-the-pandemic/systems.md)
   * [Refugee and Migrant Health Case Study](module-7-global-innovation-and-collaboration-in-response-to-the-pandemic/refugee-and-migrant-health-case-study.md)
-* [COVID-19 Student Response Website](https://covidstudentresponse.org/)
 * [Curriculum Translations](curriculum-translations/README.md)
   * [Currently Available Languages](curriculum-translations/currently-available-languages/README.md)
     * [Arabic](curriculum-translations/currently-available-languages/arabic.md)
@@ -66,4 +65,5 @@
     * [Portuguese](curriculum-translations/currently-available-languages/portuguese.md)
     * [Spanish](curriculum-translations/currently-available-languages/spanish.md)
     * [Vietnamese](curriculum-translations/currently-available-languages/vietnamese.md)
+* [COVID-19 Student Response Website](https://covidstudentresponse.org/)
 
