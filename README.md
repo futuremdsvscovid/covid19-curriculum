@@ -6,13 +6,13 @@ description: 'Welcome!  Material was last updated on 4/3/2020, unless otherwise 
 
 ## Introduction
 
-One of the greatest difficulties facing everyone nowadays is a lack of clarity about what is going on and what lies ahead.  We students especially feel a need to deepen our knowledge of the situation, as we are often viewed as resources by our friends and family.  However, it soon became clear how challenging it was to process the wealth of information coming our way.  A team of us at Harvard Medical School set out to quickly collate and synthesize accurate information about the pandemic to share with our classmates still eager to learn while sidelined from their regular classes and clinical activities, professors seeking to quickly change their course syllabi, and practicing health providers who were too occupied with clinical care to perform the research themselves.
+One of the greatest difficulties facing everyone nowadays is a lack of clarity about what is going on and what lies ahead.  We students especially feel a need to deepen our knowledge of the situation, as we are often viewed as resources by our friends and family.  However, it soon became clear how challenging it was to process the wealth of information coming our way.  A team of us at Harvard Medical School set out to quickly collate and synthesize accurate information about the pandemic to share with those who do not have the time or resources to research it themselves. 
+
+Please share these materials with anyone whom you believe may benefit from them.  **We invite you to sign the** [**guest book**](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) **so we can track this material’s reach.**
+
+![As of April 10, visitors from 93 countries have signed the guest book!](.gitbook/assets/screen-shot-2020-04-10-at-3.57.01-pm.png)
 
 This curriculum was entirely written and compiled by Harvard Medical School students.  This document is not an official publication of the institution.  It is provided for educational purposes only and does not constitute medical advice.
-
-The curriculum can be of use to students and professionals around the world.  Please share these materials with anyone whom you believe may benefit from them.  **We invite you to sign the** [**guest book**](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) **so we can track this material’s reach.**
-
-![As of April 3, visitors from 85 countries have signed the guest book!](.gitbook/assets/screen-shot-2020-04-04-at-11.18.05-am.png)
 
 The contents in each module were reviewed for accuracy by expert faculty members at the time of initial publication.  We thank them for their attention during this particularly demanding time. However, given our constantly changing understanding of SARS-CoV-2 and the pandemic’s spread in society, the material in this curriculum will need to be updated frequently, and we cannot guarantee the accuracy of the information at any given time.  We plan to update content every Friday.  Please share your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).
 
