@@ -1,8 +1,6 @@
 # Triage
 
-## **TRIAGE**
-
-### **Criteria for Testing**
+**Criteria for Testing**
 
 Testing capacity has been in flux \(see [Module 3: Testing Capacity](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/testing-capacity-and-eligibility) for updates\), with resultant changes in testing eligibility protocols. The Massachusetts Department of Public Health \(MA DPH\) publishes  updated guidelines with criteria for COVID-19 testing \(see below for version as of 4/2/2020\). It differentiates between populations recommended to be tested at state versus commercial laboratories.   
 ****
