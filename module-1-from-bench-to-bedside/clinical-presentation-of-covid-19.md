@@ -29,7 +29,8 @@ _Thought questions:_
 
 ## Risk Stratification 
 
-The largest data set from the Wuhan Pulmonary Hospital showed that several common chronic conditions have prognostic implications for patients with COVID-19, including hypertension, type II diabetes, and cardiovascular \(as well as cerebrovascular\) disease \([China CDC Weekly, 2.10.20](https://pubmed.ncbi.nlm.nih.gov/32064853/)\) \(see Figure 2 below from Osmosis\).
+The largest data set from the Wuhan Pulmonary Hospital showed that several common chronic conditions have prognostic implications for patients with COVID-19, including hypertension, type II diabetes, and cardiovascular \(as well as cerebrovascular\) disease \([China CDC Weekly, 2.10.20](https://pubmed.ncbi.nlm.nih.gov/32064853/)\) \(see Figure 2 below from Osmosis\), with initial reports from US cases confirming the prognostic implications of these conditions \([CDC COVID-19 Response Team, MMWR 4.3.20](https://www.cdc.gov/mmwr/volumes/69/wr/mm6913e2.htm?s_cid=mm6913e2_w#F1_down)\).  
+
 
 ![This summary of a large study of patients in Wuhan in late 2019 and early 2020 demonstrated the above comorbid chronic conditions as having many folds higher risk for fatality in cases of COVID-19 confirmed by RT-PCR. In addition, age above 60 was demonstrated to be an independent risk factor for COVID-19; it is worth noting that elderly patients are also more likely to have the aforementioned comorbid chronic conditions. Osmosis: https://www.youtube.com/watch?v=JKpVMivbTfg](https://lh6.googleusercontent.com/3ywYV-oos0eq_gQDm6M_Mmu1YdQeoqJW53cDo3ZsqpZH3TkyRDWHZU5qF8MJRQItTPeTjxZsAa5xcBd3S7kBPNEEjef9_vIjkCsjRKb3gRF3tS0VuNe2FuECXN2-zWQO5BRh_tqZ)
 

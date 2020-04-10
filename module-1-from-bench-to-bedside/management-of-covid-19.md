@@ -20,7 +20,7 @@ This is one example of a triaging guideline in a fever clinic in Wuhan, China \(
 
 [![](https://lh3.googleusercontent.com/80V1saGBClXCwlBoElHoK3503dqJQL6JWScf-3ObKHUdtPysUMtn7_wmTb3zIgKcYRBYuQuzNKyeCiLl-IJgTN6OLXea1Z5XisqQFSm8gf2K4D65tMGecz8AKXLwB64FerjbwqVH)](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600%2820%2930071-0/fulltext)\*\*\*\*
 
-\([Zhang et al., Lancet Respir Med 2020](https://www.thelancet.com/journals/lancet/article/PIIS2213-2600%2820%2930076-X/fulltext)\)
+\([Zhang et al., Lancet Respir Med 2020](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600%2820%2930071-0/fulltext)\)
 
 The institution that you will be working at will have their own triage and treatment guidelines for emergency room providers and providers on the wards. As discussed in Imaging, the CDC and ACR currently do not support using chest x-ray or CT for diagnosis, due to poor specificity of these modalities \([ACR, 2020](https://www.acr.org/Advocacy-and-Economics/ACR-Position-Statements/Recommendations-for-Chest-Radiography-and-CT-for-Suspected-COVID19-Infection)\).
 
@@ -33,7 +33,7 @@ If a patient with risk of exposure to COVID-19 or confirmed COVID-19 calls phone
 
 The categorization of mild, moderate, and severe symptoms of COVID-19 definitions may have overlap. The morbidity of disease should be considered on a case-by-base basis in the setting of the patient’s comorbidities and well-being as a whole.
 
-Per the China CDC report of 72,314 cases, 81% of patients were mild/moderately ill, 14% had severely ill, and 5% were critically ill. There were no reports of deaths for patients who were mildly, moderately, or severely ill; there was a case fatality rate of 49% in critically ill patients \([Wu, McGoogan JAMA 2020](https://jamanetwork.com/journals/jama/fullarticle/2762130)\). 
+Per the China CDC report of 72,314 cases, 81% of patients were mild/moderately ill, 14% were severely ill, and 5% were critically ill. There were no reports of deaths for patients who were mildly, moderately, or severely ill; there was a case fatality rate of 49% in critically ill patients \([Wu, McGoogan JAMA 2020](https://jamanetwork.com/journals/jama/fullarticle/2762130)\). 
 
 _Thought question:_
 
@@ -88,15 +88,18 @@ The following measures are used for treatment of admitted patients who are moder
 * Strongly consider advanced ventilatory support/intubation if a patient is in respiratory failure \(hypercarbic or hypoxic\); for intubation specifics, please check out this [link](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#bookmark=id.q0levkbf899a)
 * For a quick summary review of ventilatory settings for ARDS treatment, please check out this [link](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#bookmark=id.8ldb2jkztow5); for more detailed information about the pathophysiology of ARDS and instruction about the basic operations of ventilators, please read the relevant sections of [Module 5](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles). 
 * The Society of Critical Care Medicine \(SCCM\), American Association for Respiratory Care \(AARC\), American Society of Anesthesiologists \(ASA\), Anesthesia Patient Safety Foundation \(ASPF\), American Association of Critical‐Care Nurses \(AACN\), and American College of Chest Physicians \(CHEST\) have released a joint statement to advise against sharing one ventilator amongst multiple patients due to the current technological limitations in being able to do so safely \([APSF March 2020](https://www.apsf.org/news-updates/joint-statement-on-multiple-patients-per-ventilator/?utm_source=facebook&utm_medium=paidsocial&utm_campaign=2020+Automated+Promoted+Posts&fbclid=IwAR2acGhsp4TvtBAjMbhJMfMAwOSDBzYehocxCZje6YJZ9trwRdN6iSxB50s)\).
-* If patients have refractory hypoxemia even with advanced ventilatory support, consider extracorporeal membrane oxygenation \(ECMO\) if available \([WHO Department of Communication March 2020](https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-%28ncov%29-infection-is-suspected)\)
+* If patients have refractory hypoxemia even with advanced ventilatory support, consider extracorporeal membrane oxygenation \(ECMO\) if available \([WHO Department of Communication March 2020](https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-%28ncov%29-infection-is-suspected); [Ramanathan et al., Lancet Resp Med 2020](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600%2820%2930121-1/fulltext); [Combes et al., NEJM 2018](https://www.nejm.org/doi/10.1056/NEJMoa1800385)**\)**
 * Treat shock with volume support and pressors.
+* It is also important to note that corticosteroid treatment is not recommended for treating viral pneumonia, unless indicated for another medical reason \([WHO 2020](https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-%28ncov%29-infection-is-suspected); [Russell et al., The Lancet 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930317-2/fulltext)\).
+* Short-term and long-term effects of ACEi/ARB therapy on COVID-19 risk and outcomes is still unclear \([Sommerstein et al. JAHA April 2020](https://www.ahajournals.org/doi/10.1161/JAHA.120.016509)\). The current recommendations from a number of professional societies, is to continue ACEi/ARB therapy during treatment of COVID-19 unless there is a contraindication. Furthermore, it is not recommended to start ACEi/ARB therapy explicitly for treatment of clinical sequelae from COVID-19. Clinical trials for the use of losartan therapy for COVID-19 are currently underway \([Bavishi et al. JAMA Cardiol. April 2020](https://jamanetwork.com/journals/jamacardiology/fullarticle/2764299)\).
 
 Please take a look at this link for up-to-date recommendations about how resources and space should be managed in ED and ICU settings: [University of Washington](https://em.uw.edu/faculty/uw-department-emergency-medicine-edicu-covid-19-preparedness?fbclid=IwAR1nn6Y0h_mQ22F7Bt0tZHnNoivvXNcJNdpyhVcB4C7aGOrRt-3YPMgWiOU) 
 
-For examples of how experimental therapies are being used in clinic settings: click this link to see MGH [COVID-19 Management Guidelines](https://drive.google.com/file/d/1tXWtBLJJm1Y51q14XhRm5WgV5-WEcW63/view?usp=sharing). Continue reading “Investigational Therapeutics” for information on the scientific basis for many of these experimental therapies. 
+Continue reading “Investigational Therapeutics” for information on the scientific basis for many of these experimental therapies. 
 
 _Thought questions:_
 
 * How do you personally balance the benefits vs risks of high flow nasal oxygen delivery? Would you use this treatment modality? In which situations?
 * What signs/symptoms/imaging findings would prompt you to think about giving empiric antibiotics?
+* Given what you have learned previously about corticosteroids \([a very nice visual review here!](https://www.youtube.com/watch?v=sSP6QrTvPlo)\), why may they be detrimental to treatment of viral pneumonia? Under what circumstances may a patient with COVID-19 be considered for corticosteroid treatment?
 

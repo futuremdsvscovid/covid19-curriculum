@@ -11,12 +11,6 @@ _Thought Questions:_
 
 There are currently no approved treatments or vaccines for any coronavirus in the US; this includes SARS & MERS. However, on 3/29/2020, the FDA [issued emergency use authorization \(EUA\)](https://www.hhs.gov/about/news/2020/03/29/hhs-accepts-donations-of-medicine-to-strategic-national-stockpile-as-possible-treatments-for-covid-19-patients.html) for the antimalarials hydroxychloroquine and chloroquine. EUAs are issued when the FDA determines that the known and potential benefits of a drug outweigh the known and potential risks of the product and that there are no alternatives available. This allows physicians to prescribe these drugs for hospitalized patients when appropriate, but does not mean that the drugs have demonstrated efficacy through clinical testing.
 
-It is also important to note that corticosteroid treatment is not recommended for treating viral pneumonia, unless indicated for another medical reason \([WHO 2020](https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-%28ncov%29-infection-is-suspected); [Russell et al., The Lancet 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930317-2/fulltext)\).
-
-_Thought Questions:_
-
-* Given what you have learned previously about corticosteroids \([a very nice visual review here!](https://www.youtube.com/watch?v=sSP6QrTvPlo)\), why may they be detrimental to treatment of viral pneumonia? Under what circumstances may a patient with COVID-19 be considered for corticosteroid treatment?
-
 A collection of case reports and/or series of cases from patients with SARS-CoV & MERS-CoV and more recent animal and in vitro studies indicate the following drugs as warranting further study. Please see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#heading=h.tq7k39cqufi) for the most updated clinical trials related to these drugs.
 
 <table>
@@ -192,6 +186,16 @@ The vaccine development for SARS-CoV-2 has evolved at a rapid pace and likely ha
 
 ![Developed vaccines that have been in testing for SARS &amp; MERS Prompetchara et al. 2020 ](https://lh3.googleusercontent.com/5PyesN741nKuljvP9gwOMKDaRd1J8DRgmZWcKb_ac_fN0PGeu8pc86qO5r5ETcWK6GshxXb9e-z-5Wkze7LVUMBaoomy-fb06N6WIrj7vVFdyd9m1Nlu9r9JqywjSVpDA7jRODh9)
 
+Table: A few vaccine candidates for COVID-19. For a more comprehensive list, see [Lurie et. al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2005630) and [WHO](https://www.who.int/blueprint/priority-diseases/key-action/novel-coronavirus-landscape-ncov.pdf?ua=1).
+
+| Developer | Vaccine platform | Platform licensed | Phase |
+| :--- | :--- | :--- | :--- |
+| [Moderna](https://www.modernatx.com/modernas-work-potential-vaccine-against-covid-19) | mRNA | No | [Phase I](https://clinicaltrials.gov/ct2/show/NCT04283461) |
+| [CanSino Biological Inc.](https://www.marketscreener.com/CANSINO-BIOLOGICS-INC-59318312/news/CanSino-Biologics-China-announces-first-human-trials-of-Covid-19-vaccine-30183232/) | Nonreplicating adenovirus type 5 vector | No | [Phase I](http://www.chictr.org.cn/showprojen.aspx?proj=51154) |
+| [Inovio Pharmaceuticals](http://ir.inovio.com/news-and-media/news/press-release-details/2020/INOVIO-Initiates-Phase-1-Clinical-Trial-Of-Its-COVID-19-Vaccine-and-Plans-First-Dose-Today/default.aspx) | DNA  | No | Phase I |
+| [Johnson & Johnson \(Janssen\)](https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use) | Nonreplicating Ad26 viral vector | No | Preclinical |
+| [University of Pittsburgh](https://www.upmc.com/media/news/040220-falo-gambotto-sars-cov2-vaccine) | Recombinant spike protein, delivered by skin patch | No | [Preclinical](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964%2820%2930118-3/fulltext) |
+
 **Whole pathogen vaccines** require the pathogen to be grown in the laboratory, where they can then either be killed with chemicals, heat, or radiation \(to make a killed/inactivated vaccine\) or weakened \(to make a live attenuated vaccine\), and then incorporated into the vaccine. Another approach is to incorporate part of the pathogen of interest’s genetic material into that of a harmless pathogen to create a “chimeric pathogen” that can be used to stimulate the immune system.
 
 **Subunit vaccines** utilize laboratory techniques to create the components \(i.e. antigens\) of the pathogen that best stimulate the immune system and incorporate these into a vaccine.
@@ -209,7 +213,7 @@ In general, previous vaccine strategies for SARS & MERS have targeted the S prot
 
 Knowledge of COVID-19 pathogenesis is emerging at a lightning pace, and the evidence-basis underpinning our diagnosis and treatment guidelines are constantly under review. We as medical students and global citizens are living and learning through a formative time. Now, more than ever, it is critical for the scientific and medical community to collaborate, to innovate, and to push the frontiers of our understanding.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 We hope that this module highlighted the frontier of basic science and translational research on COVID-19. It provides a conceptual grounding on COVID-19 pathophysiology and how this relates to evolving diagnosis, treatment, and prevention efforts to prepare you for the impacts that this disease has on society, the government, and our healthcare systems. 
 
