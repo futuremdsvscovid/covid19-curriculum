@@ -1,8 +1,8 @@
 ---
 description: >-
-  This module explores collaborative innovation and shared experiences regarding
-  optimizing “staff, stuff, space, and systems” between countries of all income
-  levels as they relate to COVID-19.
+  Explore collaborative innovation and shared experiences regarding optimizing
+  “staff, stuff, space, and systems” between countries of all income levels as
+  they relate to COVID-19.
 ---
 
 # Module 7: Global Innovation and Collaboration in Response to the Pandemic
