@@ -40,7 +40,7 @@ Though this module covers a number of examples from various settings on how COVI
 
 **Learning Objectives:**
 
-At the end of this module, medical students of all years should be able to:
+At the end of this module, medical students should be able to:
 
 * Design two ways to redistribute clinician responsibilities through task shifting/sharing that can be applied to surges in demand for triage or critical care in the COVID-19 pandemic
 * Articulate how community health workers \(CHWs\) constitute an essential component of the healthcare system in some LMICs and how that could be translated into other contexts
