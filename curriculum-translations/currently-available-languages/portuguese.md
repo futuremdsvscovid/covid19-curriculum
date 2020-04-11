@@ -1,7 +1,7 @@
 ---
 description: >-
-  All translations on this page courtesy of:  Luis Guilherme Cardoso
-  (luiscardosofreitas@gmail.com)
+  All translations on this page courtesy of: Luis Frietas
+  (luiscardosofreitas@gmail.com) and Paula Ando (paulakaoria@gmail.com)
 ---
 
 # Portuguese
