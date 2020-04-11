@@ -59,7 +59,7 @@
   * [Clinical Trials, Research, and Treatments](module-6-medical-ethics-in-relation-to-covid-19/clinical-trials-research-and-treatments.md)
   * [Public Health](module-6-medical-ethics-in-relation-to-covid-19/public-health.md)
   * [Summary](module-6-medical-ethics-in-relation-to-covid-19/summary.md)
-* [Module 7: Global Innovation and Collaboration in Response to the Pandemic](module-7-global-innovation-and-collaboration-in-response-to-the-pandemic/README.md)
+* [Module 7: Global Innovation and Collaboration](module-7-global-innovation-and-collaboration-in-response-to-the-pandemic/README.md)
   * [Staff](module-7-global-innovation-and-collaboration-in-response-to-the-pandemic/staff.md)
   * [Stuff](module-7-global-innovation-and-collaboration-in-response-to-the-pandemic/stuff-1.md)
   * [Space](module-7-global-innovation-and-collaboration-in-response-to-the-pandemic/space.md)

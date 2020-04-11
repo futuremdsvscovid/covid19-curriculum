@@ -32,7 +32,7 @@ Develop technical know-how in preparation for roles that medical students may pl
 
 Discuss various ethical controversies related to COVID-19, and apply ethical frameworks to examine the impacts of personal, medical, and governmental decisions related to the pandemic.
 
-\*\*\*\*[**Module 7: Global Innovation and Collaboration in Response to the Pandemic**](https://curriculum.covidstudentresponse.org/module-7-global-innovation-and-collaboration-in-response-to-the-pandemic)\*\*\*\*
+\*\*\*\*[**Module 7: Global Innovation and Collaboration**](https://curriculum.covidstudentresponse.org/module-7-global-innovation-and-collaboration-in-response-to-the-pandemic)\*\*\*\*
 
 Explore collaborative innovation and shared experiences regarding optimizing “staff, stuff, space, and systems” between countries of all income levels as they relate to COVID-19.
 

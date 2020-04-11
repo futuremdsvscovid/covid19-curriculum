@@ -5,7 +5,7 @@ description: >-
   they relate to COVID-19.
 ---
 
-# Module 7: Global Innovation and Collaboration in Response to the Pandemic
+# Module 7: Global Innovation and Collaboration
 
 _Student Authors:_ Aditya Achanta¹, George Agyapong¹, Isaac Alty¹, Jeremie Kyle Angeles², Kathryn Ellyse Burgonio², Noelle Castilla-Ojo¹, Hassan Ali Daoud³, Michael Dykstra¹, Parisa Fallah¹, Luis Freitas⁴, Philippe Jefferson Galban², Jessica Laird¹, Jean Wilguens Lartigue⁵, Jonathan Niyotwambaza⁶, Gavin Ovsak¹, Kirstin Woody Scott¹, Ulrick Sidney⁷, Julius Nico Valdez², Angela Zou¹
 
