@@ -21,12 +21,12 @@ We expect that this module will take **5 hours** to complete.
 
 ## Learning Objectives
 
-At the end of this module, medical students of all years should be able to: 
+At the end of this module, medical students should be able to: 
 
-* Compare the rudimentary schools, frameworks, and principles to approach ethical issues in healthcare.
-* Apply ethical frameworks to debate how healthcare resources should be distributed during a pandemic. 
-* Describe how COVID-19 differentially impacts populations that are already vulnerable.
-* Debate the boundaries of obligation for healthcare workers and medical students during a pandemic. 
-* Discuss the ethical principles of clinical research design and vaccine development during times of crises.
-* Discuss the tension between autonomy and collectivism in relation to public health measures.
+* Compare the rudimentary schools, frameworks, and principles to approach ethical issues in healthcare
+* Apply ethical frameworks to debate how healthcare resources should be distributed during a pandemic
+* Describe how COVID-19 differentially impacts populations that are already vulnerable
+* Debate the boundaries of obligation for healthcare workers and medical students during a pandemic 
+* Discuss the ethical principles of clinical research design and vaccine development during times of crises
+* Discuss the tension between autonomy and collectivism in relation to public health measures
 
