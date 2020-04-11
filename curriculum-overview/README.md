@@ -2,7 +2,7 @@
 
 ## How To Use This Curriculum
 
-We want these lessons to be as widely helpful as possible.  Given the range of circumstances in which medical students may find themselves right now, we do not have a single approach in mind.  For those with the time, we suggest you proceed through the modules start-to-finish, ideally spaced over two or more sittings. However, for those with more urgent needs, the modules are stand-alone, and you can selectively access content on an as-needed basis.  The subsequent learning objectives and table of contents may help you locate content that is most important. 
+We want these lessons to be as widely helpful as possible.  Given the range of circumstances in which medical students may find themselves right now, we do not have a single approach in mind.  For those with the time, we suggest you proceed through the modules start-to-finish. However, for those with more urgent needs, the modules are stand-alone, and you can selectively access content on an as-needed basis.  The subsequent learning objectives and table of contents at the left may help you locate content that is most important. 
 
 Many modules reference supplemental resources that may be worth accessing in the future, either in anticipation of specific patient interactions or simply to find the most current statistics of the pandemic.  Also included on this website are one-page summaries of each module’s key takeaways.
 
@@ -32,15 +32,7 @@ Develop technical know-how in preparation for roles that medical students may pl
 
 Discuss various ethical controversies related to COVID-19, and apply ethical frameworks to examine the impacts of personal, medical, and governmental decisions related to the pandemic.
 
-**Module 7: Global Health**
+\*\*\*\*[**Module 7: Global Innovation and Collaboration in Response to the Pandemic**](https://curriculum.covidstudentresponse.org/module-7-global-innovation-and-collaboration-in-response-to-the-pandemic)\*\*\*\*
 
-Coming soon
-
-#### [Curriculum Translations](./#curriculum-translations)
-
-Discover Medical Student COVID-19 Curriculum materials which have been translated into various languages
-
-\*\*\*\*
-
-
+Explore collaborative innovation and shared experiences regarding optimizing “staff, stuff, space, and systems” between countries of all income levels as they relate to COVID-19.
 
