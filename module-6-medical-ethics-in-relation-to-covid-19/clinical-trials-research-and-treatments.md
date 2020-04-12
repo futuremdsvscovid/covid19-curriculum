@@ -9,7 +9,7 @@ _Thought questions:_
 * What are the main ethical considerations in carrying out medical research on human populations? 
 * How are these challenged in times of crises, and how does a society balance these immediate needs of the population while maintaining core ethical principles that protect human study subjects?
 
-## What makes an ethical research trial design?
+## What Makes an Ethical Research Trial Design?
 
 Over the course of modern medical history, the use of human subjects in research studies has undergone substantial ethical regulation and reform. In the U.S., efforts to reform research guidelines culminated in the National Research Act of 1974 and the resulting [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html), which outlines 3 core and legally actionable principles of human research: respect for persons, beneficence, and justice. The principle of **respect for persons** involves determining capacity and informed consent, as well as protecting autonomy and privacy of the individual. **Beneficence** encompasses ensuring treatments and studies are beneficial to patients and society in comparison to the risks undertaken. Finally, the principle of **justice** helps protect vulnerable populations while equally distributing benefits to all. 
 
