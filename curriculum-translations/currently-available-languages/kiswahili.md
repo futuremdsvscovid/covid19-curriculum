@@ -8,5 +8,5 @@ description: >-
 
 ## Module 1 Graphic Summary 
 
-![](../../.gitbook/assets/final-arusha-global-shapers-0_module1-graphic-summary-no-text-v2-harvard-medical-school-covid-19-edu.pdf)
+![](../../.gitbook/assets/arusha-global-shapers-0_module1-graphic-summary-v2-harvard-medical-school-covid-19-education-committ.jpg)
 
