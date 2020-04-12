@@ -1,6 +1,6 @@
 # Care for Self and Others During Crisis
 
-### Introduction
+## Introduction
 
 This is a time of high risk for our patients, colleagues, families, and selves. Previously in this module we’ve discussed how to mitigate the risk of pathogen exposure; here we discuss how to mitigate the risk of traumatic exposure. Just as in previous sections, we will discuss individual actions and structural interventions that support this mitigation and celebrate the strength of healthcare workers.
 
@@ -38,7 +38,7 @@ Equally as important as acknowledging the losses associated with the pandemic, i
 
 It is important to call out the fear and anxiety we are experiencing collectively, while also celebrating our strength as a helping profession.  Even the simple act of reading through this module demonstrates your strength and commitment to staying well. By labeling the experience as traumatic, we are able to draw on the trauma-informed care \(TIC\) literature for guidance on how to care for ourselves.
 
-### **What can we do to mitigate the adverse impact of trauma on ourselves, our colleagues, and our patients?** 
+## **Mitigating the Impact of Trauma on Ourselves, Our Colleagues, and Our Patients?** 
 
 Trauma-informed care \(TIC\) is a strengths-based model developed to mitigate the health effects of trauma and is based on the Substance Abuse and Mental Health Services Administration’s \(SAMHSA\) six principles \(see figure below\) including: safety; trustworthiness and transparency; peer support; collaboration and mutuality; empowerment, voice, and choice; and attention to cultural, historical, and gender issues \([SAMHSA 2014](https://ncsacw.samhsa.gov/userfiles/files/SAMHSA_Trauma.pdf)\). You may be familiar with trauma-informed care as a clinical model. The six principles you apply to patient care can also be used reflectively, for self-care, a practice referred to as trauma-informed self care \(TISC\). Here we apply the 6 principles to ourselves, our colleagues, and our institutions. The principles will be bolded throughout to highlight this framework.
 
@@ -156,7 +156,7 @@ _Thought questions:_
 * What do you need from your institution to feel able to contribute in a sustainable way to the pandemic response?
 * What is the role of these recommendations even in non-crisis times?
 
-### **Where can I find additional resources to stay well in close contact with trauma?**
+## **Additional Resources to Stay Well**
 
 * [Self-Care When Working With Patients With Histories of Trauma](https://drive.google.com/open?id=1ZeMDwXKjSYEV_8-3W5YjcbwiQsCclXxK) \(Samara Grossman, LICSW\)
 * [Grounding Exercises ](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/books/NBK207188/box/part1_ch4.box5/?report=objectonly)
