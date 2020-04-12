@@ -4,7 +4,7 @@
 
 This section will discuss ethical questions that are particularly relevant to a range of vulnerable patient populations. By “vulnerable,” we mean patients who may be at particular risk to suffer physical or mental health consequences, financial hardship, or discrimination. Vulnerable populations may require additional aid and protection during a time of crisis, and yet can often be forgotten when public health measures are enacted for the population as a whole. This section will remind us of crucial issues and concerns affecting vulnerable groups.
 
-## Homeless and low-income populations
+## Homeless and Low-Income Populations
 
 The low-income and homeless populations are particularly vulnerable in the era of pandemics due to their reliance at baseline on social support structures, more tenuous income streams, and a variety of other factors.
 
@@ -30,7 +30,7 @@ _Thought Questions:_
 * Once things return to the status quo, how do we best repair the educational and psychological stressors that children will inevitably face during this period?
 * Is a dependent population that is not directly linked to economic productivity inherently less deserving of resources during a pandemic?
 
-## **People with physical and developmental disabilities** 
+## **People with Physical and Developmental Disabilities** 
 
 Societal responsibility towards people with disabilities has historically been a focus of discussion when situations such as pandemics or mass disasters arise and force us to decide the most efficient and moral ways to distribute help amongst people. Past experiences from [Hurricane Katrina](https://ncd.gov/publications/2006/Aug072006) have highlighted a disproportionate effect on people with disabilities in dire circumstances. Several U.S. states have proposed guidelines for resource allocation during crises with limitations for certain groups; most notably, [Alabama](http://www.adph.org/CEP/assets/VENTTRIAGE.pdf) has outlined an emergency allocation plan that deems people with severe intellectual disability as “unlikely candidates” for ventilators. [Several arguments](https://scholarship.law.ufl.edu/cgi/viewcontent.cgi?article=1110&context=flr) have been made against the allocation of scarce resources to the disabled; these propose that people with disabilities require extended time of resource use, “have a limited long-term prognosis as a result of their disabilities,” and, in some cases, might have limited benefit from the medical intervention due to a pre-existing disability.  
 
@@ -43,7 +43,7 @@ _Thought Questions:_
 * Do you agree with Howe’s argument that care-providers may incorrectly assume that those with disabilities live less happy lives? If so, how do you think this affects their health care management? 
 * What ethical approach would you implement in your policy and action to avoid discriminatory behaviors against those with disabilities?
 
-## **Pregnant women seeking abortion**
+## **Pregnant Women Seeking Abortion**
 
 As many states have called for "elective" or non-essential surgeries to halt, some states’ governments have argued that surgical abortions are non-essential and therefore should be stopped in order to allow personnel and personal protective equipment to be re-allocated to the fight against COVID-19. The issue of whether surgical abortions should continue during this crisis strikes at a familiar and important question: is abortion an essential part of women’s health care? Or is it something that some women ‘elect’ to pursue, but is not crucial to women’s health and well-being?
 
@@ -62,7 +62,7 @@ _Thought Questions:_
 * [**The coronavirus may be driving up divorce rates in a Chinese city, officials say**](https://www.businessinsider.com/covid-19-peak-divorce-rate-chinese-cities-2020-3)
 * **Finer LB, Frohwirth LF, Dauphinee LA, Singh S, Moore AM. Reasons U.S. Women Have Abortions: Quantitative and Qualitative Perspectives. Perspectives on Sexual and Reproductive Health 2005;37\(3\):110-8.**
 
-## **Communities facing racism and xenophobia**
+## **Communities Facing Racism and Xenophobia**
 
 All human beings have implicit biases, and clinical providers have a responsibility to keep these biases in check. [It has been demonstrated](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988900/) that in times of increased stress and panic, such as during a global pandemic, providers are more likely to be influenced by racial prejudices and stereotypes, leading to poorer outcomes for minority populations. While many groups face discrimination on a daily basis, it is important to address the significant increase in anti-Asian sentiment brought on by this pandemic.  \(See related section in [Module 3](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/socioeconomic-ramifications#social-stigma-and-racism).\)
 
