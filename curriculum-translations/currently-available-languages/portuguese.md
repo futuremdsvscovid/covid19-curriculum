@@ -1,6 +1,6 @@
 ---
 description: >-
-  All translations on this page courtesy of: Luis Frietas
+  All translations on this page courtesy of: Luis Freitas
   (luiscardosofreitas@gmail.com) and Paula Ando (paulakaoria@gmail.com)
 ---
 
