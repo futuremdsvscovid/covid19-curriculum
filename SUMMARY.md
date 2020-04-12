@@ -10,6 +10,7 @@
     * [German](curriculum-translations/currently-available-languages/german.md)
     * [Indonesian](curriculum-translations/currently-available-languages/indonesian.md)
     * [Kiswahili](curriculum-translations/currently-available-languages/kiswahili.md)
+    * [Nepali](curriculum-translations/currently-available-languages/nepali.md)
     * [Portuguese](curriculum-translations/currently-available-languages/portuguese.md)
     * [Spanish](curriculum-translations/currently-available-languages/spanish.md)
     * [Vietnamese](curriculum-translations/currently-available-languages/vietnamese.md)
