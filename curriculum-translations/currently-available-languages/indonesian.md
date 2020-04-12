@@ -6,7 +6,5 @@ description: >-
 
 # Indonesian
 
-## Module 1 Graphic Summary 
-
-![](../../.gitbook/assets/module-1-graphic-summary_03-26-2020_indonesian.pdf)
+## [Module 1 Graphic Summary ](https://drive.google.com/drive/u/1/folders/1HmdxZX6IP0aLE8Yt96Fz2tcy4KCWqaXb)
 
