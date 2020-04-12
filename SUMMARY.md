@@ -8,6 +8,8 @@
   * [Currently Available Languages](curriculum-translations/currently-available-languages/README.md)
     * [Georgian](curriculum-translations/currently-available-languages/georgian.md)
     * [German](curriculum-translations/currently-available-languages/german.md)
+    * [Indonesian](curriculum-translations/currently-available-languages/indonesian.md)
+    * [Kiswahili](curriculum-translations/currently-available-languages/kiswahili.md)
     * [Portuguese](curriculum-translations/currently-available-languages/portuguese.md)
     * [Spanish](curriculum-translations/currently-available-languages/spanish.md)
     * [Vietnamese](curriculum-translations/currently-available-languages/vietnamese.md)
