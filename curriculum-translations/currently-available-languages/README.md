@@ -8,6 +8,8 @@ Listed here are links to curriculum materials that are currently available in va
 
 ## [Indonesian ](indonesian.md)
 
+## [Kiswahili](kiswahili.md)
+
 ## [Portuguese](portuguese.md) 
 
 ## [Spanish](spanish.md)
