@@ -10,6 +10,8 @@ Listed here are links to curriculum materials that are currently available in va
 
 ## [Kiswahili](kiswahili.md)
 
+## [Nepali](nepali.md)
+
 ## [Portuguese](portuguese.md) 
 
 ## [Spanish](spanish.md)
