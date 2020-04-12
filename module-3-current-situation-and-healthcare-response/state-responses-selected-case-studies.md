@@ -2,7 +2,7 @@
 
 _Student Lead:_ ****Katie Shaffer
 
-_Student Authors:_ Andrew Foley, Sarah Onorato, Simone Sasse, Katie Shaffer
+_Student Authors:_ Andrew Foley, MPH; Sarah Onorato; Simone Sasse; Katie Shaffer
 
 _**Please Note:** While our curriculum is reviewed by expert faculty, this section focuses on specific state responses with which faculty in Boston may not be familiar. As such, faculty review may not apply to this entire section._
 
