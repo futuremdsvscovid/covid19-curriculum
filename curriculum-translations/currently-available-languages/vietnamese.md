@@ -1,11 +1,6 @@
----
-description: >-
-  All translations on this page courtesy of: Phuong Pham (phuongpm@mit.edu),
-  Trinh Nguyen (trinh.thd.nguyen@gmail.com) with additional support from Thao
-  Nguyen (thao.nguyen.mit@gmail.com)
----
-
 # Vietnamese
+
+All translations on this page are courtesy of a group of Vietnamese students. For translation feedback and inquires, please contact covid19-vn-translation-team@googlegroups.com. Please direct other inquires to Phuong Pham \(phuongpm241@gmail.com\) or Trinh Nguyen \(trinh.thd.nguyen@gmail.com\).
 
 ## [Modules 1 - 4](https://docs.google.com/document/d/1xVI556Gb9hP94iAOOr0tMlJaq_wLGd3Z6E6sdtSNLkI/edit#)
 
