@@ -90,11 +90,13 @@ _Thought Questions:_
 
 ## Real-World Example
 
-On April 7, 2020, the Commonwealth of Massachusetts released Crisis Standards of Care [recommendations](https://d279m997dpfwgl.cloudfront.net/wp/2020/04/CSC_April-7_2020.pdf). These guidelines were predominantly grounded in utilitarian principles, and in the days after their release, there was [pushback](https://www.wbur.org/commonhealth/2020/04/14/ayanna-pressley-critical-care-state-guidance-governor-letter) from other \(prioritarian\) legislators. Some of these concerns are addressed in this [video](https://harvard.zoom.us/rec/play/78cuJr-oqT83HYaSsgSDAvV5W420J6yshycd_qcPnRrkUnICZ1P0MOcXa-dpX6Ohuuv_iCFOEnq51ifk?continueMode=true&_x_zm_rtaid=mr94-yfqRBeuOPt2jGvdQw.1586961053268.f2d6f3952872cdf123b2a8b1b2482f1f&_x_zm_rhtaid=839) recording of Surgical Grand Rounds at April 15, 2020, at the Beth Israel Deaconess Medical Center.
+On April 7, 2020, the Commonwealth of Massachusetts released Crisis Standards of Care [recommendations](https://d279m997dpfwgl.cloudfront.net/wp/2020/04/CSC_April-7_2020.pdf). These guidelines are primarily grounded in **utilitarian** principles: they seek to save the most lives and life-years.  They do so by using clinical scoring criteria to identify patients most likely to benefit from critical care services.  
+
+In the days after these recommendations' release, [public servants](https://www.wbur.org/commonhealth/2020/04/14/ayanna-pressley-critical-care-state-guidance-governor-letter) and [providers](https://docs.google.com/forms/d/e/1FAIpQLScxjXDKBrI8K2PC4eApInU-g8z9OIDcx4mexsmNeFhbTuX7Qg/viewform) taking a more **prioritarian** view pushed back, arguing that "giving priority to those without serious comorbid illness, will disproportionately discriminate against vulnerable populations by serving as a proxy for race, ethnicity, immigration status, serious mental illness, and other sociodemographic characteristics."  
 
 _Thought Questions:_
 
-* What do you make of Dr. Raven’s assessment at 44:16 that “unfortunately in a time of crisis, we can’t also make up for those longstanding disparities in care”?
+* Some of these concerns are addressed in this [video](https://harvard.zoom.us/rec/play/78cuJr-oqT83HYaSsgSDAvV5W420J6yshycd_qcPnRrkUnICZ1P0MOcXa-dpX6Ohuuv_iCFOEnq51ifk?continueMode=true&_x_zm_rtaid=mr94-yfqRBeuOPt2jGvdQw.1586961053268.f2d6f3952872cdf123b2a8b1b2482f1f&_x_zm_rhtaid=839) recording of Surgical Grand Rounds at April 15, 2020, at the Beth Israel Deaconess Medical Center.  What do you make of Dr. Kristin Raven’s assessment at 44:16 that “unfortunately in a time of crisis, we can’t also make up for those longstanding disparities in care... certainly an important thing that needs to be taken into consideration after crisis standards”?
 
 
 
