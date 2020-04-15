@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This section will discuss the ethical arguments around scarce resource distribution with a focus on various scenarios that may arise in the COVID-19 pandemic. Briefly, we consider two broad forms of resource allocation: macroallocation and microallocation. Macroallocation decisions determine how a particular society allocates funding and issues policies across areas such as defense, education, infrastructure, public health, and health care. It focuses on the healthcare needs of a population as an aggregate with distributive justice as the underlying principle. In contrast, microallocation relies on context and individual judgment in the distribution of scarce supplies such as ventilators and face masks. It uses ethical principles such as the ones discussed in [Principles of Allocation](https://curriculum.covidstudentresponse.org/module-6-medical-ethics-in-relation-to-covid-19/overview-of-u.s.-medical-ethics#principles-of-allocation) to make decisions among individual cases. In short, macroallocation decisions affect statistical and hypothetical lives, while microallocation decisions affect identified lives.
+This section will discuss the ethical arguments around scarce resource distribution with a focus on various scenarios that may arise in the COVID-19 pandemic. Briefly, we consider two broad forms of resource allocation: macroallocation and microallocation. Macroallocation decisions determine how a particular society allocates funding and issues policies across areas such as defense, education, infrastructure, public health, and health care. It focuses on the healthcare needs of a population as an aggregate with distributive justice as the underlying principle. In contrast, microallocation relies on context and individual judgment in the distribution of scarce supplies such as ventilators and face masks. It uses ethical principles such as the ones discussed in [Principles of Allocation](https://app.gitbook.com/@futuremdvscovid/s/covid19-curriculum/~/drafts/-M4ykRcFd6O6ulGB4y0r/module-6-medical-ethics-in-relation-to-covid-19/principles-of-allocation) to make decisions among individual cases. In short, macroallocation decisions affect statistical and hypothetical lives, while microallocation decisions affect identified lives.
 
 In this section, we first consider issues of macroallocation involving resource distribution between hospitals, states, and nations who may have differential access to resources or ability to produce them on their own. We then turn to various scenarios involving microallocation of personal protective equipment \(PPE\), testing for SARS-CoV-2, and ventilators, all of which may be preferentially directed to certain people over others. All of these decisions may be required in the current pandemic.  
 
@@ -87,4 +87,14 @@ _Thought Questions:_
 
 * If you had to allocate ventilator spots to a panel of patients, how would you decide? What criteria would you consider important, and why? 
 * When have you seen life-saving care rationed in the hospital on clinical rotations? 
+
+## Real-World Example
+
+On April 7, 2020, the Commonwealth of Massachusetts released Crisis Standards of Care [recommendations](https://d279m997dpfwgl.cloudfront.net/wp/2020/04/CSC_April-7_2020.pdf). These guidelines were predominantly grounded in utilitarian principles, and in the days after their release, there was [pushback](https://www.wbur.org/commonhealth/2020/04/14/ayanna-pressley-critical-care-state-guidance-governor-letter) from other \(prioritarian\) legislators. Some of these concerns are addressed in this [video](https://harvard.zoom.us/rec/play/78cuJr-oqT83HYaSsgSDAvV5W420J6yshycd_qcPnRrkUnICZ1P0MOcXa-dpX6Ohuuv_iCFOEnq51ifk?continueMode=true&_x_zm_rtaid=mr94-yfqRBeuOPt2jGvdQw.1586961053268.f2d6f3952872cdf123b2a8b1b2482f1f&_x_zm_rhtaid=839) recording of Surgical Grand Rounds at April 15, 2020, at the Beth Israel Deaconess Medical Center.
+
+_Thought Questions:_
+
+* What do you make of Dr. Raven’s assessment at 44:16 that “unfortunately in a time of crisis, we can’t also make up for those longstanding disparities in care”?
+
+
 
