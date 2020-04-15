@@ -9,7 +9,7 @@ description: >-
 
 _Student Authors_: James Agolia, Michelle Bayefsky, Samuel Doernberg, Melody Huang, Margaret Irwin, Bina Kassamali, Katie Kester, Benjamin Landwersiek, Sun Fletcher, Soumyaa Mazumder, Niyi Odewade, Larisa Shagabayeva, Derek Soled, Sanjana Srinivasan, Maria Thomas, Allen Zhou, Angela Zou
 
-_Module Leader and Editor_: Derek Soled, MSc \(Derek\_soled@hms.harvard.edu\)
+_Module Leader and Editor_: Derek Soled, MSc \([Derek\_soled@hms.harvard.edu](mailto:Derek_soled@hms.harvard.edu)\)
 
 _Peer Reviewers_: Matthew Baum, PhD, DPhil; Pamela Chen; Rahul Nayak, MD; Sophia Yin
 
