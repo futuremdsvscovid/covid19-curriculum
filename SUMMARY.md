@@ -51,6 +51,7 @@
   * [Summary](module-5-training-for-medical-student-specific-roles/summary.md)
 * [Module 6: Medical Ethics in Relation to COVID-19](module-6-medical-ethics-in-relation-to-covid-19/README.md)
   * [Overview of U.S. Medical Ethics](module-6-medical-ethics-in-relation-to-covid-19/overview-of-u.s.-medical-ethics.md)
+  * [Principles of Allocation](module-6-medical-ethics-in-relation-to-covid-19/principles-of-allocation.md)
   * [Resource Distribution](module-6-medical-ethics-in-relation-to-covid-19/untitled-1.md)
   * [Vulnerable Populations](module-6-medical-ethics-in-relation-to-covid-19/vulnerable-populations.md)
   * [Commitment of Healthcare Professionals and Trainees During Crisis](module-6-medical-ethics-in-relation-to-covid-19/commitment-of-healthcare-professionals-and-trainees-during-crisis.md)

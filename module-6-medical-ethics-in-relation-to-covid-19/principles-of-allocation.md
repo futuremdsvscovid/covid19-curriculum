@@ -1,0 +1,61 @@
+# Principles of Allocation
+
+## Overview
+
+Our modern societies have chosen to develop medical systems in which only a limited amount of resources - such as nurses and physicians, treatment, equipment, and money - are available. Even in seemingly normal times, patients are triaged in the emergency room based on the urgency of their complaint and the availability of clinicians to see them. In the current COVID-19 pandemic, the limitations in our medical resources as a nation and globally have become increasingly apparent, as we hear in the news daily about shortages of essential equipment for patients and providers such as surgical and N95 masks, beds, and ventilators. As such, determining the allocation of medical resources has become a pressing and important topic for all. Below, we provide a simple framework that incorporates the above basic principles of medical ethics \(autonomy, justice, beneficence, and nonmaleficence\) and guides decision-making regarding who receives a finite medical resource \(i.e. “rationing”\).
+
+## Framework
+
+Based on the principles of autonomy, justice, beneficence, and nonmaleficence, [Persad et al.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2809%2960137-9/fulltext) propose four categories of ethical values to guide the allocation of scarce medical resources:   
+1\) treating people equally  
+2\) giving priority to the worst off  
+3\) maximizing benefits  
+4\) promoting and rewarding social usefulness \([Persad et al. Lancet 2009](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2809%2960137-9/fulltext)\). 
+
+Within each category of ethical value, there are two competing ethical principles \(for a total of 8 sub-principles\) that are competing specifications of the higher-order ethical value.
+
+* **Treating people equally:** Allowing people to have equal opportunity to receive a medical intervention underlies this ethical value. The following two principles are based off of this ethical value, though reach different conclusions:
+  * **Lottery \(Random Selection\):** This ethical principle uses a lottery in order to provide people with an equal probability of obtaining a given medical resource, regardless of other circumstances.
+  * **First-come, first-served:** Under this ethical principle, people who require a limited resource first receive it, without regard to differences between people. For example, during non-pandemic times, patients are allotted a hospital bed on a first-come, first-served basis. 
+* **Giving priority to the worst off:** This ethical value embodies prioritarianism \(see above\), in which individuals who are worse off are given priority access to needed medical resources. Below, two ethical principles that incorporate this ethical value are discussed, though they differ in their definition of who is considered worst off. While these two are among the most discussed, they are not the only ones - there are multiple other ways of defining who is “worse off.”
+  * **Sickest first:** In this ethical principle, those with the worst chance of survival without a given scarce medical intervention are prioritized as they are considered to be “worst off.”
+  * **Youngest first:** This ethical principle prioritizes the distribution of resources to those who have lived fewer life years - thus defining those who are “worst off” as those who have yet to benefit from having lived longer. ****
+* **Maximizing benefits:** This ethical value is based upon utilitarianism \(see above for detailed background on utilitarianism\) and, at its core, aims to maximize the possible good that can be done. There are multiple ways, however, to define a “benefit” and different ethical principles differ in the “benefit” that they promote. Two ethical principles falling under this ethical value are described below.
+  * **Saving the most lives:** This ethical principle prioritizes saving the most individual lives. It treats each life as holding equal value and does not compare the individual worth of each life - for example, the lives of a 20-year old and 70-year old are weighed equally.
+  * **Saving the most life-years:** In this ethical principle, saving the most life-years is preferred over saving the most lives, regardless of how this distribution is concentrated or spread. For example, this ethical principle would favor saving one person who goes on to live 21 more years rather than 20 people who each go on to live 1 more year \(20 life-years\). There are multiple ways in which life years are quantified \(see below\).
+* **Promoting and rewarding social usefulness:** This ethical value prioritizes people who have previously provided or will provide, in the future, benefit to society. It is important to recognize the effect that culture and societal norms have on defining these benefits to society and thus who would be prioritized. 
+  * **Instrumental value:** In this ethical principle, people are prioritized who have future usefulness. For example, a system valuing instrumental value could focus on treating health care workers in the current COVID-19 pandemic because of the added value in the future that they may have for treating others. 
+  * **Reciprocity:** This ethical principle prioritizes and rewards people who previously were useful or had to sacrifice. For example, in this system, a person who previously volunteered to test a new COVID-19 vaccine in a clinical trial would be prioritized if they were to require treatment in the future.
+
+An important concept to understand within the context of the allocation of scarce resources \(i.e. rationing\) is the “life-year,” as it underlies the ethical principle of “Saving the most life-years” in order to maximize benefits. There are [two general systems](https://nccid.ca/publications/understanding-summary-measures-used-to-estimate-the-burden-of-disease/) used to quantify life-years.
+
+* **Quality-adjusted life-year:** Quality-adjusted life-year systems measure the gain of equivalent healthy years. In this system, a quality-adjusted life-year \(QALY\) is defined as one year of perfect health. A year of life with a specific illness or disability \(i.e. health-related quality-of-life; HRQOL\) is then normalized relative to this year of perfect health. Specific criteria for determining this normalized value vary, especially given the subjective nature of the “value” of a specific condition. For example, in the UK’s National Health Service, a year of life with a moderate mobility impairment is defined as 0.85 QALYs. 
+  * **QALYs formula: QALYs = additional years of life x health-related quality-of-life \(HRQOL\)** 
+* **Disability-adjusted life-year:** Disability-adjusted life-year systems measure the loss of health. This system measures the total length of time that a specific illness is disabling to an individual over their lifetime. Similar to a QALY, it incorporates quality-of-life factors to normalize a year of living with a specific condition/illness to a year of perfect health. Prior DALY systems included an age-weighting such that a year for a younger person was weighed as more valuable than that for an older person, but these weightings have generally since been removed.
+  * **DALYs formula: DALYs = years of life lost to premature mortality \(YLL\) + years lived with disability \(YLD\)**
+
+Each of these ethical values and principles has advantages and disadvantages \(summarized in Table 1 below\). Persad et al. \(2009\) have also developed a recommendation on whether each ethical principle should be included or excluded when developing guidelines for allocation.
+
+When developing a framework for allocation of scarce resources, it is important to recognize that no single value or principle is sufficient in determining whether a given individual receives the resource. Ultimately, a multi-value and multi-principle framework is necessary to facilitate such decision-making \([Emanuel et al. NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMsb2005114)\).
+
+![Table 1: Simple principles and their core ethical values \(Persad et al. 2009\)](https://lh3.googleusercontent.com/-u9LHZ_nQWGE1MeJ0zaHvtevXt8MVaR4yTHN38IS8lFuGS80AOxTDBo--Dx72DZC8TUSEZ5qCuWXEt5RSfYYl7uW9hlMcp3878pfPvGwwivi5U9rJ7u5vPK9WQI_SalHv49kaeXD)
+
+Similar to Persad et al., White and colleagues \(2009\) suggest a framework for the allocation of scarce medical resources that include maximizing life-years, broad social value, instrumental value, and the life-cycle principle \(i.e. providing each individual with an equal opportunity to live through various stages of life\). \([Who Should Receive Life Support During a Public Health Emergency? Using Ethical Principles to Improve Allocation Decisions](https://annals.org/aim/article-abstract/744219/who-should-receive-life-support-during-public-health-emergency-using)\). However, they caution against an over-reliance on the principle of maximizing life-years, as it may selectively discriminate against groups with certain conditions.  For example, maximizing life-years could lead to favoring the lives of the young and able, while disadvantaging those who are old and disabled. Please see [vulnerable populations below](https://docs.google.com/document/d/1eqtWy5fS_qd_e8jM58ii9wUr8_npHaVLPF-mHmqFvsg/edit#bookmark=id.lkprh7i1862w) for further discussion.
+
+Although the above ethical values and principles for medical resource allocation suggested by Persad et al. are well-known, there are others as well. Some advocate for the interrelated concepts of cost, opportunity costs, and cost effectiveness to be considered within the principles of allocation. Sheehan and Hope in Allocating Health Care Resources in the UK promote this approach. Because cost is a limiting factor in medical budgets, they argue that it is important to assess the opportunity costs of one approach to allocation versus another as funding one area means that another area will not receive it. As such, cost effectiveness can be an essential consideration in deciding where to direct medical resource allocation. This approach to cost effectiveness is also not solely limited to the hospital or medical center setting and applies to society more broadly - for instance, during an economic downturn, cost effectiveness is also used when deciding where stimulus money should be directed \(hospital vs. industry vs. directly to families\).
+
+_Thought Questions:_
+
+* If you were developing a system of allocation for your country, which principles would you weigh most heavily and/or least heavily and why?
+* What role should monetary cost have in guiding decisions within an allocation system?
+* What decisions \(societal, governmental, personal, etc\) have been made in the past that have now caused rationing to be necessary in the setting of scarcity?
+* Are there solutions that can solve the scarcity of medical resources besides rationing?
+
+**References:**
+
+* [Emanuel, Ezekiel J., et al. "Fair allocation of scarce medical resources in the time of Covid-19." \(2020\).](https://www.nejm.org/doi/full/10.1056/NEJMsb2005114)
+* [Persad, Govind, Alan Wertheimer, and Ezekiel J. Emanuel. "Principles for allocation of scarce medical interventions." The Lancet 373.9661 \(2009\): 423-431.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2809%2960137-9/fulltext)
+* NCCID. “Understanding Summary Measures Used to Estimate the Burden of Disease: All about HALYs, DALYs and QALYs”. \(2015\)
+* Sheehan, M., and T. Hope. "Allocating healthcare resources in the UK: putting principles into practice." Medicine and social justice: essays on the distribution of healthcare \(2002\): 219-230.
+* White, Douglas B., et al. "Who should receive life support during a public health emergency? Using ethical principles to improve allocation decisions." Annals of Internal Medicine 150.2 \(2009\): 132-138.
+
