@@ -6,7 +6,7 @@ This section provides an overview of the major schools of thought in Western eth
 
 ## Schools of Ethics from Western Philosophy
 
-Centuries of scholarship have resulted in a variety of frameworks for making ethical decisions.  Selected frameworks are introduced briefly below, notably biased toward Western ethical approaches from the Scottish and English enlightenment.  Please refer to linked resources for more details.
+Centuries of scholarship have resulted in a variety of frameworks for making ethical decisions.  Selected frameworks are introduced briefly below, notably biased toward Western ethical approaches from the Scottish and English enlightenment.  Please refer to linked resources for more details. Notable proponents of each of these schools are also listed in our supplemental section, located [here](https://docs.google.com/document/d/1knR5wday0HM4rb5ic2fV0qRpVIEgn-OGHk8Q8RCHcR0/edit?usp=sharing).
 
 Please note: Noting our Western bias in this discussion, we briefly highlight a select few of the many schools of ethical thought and philosophy that did not originate in Europe in our supplemental section, located [here](https://docs.google.com/document/d/1knR5wday0HM4rb5ic2fV0qRpVIEgn-OGHk8Q8RCHcR0/edit?usp=sharing).
 
