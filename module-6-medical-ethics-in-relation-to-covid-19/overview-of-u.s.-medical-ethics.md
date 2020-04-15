@@ -8,6 +8,8 @@ This section provides an overview of the major schools of thought in Western eth
 
 Centuries of scholarship have resulted in a variety of frameworks for making ethical decisions.  Selected frameworks are introduced briefly below, notably biased toward Western ethical approaches from the Scottish and English enlightenment.  Please refer to linked resources for more details.
 
+Please note: Noting our Western bias in this discussion, we briefly highlight a select few of the many schools of ethical thought and philosophy that did not originate in Europe in our supplemental section, located [here](https://docs.google.com/document/d/1knR5wday0HM4rb5ic2fV0qRpVIEgn-OGHk8Q8RCHcR0/edit?usp=sharing).
+
 Sources: [Dobrin 2012](https://www.psychologytoday.com/us/blog/am-i-right/201205/3-approaches-ethics-principles-outcomes-and-integrity), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/ethics/), [Barnhill 2010](https://www.uwosh.edu/facstaff/barnhill/490-docs/thinking/env-ethics), [Page Center](https://pagecentertraining.psu.edu/public-relations-ethics/introduction-to-public-relations-ethics/lesson-1/ethical-theories/)
 
 * **Consequentialism:** the idea that the morality of an act depends on its consequences.  To decide whether an act would be right or wrong, one should examine the possible results of the act and ask whether the good effects would outweigh the bad effects.  As consequentialist ethics is focused on the ends rather than the means, it is also known as teleological ethics \(from the Greek word telos, which means “end”\).  Two forms of consequentialism are utilitarianism and prioritarianism.
@@ -55,29 +57,6 @@ _Thought questions:_
 * How would you describe, in your own words, the difference between consequentialism and deontology?
 * What potential objections can be raised against moral relativism?  Against natural law theory?
 * In a recent article, [Emanuel et al.](https://www.nejm.org/doi/full/10.1056/NEJMsb2005114) argue that, in a situation of scarce resources, such as a limited number of ventilators during the COVID-19 pandemic, the limited resources should be allocated first to healthcare workers and other workers who maintain and operate critical infrastructure \(see “Recommendation 2”\).  Which ethical framework\(s\) do they use in arriving at this recommendation?
-
-## Non-Western Schools of Ethics
-
-Noting our Western bias in this discussion, we briefly highlight a select few of the many schools of ethical thought and philosophy that did not originate in Europe.  Please see the linked resources for further details.
-
-* **Confucianism:** founded by the Chinese philosopher Confucius ca. 500 B.C., this be described as a virtue ethic, in the sense that a virtue is an ideal character trait that people should strive to attain. \(However, there are important differences between Western virtue ethics described above and Confucianism; see [Stanford Encyclopedia of Philosophy - Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/) for details.\) In classic Confucianism, the junzi \(“ethical nobility” who represent the moral ideal\) have certain ideal characteristics, such as filiality \(respectful, loving, supportive way of relating to one’s parents\), respect for ritual or traditional ways of acting towards others, and good judgment of right or wrong actions. These “virtues” orient the junzi toward following the dao, or the way people should live. The source of the virtues is ren, which is difficult to translate, but which may be defined as the “co-humanity” or “humaneness” between human individuals. Confucianism emphasizes the performance of ritual behaviors or customs \(li\) in the attainment of, or as a reflection of the inner presence of, ren.
-
-  Notable proponents: Confucius, Zhu Xi \(neo-Confucianism\)
-
-  Sources: [Stanford Encyclopedia of Philosophy - Comparative Philosophy](https://plato.stanford.edu/entries/comparphil-chiwes/#3), [Stanford Encyclopedia of Philosophy - Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/), [Asia Society](https://asiasociety.org/education/confucianism), [Duke Center for Comparative Philosophy](https://sites.duke.edu/centerforcomparativephilosophy/2016/09/01/neglected-virtue-1-filiality-why-not-be-a-good-child-sungwoo-um-duke-university/), [Internet Encyclopedia of Philosophy - Confucius](https://www.iep.utm.edu/confuciu/), [Internet Encyclopedia of Philosophy - Neo-Confucian Philosophy](https://www.iep.utm.edu/neo-conf/)
-
-* **Daoism:** an alternative or complement to Confucianism throughout Chinese history, and its formulations have varied over time. The dao, or “way,” is the center of this philosophical framework. Dao can be imperfectly described as the central force in nature that is behind the way things change and function. The dao of nature is a road, a path, or a guide for people; it acts as a normative guide for people’s behavior. People should live in accordance with the dao by practicing wu’wei - acting in a way that conforms to nature’s ebbs and flows.
-
-  Notable proponents: Laozi, Zhuangzi  
-  Sources: [Stanford Encyclopedia of Philosophy - Comparative Philosophy](https://plato.stanford.edu/entries/comparphil-chiwes/#3), [Stanford Encyclopedia of Philosophy - Daoism](https://plato.stanford.edu/entries/daoism/), [Asia Society](https://asiasociety.org/education/daoism), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/daoism/)
-
-* **Buddhism:** Buddhists believe that people must strip away the contrived perception of reality created by thoughts and emotions in order to see the world as it is. Buddhist ethics is perhaps most well-known for the rule of karma, the foundational principle that a good action leads to a good result, and a bad action leads to a bad result, either in this life or in reincarnated lives. However, Buddhism is not focused only on the consequences of actions; it also places a heavy emphasis on good intention or internal motivation as a necessary condition for a good action. Early Buddhism includes three parts of ethical training \(right speech, right action, and right livelihood\) as part of the core principles known as the eightfold noble path. Practical guides for Buddhist ethics include the Five Precepts \(do not kill other living beings, do not steal, do not perform sexual misdeeds, do not speak untruthfully, and do not become intoxicated\) and the Ten Good Courses of Action \(seven actions - do not kill, steal, commit sexual misdeeds, lie, speak divisively, speak harshly, or make idle talk - and three mental states - do not be greedy, spiteful, or ignorant\).
-
-  Notable proponents: Buddha \(Siddhartha Gautama\)
-
-  Sources: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-indian-buddhism/), [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/buddha/#H5), [The Buddhist Centre](https://thebuddhistcentre.com/text/ethics), [The Buddhist Society](https://www.thebuddhistsociety.org/page/kamma-actions-and-results)
-
-* **Other schools of ethics:** Due to space limitations, we have omitted the rich traditions of [Islamic](https://iis.ac.uk/islamic-ethics) [ethics](https://www.tandfonline.com/doi/abs/10.1080/0305724970260403), [Hindu ethics](https://www.iep.utm.edu/hindu-ph/), [Jain ethics](https://www.iep.utm.edu/jain/#H3), [Jewish ethics](https://www.myjewishlearning.com/article/jewish-ethics-some-basic-concepts-and-ideas/), [African ethics](https://plato.stanford.edu/entries/african-ethics/), [Latin](https://www.iep.utm.edu/latin-am/) [American](https://plato.stanford.edu/entries/latin-american-philosophy/) [ethics](https://repository.globethics.net/handle/20.500.12424/36), and many others.
 
 ## Basic Principles of Medical Ethics
 
