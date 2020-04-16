@@ -16,7 +16,7 @@ Evaluate how the emerging understanding of COVID-19 pathophysiology translates t
 
 Introduce epidemiological principles underlying the current public health interventions regarding COVID-19, and evaluate how these interventions could influence the impact of the pandemic.
 
-[**Module 3: Current Situation and Healthcare Response in the United States**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response)\*\*\*\*
+[**Module 3: Current Situation: Research Efforts, Policy Changes, and Health Disparities in the United States**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response)\*\*\*\*
 
 Appreciate the complex and rapidly changing landscape of the COVID-19 pandemic as it stands in the United States, as well as the adapting responses of the healthcare system and society as a whole.
 
