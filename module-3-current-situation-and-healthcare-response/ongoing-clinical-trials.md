@@ -6,13 +6,13 @@
 
 **There is currently no controlled clinical data supporting the efficacy of any agent for the treatment of COVID-19.** Therefore, current treatment recommendations by the WHO and the CDC comprise optimal supportive care only. Both organizations state that investigational agents should only be administered in the context of ethically-approved clinical trials or under the Monitored Emergency Use of Unregistered Interventions \(MEURI\) framework \(known as “compassionate use”\).
 
-[Module 1: Investigational Therapeutics](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-1-from-bench-to-bedside/investigational-therapeutics-and-vaccine-development) provides background information and prior data on some of the most prominent antiviral agents currently being investigated for repurposing including chloroquine, hydroxychloroquine, remdesivir, lopinavir/ritonavir, and tocilizumab.
+[Module 1: Investigational Therapeutics](https://docs.google.com/document/d/1gjUuqTLi7xqMVzgWeYAFulmaIiKzhYY89PVOJJVvlNo/edit#) provides background information and prior data on some of the most prominent antiviral agents currently being investigated for repurposing, including chloroquine, hydroxychloroquine, remdesivir, lopinavir/ritonavir, tocilizumab, and favipiravir.
 
 Here, we will outline recent reports and ongoing trials. A registry of clinical trials ongoing globally can be found on the [WHO International Clinical Trials Platform](http://apps.who.int/trialsearch/AdvSearch.aspx?SearchTermStat=117&ReturnUrl=~%2fListBy.aspx%3fTypeListing%3d0).
 
 ### Recent data supporting repurposed drug candidates for COVID-19
 
-#### **Chloroquine and Hydroxychloroquine**
+#### **1. Chloroquine and Hydroxychloroquine**
 
  Widely used anti-malarial + anti-inflammatory drugs 
 
@@ -20,7 +20,7 @@ _Recent Findings_:
 
 * February 2020: Gao et al. report that in a series of “more than 100 patients” in 10 hospitals across China, “chloroquine phosphate is superior to the control treatment in inhibiting the exacerbation of pneumonia, improving lung imaging findings, promoting a virus-negative conversion, and shortening the disease course” \([Gao et al., BioScience Trends 2020](https://www.jstage.jst.go.jp/article/bst/14/1/14_2020.01047/_article)\). However, no clinical data has been provided, nor information on whether the study protocols were similar across the 10 hospitals.  
 * March 2020: Yao et al. determine that both chloroquine and hydroxychloroquine inhibit SARS-CoV-2 in vitro, with hydroxychloroquine more potent than chloroquine \([Yao et al., Clin Inf Dis 2020](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa237/5801998)\). 
-* March 2020: French researchers report a significant decrease in viral load by nasal swab after treatment with hydroxychloroquine in 36 patients \([Gautret et al. 2020](http://www.mediterranee-infection.com/wp-content/uploads/2020/03/Hydroxychloroquine_final_DOI_IJAA.pdf)\), however, no clinical outcomes, such as mortality, were reported. 
+* March 2020: French researchers report a significant decrease in viral load by nasal swab after treatment with hydroxychloroquine in 36 patients \([Gautret et al. 2020](http://www.mediterranee-infection.com/wp-content/uploads/2020/03/Hydroxychloroquine_final_DOI_IJAA.pdf)\), however, no clinical outcomes, such as mortality, were reported, and methodological issues have [cast doubt](https://www.isac.world/news-and-publications/official-isac-statement) on the study’s results.  
 * March 2020: The FDA issues an emergency use authorization \(EUA\) for hydroxychloroquine and chloroquine. EUAs are issued when the FDA determines that the known and potential benefits of a drug outweigh the known and potential risks of the product and that there are no alternatives available. This allows physicians to prescribe these drugs for hospitalized patients when appropriate \(and outside of a clinical trial\), but it does not mean that the drugs have demonstrated efficacy through clinical testing. Caution regarding drug toxicity \(particularly QTc prolongation and cardiomyopathy\) is advised by the [American College of Cardiology](https://www.acc.org/latest-in-cardiology/articles/2020/03/27/14/00/ventricular-arrhythmia-risk-due-to-hydroxychloroquine-azithromycin-treatment-for-covid-19). 
 * March 2020: Chen et al. publish a study from Wuhan, China, of 62 patients with mild COVID-19 pneumonia and no hypoxia, reporting that patients receiving hydroxychloroquine had faster time to improvement in symptoms \(fever, cough\) and chest imaging findings than those treated with standard of care \([Chen et al. medRxiv 2020](https://www.medrxiv.org/content/10.1101/2020.03.22.20040758v2.full.pdf)\). 
 * April 2020: Controversy over the use of hydroxychloroquine/chloroquine without solid clinical data and the concern about side effects leads hospitals in some countries, such as Sweden, to discontinue use pending further results \([NYTimes April 2020](https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html)\). See a discussion of the ethics of utilizing treatment authorized under EUA in [Module 6](https://curriculum.covidstudentresponse.org/module-6-medical-ethics-in-relation-to-covid-19/clinical-trials-research-and-treatments).
@@ -35,7 +35,7 @@ _Implications_: Hydroxychloroquine is a widely available drug, whereas chloroqui
 
 _Future Questions_: Interim trial results of ongoing trials will provide important information on efficacy.
 
-#### **Remdesivir**
+#### **2. Remdesivir**
 
 Nucleotide analog developed for Ebola and Marburg \(dropped for clinical inferiority \[[Mulangu et al. 2019](https://www.nejm.org/doi/full/10.1056/NEJMoa1910993?utm_source=The+Scope&utm_campaign=726e5321e8-Weekly_Scope_Jan_12_2018_COPY_01&utm_medium=email&utm_term=0_809ad7d22b-726e5321e8-180799253)\] but has an established safety profile\). 
 
@@ -43,6 +43,7 @@ _Recent Findings:_
 
 * February 2020: Wang et al. demonstrated that remdesivir possesses antiviral activity against SARS-CoV-2 in vitro \([Wang et al., Nature 2020](https://www.nature.com/articles/s41422-020-0282-0)\). 
 * March 2020: Holshue et al. describe a case report of the ‘compassionate use’ of remdesivir in one of the first patients in the United States, who had clinical improvement after critical illness \([Holsue et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191)\).
+* April 2020: multicenter case series of the compassionate use of remdesivir for up to 10 days in 53 patients with severe COVID-19 and hypoxia- 68% had clinical improvement \(discharge or decreased requirement for oxygen support\) and 13% died. Out of the 30 intubated patients, 57% \(17 patients\) were extubated. Elevated liver enzymes were the most frequently reported adverse event, at 23% \([Grein et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016)\).  
 
 _Ongoing Clinical Trials:_ 
 
@@ -58,7 +59,7 @@ _Future Questions:_
 2. Is remdesivir most efficacious for mild, moderate, or severe disease? Trials underway are recruiting patients based on disease severity. 
 3. Given the mechanism of action of remdesivir, why is it considered to be so promising? 
 
-#### **Lopinavir/Ritonavir** 
+#### **3. Lopinavir/Ritonavir** 
 
 HIV Protease inhibitor 
 
@@ -74,7 +75,7 @@ _Ongoing Clinical Trials:_
 
 _Future Questions:_ Whether these drugs alone or in combination have an effect on COVID-19 remains to be determined and is currently being investigated with larger sample sizes in clinical trials.
 
-#### **IL-6 Inhibition**
+#### **4. IL-6 Inhibition**
 
 Humanized monoclonal antibodies against the interleukin-6 receptor, including tocilizumab, ****sarilumab, and siltuximab. 
 
@@ -88,6 +89,18 @@ _Ongoing Clinical Trials_:
 
 _Future Questions:_ High levels of IL-6 appear to correlate with disease severity \([Liu et al., bioRxiv preprint, 2020](https://www.medrxiv.org/content/10.1101/2020.03.01.20029769v2)\). More studies need to be conducted to explore this relationship. Does this mean that IL-6 is causing harm?
 
+#### **5. Favipiravir** 
+
+RNA polymerase inhibitor available in some Asian countries for the treatment of influenza 
+
+_Recent Findings:_
+
+* March 2020: An official at the Chinese Ministry of Science and Technology announces that in clinical trials of 340 patients in Wuhan and Shenzhen, viral clearance occurred at a median of 4 days as opposed to the 11 days of the control patients \(trial data unpublished, [Wired 2020](https://www.wired.com/story/japan-is-racing-to-test-a-drug-to-treat-covid-19/)\). 
+
+_Ongoing Clinical Trials:_
+
+* April 2020: [An ongoing study in China](https://clinicaltrials.gov/ct2/show/NCT04310228?term=favipiravir&cond=COVID&draw=2&rank=3) is investigating favipiravir in combination with tocilizumab. Favipiravir will first be trialed in the United States at three Massachusetts hospitals in approximately 50 patients \([Wbur 2020](https://www.wbur.org/commonhealth/2020/04/09/coronavirus-antiviral-treatment-trial-fujifilm-avigan)\).
+
 ### Antibody treatments
 
 These treatments are based on the idea that immunity can be transferred from one person to another by providing an antibody developed in someone \(or an animal\) previously exposed to the SARS-CoV-2 virus or a virus similar to SARS-CoV-2 to a previously unexposed \(and thus unprotected immunologically\) to the virus. Different approaches are currently being used \([A detailed guide to the coronavirus drugs and vaccines in development](https://www.statnews.com/2020/03/02/coronavirus-drugs-and-vaccines-in-development/)\):
@@ -98,6 +111,7 @@ These treatments are based on the idea that immunity can be transferred from one
 _Recent Findings:_ 
 
 * March 2020: The FDA [temporarily authorized](https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exemption-ide-process-cber/investigational-covid-19-convalescent-plasma-emergency-inds) the use of convalescent plasma \(transfusion of plasma from recovered COVID-19 patients to those who are severely ill, see details in [Module 1: Passive Antibody Transfer](https://docs.google.com/document/d/1gjUuqTLi7xqMVzgWeYAFulmaIiKzhYY89PVOJJVvlNo/preview#heading=h.q4zelof2m8jm)\) through the emergency Investigational New Drug Applications \(eINDs\) exemption. This allows for a case-by-case request to the FDA for treatment of life-threatening cases while clinical trials for convalescent plasma begin under the traditional IND pathway. No formal clinical trial data exists yet for COVID-19, but a preprint pilot study in 10 severely ill patients performed in China revealed that transfusion was well tolerated and that, in 7 out of 10 patients, viral load became undetectable one week after treatment \([Duan et al;, preprint medRxIV 2020](https://www.medrxiv.org/content/10.1101/2020.03.16.20036145v1)\). Another case-series study in China demonstrated improvement in five patients with severe COVID-19 after treatment with convalescent plasma \([Shen et al. JAMA 2020](https://jamanetwork.com/journals/jama/fullarticle/2763983)\). Importantly, this study has several limitations: there was no control arm and patients also received other antiviral treatments.
+* April 2020: The American Red Cross is helping to find appropriate donors and distribute convalescent plasma across the United States \([FDA News Release 2020](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-coordinates-national-effort-develop-blood-related-therapies-covid-19)\). 
 
 ## Vaccines
 
