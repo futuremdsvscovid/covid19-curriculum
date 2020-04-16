@@ -18,7 +18,7 @@ Introduce epidemiological principles underlying the current public health interv
 
 [**Module 3: Current Situation and Healthcare Response in the United States**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-3-current-situation-and-healthcare-response)\*\*\*\*
 
-Appreciate the complex and rapidly changing landscape of the COVID-19 pandemic as it stands in Massachusetts, as well as the adapting responses of the healthcare system and society as a whole.
+Appreciate the complex and rapidly changing landscape of the COVID-19 pandemic as it stands in the United States, as well as the adapting responses of the healthcare system and society as a whole.
 
 \*\*\*\*[**Module 4: Communicating Information about COVID-19**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-4-communicating-information-about-covid-19)
 
