@@ -1,6 +1,6 @@
 # Introduction to Epidemiological Terms
 
-## Descriptors of Disease Spread
+## Epidemic Parameters
 
 **Attack Rate/Ratio:** Refers to the \(number of new cases of disease\)/\(population at risk\) during a specified time interval. Generally, the time interval here is defined as “the duration of the outbreak.” \([CDC](https://www.cdc.gov/csels/dsepd/ss1978/glossary.html)\)
 
@@ -20,7 +20,13 @@ $$
 
 where X is the proportion of the population susceptible. Therefore, vaccination would decrease X and correspondingly the Re value. Additionally, as more people are infected with a virus, more individuals become immune to reinfection from the virus, and X decreases. When Re &lt; 1, the total number of infected persons declines, and the outbreak dies out. Re = 1 would keep numbers stable, and Re &gt; 1 would lead to continued growth in the numbers of infected persons. Re gives an idea of transmission over time and is useful for monitoring during an outbreak, as compared to R0, which is most useful in forecasting potential severity and spread at the start of an outbreak. \([CDC](https://wwwnc.cdc.gov/eid/article/25/1/17-1901_article), [Giesecke 2002](https://books.google.com/books/about/Modern_Infectious_Disease_Epidemiology_S.html?id=lHSBQgAACAAJ)\)
 
+**Doubling time:** The period of time required for the number of infected individuals in a population to double. \([Vynnycky and White, 2010](http://anintroductiontoinfectiousdiseasemodelling.com/)\)
+
 **Epidemic curve:** A graph of cases vs. time. Most graphs being used in articles are examples of this type of curve. Epidemic curves may be presented as the cumulative number of cases or number of new cases over time, the latter being more commonly used. It can be used to make predictions about how well interventions are working and compare across different communities. Like any graph or curve, it is only as reliable as the data it is based on. \([CDC](https://www.cdc.gov/training/quicklearns/createepi/index.html)\)
+
+**Community transmission:** Refers to transmission occurring between people within the same community. This phenomenon is separate from people acquiring the infection while traveling or due to close contact with someone who visited an area with the infection as it implies that there are unknown cases spreading the infection locally. \([CDC](https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf)\)
+
+## Case Descriptors
 
 **Incubation period:** The period of time between exposure to a pathogen and onset of first _symptoms_. \([CDC](https://www.cdc.gov/training/QuickLearns/exposure/2.html)\)
 
@@ -30,11 +36,11 @@ where X is the proportion of the population susceptible. Therefore, vaccination 
 
 ![Adapted from Giesecke, J. Modern Infectious Disease Epidemiology. 2002.](https://lh6.googleusercontent.com/JuXtFn-a7Bq8rz5QTO0taFwFNFbHKmHSDGwUm4ZWQu5OBytoraQTTQ_BwHOEp9x7lA5ePxJl5FwD7tY0TmHg3vCoozyQ7qj7eZkBmmMmYBuoDaSNIEwT9HsU3fsodKfUIaCLp3Wr)
 
-**Community transmission:** Refers to transmission occurring between people within the same community. This phenomenon is separate from people acquiring the infection while traveling or due to close contact with someone who visited an area with the infection as it implies that there are unknown cases spreading the infection locally. \([CDC](https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf)\)
+\*\*\*\*
 
 ## Non-Pharmaceutical Interventions
 
-### Containment
+### Containment and Suppression
 
 **Contact tracing:** An intervention in which close contacts of known cases are traced, notified of their potential exposure, and encouraged to self-quarantine. Relies on speedy testing and significant effort for each case.
 
