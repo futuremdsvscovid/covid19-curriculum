@@ -9,16 +9,16 @@ Important [definitions](https://www.cdc.gov/coronavirus/2019-ncov/php/reporting-
 
 ## Latest number of cases \(updated frequently\)
 
-Mass. Department of Health COVID-19 cases as of **4/8/20** \(reporting from [boston.gov](https://www.boston.gov/news/coronavirus-disease-covid-19-boston)\):
+Mass. Department of Health COVID-19 cases as of **4/13/20** \(reporting from [boston.gov](https://www.boston.gov/news/coronavirus-disease-covid-19-boston)\):
 
-* Massachusetts:  **16,790**
-* Boston:  **2,502**
+* Massachusetts: **26,867**
+* Boston: **4,086**
 
-Mass. residents subject to COVID-19 quarantine by current status as of **4/7/20 at 5 PM** \(reporting from [mass.gov](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring)\)
+Mass. residents subject to COVID-19 quarantine by current status as of **4/14/20 at 5 PM** \(reporting from [mass.gov](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring)\)
 
-* Total number of individuals subject to quarantine: **13,027**
-* Total number of individuals who have completed monitoring \(no longer in quarantine\): **5,402**
-* Total of individuals currently undergoing monitoring/under quarantine: **7,625**
+* Total number of individuals subject to quarantine: **17,650**
+* Total number of individuals who have completed monitoring \(no longer in quarantine\): **8,118**
+* Total number of individuals currently undergoing monitoring/under quarantine: **9,487**
 
 {% embed url="https://e.infogram.com/91521873-76da-44fe-9047-f19eeaedac6d?src=embed" %}
 
@@ -47,33 +47,35 @@ Boston:
 
 ## **Latest Announcements in Massachusetts**
 
-**As of April 7, 2020**: Governor Charlie Baker has enacted a number of policies aimed at reducing the spread of COVID-19 and protecting the public. The following announcements were issued this week:
+As of **April 14, 2020**: Governor Charlie Baker has enacted a number of policies aimed at reducing the spread of COVID-19 and protecting the public. The following announcements were issued this week:
 
-1. Governor Charlie Baker announced the COVID-19 Community Tracing Collaborative \(CTC\) with Partners in Health.  Public health officials will focus on tracing the contacts of patients who are confirmed positive for COVID-19 and support individuals in quarantine. 
-2. Governor Charlie Baker ordered all coastal beach reservation parking areas to close at noon on Friday, April 3.  State beaches will remain open to pedestrians for transitory use \(such as walking, jogging, or biking\).  
-3. An $800 million financial package to support health care providers during the COVID-19 crisis was announced. This package is in addition to the $290 million in immediate cash relief and $550 million in accelerated payments previously announced. 
+1. The Boston Convention and Exhibition Center will be used as a Field Medical Station with 1,000 beds for patients with COVID-19. These clinical efforts will be led by Partners Health Care and Boston Health Care for the Homeless. 
+2. Insurers have been mandated to cover all medically required costs of COVID-19 treatment in out-of-network hospitals or other medical facilities with no charge to the patient.
+3. The Massachusetts Department of Public Health is now recommending that all residents wear a mask or face covering in public when social distancing is not possible \(consistent with CDC guidance\). Face coverings include masks, scarves, or bandanas. Healthcare masks should not be used and should be preserved for healthcare workers. 
+
+Ongoing policies for the **state of Massachusetts** are summarized below \(in reverse chronological order\): 
+
+1. Creation of the COVID-19 Community Tracing Collaborative \(CTC\) with Partners in Health.  Public health officials will focus on tracing the contacts of patients who are confirmed positive for COVID-19 and support individuals in quarantine. 
+2. All coastal beach reservation parking areas were closed at noon on Friday, April 3.  State beaches remain open to pedestrians for transitory use \(such as walking, jogging, or biking\).  
+3. An $800 million financial package to support health care providers during the COVID-19 crisis. This package is in addition to the $290 million in immediate cash relief and $550 million in accelerated payments previously announced. 
    1. $415 million will be dedicated to acute care hospitals and will cover a four-month period through July 2020.
-   2. $300 million will be dedicated to other healthcare delivering medical care for COVID-19 or providing services that keep residents safe in their homes and out of the hospital.
-
-Ongoing policies for the state of Massachusetts are summarized below \(in reverse chronological order\): 
-
-1. Governor Charlie Baker requested that all Massachusetts medical schools graduate their fourth year medical students early.  UMass Medical School, Tufts School of Medicine, BU School of Medicine, and Harvard Medical School have [fulfilled this request](https://www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-medical-students-graduate-early-to-join-the-chaotic-response-to-covid-19.html), with further logistics pending, including [offering automatic, short-term licenses](https://www.wbur.org/news/2020/03/26/baker-massachusetts-coronavirus) to graduated students. The Board of Registration of Medicine will provide Emergency 90-Day Limited Licenses to graduating medical students who have matched at a Massachusetts healthcare facility.
-2. Governor Charlie Baker ordered that beginning March 27, all travelers arriving in Massachusetts are to self-quarantine for 14 days. Visitors with symptoms are instructed not to come to Massachusetts. Health care workers \(does NOT include students\) are exempt from this policy.
-3. Governor Charlie Baker issued an emergency order in the state of Massachusetts closing physical workspaces and facilities of employers that do not provide “COVID-19 essential services” from March 24 at noon to May 4 \(as of March 31; stay-at-home order extended from initial end date of April 7\). This order also includes:
+   2. $300 million will be dedicated to other healthcare providers delivering medical care for COVID-19 or providing services that keep residents safe in their homes and out of the hospital.
+4. All Massachusetts medical schools graduated their fourth year medical students early.  UMass Medical School, Tufts School of Medicine, BU School of Medicine, and Harvard Medical School [fulfilled this request](https://www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-medical-students-graduate-early-to-join-the-chaotic-response-to-covid-19.html). The Board of Registration of Medicine will provide Emergency 90-Day Limited Licenses to graduating medical students who have matched at a Massachusetts healthcare facility.
+5. Beginning March 27, all travelers arriving in Massachusetts are to self-quarantine for 14 days. Visitors with symptoms are instructed not to come to Massachusetts. Healthcare workers \(does NOT include students\) are exempt from this policy.
+6. An emergency order in the state of Massachusetts closing physical workspaces and facilities of employers that do not provide “COVID-19 essential services” from March 24 at noon to May 4 \(as of March 31; stay-at-home order extended from initial end date of April 7\). This order also includes:
    1. Exceptions for healthcare, public health, human services, law enforcement, public safety officials, food and agriculture \(includes groceries, take-out restaurants\), utilities/infrastructure, and other [“essential services”](https://www.mass.gov/info-details/covid-19-essential-services)
    2. A stay-at-home order, requesting residents avoid unnecessary travel and other activities while the two-week order is in effect, with the recommendation that high risk individuals limit social interactions
       1. The order does not require that residents stay confined in their homes during this time
    3. Gatherings limited to a maximum of 10 people
    4. Closure of Boston city playgrounds, public libraries, and centers for youth and families
-4. Elementary and secondary schools \(public and private\) are suspended from March 17 through May 4. The Department of Elementary and Secondary Education is recommending development of remote learning materials. 
-5. On-premises consumption of food or drink at restaurants and bars is prohibited.
-6. Hospitals are now restricting all visitors. 
-7. Assisted living facilities and nursing homes are required to restrict all visitors.
-8. Pharmacies are mandated to provide at least 1 hour of shopping for seniors over the age of 60 per day. 
-9. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment, though the level of reimbursement is not consistent, and phone calls are reimbursed at a significantly lower rate.
-10. The Department of Housing and Community Development is recommending suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
+7. Elementary and secondary schools \(public and private\) are suspended from March 17 through May 4. The Department of Elementary and Secondary Education is recommending development of remote learning materials. 
+8. On-premises consumption of food or drink at restaurants and bars is prohibited.
+9. Hospitals, assisted living facilities, and nursing homes are required to restrict all visitors.
+10. Pharmacies are mandated to provide at least one hour of shopping per day for seniors over the age of 60. 
+11. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment, though the level of reimbursement is not consistent, and phone calls are reimbursed at a significantly lower rate.
+12. The Department of Housing and Community Development recommended suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
 
-**As of April 6, 2020**: Mayor Walsh has enacted policies aimed at reducing the spread of COVID-19 within the city of Boston. A complete list of announcements can be found [here](https://www.boston.gov/news/coronavirus-disease-covid-19-boston).  Of note:
+As of **April 6, 2020**: Mayor Walsh has enacted policies aimed at reducing the spread of COVID-19 within the **city of Boston**. A complete list of announcements can be found [here](https://www.boston.gov/news/coronavirus-disease-covid-19-boston).  Of note:
 
 1. The Walsh administration recommends everyone wear a face covering when in public. 
 2. The Walsh administration advises all Boston residents to stay at home from 9 p.m. to 6 a.m. \(essential workers are exempt from this advisory\).
