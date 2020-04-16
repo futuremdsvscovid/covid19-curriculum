@@ -5,7 +5,7 @@ description: >-
   healthcare system and society as a whole.
 ---
 
-# Module 3: Current Situation and Healthcare Response in the United States
+# Module 3: Current Situation: Research Efforts, Policy Changes, and Health Disparities in the U.S.
 
 _Student Authors:_  Stephanie Alden, Pamela Chen, Michael Fuchs, Nicole Gilette, Ashwini Joshi, Yuzhong Jeff Meng, Hemen Muleta, Katherine Nabel, Fejiro Okifo, Hema Pingali, Simone Sasse, Morgan Sehdev, Katie Shaffer, Allen Zhou
 
