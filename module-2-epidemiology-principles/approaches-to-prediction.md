@@ -29,7 +29,7 @@ Without a vaccine, the majority of people in the entire world will eventually be
 
 In the worst case scenario, if we do nothing to change the disease doubling rate, the CDC estimates up to 214 million cumulative infections \(⅔ of the American population\), and 1.7 million deaths \(assuming 1-2% case fatality rate\) in the United States in the coming months \([NYTimes 3.13.20](https://www.nytimes.com/2020/03/13/us/coronavirus-deaths-estimate.html)\).
 
-## How Social Distancing Could Impact Spread
+## How Social Distancing Could Impact Spread in the Short Term
 
 Our main strategy to stop these outcomes is **mitigation**: we cannot stop transmission completely, but we can reduce the pandemic’s impact on the healthcare system. ****
 
@@ -37,7 +37,7 @@ Our main strategy to stop these outcomes is **mitigation**: we cannot stop trans
 
 Supplementary material: a [tunable model](https://art-bd.shinyapps.io/nCov_control/) that allows the user to change model parameters to visualize how they could affect virus spread.
 
-There is a lot to be hopeful for. Regions that implement these mitigating interventions, which use social distancing to slow down and reduce the spread of the virus, may reduce the Re. If we can reduce the Re by half \(from 2-3 new cases per infected person to ~1.2 per case\), then ****the doubling time will be ****4 times longer.
+There is a lot to be hopeful for. Regions that implement these mitigating interventions, which use social distancing to slow down and reduce the spread of the virus, may reduce the Re. If we can reduce the Re by half \(from 2-3 new cases per infected person to ~1.2 per case\), then ****the doubling time will be ****4 times longer. Indeed, we are already seeing these effects in the U.S. Siedner et al. \([medRxiv, 4.8.2020](https://www.medrxiv.org/content/10.1101/2020.04.03.20052373v1)\) calculated the daily epidemic growth rate by confirmed cases in all 50 U.S. states, before and after each state implemented its first mandatory social distancing measure in mid-late March. On the 4th day after implementation -- consistent with viral incubation period -- the mean daily COVID-19 growth rate dropped 0.8%, which corresponds to an increase of average doubling time from 3.3 days to 5 days nationwide.
 
 The key take-away is that social distancing measures will have a profound effect in delaying the “peak” in the number of critical COVID-19 cases in the US. We buy the healthcare system valuable time to get ready for this crisis by increasing the personal protective equipment, beds, ventilators, and healthcare workers available to care for those critically ill from the virus and from causes other than the virus, decreasing overall mortality. This is why social distancing is critical.
 
@@ -47,7 +47,7 @@ Simulations show that slowing disease spread by a couple of months will dramatic
 
 In the figure above, each line describes the number of simulated COVID-19 cases under different assumptions about the total number of infected cases needed to establish herd immunity \(20, 40, or 60%\) and the success of social distancing. Successful social distancing is simulated, "flattening the curve," such that the spread of the virus lasts 6, 12, or 18 months respectively. Full [simulation](https://www.nytimes.com/interactive/2020/03/17/upshot/hospital-bed-shortages-coronavirus.html?auth=login-google) linked here.
 
-Actually implementing social distancing requires fundamentally changing our habits and daily routines. Though many households across the country have adopted social distancing measures, many are not yet there**. The brief article below makes these recommendations concrete and clear, including reducing all public gatherings of** _**any**_ **size, ceasing visits to others’ homes, and limiting trips.** We recommend reading it if you haven’t already and sharing it with friends and family.
+Actually implementing social distancing requires fundamentally changing our habits and daily routines. Though all 50 states have adopted some form of social distancing measure as of March 27th, adherence varies city to city and even household to household. **The brief article below makes these recommendations concrete and clear, including reducing all public gatherings of any size, ceasing visits to others’ homes, and limiting trips.** We recommend reading it if you haven’t already, and sharing it with friends and family.
 
 **CORE TEXT:** [**Bitton, A. Social Distancing: This Is Not a Snow Day**](https://www.ariadnelabs.org/resources/articles/news/social-distancing-this-is-not-a-snow-day/)**, Ariadne Labs, 3.13.20**
 
