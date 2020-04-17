@@ -147,8 +147,27 @@ A collection of case reports and/or series of cases from patients with SARS-CoV 
         </p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><b>&#x3B2;-D-N4-hydroxycytidine (NHC, EIDD-2801)</b>
+      </td>
+      <td style="text-align:left">Investigational drug, not presently in use</td>
+      <td style="text-align:left">Nucleoside analog; induces <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5774879/">lethal viral mutagenesis</a>,
+        a process by which virions have a high mutation burden that impairs replication</td>
+      <td
+      style="text-align:left">
+        <p>Dose dependent antiviral activity against MERS-Cov and SARS-CoV-2 in human
+          lung epithelial cell line and against SARS-CoV-2, MERS-CoV and SARS-CoV
+          in primary human airway epithelial cells with no indication of cytotoxicity
+          <a
+          href="https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883">(Sheahan et al., Sci Trans Med 2020)</a>.</p>
+        <p>
+          <br />EIDD-2801 reduces viral loads, prevents body weight loss and decreases
+          lung hemorrhage in SARS-CoV infected mice, although the extent of benefit
+          is dependent on time post infection that therapeutic dose is given <a href="https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883">(Sheahan et al., Sci Trans Med 2020)</a>.</p>
+        </td>
+    </tr>
   </tbody>
-</table>## Passive Antibody Transfer
+</table>### Passive antibody transfer
 
 The role of our immune system is to develop “memory” against foreign pathogens so that once exposed a second time to said pathogens, neutralizing antibodies are used to quickly eradicate an impending infection. With this understanding, physicians and scientists have long argued that the transfusion of human convalescent sera \(that which contains neutralizing antibodies from a recovered patient\) could treat infection or be administered prophylactically to inhibit systemic infection [\(Casadevall and Scharff 1995\)](https://paperpile.com/c/Z2EDp3/bWhy). In general, passive antibody transfer tends to be more effective for prophylaxis than for treating systemic infection, and therefore should be given shortly after symptom onset. While we don’t fully understand why temporality of administration affects efficacy, it is thought that smaller inoculums may be more manageable for neutralization than systemic infection or that the transferred antibodies modulate the receiver’s inflammatory response which is more easily done at earlier stages of infection. 
 
@@ -161,7 +180,7 @@ Influenza: [Luke et al. 2006; Hung et al. 2011](https://paperpile.com/c/Z2EDp3/a
 
 ![Graphical representation from Casadevall and Pirofski 2020 of a potential convalescent sera therapy protocol in COVID-19. Serum collected from recovered COVID-19 patients that have high titers of neutralizing antibody would be administered prophylactically to high-risk individuals \(elderly, patients with comorbid conditions, health care workers or individuals with known exposure\) or to patients with severe disease to dampen severity of symptoms and mortality.](https://lh6.googleusercontent.com/f-44zUin8uqllms16B82k4n_UNpR1T-bYSKpgAcYHFwP864MbeJiXgnXwElpRYUtScnrazTGj-kfLQD2kwO1PFzvUNle3CBMoqf62voKYNV1fP_6pOUV43vr11LKjcL1oIqirsGg)
 
-There is indeed a historical grounding for using passive antibody transfer in the treatment of related coronavirus infection. During the epidemics of SARS1 and MERS, high mortality and dearth of effective treatment options led to use of convalescent serum [\(Cheng et al. 2005\)](https://paperpile.com/c/Z2EDp3/lT6i). In terms of using this kind of therapy for treating COVID-19, evidence is still lacking, but there is a great deal of interest. A recent study reported that sera collected from confirmed positive SARS-CoV-2 patients have the ability to neutralize SARS-CoV-2 in an in vitro plaque assay [\(Zhou et al. 2020\)](https://paperpile.com/c/Z2EDp3/juss), which suggests this sera contains factors produced by a successfully mounted humoral response to SARS-CoV-2 antigens. There have been some reports that [convalescent plasma therapy has already begun](http://www.xinhuanet.com/english/2020-02/28/c_138828177.htm) [\(China puts 245 COVID-19 patients on c...\)](https://paperpile.com/c/Z2EDp3/m23B), but for the most recent updates on the investigation or approval of this therapy in COVID-19 see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#heading=h.ct1aplmkvshu).
+There is indeed a historical grounding for using passive antibody transfer in the treatment of related coronavirus infection. During the epidemics of SARS and MERS, high mortality and dearth of effective treatment options led to use of convalescent serum [\(Cheng et al. 2005\)](https://paperpile.com/c/Z2EDp3/lT6i). In terms of using this kind of therapy for treating COVID-19, evidence is still lacking, but there is a great deal of interest. A recent study reported that sera collected from confirmed positive SARS-CoV-2 patients have the ability to neutralize SARS-CoV-2 in an in vitro plaque assay [\(Zhou et al. 2020\)](https://paperpile.com/c/Z2EDp3/juss), which suggests this sera contains factors produced by a successfully mounted humoral response to SARS-CoV-2 antigens. There have been some reports that [convalescent plasma therapy has already begun](http://www.xinhuanet.com/english/2020-02/28/c_138828177.htm), but for the most recent updates on the investigation or approval of this therapy in COVID-19 see [Module 3](https://docs.google.com/document/d/1H8CifsQN01rCvN7JkeuX0YmxCC7BKxsF9JpC-j9HV0o/edit#heading=h.ct1aplmkvshu).
 
 ## Vaccine Development
 
@@ -171,7 +190,7 @@ _Thought Questions:_
 * How do we balance the need to quickly develop and distribute a vaccine vs. the ethical considerations of testing the vaccine to make sure it is safe and effective?
 * How will a potential vaccine be shared with the world, and who should receive the vaccine first in instances where there is a limited supply \(i.e. rationing\)?
 
-Vaccination holds the key to the effective prevention and potential eradication of various infectious diseases, and SARS-CoV-2 is no exception. Vaccines are used in healthy individuals to prevent the development of future illness, as well as to attenuate the duration and severity of symptoms in those who do develop illness in the future. Most sources are indicating that a COVID-19 vaccine will not be ready for public use until at least 1 year from now [\(MGH Grand Rounds 3/12/2020\)](https://paperpile.com/c/Z2EDp3/NODs).
+Vaccines are used in healthy individuals to prevent the development of future illness, as well as to attenuate the duration and severity of symptoms in those who do develop illness in the future. **Most sources are indicating that a COVID-19 vaccine will not be ready for public use until at least 1 year from now** [\(MGH Grand Rounds 3/12/2020\)](https://paperpile.com/c/Z2EDp3/NODs). For specific vaccine candidates under development, please see [Module 3](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials).
 
 Prior to a vaccine’s introduction on the market, scientists not only need to identify specific markers of the virus \(antigens\) to be incorporated into a vaccine used to stimulate the immune system, but will also need to undergo the entire clinical trial process to demonstrate that the vaccine is both safe and effective. \(Review:  [Vaccine Testing and Approval Process](https://www.cdc.gov/vaccines/basics/test-approve.html) [\(CDC\)](https://paperpile.com/c/Z2EDp3/H2Iw) and [video](https://youtu.be/ek3T8xiu1Fw) [\(CNBC](https://paperpile.com/c/Z2EDp3/32j0)\).
 
@@ -187,14 +206,6 @@ The vaccine development for SARS-CoV-2 has evolved at a rapid pace and likely ha
 ![Developed vaccines that have been in testing for SARS &amp; MERS Prompetchara et al. 2020 ](https://lh3.googleusercontent.com/5PyesN741nKuljvP9gwOMKDaRd1J8DRgmZWcKb_ac_fN0PGeu8pc86qO5r5ETcWK6GshxXb9e-z-5Wkze7LVUMBaoomy-fb06N6WIrj7vVFdyd9m1Nlu9r9JqywjSVpDA7jRODh9)
 
 Table: A few vaccine candidates for COVID-19. For a more comprehensive list, see [Lurie et. al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2005630) and [WHO](https://www.who.int/blueprint/priority-diseases/key-action/novel-coronavirus-landscape-ncov.pdf?ua=1).
-
-| Developer | Vaccine platform | Platform licensed | Phase |
-| :--- | :--- | :--- | :--- |
-| [Moderna](https://www.modernatx.com/modernas-work-potential-vaccine-against-covid-19) | mRNA | No | [Phase I](https://clinicaltrials.gov/ct2/show/NCT04283461) |
-| [CanSino Biological Inc.](https://www.marketscreener.com/CANSINO-BIOLOGICS-INC-59318312/news/CanSino-Biologics-China-announces-first-human-trials-of-Covid-19-vaccine-30183232/) | Nonreplicating adenovirus type 5 vector | No | [Phase I](http://www.chictr.org.cn/showprojen.aspx?proj=51154) |
-| [Inovio Pharmaceuticals](http://ir.inovio.com/news-and-media/news/press-release-details/2020/INOVIO-Initiates-Phase-1-Clinical-Trial-Of-Its-COVID-19-Vaccine-and-Plans-First-Dose-Today/default.aspx) | DNA  | No | Phase I |
-| [Johnson & Johnson \(Janssen\)](https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use) | Nonreplicating Ad26 viral vector | No | Preclinical |
-| [University of Pittsburgh](https://www.upmc.com/media/news/040220-falo-gambotto-sars-cov2-vaccine) | Recombinant spike protein, delivered by skin patch | No | [Preclinical](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964%2820%2930118-3/fulltext) |
 
 **Whole pathogen vaccines** require the pathogen to be grown in the laboratory, where they can then either be killed with chemicals, heat, or radiation \(to make a killed/inactivated vaccine\) or weakened \(to make a live attenuated vaccine\), and then incorporated into the vaccine. Another approach is to incorporate part of the pathogen of interest’s genetic material into that of a harmless pathogen to create a “chimeric pathogen” that can be used to stimulate the immune system.
 
