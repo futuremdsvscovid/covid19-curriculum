@@ -15,6 +15,7 @@ While we are not able to cover every state, we’ve highlighted a few here that 
 * Kaiser Family Foundation: [State Data and Policy Actions to Address Coronavirus](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/)
 * National Conference of State Legislatures: [State Action on Coronavirus](https://www.ncsl.org/research/health/state-action-on-coronavirus-covid-19.aspx)
 * Institute for Health Metrics and Evaluation: [COVID-19 Projections](https://covid19.healthdata.org/united-states-of-america)
+* Johns Hopkins University Website - County Level Data on Health Infrastructure and COVID-19 Cases: [https://coronavirus.jhu.edu/us-map](https://coronavirus.jhu.edu/us-map)
 
 ## **Thought Questions for Understanding Your Own State’s Response**
 

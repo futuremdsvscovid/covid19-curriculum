@@ -40,7 +40,7 @@ Using aggressive testing and contact tracing measures, SK had been controlling C
 
 Unlike China, SK has not implemented domestic travel bans and did not immediately ban travel from China at the beginning of the outbreak. Instead of a lockdown, South Korea has focused on engaging the public to practice social distancing in addition to cancelling large events, school openings and religious gatherings. While the number of new cases have decreased consistently, there are still clusters of new cases reported. These [clusters](https://www.ijidonline.com/article/S1201-9712%2820%2930150-8/fulltext) have been attributed to large gatherings in confined rooms such as churches, call-centers \(where large groups of people work in close proximity without wearing masks so they can speak clearly on the phone\), internet cafes, hospitals, and gym facilities.
 
-## Current Situation in South Korea
+## Situation in South Korea as of 4.16.20
 
 ![Green bars: number of new cases per day; Blue curve: cumulative cases.](https://lh3.googleusercontent.com/PeB47-sDkmreDSi3wvuFAlV9EsEPzkZVHxjmfZhaOtUvAkk6l76bYR5KarY8kBZmPtLXC3BwW7MO_5msOJ00uzr4wnMPYeEOQT4GRuSo1YcdCOPdw76bcEZ00TrBwkpEMLV67H7a)
 
