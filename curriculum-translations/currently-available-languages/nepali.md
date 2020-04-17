@@ -10,7 +10,7 @@ description: All translations courtesy of Mandeep Guragai (mandeep.guragai@gmail
 
 ## [Module 1 Summary](https://docs.google.com/document/d/1qnSyYAyJXe1pTjbmkLN5ua7vNaD-ChmItgTXPp2t-ns/edit?usp=sharing)
 
-## [Module 2 Summary](https://docs.google.com/document/d/1MvR5I51TywfqowgDIv1U7lFguHp1pnwIq7cvxFcrIro/edit?usp=sharing)
+## [Module 2 Summary](https://docs.google.com/document/d/1MvR5I51TywfqowgDIv1U7lFguHp1pnwIq7cvxFcrIro/edit)
 
 ## 
 
