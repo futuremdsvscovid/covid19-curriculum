@@ -13,17 +13,13 @@ _Faculty Reviewers:_ Brian Chan, MD, MPH; Michael Dougan, MD, PhD; Jennifer Kasp
 
 _Past Faculty Reviewers:_ Holly Rawizza, MD
 
-**Highlight of Updates \(4/10/2020\):**
+**Highlight of Updates \(4/17/2020\):**
 
 **\*\*Not yet reviewed by all faculty reviewers\*\***
 
-* [Governor Charlie Baker announced a Community Tracing Collaborative to facilitate contact tracing](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/current-landscape-for-covid-19-in-massachusetts#latest-announcements-in-massachusetts)
-* [Additional $800 million package in MA to support healthcare providers during the COVID-19 crisis](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/current-landscape-for-covid-19-in-massachusetts#latest-announcements-in-massachusetts)
-* [The first FDA EUA for a serology-based assay granted to Cellex](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/testing-capacity-and-eligibility#testing-capacity)
-* [Updates added to current drug candidate trials and vaccine trials](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials)
-* [Post-acute care and the role of nursing homes in caring for patients with COVID-19](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/implication-for-the-healthcare-system-beyond-covid-19-patients#the-role-of-skilled-nursing-facilities-and-nursing-homes)
-* [Two further memorandums issued under the Defense Production Act for N95 masks and ventilators](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/socioeconomic-ramifications#understanding-the-medical-supply-shortage)
-* [N95 decontamination system receives FDA EUA and arrives in Massachusetts](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/socioeconomic-ramifications#understanding-the-medical-supply-shortage)
+* [The vaccine development section has been reformatted for standardization,   new updates added](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#vaccines)
+* [Update on remdesivir case study results](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#2-remdesivir); [favipiravir added as another investigational agent](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/ongoing-clinical-trials#5-favipiravir) 
+* [Additional states added as case studies: Michigan and Alabama](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/state-responses-selected-case-studies)
 
 In Module 3 of this curriculum, students will begin to consider the broader implications of the COVID-19 pandemic, locally and globally. The first section of the module will walk students through the current landscape of the pandemic locally in Massachusetts. In order to stay up-to-date, this section will provide students with several useful links, so that real time data may be accessed. In the next two sections, students will see how the basic science principles behind COVID-19 diagnosis, investigational therapeutics, and vaccines \(discussed in [Module 1](https://docs.google.com/document/d/1gjUuqTLi7xqMVzgWeYAFulmaIiKzhYY89PVOJJVvlNo/edit?ts=5e743689)\) are currently being implemented. We will review the status of testing in the United States regarding capacity and eligibility, as well as the most recent data on various therapies and vaccines. Next,  students will receive a general overview of how the pandemic impacts social and financial aspects of daily life, with a focus on implications for care outside of COVID-19, and the overall economic impact, policy changes, state-by-state comparisons, and health disparities involving COVID-19. While these final sections are by no means complete reviews, we hope that they will invite further consideration of the broader scope of the pandemic. We expect that this module will take **two hours** to complete.  
 
