@@ -60,20 +60,22 @@ Ongoing policies for the **state of Massachusetts** are summarized below \(in re
 3. An $800 million financial package to support health care providers during the COVID-19 crisis. This package is in addition to the $290 million in immediate cash relief and $550 million in accelerated payments previously announced. 
    1. $415 million will be dedicated to acute care hospitals and will cover a four-month period through July 2020.
    2. $300 million will be dedicated to other healthcare providers delivering medical care for COVID-19 or providing services that keep residents safe in their homes and out of the hospital.
-4. All Massachusetts medical schools graduated their fourth year medical students early.  UMass Medical School, Tufts School of Medicine, BU School of Medicine, and Harvard Medical School [fulfilled this request](https://www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-medical-students-graduate-early-to-join-the-chaotic-response-to-covid-19.html). The Board of Registration of Medicine will provide Emergency 90-Day Limited Licenses to graduating medical students who have matched at a Massachusetts healthcare facility.
-5. Beginning March 27, all travelers arriving in Massachusetts are to self-quarantine for 14 days. Visitors with symptoms are instructed not to come to Massachusetts. Healthcare workers \(does NOT include students\) are exempt from this policy.
-6. An emergency order in the state of Massachusetts closing physical workspaces and facilities of employers that do not provide “COVID-19 essential services” from March 24 at noon to May 4 \(as of March 31; stay-at-home order extended from initial end date of April 7\). This order also includes:
+4. All Massachusetts medical schools, including UMass Medical School, Tufts School of Medicine, BU School of Medicine, and Harvard Medical School, [graduated their fourth year medical students early](https://www.masslive.com/coronavirus/2020/03/coronavirus-in-massachusetts-medical-students-graduate-early-to-join-the-chaotic-response-to-covid-19.html). The Board of Registration of Medicine will provide Emergency 90-Day Limited Licenses to graduating medical students who have matched at a Massachusetts healthcare facility.
+
+   Beginning March 27, all travelers arriving in Massachusetts are to self-quarantine for 14 days. Visitors with symptoms are instructed not to come to Massachusetts. Healthcare workers \(does NOT include students\) are exempt from this policy.
+
+5. An emergency order in the state of Massachusetts closing physical workspaces and facilities of employers that do not provide “COVID-19 essential services” from March 24 at noon to May 4 \(as of March 31; stay-at-home order extended from initial end date of April 7\). This order also includes:
    1. Exceptions for healthcare, public health, human services, law enforcement, public safety officials, food and agriculture \(includes groceries, take-out restaurants\), utilities/infrastructure, and other [“essential services”](https://www.mass.gov/info-details/covid-19-essential-services)
    2. A stay-at-home order, requesting residents avoid unnecessary travel and other activities while the two-week order is in effect, with the recommendation that high risk individuals limit social interactions
       1. The order does not require that residents stay confined in their homes during this time
    3. Gatherings limited to a maximum of 10 people
    4. Closure of Boston city playgrounds, public libraries, and centers for youth and families
-7. Elementary and secondary schools \(public and private\) are suspended from March 17 through May 4. The Department of Elementary and Secondary Education is recommending development of remote learning materials. 
-8. On-premises consumption of food or drink at restaurants and bars is prohibited.
-9. Hospitals, assisted living facilities, and nursing homes are required to restrict all visitors.
-10. Pharmacies are mandated to provide at least one hour of shopping per day for seniors over the age of 60. 
-11. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment, though the level of reimbursement is not consistent, and phone calls are reimbursed at a significantly lower rate.
-12. The Department of Housing and Community Development recommended suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
+6. Elementary and secondary schools \(public and private\) are suspended from March 17 through May 4. The Department of Elementary and Secondary Education is recommending development of remote learning materials. 
+7. On-premises consumption of food or drink at restaurants and bars is prohibited.
+8. Hospitals, assisted living facilities, and nursing homes are required to restrict all visitors.
+9. Pharmacies are mandated to provide at least one hour of shopping per day for seniors over the age of 60. 
+10. All commercial insurers are required to cover telehealth as it relates to COVID-19 testing and treatment, though the level of reimbursement is not consistent, and phone calls are reimbursed at a significantly lower rate.
+11. The Department of Housing and Community Development recommended suspension of non-essential evictions and filing of any new non-essential evictions, among other changes to protect against housing instability.
 
 As of **April 6, 2020**: Mayor Walsh has enacted policies aimed at reducing the spread of COVID-19 within the **city of Boston**. A complete list of announcements can be found [here](https://www.boston.gov/news/coronavirus-disease-covid-19-boston).  Of note:
 
