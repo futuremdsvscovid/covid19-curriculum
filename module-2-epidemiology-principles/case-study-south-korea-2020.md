@@ -28,6 +28,8 @@ These interventions have allowed for detection of mildly symptomatic to asymptom
 
 In addition, the government bears the cost of testing and medical care received for COVID-19. It is free regardless of immigration status for anyone with doctor’s referral or contact with an infected person. Those required to quarantine are provided [food and other essentials](https://observers.france24.com/en/20200305-south-korea-coronavirus-COVID-19-kits-masks) via package deliveries, paid for by the government. This decreases barriers for those of low socioeconomic status, helps curb the panic, and allows for individuals to adhere to strict quarantine.
 
+South Korea’s extensive testing and contact tracing means that areas of outbreak can be recognized early and efforts can be deployed and concentrated to those hotspots to contain the spread. This minimizes the economic and social disruption of nationwide lockdown.
+
 _Thought question:_
 
 * What factor\(s\) may contribute to differences in case fatality rates between countries? 
@@ -40,11 +42,11 @@ Unlike China, SK has not implemented domestic travel bans and did not immediatel
 
 ## Current Situation in South Korea
 
-![Green bars: number of new cases per day; Blue curve: cumulative cases. Data as of April 2nd, 2020.](https://lh4.googleusercontent.com/Ws6wJxQOlWPyOTxcAdsKjdVcZxakAttcU7i_GGdixrbHv-XrQ-ExPCTBIF6kB9bw9Aag3GT-mnpcBjOIDgeAIo6T9CpUtK9EWB2pum7SU8HTczMd7hrgTxAcxZisaVwqZUdyd0Ue)
+![Green bars: number of new cases per day; Blue curve: cumulative cases.](https://lh3.googleusercontent.com/PeB47-sDkmreDSi3wvuFAlV9EsEPzkZVHxjmfZhaOtUvAkk6l76bYR5KarY8kBZmPtLXC3BwW7MO_5msOJ00uzr4wnMPYeEOQT4GRuSo1YcdCOPdw76bcEZ00TrBwkpEMLV67H7a)
 
-**As of April 2 2020** \(source: [KCDC](https://www.cdc.go.kr/board/board.es?mid=&bid=0030)\)
+**As of April 16th 2020** \(source: [KCDC](https://www.cdc.go.kr/board/board.es?mid=&bid=0030)\)
 
-As evidenced by the figure above, numbers of new cases per day have been consistently declining and stabilizing. The slope of the cumulative curve has been decreasing, no longer showing an exponential growth pattern, suggesting that SK may have been successful in reducing Re. While SK's health minister has said he is hopeful that SK has passed the ‘[peak](https://www.cnn.com/2020/03/09/asia/south-korea-coronavirus-intl-hnk/index.html)’ of the outbreak, it remains to be seen whether this depression is temporary. As stated earlier, the majority of the population has not been infected and therefore remains susceptible. This is particularly challenging given [differences](https://www.sciencemag.org/news/2020/03/mass-testing-school-closings-lockdowns-countries-pick-tactics-war-against-coronavirus) in intervention across countries responding to this pandemic, such that the risk of reintroduction from different locations persists. As of April 1st, SK imposed a mandatory [14-day quarantine](https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030) to all \(Koreans and Foreigners\) arriving from overseas in an attempt to curb the rise of imported cases. How SK continuously adapts its control measures to respond to new infections will be a useful case study for other countries.
+As evidenced by the figure above, numbers of new cases per day have been consistently declining and stabilizing. The slope of the cumulative curve has been decreasing, no longer showing an exponential growth pattern, suggesting that SK may have been successful in reducing Re. While SK's health minister has said he is hopeful that SK has passed the ‘[peak](https://www.cnn.com/2020/03/09/asia/south-korea-coronavirus-intl-hnk/index.html)’ of the outbreak, it remains to be seen whether this depression is temporary. As stated earlier, the majority of the population has not been infected and therefore remains susceptible. This is particularly challenging given [differences](https://www.sciencemag.org/news/2020/03/mass-testing-school-closings-lockdowns-countries-pick-tactics-war-against-coronavirus) in intervention across countries responding to this pandemic, such that the risk of reintroduction from different locations persists. As of April 1st, SK imposed a mandatory [14-day quarantine](https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030) to all \(Koreans and Foreigners\) arriving from overseas in an attempt to curb the rise of imported cases. As of April 4th, SK has extended the social distancing campaign to April 19th. Given the long tail of the cases that have followed the peak, the period for contact tracing has also been extended to 2 days before onset of symptoms from 1 day. How SK continuously adapts its control measures to respond to new infections will be a useful case study for other countries.
 
 ## Summary
 
