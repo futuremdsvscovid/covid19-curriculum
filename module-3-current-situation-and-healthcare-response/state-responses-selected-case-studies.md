@@ -32,3 +32,5 @@ While we have highlighted states here that have taken a unique approach to manag
 
 To view the cases, click [HERE](https://docs.google.com/document/d/17dUmXrdfCQtDYfNH4aQfX4pdY9mEpOqqBFeB1KLcC5M/edit?usp=sharing).
 
+![Case Studies Available for Highlighted States](../.gitbook/assets/map_state-case-studies%20%281%29.jpg)
+
