@@ -17,10 +17,10 @@ _Additional Reviewers:_ Rebecca Kahn, MS; James Hay, PhD.
 \(Reviewed by Rebecca Kahn, MS; Wolfram Goessling, MD, PhD\)**
 
 * Definition added: [doubling time](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/introduction-to-epidemiological-terms#epidemic-parameters)
-* New section added reviewing the importance and prevention of super-spreading events
-* New data on impact of social distancing measures in the U.S.
+* New section added reviewing the importance and prevention of [super-spreading events](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/where-are-we-now#risk-of-superspreading-events)
+* New data on [impact](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/approaches-to-prediction#how-social-distancing-could-impact-spread-in-the-short-term) of social distancing measures in the U.S.
 * New section: Approaches to Long-Term Planning - including intermittent social distancing, suppression strategies
-* South Korea case updates
+* South Korea [case updates](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/case-study-south-korea-2020)
 
 ## Introduction
 
