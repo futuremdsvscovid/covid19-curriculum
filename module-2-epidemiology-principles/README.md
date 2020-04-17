@@ -16,7 +16,7 @@ _Additional Reviewers:_ Rebecca Kahn, MS; James Hay, PhD.
 **Highlight of Updates \(4/17/20\):  
 \(Reviewed by Rebecca Kahn, MS; Wolfram Goessling, MD, PhD\)**
 
-* Definition added: doubling time
+* Definition added: [doubling time](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/introduction-to-epidemiological-terms#epidemic-parameters)
 * New section added reviewing the importance and prevention of super-spreading events
 * New data on impact of social distancing measures in the U.S.
 * New section: Approaches to Long-Term Planning - including intermittent social distancing, suppression strategies
