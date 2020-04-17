@@ -238,7 +238,7 @@ Beth Israel has provided all guidelines under a [COVID-19 Information and Materi
 
 ### Cambridge Health Alliance \(CHA\) Guidelines
 
-CHA has provided all guidelines under a frequently updated [COVID-19 Quick Guide](https://sites.google.com/challiance.org/ncov-quick-guide/home%20), accessible with CHA credentials.
+CHA has provided all guidelines under a frequently updated [COVID-19 Quick Guide](https://sites.google.com/challiance.org/ncov-quick-guide/home), accessible with CHA credentials.
 
 _Thought questions:_
 
