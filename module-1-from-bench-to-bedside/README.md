@@ -10,12 +10,14 @@ _Student authors:_ Adi Achanta; Kendall Carpenter; Pamela Chen; Nicole M. Gilett
 
 _Faculty reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(4/10/20\):**
+**Highlight of Updates \(4/17/20\):**
 
-* Updated discussion of “COVID-19 and Children” in the [supplemental materials](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#heading=h.fzjmqy11md9f) to include proposed hypotheses for differences in disease severity 
-* Added [preliminary risk stratification information from US](clinical-presentation-of-covid-19.md#risk-stratification) cases
-* Updated treatment section to include warning about [corticosteroid](management-of-covid-19.md#treatment) use and recommendations for [ACEi/ARB](management-of-covid-19.md#treatment) therapy
-* Added table of [current vaccine candidates](investigational-therapeutics-and-vaccine-development.md#vaccine-development)
+* Improved the wording and organization of the text for better readability
+* Included data from Italy regarding [high risk populations](clinical-presentation-of-covid-19.md#risk-stratification)
+* Streamlined discussion of [immunosuppression](clinical-presentation-of-covid-19.md#risk-stratification) in risk stratification
+* Updated [MGH Guidelines](clinical-presentation-of-covid-19.md#laboratory-diagnostics) link in the laboratory studies section
+* Added in vitro/in vivo data on ribonucleoside analog [NHC/EIDD2801](investigational-therapeutics-and-vaccine-development.md#investigational-therapeutics) in investigational therapeutics
+* Moved vaccine candidate chart to Module 3
 
 ## Introduction
 
