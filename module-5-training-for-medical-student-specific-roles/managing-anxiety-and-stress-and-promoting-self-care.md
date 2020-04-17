@@ -37,7 +37,7 @@ It is important to call out the fear and anxiety we are experiencing collectivel
 
 ## **Mitigating the Impact of Trauma on Ourselves, Our Colleagues, and Our Patients** 
 
-Trauma-informed care \(TIC\) is a strengths-based model developed to mitigate the health effects of trauma and is based on the Substance Abuse and Mental Health Services Administration’s \(SAMHSA\) six principles \(see figure below\) including: safety; trustworthiness and transparency; peer support; collaboration and mutuality; empowerment, voice, and choice; and attention to cultural, historical, and gender issues \([SAMHSA 2014](https://ncsacw.samhsa.gov/userfiles/files/SAMHSA_Trauma.pdf)\). You may be familiar with trauma-informed care as a clinical model. The six principles you apply to patient care can also be used reflectively, for self-care, a practice referred to as trauma-informed self care \(TISC\). Here we apply the 6 principles to ourselves, our colleagues, and our institutions. The principles will be bolded throughout to highlight this framework.
+Trauma-informed care \(TIC\) is a strengths-based model developed to mitigate the health effects of trauma and is based on the Substance Abuse and Mental Health Services Administration’s \(SAMHSA\) six principles \(see figure below\) including: safety; trustworthiness and transparency; peer support; collaboration and mutuality; empowerment, voice, and choice; and attention to cultural, historical, and gender issues \([SAMHSA 2014](https://ncsacw.samhsa.gov/userfiles/files/SAMHSA_Trauma.pdf)\). You may be familiar with trauma-informed care as a clinical model. The six principles you apply to patient care can also be used reflectively, for self-care, a practice referred to as trauma-informed self care \(TISC\). Here we apply the 6 principles to ourselves, our colleagues, and our institutions. The principles will be bolded throughout to highlight this framework. As you read, consider creating your own trauma-informed self care [action plan](https://docs.google.com/document/d/1hiPP2grRxesodCOXxwfxNejopEjelSKR2Xb9s-ZJBrQ/edit).
 
 ![](https://lh5.googleusercontent.com/fa6bUvRd1wobh5feUQyo6wFWJJF5ONakn-vZhsx_cghuDX3Aq_HCj5geCBpCRrRFetP_InvQXtn4ZIPM8QnAtGhD6gZtSGC5vY9VnWLTfoM4HaRjmGHw2lgWGVkNSB-7Eeuu4Fx8)
 
@@ -69,7 +69,7 @@ You may also find it helpful to center on the language of resilience: what allow
 _Thought questions:_
 
 * What are some ways you have forgotten to prioritize your own needs in the past while working clinically? 
-* What is one step you can take to prevent this?
+* What is one step you can take to prevent this? Consider entering it on your [action plan](https://docs.google.com/document/d/1hiPP2grRxesodCOXxwfxNejopEjelSKR2Xb9s-ZJBrQ/edit).
 
 ### **How do we care for ourselves and our loved ones at home?** 
 
@@ -92,7 +92,7 @@ This is a time of loss. Many trainees have lost clinical opportunities, graduati
 
 _Thought questions:_
 
-* What is one step you will take in your home life to keep yourself/loved ones well?
+* What is one step you will take in your home life to keep yourself/loved ones well? Consider entering it on your [action plan](https://docs.google.com/document/d/1hiPP2grRxesodCOXxwfxNejopEjelSKR2Xb9s-ZJBrQ/edit).
 
 ### **How do we care for and support our colleagues?**
 
@@ -120,7 +120,7 @@ Each of us who is working and learning in the context of this pandemic may switc
 
 _Thought question:_
 
-* What is one action you might take to support one of your peers? \(at work, at home, in community\)
+* What is one action you might take to support one of your peers? \(at work, at home, in community\) Consider entering it on your [action plan](https://docs.google.com/document/d/1hiPP2grRxesodCOXxwfxNejopEjelSKR2Xb9s-ZJBrQ/edit).
 
 ### What can our institutions do to support us during the pandemic?
 
@@ -150,7 +150,7 @@ This article from [Shanafelt et al.](https://jamanetwork-com.ezp-prod1.hul.harva
 
 _Thought questions:_ 
 
-* What do you need from your institution to feel able to contribute in a sustainable way to the pandemic response?
+* What do you need from your institution to feel able to contribute in a sustainable way to the pandemic response? Consider noting it on your [action plan](https://docs.google.com/document/d/1hiPP2grRxesodCOXxwfxNejopEjelSKR2Xb9s-ZJBrQ/edit).
 * What is the role of these recommendations even in non-crisis times?
 
 ## **Additional Resources to Stay Well**
