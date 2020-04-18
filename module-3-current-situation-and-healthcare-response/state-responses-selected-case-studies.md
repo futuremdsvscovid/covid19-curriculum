@@ -39,5 +39,7 @@ While we have highlighted states [here](https://docs.google.com/document/d/17dUm
 
 To view the cases, click [HERE](https://docs.google.com/document/d/17dUmXrdfCQtDYfNH4aQfX4pdY9mEpOqqBFeB1KLcC5M/edit?usp=sharing).
 
-![](../.gitbook/assets/u.s.a.-map-by-mapchart.net.png)
+![States with a case study are highlighted in orange.  ](../.gitbook/assets/u.s.a.-map-by-mapchart.net.png)
+
+
 
