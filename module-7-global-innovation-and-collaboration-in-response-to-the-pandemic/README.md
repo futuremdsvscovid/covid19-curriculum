@@ -23,7 +23,7 @@ _Faculty Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s B
 ¹** University of Global Health Equity, Butaro, Rwanda  
 **²** Brigham and Women’s Hospital, Boston, MA, USA
 
-**INTRODUCTION**
+## **Introduction**
 
 As of early April 2020, the reported morbidity and mortality from COVID-19 in low and middle income countries \(LMICs\) has been [relatively limited](https://www.bbc.com/news/world-africa-52058717) but is [quickly increasing](https://qz.com/africa/1827789/coronavirus-ghana-senegal-burkina-faso-shut-down/). Due to a variety of historical injustices and chronic lack of investments into robust health systems, many LMICs lack the essential resources to prevent, diagnose, and treat COVID-19. These resources include social support systems for impoverished daily wage-earners without income during social distancing, capacity to feed its citizens during lockdown, and medical resources to isolate and treat critically ill patients.
 
@@ -38,7 +38,7 @@ This module will explore collaborative innovations of each component of the 4 S 
 
 Though this module covers a number of examples from various settings on how COVID-19 is being addressed and innovations that may be helpful to learn from, it is by no means a comprehensive analysis of best practices and is unable to feature all innovations from all settings. As you progress through the module, we encourage you to consider how the 4 S framework may apply to where you train or practice in the setting of COVID-19 \(or any health threat\). Indeed, a core value of our group is that we believe those who are closest to the problem are the best people to design the solutions. For this reason, you will see that our authors and faculty reviewers span many parts of the globe. **We also want to invite you, our readers, to participate by sharing innovations which you have developed or witnessed on a website made for this purpose called** [**LeadChange**](http://leadchange.herokuapp.com/c1289?tab=activity#). We hope that this platform will help to facilitate multi-directional communication directly across diverse contexts about innovations that are contributing to the COVID-19 response. Via LeadChange, you are able to discuss problems, propose solutions, or ask questions, all while interacting with existing posts and sharing pictures.
 
-**Learning Objectives:**
+## **Learning Objectives**
 
 At the end of this module, medical students should be able to:
 
