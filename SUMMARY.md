@@ -34,7 +34,7 @@
   * [Testing Capacity and Eligibility](module-3-current-situation-and-healthcare-response/testing-capacity-and-eligibility.md)
   * [Ongoing Clinical Trials](module-3-current-situation-and-healthcare-response/ongoing-clinical-trials.md)
   * [Implications for the Healthcare System Beyond COVID-19 Patients](module-3-current-situation-and-healthcare-response/implication-for-the-healthcare-system-beyond-covid-19-patients.md)
-  * [Health Disparities in COVID Outcomes](module-3-current-situation-and-healthcare-response/health-disparities-in-covid-outcomes.md)
+  * [Health Disparities in COVID-19 Outcomes](module-3-current-situation-and-healthcare-response/health-disparities-in-covid-outcomes.md)
   * [Socioeconomic Ramifications](module-3-current-situation-and-healthcare-response/socioeconomic-ramifications.md)
   * [State Responses: Selected Case Studies](module-3-current-situation-and-healthcare-response/state-responses-selected-case-studies.md)
   * [Summary](module-3-current-situation-and-healthcare-response/summary.md)
