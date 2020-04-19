@@ -33,7 +33,7 @@
   * [Current Landscape for COVID-19 in Massachusetts and Beyond](module-3-current-situation-and-healthcare-response/current-landscape-for-covid-19-in-massachusetts.md)
   * [Testing Capacity and Eligibility](module-3-current-situation-and-healthcare-response/testing-capacity-and-eligibility.md)
   * [Ongoing Clinical Trials](module-3-current-situation-and-healthcare-response/ongoing-clinical-trials.md)
-  * [Implication for the Healthcare System Beyond COVID-19 Patients](module-3-current-situation-and-healthcare-response/implication-for-the-healthcare-system-beyond-covid-19-patients.md)
+  * [Implications for the Healthcare System Beyond COVID-19 Patients](module-3-current-situation-and-healthcare-response/implication-for-the-healthcare-system-beyond-covid-19-patients.md)
   * [Socioeconomic Ramifications](module-3-current-situation-and-healthcare-response/socioeconomic-ramifications.md)
   * [Health Disparities in COVID Outcomes](module-3-current-situation-and-healthcare-response/health-disparities-in-covid-outcomes.md)
   * [State Responses: Selected Case Studies](module-3-current-situation-and-healthcare-response/state-responses-selected-case-studies.md)

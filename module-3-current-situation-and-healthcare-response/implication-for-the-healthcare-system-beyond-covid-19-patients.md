@@ -1,4 +1,4 @@
-# Implication for the Healthcare System Beyond COVID-19 Patients
+# Implications for the Healthcare System Beyond COVID-19 Patients
 
 ## **Routine and chronic care**
 
