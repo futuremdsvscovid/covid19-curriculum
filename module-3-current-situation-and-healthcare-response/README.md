@@ -36,6 +36,7 @@ At the end of this module, medical students should be able to:
 * Illustrate how practical considerations of a healthcare system impact testing capacity and eligibility
 * Describe the current landscape of clinical trials on experimental antiviral treatments, pharmaceuticals, and vaccine development 
 * Explain how COVID-19’s impact on the healthcare system affects patients who are not infected with the virus and certain high-risk groups
+* Appreciate the ways in which pre-existing health disparities exacerbate COVID-19 infection
 * Identify at least three different ways in which the pandemic has impacted the global economic and social climate
 * Compare and contrast state and local responses to the pandemic
 
