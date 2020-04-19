@@ -17,9 +17,9 @@ Testing: Hospitals have generally been outlining testing criteria for ambulatory
 
 Clinical Triage: For a discussion of clinical triage guidelines, see [Module 1: Triage Guidelines. ](https://curriculum.covidstudentresponse.org/module-1-from-bench-to-bedside/management-of-covid-19#triage-guidelines)
 
-**Thought question:**
+_Thought question:_
 
-For a low-risk patient who may not fall under the recommendations to get tested for COVID-19, but who does want to get tested, how might a healthcare worker navigate the conversation about the utility of testing amongst those at highest risk? 
+* For a low-risk patient who may not fall under the recommendations to get tested for COVID-19, but who does want to get tested, how might a healthcare worker navigate the conversation about the utility of testing amongst those at highest risk? 
 
 ## 
 
