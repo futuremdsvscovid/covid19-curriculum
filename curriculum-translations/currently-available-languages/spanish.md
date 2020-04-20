@@ -14,7 +14,7 @@ Translations courtesy of : Lorena Tora, M.D., M. Fragoso, L. Salgado, & A. Cort√
 
 ## [Module 6 Summary ](https://docs.google.com/document/d/1VLkEOt18zKEusdKWnzOgx7Mp17vb867Y5_W3qNNEip4/edit?usp=sharing)
 
-Translations courtesy of: Jorge Educardo Buendia \(job496@mail.harvard.edu\)
+Translations courtesy of: Eva Fuentes, MD & Jorge Buendia-Buendia, MPhil, MS \(eva.fuentes.terrazas@gmail.com & job496@mail.harvard.edu\)
 
 #### 
 
