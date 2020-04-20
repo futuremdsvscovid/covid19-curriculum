@@ -10,7 +10,7 @@
 
 ## [Abbreviated Modules 1-5 ](https://docs.google.com/document/d/1_f3P7jF1G0sl1LVx63eFsuBVEBF_aVZlSV5gZNauC2k/edit)
 
-Translations courtesy of : Lorena Tora, M.D., Mitosis COVID19 response \(lorena@mitosishealth.org\)
+Translations courtesy of : Lorena Tora, M.D., M. Fragoso, L. Salgado, & A. Cortés, Mitosis COVID19 response \(lorena@mitosishealth.org\)
 
 
 
