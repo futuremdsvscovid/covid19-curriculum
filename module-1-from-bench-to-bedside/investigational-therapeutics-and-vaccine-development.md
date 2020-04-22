@@ -102,7 +102,7 @@ A collection of case reports and/or series of cases from patients with SARS-CoV 
           to its immunomodulatory effects</p>
       </td>
       <td style="text-align:left">Not fully understood. Leading hypotheses include the inhibition of viral
-        fusion to the cell membrane through pH modulation and <a href="https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-2-69">limiting the glycosylation of cellular receptors on the viral membrane.</a>
+        fusion to the endosomal membrane through pH modulation and <a href="https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-2-69">limiting the glycosylation of cellular receptors on the viral membrane.</a>
       </td>
       <td style="text-align:left">
         <p>Since the 1960s, <a href="https://pubmed.ncbi.nlm.nih.gov/32147496/">the antiviral activity</a> of
