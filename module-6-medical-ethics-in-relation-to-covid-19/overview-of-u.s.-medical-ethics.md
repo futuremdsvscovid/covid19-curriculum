@@ -74,6 +74,6 @@ _Thought Questions_:
 References: 
 
 * Beauchamp TL and Childress JF. Principles of biomedical ethics. Oxford University Press, USA, 2001.
-* [Gillon R. "Medical ethics: four principles plus attention to scope." Bmj 309.6948 \(1994\): 184. ](https://web.stanford.edu/class/siw198q/websites/reprotech/New%20Ways%20of%20Making%20Babies/EthicVoc.htm)
+* [Gillon R. "Medical ethics: four principles plus attention to scope." BMJ 309.6948 \(1994\): 184. ](https://web.stanford.edu/class/siw198q/websites/reprotech/New%20Ways%20of%20Making%20Babies/EthicVoc.htm)
 * Miles SH. The Hippocratic Oath and the ethics of medicine. 2004. Oxford; New York: Oxford University Press.
 
