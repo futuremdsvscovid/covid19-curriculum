@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section provides an overview of the major schools of thought in Western ethics: consequentialism, deontology, virtue ethics, natural law, and moral relativism. It then highlights principlism, a useful approach to medical ethics that breaks down issues into four major principles: respect for autonomy, beneficence, nonmaleficence, and justice. Moreover, it mentions the themes of negligence and reasonable care, which are often discussed in conjunction with beneficence and nonmaleficence. Finally, this section discusses the ethical principles of allocation of resources.
+This section provides an overview of the major schools of thought in Western ethics: consequentialism, deontology, virtue ethics, natural law, and moral relativism. It then highlights principalism, a useful approach to medical ethics that breaks down issues into four major principles: respect for autonomy, beneficence, nonmaleficence, and justice. Moreover, it mentions the themes of negligence and reasonable care, which are often discussed in conjunction with beneficence and nonmaleficence. Finally, this section discusses the ethical principles of allocation of resources.
 
 ## Schools of Ethics from Western Philosophy
 
