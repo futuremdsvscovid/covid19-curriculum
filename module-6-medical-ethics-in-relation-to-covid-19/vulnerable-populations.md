@@ -4,20 +4,7 @@
 
 This section will discuss ethical questions that are particularly relevant to a range of vulnerable patient populations. By “vulnerable,” we mean patients who may be at particular risk of suffering physical or mental health consequences, financial hardship, or discrimination. Vulnerable populations may require additional aid and protection during a time of crisis, and, yet, can often be forgotten when public health measures are enacted for the population as a whole. This section will remind us of crucial issues and concerns affecting vulnerable groups.
 
-## Homeless and Low-Income Populations
-
-The low-income and homeless populations are particularly vulnerable in the era of pandemics due to their reliance on social support structures, more tenuous income streams, and a variety of other factors.
-
-Many people with low income will not have disposable income or economic savings, as prior to the pandemic, many will have lived paycheck to paycheck. Thus, it will be no surprise that the economic impacts of COVID-19 affect the low- income population the most. To start, there is a higher proportion of individuals in this socioeconomic class that will have jobs that cannot be translated into remote work, such as jobs in the manufacturing, retail, transportation, and restaurant industry. Moreover, it should not be forgotten that socioeconomic status has also been correlated [with a greater burden of chronic disease](https://www.who.int/chp/chronic_disease_report/part2_ch2/en/), a factor that can make one more susceptible to the virus. A 2018 paper by [Kapiriri and Ross](https://link.springer.com/article/10.1007/s40609-018-0123-y), which discussed the socioeconomic distribution of disease of prior epidemics such as SARS, Zika and Ebola, highlighted the influence of privilege on the experience of an epidemic. The review found that infectious disease outbreaks disproportionately affect the poor, specifically communities that have limited access to health services. It is likely that COVID-19 will have similar effects.
-
-For the homeless population, the question arises how we can best address the needs of a population that has little to no control over their environment. How does one shelter in place, for instance, if one does not have a permanent shelter? Social distancing is virtually impossible for someone who has to remain in public spaces or in overcrowded homeless shelters. 
-
-Even marginal economic relief to a large number of these individuals would be in line with the utilitarian argument of providing the greatest good for the greatest number of people. However, amidst a pandemic when there will be other pressures to provide funding for other worthy causes, such as medical resources, the low-income and homeless populations can be easily marginalized. This marginalization has the potential to become even more pronounced if these individuals experience greater morbidity due to the virus because of baseline health risks.
-
-_Thought Questions:_ 
-
-* What long-term impacts on these populations can you predict months to years after the pandemic? 
-* What are some novel solutions to protect the homeless population from the risk of the virus if the CDC recommendations are often challenging to implement? 
+Please note that the ethics relating to homeless, low-income populations, and communities facing racism and xenophobia can be found in [Module 3](../module-3-current-situation-and-healthcare-response/), as well as in the supplemental material [here](https://docs.google.com/document/d/1knR5wday0HM4rb5ic2fV0qRpVIEgn-OGHk8Q8RCHcR0/edit?usp=sharing).
 
 ## **Children** 
 
@@ -61,19 +48,4 @@ _Thought Questions:_
 * [Joint Statement on Abortion Access During the COVID-19 Outbreak](https://www.acog.org/en/News/News%20Releases/2020/03/Joint%20Statement%20on%20Abortion%20Access%20During%20the%20COVID%2019%20Outbreak)
 * [The coronavirus may be driving up divorce rates in a Chinese city, officials say](https://www.businessinsider.com/covid-19-peak-divorce-rate-chinese-cities-2020-3)
 * Finer LB, Frohwirth LF, Dauphinee LA, Singh S, Moore AM. Reasons U.S. Women Have Abortions: Quantitative and Qualitative Perspectives. Perspectives on Sexual and Reproductive Health 2005;37\(3\):110-8.
-
-## **Communities Facing Racism and Xenophobia**
-
-All human beings have implicit biases, and clinical providers must keep these biases in check. [It has been demonstrated](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988900/) that in times of increased stress and panic, such as during a global pandemic, providers are more likely to be influenced by racial prejudices and stereotypes, leading to poorer outcomes for minority populations. While many groups face discrimination on a daily basis, it is important to address the significant increase in anti-Asian sentiment brought on by this pandemic.  \(See related section in [Module 3](https://curriculum.covidstudentresponse.org/module-3-current-situation-and-healthcare-response/socioeconomic-ramifications#social-stigma-and-racism).\)
-
-Notably, this is not the first time the Asian-American community has been targeted due to fears related to [contagious disease](https://www.ucpress.edu/book/9780520226296/contagious-divides). In 1900, as the bubonic plague resurged in California, the increasing Chinese immigrant population in San Francisco became a scapegoat. The San Francisco Board of Health implemented policies for mass quarantine and experimental vaccinations limited to Chinatown. The Chinese population rioted in response to these infringements upon their human rights \([Trauner, 1978](https://www.jstor.org/stable/25157817?seq=1)\).
-
-With regards to the current pandemic, a [report from San Francisco State University](https://drive.google.com/file/d/1mzNEU2ebTF_5OZUon-ovrt36x22nXcuE/view) demonstrated that news coverage of anti-Asian discrimination increased by 50% in February. These reports cited acts against Asian-American individuals and the community at large, as well as xenophobic labels employed by the media and political leaders. Asian-American establishments have seen a particular decline in business. Between January and February, Manhattan’s Chinatown sales [dropped between 40-80%](https://www.mercurynews.com/2020/02/18/asian-american-businesses-suffer-during-virus-fears/), as news of the virus spread in the U.S., even before there were any confirmed cases of COVID-19 in New York City itself. On multiple occasions, President Trump called the virus ["The Chinese Virus,"](https://www.nytimes.com/2020/03/18/us/politics/china-virus.html) despite recommendations from the [WHO](https://www.who.int/mediacentre/news/notes/2015/naming-new-diseases/en/) to avoid geographical descriptors, because prior nomenclature, such as the Middle East Respiratory Syndrome, resulted in stigmatization of particular communities. Amidst these large-scale acts of discrimination, interpersonal attacks have escalated, ranging from accounts of school bullying and verbal harassment to [physical assault](https://www.nytimes.com/2020/03/23/us/chinese-coronavirus-racist-attacks.html).
-
-Fear may amplify implicit bias, which fuels stigmatizing misconceptions that entire cultural communities are innately more likely to have or spread disease. The [CDC affirms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/reducing-stigma.html) that people of Asian heritage are not at greater risk of spreading COVID-19 than other Americans. They recommend educating people on factual evidence and speaking out against discriminatory behaviors.
-
-_Thought questions:_
-
-* Given widespread anti-Asian sentiment, it is possible that a patient would request to be in a different room from another patient who is of Asian descent. How would you respond to this situation?
-* What role do healthcare workers play in mitigating acts of discrimination?
 
