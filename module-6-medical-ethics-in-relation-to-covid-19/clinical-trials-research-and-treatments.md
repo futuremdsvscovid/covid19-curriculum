@@ -46,7 +46,7 @@ Another ethical challenge that surrounds the issue of informed consent is determ
 
 ## **Challenges to the Principle of Beneficence**
 
-One of the key questions raised by COVID-19 research trials is what risks to human subjects are we willing to accept to find treatments that can help the rest of society? This is not the first disease in recent history for which this ethical question has been posed. During the AIDS crisis in the 1980s, as well as Ebola and Zika epidemics of the past decade, there were similar pressures to expedite research studies to find vaccines or therapeutics. Even in non-pandemic scenarios, experimental drugs developed for terminal illnesses may be fast-tracked to help critically ill patients. Here, we will discuss some of the adaptations in research guidelines that are made in situations where time is even more limited, as well as the risks and benefits of these different standards.
+One of the key questions raised by COVID-19 research trials is the balance between risks to human subjects and potentially life-saving treatments that can help the rest of society? This is not the first disease in recent history for which this ethical question has been posed. During the AIDS crisis in the 1980s, as well as Ebola and Zika epidemics of the past decade, there were similar pressures to expedite research studies to find vaccines or therapeutics. Even in non-pandemic scenarios, experimental drugs developed for terminal illnesses may be fast-tracked to help critically ill patients. Here, we will discuss some of the adaptations in research guidelines that are made in situations where time is even more limited, as well as the risks and benefits of these different standards.
 
 ### **Phases of clinical trials**
 
