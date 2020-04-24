@@ -4,6 +4,8 @@
 
 This section will discuss public health ethics, which explores the tension between individual rights and the public good. During a public health crisis, there is typically a shift between care of individuals and care of the entire population. The new moral calculus introduces many issues, including: how do we weigh the interests of the few against those of the many? What do we owe each other, and what can our government ask of us?
 
+To learn more about legal authority during a pandemic to enforce isolation and quarantine, please read the supplemental materials [here](https://docs.google.com/document/d/1knR5wday0HM4rb5ic2fV0qRpVIEgn-OGHk8Q8RCHcR0/edit?usp=sharing).
+
 ## **Is the Cure Worse Than the Disease?**
 
 Some have suggested that we must be careful that the "cure" for COVID-19 is not worse than the disease itself. By this, they suggest that public health measures, including social distancing, are taking a dramatic toll on our economy, increasing unemployment, and bringing sectors of the economy to a halt. Many people fear that we are at the beginning of a serious recession that will cause untold hardship for millions of Americans over the course of months to years.
@@ -17,20 +19,6 @@ We have to ask ourselves, are the lives of a smaller group of people, in this ca
 **References:**
 
 * [Yong, Ed. "How the Pandemic Will End." March 25, 2020. The Atlantic.](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/)
-
-## **Legal Authority During A Pandemic to Enforce Isolation and Quarantine**
-
-Historically, broad powers granted to the government to enforce quarantine have been used to target minority immigrant communities. Therefore, it is important to consider the legal authority and ethical implications of government-enforced isolation and quarantine. Federal isolation and quarantine are authorized by Executive Order of the president, derived from the Commerce Clause of the Constitution and the Public Health Service Act of 1944, which clearly established the federal government’s quarantine authority. After the Ebola and MERS outbreaks, laws were updated to give authority to the U.S. Secretary of HHS to prevent the entry and spread of communicable diseases from foreign countries into and within the U.S. This authority has been delegated to the CDC, which can detain and medically examine people suspected of carrying communicable diseases. Public health powers also stem from the Supreme Court Decision Jacobson v. Massachusetts, which upheld the Massachusetts Board of Health’s authority to require vaccination against smallpox during a smallpox epidemic. Though there is legal authority for the government to enforce quarantine, there is no legal requirement for the government to provide guaranteed salary or essential support, such as medications and food, during quarantine.
-
-This federal authority is limited to isolation and quarantine of individuals suspected to have communicable disease, and those quarantined must be tested within 72 hours. Their length of stay must be defined from the outset. Quarantine orders may be challenged in court. During the Ebola outbreak, a nurse in New Jersey returned from West Africa, where she had treated patients with Ebola. She was quarantined in New Jersey against her will, and she successfully challenged the imposed quarantine. The last time large-scale isolation and quarantine were enforced was during the 1918 Spanish flu. During this pandemic, many cities closed public spaces and prohibited public gatherings. Since then, the CDC has mostly issued health warnings. The last federal quarantine was in the 1960s during a smallpox virus outbreak. 
-
-Thus far during the COVID-19 pandemic, a national quarantine has not been issued, and isolation and quarantine have been left to individual states, which have broad authority. This authority comes from “police powers” granted to states to protect public health. Laws vary from state to state. Thus far, many governors have issued shelter-in-place orders. For instance, California State Governor Gavin Newsom has issued a shelter-in-place order; violating the mandate is a misdemeanor punishable by fine, imprisonment, or both. The federal government does not have the authority to overrule state orders.
-
-Police and law enforcement officers are authorized to enforce public health orders. The U.S. Customs and Border Protection and U.S. Coast Guard are authorized to help enforce federal quarantine orders. In most states, breaking a quarantine order is a criminal misdemeanor. Breaking a federal quarantine order is punishable with fines and imprisonment. 
-
-**References:**
-
-* [CDC: Legal Authorities for Isolation and Quarantine](https://www.cdc.gov/quarantine/aboutlawsregulationsquarantineisolation.html)
 
 ## **What Do We Owe Each Other?**
 
