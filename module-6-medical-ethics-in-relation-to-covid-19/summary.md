@@ -14,7 +14,7 @@ The situation around the world evolves rapidly. For individuals like [**Brian** 
 
 ## Final Thoughts
 
-We hope this module helped capture the ethical complexity of COVID-19. We recognize this module’s bias towards U.S. biomedical ethics and are working on additional supplemental material that include additional frameworks prevalent throughout the world. Nonetheless, we think many of the ethical questions are universal, and we encourage you to think closely about the presented themes as the pandemic evolves.
+We hope this module helped capture the ethical complexity of COVID-19. We recognize this module’s bias towards U.S. biomedical ethics and are working on additional supplemental materials that include additional frameworks prevalent throughout the world. Nonetheless, we think many of the ethical questions are universal, and we encourage you to think closely about the presented themes as the pandemic evolves.
 
 We welcome your feedback on this module and on the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).  
 
