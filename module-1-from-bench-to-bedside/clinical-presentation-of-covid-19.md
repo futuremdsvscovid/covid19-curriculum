@@ -92,8 +92,15 @@ Massachusetts began to see COVID-19 cases in early March; case numbers and state
   
 ****_Thought question:_
 
-* **What changes were made to the testing guidelines, and why?** 
+* What changes were made to the testing guidelines, and why?
 
+![](https://lh5.googleusercontent.com/pa7gB9IXtpQ55uFg7nbDQiZpgGkfdaeFFtYMtlYpsaoyaFv0lP4c1JjhSUTUSsXkqRhlcmt7VnpeLuIh7ngAxu1eO86FcjIj4U8W9Qf-d2C_OPu5KWgDtfJPKS9Q03ccfZFerk2b)
+
+Note that several eligibility categories in MA DPH’s guidelines in both versions query public safety factors, such as the individual’s risk of disease transmission to others, rather than the probability of an individual having COVID-19. Also note how epidemiological risk factors were adjusted \(removal of recent travel categories, no requirement for “close contact” with known cases, expansion of testing to essential workers besides healthcare workers\). Other institution-specific testing guidelines may approach eligibility from a purely clinical view, and may have a specific set of signs, laboratory findings, and/or imaging findings needed for inpatients, or telemedicine triage protocols to assess symptoms and signs for outpatients. Notably, MA DPH currently does not recommend state or commercial testing for any asymptomatic patients, even those who have been exposed.
+
+#### _Thought questions:_
+
+**What factors would be important to consider in implementing a testing protocol for asymptomatic individuals? How might you weigh test characteristics, clinical management strategies, risks of testing, and economic implications?**  
 
 
 ## Ancillary Studies
