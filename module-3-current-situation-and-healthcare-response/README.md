@@ -1,8 +1,8 @@
 ---
 description: >-
   Appreciate the complex and rapidly changing landscape of the COVID-19 pandemic
-  as it stands in Massachusetts, as well as the adapting responses of the
-  healthcare system and society as a whole.
+  as it stands in the U.S., as well as the adapting responses of the healthcare
+  system and society as a whole.
 ---
 
 # Module 3: Health Disparities, Policy Changes, and Socioeconomic Effects in the U.S.
