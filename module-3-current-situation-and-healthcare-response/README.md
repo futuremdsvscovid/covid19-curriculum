@@ -5,7 +5,7 @@ description: >-
   healthcare system and society as a whole.
 ---
 
-# Module 3: Current Situation: Research Efforts, Policy Changes, and Health Disparities in the U.S.
+# Module 3: Health Disparities, Policy Changes, and Socioeconomic Effects in the U.S.
 
 _Student Authors:_  Stephanie Alden, Lucy Chen, Michael Fuchs, Ashwini Joshi, Hemen Muleta, Fejiro Okifo, Hema Pingali, Morgan Sehdev, Katie Shaffer
 

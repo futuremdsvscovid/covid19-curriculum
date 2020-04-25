@@ -29,7 +29,7 @@
   * [Case Study: 2009 H1N1 Pandemic](module-2-epidemiology-principles/case-study-2009-h1n1-pandemic.md)
   * [Case Study: South Korea 2020](module-2-epidemiology-principles/case-study-south-korea-2020.md)
   * [Graphic Summary](module-2-epidemiology-principles/summary.md)
-* [Module 3: Current Situation: Research Efforts, Policy Changes, and Health Disparities in the U.S.](module-3-current-situation-and-healthcare-response/README.md)
+* [Module 3: Health Disparities, Policy Changes, and Socioeconomic Effects in the U.S.](module-3-current-situation-and-healthcare-response/README.md)
   * [Health Disparities in COVID Outcomes](module-3-current-situation-and-healthcare-response/current-landscape-for-covid-19-in-massachusetts.md)
   * [Overview of U.S. Health Policy Responses to COVID-19](module-3-current-situation-and-healthcare-response/testing-capacity-and-eligibility.md)
   * [United States Federal Health Policy Response Details](module-3-current-situation-and-healthcare-response/ongoing-clinical-trials/README.md)
