@@ -10,14 +10,13 @@ _Student authors:_ Adi Achanta; Kendall Carpenter; Pamela Chen; Nicole M. Gilett
 
 _Faculty reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(4/17/20\):**
+**Highlight of Updates \(4/24/20\):**
 
-* Improved the wording and organization of the text for better readability
-* Included data from Italy regarding [high risk populations](clinical-presentation-of-covid-19.md#risk-stratification)
-* Streamlined discussion of [immunosuppression](clinical-presentation-of-covid-19.md#risk-stratification) in risk stratification
-* Updated [MGH Guidelines](clinical-presentation-of-covid-19.md#laboratory-diagnostics) link in the laboratory studies section
-* Added in vitro/in vivo data on ribonucleoside analog [NHC/EIDD2801](investigational-therapeutics-and-vaccine-development.md#investigational-therapeutics) in investigational therapeutics
-* Moved vaccine candidate chart to Module 3
+* Updated details of [viral replication cycle](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection)
+* Added section on [mask efficacy](basic-virology-and-immunology.md#transmission-dynamics)
+* Updated section on [duration of coronavirus immunity](basic-virology-and-immunology.md#adaptive-immune-response)
+* Added discussion under clinical course of mild-moderate cases managed in the [outpatient setting](management-of-covid-19.md#clinical-course)
+* Information originally presented in Module 3 “Current Situation and Healthcare Response” \(testing capacity and guidelines, ongoing clinical trials and vaccine development\) will now be [consolidated here](investigational-therapeutics-and-vaccine-development.md).
 
 ## Introduction
 
