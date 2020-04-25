@@ -4,7 +4,7 @@ description: >-
   play in the clinical setting.
 ---
 
-# Module 5: Training for Potential Clinical Roles
+# Module 6: Training for Potential Clinical Roles
 
 _Student authors:_ James Agolia, Fang Cao, Bina Kassamali, Soumyaa Mazumder, Niyi Odewade, Alexander Ordoobadi, Simone Sasse, Sanjana Srinivasan, Rachel Weitzman, Taylor Brown, Katherine McDaniel, MSc
 

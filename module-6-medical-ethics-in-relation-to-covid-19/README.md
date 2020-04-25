@@ -5,7 +5,7 @@ description: >-
   decisions related to the pandemic.
 ---
 
-# Module 6: Medical Ethics in Relation to COVID-19
+# Module 7: Medical Ethics in Relation to COVID-19
 
 _Student Authors_: James Agolia, Michelle Bayefsky, Samuel Doernberg, Melody Huang, Margaret Irwin, Bina Kassamali, Katie Kester, Benjamin Landwersiek, Sun Fletcher, Soumyaa Mazumder, Niyi Odewade, Larisa Shagabayeva, Derek Soled, Sanjana Srinivasan, Maria Thomas, Allen Zhou, Angela Zou
 

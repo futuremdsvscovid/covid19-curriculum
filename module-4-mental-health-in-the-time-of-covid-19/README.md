@@ -12,6 +12,8 @@ _Student Reviewers_: Aliya Feroe, King Fok
 
 _Faculty Reviewer_s: Jennifer Potter, MD; Fernando Rodriguez-Villa, MD; Nhi-Ha Trinh, MD, MPH;
 
+## Introduction
+
 The COVID-19 pandemic has already caused a significant psychological impact across the globe, and there is ongoing concern that mental health outcomes will continue to worsen in the coming months \([Galea et al., JAMA 2020](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2764404)\). The[ World Health Organization](https://www.who.int/docs/default-source/coronaviruse/mental-health-considerations.pdf),[ National Alliance on Mental Illness](https://www.nami.org/covid-19-guide), [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html) \(CDC\), and[ Substance Abuse and Mental Health Service Administration](https://www.samhsa.gov/coronavirus) \(SAMHSA\) have all released guidelines for individuals to address the mental health consequences of the pandemic.
 
 We are already seeing these consequences in the United States. In a tracking poll conducted by the Kaiser Family Foundation \(KFF\) from March 25th to 30th, 45% of Americans stated that the pandemic had affected their mental health, with 19% expressing the pandemic had a “major impact” \([Kirzinger et al., KFF 2020](https://www.kff.org/health-reform/report/kff-health-tracking-poll-early-april-2020/)\). Compared to just two weeks prior, these results had increased from 32% and 14%, respectively \([Hamel et al., KFF 2020](https://www.kff.org/global-health-policy/poll-finding/kff-coronavirus-poll-march-2020/)\). While the findings were prevalent across all groups, females as well as black and Hispanic Americans appear to be particularly affected.
