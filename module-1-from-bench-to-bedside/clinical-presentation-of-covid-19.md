@@ -84,11 +84,17 @@ This is an active area of innovation, and tests are being developed at a rapid p
 
 _Thought questions:_
 
-* **For whom would you recommend PCR testing in an ideal resource situation? With limited testing resources, who should be tested?** 
+* For whom would you recommend PCR testing in an ideal resource situation? With limited testing resources, who should be tested?
 
-![Molecular detection of 2019-nCoV in seven patients. Patient information can be found in Extended Data Tables 1, 2. Detection methods are described in the Methods. AS, anal swab; OS, oral swab. b, Dynamics of 2019-nCoV antibody levels in one patient who showed signs of disease on 23 December 2019 \(ICU-06\). OD ratio, optical density at 450&#x2013;630 nm. The right and left y axes indicate ELISA OD ratios for IgM and IgG, respectively. c, Serological test of 2019-nCoV antibodies in five patients \(Extended Data Table 2\). The asterisk indicates data collected from patient ICU-06 on 10 January 2020. b, c, The cut-off was to 0.2 for the IgM analysis and to 0.3 for the IgG analysis, according to the levels of healthy controls. \(Zhou et al., Nature 2020\)](https://lh3.googleusercontent.com/hUYtKOY8xhfBerL7F9ZFjqydI5WgPkKNW1YlgcgIyrWYrsWTGGMyEKySqNrGrkh8jHJwU3OfvM0Mh10bMuDdYv-c0F1E8Sn82t6iVUVQ2SuzQTIMZFk9MoH6wjvcvXt3OCpQvuE_)
+### **Massachusetts Case Study: Testing on a State Level**
 
-Though we will try to highlight the basic science principles behind many new diagnostic tests in this section, we recognize this is an active area of innovation, and tests are being developed at a rapid pace. Here is a frequently updated [list](https://www.finddx.org/covid-19/pipeline/) of what diagnostic tests for COVID-19 are being developed worldwide; see which studies are marked with “\(FDA\)” to know which are available, or in the pipeline, for the US. 
+Massachusetts began to see COVID-19 cases in early March; case numbers and state and commercial testing capacity rapidly increased since then. Compare the following two testing algorithms, adapted from Massachusetts Department of Public Health \(MA DPH\) guidelines \(version 1 published 3/13/20, version 2 published [4/2/20](https://www.mass.gov/doc/covid-19-pui-criteria/download)\). \(Highest quality here and here\)  
+  
+****_Thought question:_
+
+* **What changes were made to the testing guidelines, and why?** 
+
+
 
 ## Ancillary Studies
 
