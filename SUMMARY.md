@@ -35,7 +35,6 @@
   * [United States Federal Health Policy Response Details](module-3-current-situation-and-healthcare-response/ongoing-clinical-trials.md)
   * [State Responses to COVID-19: Selected Case Studies](module-3-current-situation-and-healthcare-response/state-responses-to-covid-19-selected-case-studies.md)
   * [Implications for the Healthcare System Beyond COVID-19 Patients](module-3-current-situation-and-healthcare-response/implication-for-the-healthcare-system-beyond-covid-19-patients.md)
-  * [Health Disparities in COVID-19 Outcomes](module-3-current-situation-and-healthcare-response/health-disparities-in-covid-outcomes.md)
   * [Socioeconomic Ramifications in the United States](module-3-current-situation-and-healthcare-response/socioeconomic-ramifications.md)
   * [Summary](module-3-current-situation-and-healthcare-response/summary.md)
 * [Module 4: Mental Health in the Time of COVID-19](module-4-mental-health-in-the-time-of-covid-19/README.md)
