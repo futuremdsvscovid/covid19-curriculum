@@ -98,16 +98,11 @@ Massachusetts began to see COVID-19 cases in early March; case numbers and state
 
 Note that several eligibility categories in MA DPH’s guidelines in both versions query public safety factors, such as the individual’s risk of disease transmission to others, rather than the probability of an individual having COVID-19. Also note how epidemiological risk factors were adjusted \(removal of recent travel categories, no requirement for “close contact” with known cases, expansion of testing to essential workers besides healthcare workers\). Other institution-specific testing guidelines may approach eligibility from a purely clinical view, and may have a specific set of signs, laboratory findings, and/or imaging findings needed for inpatients, or telemedicine triage protocols to assess symptoms and signs for outpatients. Notably, MA DPH currently does not recommend state or commercial testing for any asymptomatic patients, even those who have been exposed.
 
-#### _Thought questions:_
+_Thought question:_
 
-**What factors would be important to consider in implementing a testing protocol for asymptomatic individuals? How might you weigh test characteristics, clinical management strategies, risks of testing, and economic implications?**  
-
+* What factors would be important to consider in implementing a testing protocol for asymptomatic individuals? How might you weigh test characteristics, clinical management strategies, risks of testing, and economic implications?
 
 ## Ancillary Studies
-
-### Workup for hospitalized patients
-
-Given initial resource limitations and delays of PCR testing, hospitals around the world have been working off a clinical diagnosis of COVID-19 while awaiting definitive microbiological diagnosis. Many have shared laboratory and imaging findings of COVID-19 cases, helping physicians more precisely determine the pre-test probability of a given patient having COVID-19. This is a brief review of these findings for hospitalized patients; how exactly each component corresponds to the viral pathophysiology is still under investigation.
 
 ### Laboratory diagnostics
 
@@ -127,7 +122,7 @@ A strong push has been made for identifying laboratory markers that can be used 
 
 Elevated procalcitonin has been shown to be associated with a higher risk of more severe SARS-CoV-2 infection. Whether this represents bacterial superinfection or an inherent feature of the immune system’s response to SARS-CoV-2 remains unclear \([Lippi et al., Clin Chim Acta 2020](https://www.sciencedirect.com/science/article/pii/S0009898120301066?via%3Dihub)\).
 
-MGH’s most recent [COVID-19 Management Guidelines](https://www.massgeneral.org/assets/MGH/pdf/news/coronavirus/mass-general-COVID-19-treatment-guidance.pdf) \(4.11.29\) recommend daily CBC, CMP, CPK, and Ferritin/CRP as well as PT/PTT/fibrinogen and d-dimer every other day for all patients admitted with confirmed or suspected COVID-19. Additionally they recommend LDH, troponin, and baseline ECG for risk stratification.
+MGH’s [COVID-19 Management Guidelines](https://www.massgeneral.org/assets/MGH/pdf/news/coronavirus/mass-general-COVID-19-treatment-guidance.pdf) \(4.20.20\) recommend daily CBC, CMP, CPK, and Ferritin/CRP as well as PT/PTT/fibrinogen and d-dimer every other day for all patients admitted with confirmed or suspected COVID-19. Additionally they recommend LDH, troponin, and baseline ECG for risk stratification.
 
 ### Imaging
 
