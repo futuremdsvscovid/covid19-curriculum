@@ -14,7 +14,7 @@ As discussed in [Module 5](https://curriculum.covidstudentresponse.org/module-5-
 
 ### PPE innovations from the Philippines - “Do it yourself” \(DIY\) face shields
 
-![DIY Face Shields, Philippines](../.gitbook/assets/image.png)
+![DIY Face Shields, Philippines](../.gitbook/assets/image%20%281%29.png)
 
 Due to an inadequate supply of PPE in the Philippines, student organizations and youth groups have created alternative means to procure them. This has led to DIY face shields designed and produced by graduating medical interns from the [Ateneo School of Medicine & Public Health](https://www.facebook.com/asmph2020/posts/636928666883996).
 
