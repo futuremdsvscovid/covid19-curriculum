@@ -67,7 +67,7 @@ A different rationale guides preferential testing of frontline healthcare worker
 
 It is unclear how consistently testing allocation schemes are being observed. In the U.S., a number of prominent figures, including [members of Congress](https://www.nytimes.com/2020/03/22/us/politics/coronavirus-rand-paul.html) and [NBA players](https://www.nytimes.com/2020/03/17/sports/brooklyn-nets-coronavirus.html), have been tested for COVID-19 despite being asymptomatic. One could argue that these individuals possess instrumental value \(such as leadership or media influence during a pandemic\) or associated risk factors \(such as essential travel and extensive close contacts\) that necessitate testing. However, if “instrumental value” is broadened to this extent, this could privilege the interests of the powerful and well-connected over those of the general public. 
 
-_Thought questions:_
+_Thought question:_
 
 * Given the current scarcity of diagnostic tests, communities will likely have differential access to early testing. How might disparities in access to early tests shape how the pandemic affects these communities in the long run?
 
@@ -85,7 +85,7 @@ Third, who gets a ventilator? If there are not enough ventilators for all patien
 
 Finally, who decides who gets a ventilator? There are various options. Some have suggested that clinicians intimately involved in the care of the patients in question should make those decisions - an approach known as ‘bedside rationing.’ Such decisions can be fraught with bias and emotional entanglements with patients \(e.g. ‘this patient reminds me of so-and-so’\), and can inflict a toll on clinical staff. In an effort to standardize allocation decisions and obviate the distress to frontline staff, there is a move for hospital committees to make allocation decisions \([Truog, et al NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2005689)\). Hospital committees consisting of doctors, various other clinical staff, and administrator, would meet and review cases. One clear advantage of this approach is that it allows for involvement of various stakeholder views including that of ‘community representatives.’ It may obviate the distress of bedside clinicians but may also make them feel that life-or- death decisions about their patients have been taken out of their hands. 
 
-_Thought Questions:_
+_Thought questions:_
 
 * If you had to allocate ventilator spots to a panel of patients, how would you decide? What criteria would you consider important, and why? 
 * When have you seen life-saving care rationed in the hospital on clinical rotations? 
@@ -96,7 +96,7 @@ On April 7, 2020, the Commonwealth of Massachusetts released Crisis Standards of
 
 In the days after the release of these recommendations, [public servants](https://www.wbur.org/commonhealth/2020/04/14/ayanna-pressley-critical-care-state-guidance-governor-letter) and [providers](https://docs.google.com/forms/d/e/1FAIpQLScxjXDKBrI8K2PC4eApInU-g8z9OIDcx4mexsmNeFhbTuX7Qg/viewform) taking a more **prioritarian** view pushed back, arguing that, "giving priority to those without serious comorbid illness, will disproportionately discriminate against vulnerable populations by serving as a proxy for race, ethnicity, immigration status, serious mental illness, and other sociodemographic characteristics."  
 
-_Thought Questions:_
+_Thought question:_
 
 * Some of these concerns are addressed in this [video](https://harvard.zoom.us/rec/play/78cuJr-oqT83HYaSsgSDAvV5W420J6yshycd_qcPnRrkUnICZ1P0MOcXa-dpX6Ohuuv_iCFOEnq51ifk?continueMode=true&_x_zm_rtaid=mr94-yfqRBeuOPt2jGvdQw.1586961053268.f2d6f3952872cdf123b2a8b1b2482f1f&_x_zm_rhtaid=839) recording of Surgical Grand Rounds at April 15, 2020, at the Beth Israel Deaconess Medical Center.  What do you make of Dr. Kristin Raven’s assessment at 44:16 that “unfortunately in a time of crisis, we can’t also make up for those longstanding disparities in care... certainly an important thing that needs to be taken into consideration after crisis standards”?
 

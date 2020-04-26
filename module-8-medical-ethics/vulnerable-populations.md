@@ -25,7 +25,7 @@ People with disabilities may not always require additional resources, however, a
 
 In his [New York Times Op-Ed](https://www.nytimes.com/2020/03/23/opinion/coronavirus-ventilators-triage-disability.html), Ari Ne’eman, a disability rights activist, advocates for a “first come first served” approach in efforts to avoid discriminatory behavior in healthcare delivery, especially during the COVID-19 crisis. Although he recognizes the sacrifice imposed by this approach, he argues that there is value in maintaining certain moral principles, explaining, _“I believe that nondiscrimination is not just a tool to accomplish an end — it also is an end in and of itself.”_
 
-_Thought Questions:_ 
+_Thought questions:_ 
 
 * Do you agree with Howe’s argument that care-providers may incorrectly assume that those with disabilities live less happy lives? If so, how do you think this affects their healthcare management? 
 * What ethical approach would you implement in your policy and action to avoid discriminatory behaviors against those with disabilities?
@@ -38,7 +38,7 @@ The American College of Obstetricians and Gynecologists, along with other medica
 
 In addition to the question of what constitutes "essential care," it is important to consider reasons abortions may be in higher demand during this pandemic. First, women may have difficulty accessing contraception if in quarantine, they have no safe way to travel to a pharmacy, or their pharmacy may have a shortage of their contraceptive medications. Second, [intimate partner violence often increases during disasters](https://www.unwomen.org/en/news/in-focus/in-focus-gender-equality-in-covid-19-response), and there may be higher rate of sexual assault and resulting pregnancies. Third, China has seen an increase in divorce rates after COVID-19, and times of marital instability and financial distress have been linked to greater demand for abortion. If demand for abortion increases while the availability of abortion decreases, many pregnant women seeking abortion will be unable to obtain one during this pandemic.
 
-_Thought Questions:_
+_Thought questions:_
 
 * Do you agree that abortion is an essential part of women’s healthcare? Why or why not?
 * How should we think about the use of PPE for surgical abortions as compared to other uses during this pandemic? What kind of demand for PPE is posed by an ongoing pregnancy and delivery?
