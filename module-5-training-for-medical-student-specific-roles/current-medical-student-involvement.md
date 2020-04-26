@@ -28,5 +28,6 @@ Regardless of the level of medical training, many students may be able to help w
 
 _Thought question:_
 
-* What are some clinical and non-clinical roles that you envision medical students performing to aid the response to the COVID-19 pandemic? 
+What are some clinical and non-clinical roles that you envision medical students performing to aid the response to the COVID-19 pandemic?  
+
 

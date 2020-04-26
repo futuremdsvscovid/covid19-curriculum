@@ -50,6 +50,7 @@
   * [Summary](module-4-communicating-information-about-covid-19/summary.md)
 * [Module 6: Training for Potential Clinical Roles](module-5-training-for-medical-student-specific-roles/README.md)
   * [Personal Protective Equipment](module-5-training-for-medical-student-specific-roles/personal-protective-equipment.md)
+  * [Being Mindfully Hygienic In The Age Of COVID-19](module-5-training-for-medical-student-specific-roles/being-mindfully-hygienic-in-the-age-of-covid-19.md)
   * [Triage](module-5-training-for-medical-student-specific-roles/triage.md)
   * [Mechanical Ventilation: The Basics](module-5-training-for-medical-student-specific-roles/mechanical-ventilation-the-basics.md)
   * [Current Medical Student Involvement](module-5-training-for-medical-student-specific-roles/current-medical-student-involvement.md)
