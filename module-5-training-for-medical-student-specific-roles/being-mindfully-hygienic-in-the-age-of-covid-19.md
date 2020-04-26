@@ -1,4 +1,4 @@
-# Being Mindfully Hygienic In The Age Of COVID-19
+# Being Mindfully Hygienic in the Age of COVID-19
 
 **Introduction**
 
@@ -6,9 +6,9 @@ There is good scientific evidence that the virus responsible for causing COVID-1
 
 Given this information, we must be keenly aware of the surfaces that we come into contact with as well as those carried with us while serving in the healthcare setting. Think of how many items we carry with us every day in the hospital: white coats, stethoscopes, shoes, badges, glasses, pens, pagers, cell phones--the list goes on. One way we can help ourselves, our patients, and those who live with us stay safe is by remaining diligent in reducing our exposure to contaminated surfaces through mindful hygiene practices. Many of the suggestions made below may require some difficult changes in behaviors, but keep in mind the substantial impact that these small changes in your behavior can have on the safety of those around you and ultimately in reducing the spread of COVID19. 
 
-_Thought Question_
+_Thought question_
 
-What are some surfaces you often carry with you/come into contact with in the clinical setting?
+* What are some surfaces you often carry with you/come into contact with in the clinical setting?
 
 ## **The Many Potential Surfaces for Exposure**
 
@@ -72,9 +72,9 @@ As you are well aware by now, hand washing or sanitizing is essential, especiall
 * Soap-Based: Lather hands with soap and scrub for 20 seconds before rinsing
 * Hand Sanitizers: Spread sanitizer over all surfaces of of hand and allow to dry completely \(effective alcohol-based hand sanitizers must have greater than or equal to 60% alcohol\)
 
-_Thought Question_
+_Thought question:_
 
-What are the unique surfaces you may come into contact with in your clinical setting and how will you reduce your risk of contact/exposure?
+* What are the unique surfaces you may come into contact with in your clinical setting and how will you reduce your risk of contact/exposure?
 
 ## **Hygiene At Home**
 
@@ -108,7 +108,7 @@ The main item here to be cognizant of is your cell phone. It is preferred that y
 * Designated trash and laundry bin in isolated location if possible
 * If possible/applicable, put on and remove scrubs in the clinical setting \(in designated locker/changing room\)
 
-_Thought Question_
+_Thought question:_
 
-What can you do to protect the people you live with from being exposed to COVID19?
+* What can you do to protect the people you live with from being exposed to COVID19?
 
