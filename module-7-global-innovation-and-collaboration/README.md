@@ -7,9 +7,9 @@ description: >-
 
 # Module 7: Global Innovation and Collaboration
 
-_Student Authors:_ Aditya Achanta¹, George Agyapong¹, Isaac Alty¹, Jeremie Kyle Angeles², Kathryn Ellyse Burgonio², Noelle Castilla-Ojo¹, Hassan Ali Daoud³, Michael Dykstra¹, Parisa Fallah¹, Luis Freitas⁴, Philippe Jefferson Galban², Jessica Laird¹, Jean Wilguens Lartigue⁵, Jonathan Niyotwambaza⁶, Gavin Ovsak¹, Kirstin Woody Scott¹, Ulrick Sidney⁷, Julius Nico Valdez², Angela Zou¹
+_Authors:_ Aditya Achanta¹, George Agyapong¹, Isaac Alty¹, Jeremie Kyle Angeles², Kathryn Ellyse Burgonio², Noelle Castilla-Ojo¹, Hassan Ali Daoud³, Michael Dykstra¹, Parisa Fallah¹, Luis Freitas⁴, Philippe Jefferson Galban², Jessica Laird¹, Jean Wilguens Lartigue⁵, Jonathan Niyotwambaza⁶, Gavin Ovsak¹, Kirstin Woody Scott¹, Ulrick Sidney⁷, Julius Nico Valdez², Angela Zou¹
 
-_Lead Editor:_ Michael Dykstra¹, [michael\_dykstra@hms.harvard.edu](mailto:michael_dykstra@hms.harvard.edu)
+_Editor:_ Michael Dykstra¹, [michael\_dykstra@hms.harvard.edu](mailto:michael_dykstra@hms.harvard.edu)
 
 ¹ Harvard Medical School, Boston, MA, USA  
 ² Ateneo School of Medicine and Public Health, Pasig City, Philippines  
@@ -19,7 +19,7 @@ _Lead Editor:_ Michael Dykstra¹, [michael\_dykstra@hms.harvard.edu](mailto:mich
 ⁶ University of Rwanda, College of Medicine and Health Sciences, Kigali, Rwanda  
 ⁷ Faculty of Medicine, Bel Campus University of Technology, Kinshasa, Democratic Republic of Congo
 
-_Faculty Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho](https://ughe.org/meet-the-team/agnes-binagwaho/), MD, PhD**¹**; [Cameron Nutt](https://connects.catalyst.harvard.edu/Profiles/display/Person/122757), MD**²  
+_Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho](https://ughe.org/meet-the-team/agnes-binagwaho/), MD, PhD**¹**; [Cameron Nutt](https://connects.catalyst.harvard.edu/Profiles/display/Person/122757), MD**²  
 ¹** University of Global Health Equity, Butaro, Rwanda  
 **²** Brigham and Women’s Hospital, Boston, MA, USA
 

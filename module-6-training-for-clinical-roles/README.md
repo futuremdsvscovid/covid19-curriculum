@@ -6,11 +6,11 @@ description: >-
 
 # Module 6: Training for Potential Clinical Roles
 
-_Student authors:_ James Agolia; Taylor Brown; Fang Cao; Bina Kassamali; Soumyaa Mazumder; Katherine McDaniel, MSc; Niyi Odewade; Alexander Ordoobadi; Simone Sasse; Sanjana Srinivasan; Rachel Weitzman; Denston Carey, Jr. 
+_Authors:_ James Agolia; Taylor Brown; Fang Cao; Soumyaa Mazumder; Katherine McDaniel, MSc; Niyi Odewade; Alexander Ordoobadi; Simone Sasse; Sanjana Srinivasan; Rachel Weitzman; Denston Carey, Jr. 
 
-_Faculty reviewers:_ Jeremy B. Richards, MD; Harvey Simon, MD; Clyde Crumpacker, MD; Jennifer Potter, MD; Eve Rittenberg, MD; Nhi-Ha Trinh, MD, MPH
+_Editor:_ Bina Kassamali, [Bina\_Kassamali@hms.harvard.edu](mailto:Bina_Kassamali@hms.harvard.edu)
 
-_Infectious Disease Fellow reviewer_: Christian Larsen, MD
+_Reviewers:_ Jeremy B. Richards, MD; Harvey Simon, MD; Clyde Crumpacker, MD; Christian Larsen, MD; Jennifer Potter, MD; Eve Rittenberg, MD; Nhi-Ha Trinh, MD, MPH
 
 The COVID-19 pandemic has prompted numerous questions as to how best to prepare medical students to engage in efforts to stop the disease. This sixth module guides the reader through relevant information to smooth the transition onto hospital floors and play important roles in the clinic. Protocols regarding testing, triage, and PPE use for managing COVID-19 are constantly evolving at an institutional, state, and federal level.
 
