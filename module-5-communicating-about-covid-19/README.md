@@ -13,6 +13,8 @@ _Editor:_ [Andrew Foley](mailto:andrew_folely@hms.harvard.edu), MPH
 
 _Reviewers:_ Kate Treadway, MD; Katie Greenzang, MD, EdM; Andrea Wershof Schwartz, MD, MPH; Jocelyn Streid, MPP
 
+## Introduction
+
 As physicians, we must master not only the science of medicine but also the art. Module 4 discusses how the pandemic is a tremendous [psychological trauma](https://curriculum.covidstudentresponse.org/module-4-mental-health-in-the-time-of-covid-19/evolving-clinical-practices-in-mental-healthcare#trauma-informed-care-and-universal-precautions) for everyone. While not everyone will become infected with SARS-CoV-19, in the setting of a pandemic, everyone is a patient. The art of medicine involves bringing that recognition to our encounters with _friends_ and _family,_ as well as to _patients_ in a direct clinical setting. Furthermore, social distancing measures impose new realities on what interactions can even look like. These changes are as good a time as any to review the communication skills that will serve us well in this uncertain time.
 
 We’ve now discussed [**Brian and Diane**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) in the context of their medical risk and why our community benefits from all of us practicing social distancing. But knowing the facts is only a small part of effective engagement. In this module, we pivot to developing concrete tools that can help us communicate effectively with individuals like Brian and Diane.
