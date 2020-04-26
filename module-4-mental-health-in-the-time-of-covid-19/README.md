@@ -22,11 +22,7 @@ How we as medical providers can respond to these increased mental healthcare nee
 
 Module 4 of the curriculum will teach students about the mental health ramifications of the COVID-19 pandemic. We will first utilize our two longitudinal cases - [Brian and Diane](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) - to demonstrate how the biopsychosocial framework can illuminate the many stressors COVID-19 is currently inflicting on our patients. Second, we will address[ populations](special-considerations-for-at-risk-populations.md) that may be particularly vulnerable to mental health sequelae and special considerations we must take when working with these patients. These include healthcare workers, elderly patients, pregnant women, patients with pre-existing mental health conditions, patients experiencing homelessness, individuals experiencing intimate partner violence, and several minority communities. And finally, we will outline the ways we can expect clinical care and mental healthcare delivery to change as a result of COVID-19. This section introduces a framework to help us evaluate the mental health resources available for our patients, an update on the use of telehealth during the crisis, and a set of trauma-informed precautions that should guide our patient encounters in the months ahead.
 
-## Overarching Learning Goal: 
-
-Critically assess how the COVID-19 pandemic affects the mental health of patients, with a focus on specific at-risk populations, and also identify basic tools for responding to these changes in the clinical setting. 
-
-## Learning Objectives: 
+## Learning Objectives
 
 At the end of this module, medical students should be able to: 
 
