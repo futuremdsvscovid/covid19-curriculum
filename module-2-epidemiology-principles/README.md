@@ -7,11 +7,11 @@ description: >-
 
 # Module 2: Epidemiology Principles
 
-_Student Authors:_ Jakub Glowala; Kiryung Kim; Katherine McDaniel, MSc; Katherine Nabel; Deborah Plana; Emily Rencsok.
+_Authors:_ Jakub Glowala; Kiryung Kim; Katherine Nabel; Deborah Plana; Emily Rencsok.
 
-_Faculty Reviewers:_ Wolfram Goessling, MD, PhD; Andrea Wershof Schwartz, MD, MPH; William Hanage, PhD.
+_Editor:_ [Katherine McDaniel](mailto:katherine_mcdaniel@hms.harvard.edu), MSc
 
-_Additional Reviewers:_ Rebecca Kahn, MS; James Hay, PhD.
+_Reviewers:_ Wolfram Goessling, MD, PhD; Andrea Wershof Schwartz, MD, MPH; William Hanage, PhD; Rebecca Kahn, MS; James Hay, PhD
 
 **Highlight of Updates \(4/17/20\):  
 \(Reviewed by Rebecca Kahn, MS; Wolfram Goessling, MD, PhD\)**

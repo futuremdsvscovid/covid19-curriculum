@@ -7,11 +7,13 @@ description: >-
 
 # Module 3: Health Disparities, Policy Changes, and Socioeconomic Effects in the U.S.
 
-_Student Authors:_  Stephanie Alden, Lucy Chen, Michael Fuchs, Ashwini Joshi, Hemen Muleta, Fejiro Okifo, Hema Pingali, Morgan Sehdev, Katie Shaffer
+_Authors:_ Lucy Chen, Michael Fuchs, Ashwini Joshi, Hemen Muleta, Fejiro Okifo, Hema Pingali, Morgan Sehdev
 
-_Faculty Reviewers:_ Brian Chan, MD, MPH; Michael Dougan, MD, PhD; Jennifer Kasper, MD, MPH
+_Editors:_ [Stephanie Alden](mailto:stephanie_alden@hms.harvard.edu), [Katie Shaffer](mailto:katherine_shaffer@hms.harvard.edu)
 
-_Past Faculty Reviewers:_ Holly Rawizza, MD
+_Reviewers:_ Brian Chan, MD, MPH; Michael Dougan, MD, PhD; Jennifer Kasper, MD, MPH
+
+_Past Reviewers:_ Holly Rawizza, MD
 
 **Highlight of Updates \(4/25/2020\):**
 

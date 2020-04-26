@@ -6,11 +6,11 @@ description: >-
 
 # Module 4: Mental Health in the Time of COVID-19
 
-_Authors_:  Okechi Boms, Taylor Brown, Sun Fletcher, Katie Kester, Danny Linggonegoro, Catherine Mankiw, Katherine McDaniel, Larisa Shagababayeva
+_Authors:_ Okechi Boms, Taylor Brown, Sun Fletcher, Katie Kester, Danny Linggonegoro, Catherine Mankiw, Katherine McDaniel, Larisa Shagababayeva
 
-_Editor:_ Catherine Mankiw, [catherine\_mankiw@hms.harvard.edu](mailto:catherine_mankiw@hms.harvard.edu)
+_Editor:_ [Catherine Mankiw](mailto:catherine_mankiw@hms.harvard.edu)
 
-_Reviewer_s: Jennifer Potter, MD; Fernando Rodriguez-Villa, MD; Nhi-Ha Trinh, MD, MPH; Aliya Feroe, King Fok
+_Reviewers:_ Jennifer Potter, MD; Fernando Rodriguez-Villa, MD; Nhi-Ha Trinh, MD, MPH; Aliya Feroe, King Fok
 
 ## Introduction
 
