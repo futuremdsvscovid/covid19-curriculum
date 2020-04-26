@@ -9,7 +9,7 @@ description: >-
 
 _Authors_: James Agolia, Michelle Bayefsky, Samuel Doernberg, Melody Huang, Margaret Irwin, Bina Kassamali, Katie Kester, Benjamin Landwersiek, Sun Fletcher, Soumyaa Mazumder, Niyi Odewade, Larisa Shagabayeva, Derek Soled, Sanjana Srinivasan, Maria Thomas, Allen Zhou, Angela Zou
 
-_Editor:_ Derek Soled, [derek\_soled@hms.harvard.edu](mailto:derek_soled@hms.harvard.edu)
+_Editor:_ [Derek Soled](mailto:derek_soled@hms.harvard.edu), MSc
 
 _Reviewers_: Edward Hundert, MD; David S. Jones, MD, PhD; Louise King, MD, JD; Christine Mitchell, RN, MS, MTS, FAAN; Robert D. Truog, MD; David Urion, MD; Matthew Baum, PhD, DPhil; Pamela Chen; Rahul Nayak, MD; Sophia Yin
 

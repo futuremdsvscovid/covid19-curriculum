@@ -7,9 +7,9 @@ description: >-
 
 # Module 7: Global Innovation and Collaboration
 
-_Authors:_ Aditya Achanta¹, George Agyapong¹, Isaac Alty¹, Jeremie Kyle Angeles², Kathryn Ellyse Burgonio², Noelle Castilla-Ojo¹, Hassan Ali Daoud³, Michael Dykstra¹, Parisa Fallah¹, Luis Freitas⁴, Philippe Jefferson Galban², Jessica Laird¹, Jean Wilguens Lartigue⁵, Jonathan Niyotwambaza⁶, Gavin Ovsak¹, Kirstin Woody Scott¹, Ulrick Sidney⁷, Julius Nico Valdez², Angela Zou¹
+_Authors:_ Aditya Achanta¹, George Agyapong¹, Isaac Alty¹, Jeremie Kyle Angeles², Kathryn Ellyse Burgonio², Noelle Castilla-Ojo¹, Hassan Ali Daoud³, Parisa Fallah¹, Luis Freitas⁴, Philippe Jefferson Galban², Jessica Laird¹, Jean Wilguens Lartigue⁵, Jonathan Niyotwambaza⁶, Gavin Ovsak¹, Kirstin Woody Scott¹, Ulrick Sidney⁷, Julius Nico Valdez², Angela Zou¹
 
-_Editor:_ Michael Dykstra¹, [michael\_dykstra@hms.harvard.edu](mailto:michael_dykstra@hms.harvard.edu)
+_Editor:_ [Michael Dykstra](mailto:michael_dykstra@hms.harvard.edu)¹
 
 ¹ Harvard Medical School, Boston, MA, USA  
 ² Ateneo School of Medicine and Public Health, Pasig City, Philippines  

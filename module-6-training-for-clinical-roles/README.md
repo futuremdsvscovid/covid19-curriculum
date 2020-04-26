@@ -8,7 +8,7 @@ description: >-
 
 _Authors:_ James Agolia; Taylor Brown; Fang Cao; Soumyaa Mazumder; Katherine McDaniel, MSc; Niyi Odewade; Alexander Ordoobadi; Simone Sasse; Sanjana Srinivasan; Rachel Weitzman; Denston Carey, Jr. 
 
-_Editor:_ Bina Kassamali, [Bina\_Kassamali@hms.harvard.edu](mailto:Bina_Kassamali@hms.harvard.edu)
+_Editor:_ [Bina Kassamali](mailto:bina_kassamali@hms.harvard.edu)
 
 _Reviewers:_ Jeremy B. Richards, MD; Harvey Simon, MD; Clyde Crumpacker, MD; Christian Larsen, MD; Jennifer Potter, MD; Eve Rittenberg, MD; Nhi-Ha Trinh, MD, MPH
 
