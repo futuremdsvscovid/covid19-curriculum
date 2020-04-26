@@ -20,19 +20,19 @@ Introduce epidemiological principles underlying the current public health interv
 
 Appreciate the complex and rapidly changing landscape of the COVID-19 pandemic as it stands in the United States, as well as the adapting responses of the healthcare system and society as a whole.
 
-\*\*\*\*[**Module 4: Communicating Information about COVID-19**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-4-communicating-information-about-covid-19)
+\*\*\*\*[**Module 5: Communicating Information about COVID-19**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-4-communicating-information-about-covid-19)
 
 Now that you’ve bolstered your COVID-19 knowledge, prepare to productively communicate that information, especially with a non-medical audience who may have varying attitudes towards the pandemic.
 
-\*\*\*\*[**Module 5: Training for Potential Clinical Roles**](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles)\*\*\*\*
+\*\*\*\*[**Module 6: Training for Potential Clinical Roles**](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles)\*\*\*\*
 
 Develop technical know-how in preparation for roles that medical students may play in the clinical setting.
-
-\*\*\*\*[**Module 6: Medical Ethics in Relation to COVID-19**](../module-6-medical-ethics-in-relation-to-covid-19/)\*\*\*\*
-
-Discuss various ethical controversies related to COVID-19, and apply ethical frameworks to examine the impacts of personal, medical, and governmental decisions related to the pandemic.
 
 \*\*\*\*[**Module 7: Global Innovation and Collaboration**](https://curriculum.covidstudentresponse.org/module-7-global-innovation-and-collaboration-in-response-to-the-pandemic)\*\*\*\*
 
 Explore collaborative innovation and shared experiences regarding optimizing “staff, stuff, space, and systems” between countries of all income levels as they relate to COVID-19.
+
+[**Module 8: Medical Ethics in Relation to COVID-19**](../module-6-medical-ethics-in-relation-to-covid-19/)\*\*\*\*
+
+Discuss various ethical controversies related to COVID-19, and apply ethical frameworks to examine the impacts of personal, medical, and governmental decisions related to the pandemic.
 
