@@ -42,6 +42,7 @@ Similar to food insecurity, the risk for housing insecurity is increased with lo
 
 ### Further Reading
 
+* Crowding and unstable housing conditions in Chelsea, Massachusetts:[ In a crowded city, leaders struggle to separate the sick from the well](https://www.nytimes.com/2020/04/25/us/coronavirus-chelsea-massachusetts.html)
 * Resources for preventing spread of infectious disease among those with unstable housing: [Infectious Disease Toolkit for CoCs](https://www.hudexchange.info/resource/5985/infectious-disease-toolkit-for-cocs/?utm_source=HUD+Exchange+Mailing+List&utm_campaign=453c25fdc2-Health+Prepare+CoC+3.2.20&utm_medium=email&utm_term=0_f32b935a5f-453c25fdc2-19540589)
 
 ## Impact on Work: Small Businesses, Essential Workers, and Unemployment
