@@ -34,7 +34,7 @@ In short, focusing on facts without feelings will only make the conversation wor
 
 _Thought Question:_ 
 
-* As we hear from Dr. Laura Rock during Clinical Capstone, “Emotions before cognition.” How does the principle of responding to emotions before cognition surface in the attached resource, [COVID ready communication](https://docs.google.com/document/d/1uSh0FeYdkGgHsZqem552iC0KmXIgaGKohl7SoeY2UXQ/mobilebasic)?
+* Look at some of the dialogues in the resource, [COVID ready communication](https://docs.google.com/document/d/1uSh0FeYdkGgHsZqem552iC0KmXIgaGKohl7SoeY2UXQ/mobilebasic). How do the three conversations surface?
 
 It is equally important that you take stock of your own reactions in preparing for potentially difficult encounters with patients. Anticipating your own negative feelings–especially in light of how stressed you are or how many demands are being placed on you–may help you recognize these emotions and let them go in the interest of a more productive interaction. For example, you may find that the anxiety of patients who are not sick or the demands of patients who are mildly ill evoke in you feelings of annoyance, and even anger, when you are simultaneously seeing severely ill patients. These are perfectly normal reactions, but they will not lead to productive encounters. The important thing is to accept your feelings and try to let them go as you turn your attention to each particular patient.
 
