@@ -10,7 +10,7 @@ _Student Authors_:  Okechi Boms, Taylor Brown, Sun Fletcher, Katie Kester, Danny
 
 _Student Reviewers_: Aliya Feroe, King Fok
 
-_Faculty Reviewer_s: Jennifer Potter, MD; Fernando Rodriguez-Villa, MD; Nhi-Ha Trinh, MD, MPH;
+_Faculty Reviewer_s: Jennifer Potter, MD; Fernando Rodriguez-Villa, MD; Nhi-Ha Trinh, MD, MPH
 
 ## Introduction
 
