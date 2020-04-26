@@ -66,7 +66,7 @@ So far, we have discussed the rightness of acts, but these principles are also r
 * Negligence occurs in situations in which a duty to use reasonable care is owed to another person. An injury results from a failure to use reasonable care.
 * Reasonable care may be determined by the applicable standards of care, by statute, or by previous judicial decisions known as precedents. If a duty is not performed with reasonable care, a physician may be held responsible.
 
-_Thought Questions_:
+_Thought questions_:
 
 * How can physicians and healthcare providers balance respect for the autonomy of patients while providing their own medical opinions/recommendations? For example, how can we balance a patient’s refusal to quarantine after a positive test for COVID-19 versus a public health requirement to quarantine?
 * Should the fundamental principle of justice be based upon equality or equity? For example, should everyone with COVID-19 be given equal access to ventilators, no matter how sick, or should those who are sickest be favored?
