@@ -9,8 +9,6 @@ description: >-
 
 _Student Authors_: James Agolia, Michelle Bayefsky, Samuel Doernberg, Melody Huang, Margaret Irwin, Bina Kassamali, Katie Kester, Benjamin Landwersiek, Sun Fletcher, Soumyaa Mazumder, Niyi Odewade, Larisa Shagabayeva, Derek Soled, Sanjana Srinivasan, Maria Thomas, Allen Zhou, Angela Zou
 
-_Lead Editor_: Derek Soled, MSc \([Derek\_soled@hms.harvard.edu](mailto:Derek_soled@hms.harvard.edu)\)
-
 _Peer Reviewers_: Matthew Baum, PhD, DPhil; Pamela Chen; Rahul Nayak, MD; Sophia Yin
 
 _Faculty Reviewers_: Edward Hundert, MD; David S. Jones, MD, PhD; Louise King, MD, JD; Christine Mitchell, RN, MS, MTS, FAAN; Robert D. Truog, MD; David Urion, MD
