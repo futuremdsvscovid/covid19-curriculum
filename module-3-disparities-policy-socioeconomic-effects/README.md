@@ -9,7 +9,7 @@ description: >-
 
 _Authors:_ Stephanie Alden, Lucy Chen, Michael Fuchs, Ashwini Joshi, Hemen Muleta, Fejiro Okifo, Hema Pingali, Morgan Sehdev
 
-_Editors:_ [Katie Shaffer](mailto:katherine_shaffer@hms.harvard.edu)
+_Editor:_ [Katie Shaffer](mailto:katherine_shaffer@hms.harvard.edu)
 
 _Reviewers:_ Brian Chan, MD, MPH; Michael Dougan, MD, PhD; Jennifer Kasper, MD, MPH
 
