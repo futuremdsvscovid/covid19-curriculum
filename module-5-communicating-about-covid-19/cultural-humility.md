@@ -16,7 +16,7 @@ If you need a brainstorm bump, consider the following circumstances or review th
 * A person who distrusts the medical establishment because of prior experiences. 
 * Persons with disability who rely on personal care assistants to do their grocery shopping and to pick up their medications.
 
-In recent months, fear has bred more [xenophobia and racism](https://time.com/5797836/coronavirus-racism-stereotypes-attacks/). How can you respond when you see these remarks waged against others or yourself? We can look towards research on microaggressions--defined as verbal, behavioral, or institutional actions that communicate hostility or prejudice towards marginalized groups--for suggestions on how to react. One framework on how to respond to perpetrators of microaggressions \(or macroaggressions\) is modified from \([Sue et al., Am Psych 2019](https://www.ncbi.nlm.nih.gov/pubmed/30652905)\):
+In recent months, fear has bred more [xenophobia and racism](https://time.com/5797836/coronavirus-racism-stereotypes-attacks/). How can you respond when you see these remarks waged against others or yourself? We can look towards research on microaggressions–defined as verbal, behavioral, or institutional actions that communicate hostility or prejudice towards marginalized groups–for suggestions on how to react. One framework on how to respond to perpetrators of microaggressions \(or macroaggressions\) is modified from \([Sue et al., Am Psych 2019](https://www.ncbi.nlm.nih.gov/pubmed/30652905)\):
 
 * **Make the invisible visible.** Ask for clarification. Try to see where they’re coming from.
 * **Disarm the microaggression.** Express disagreement, state your limit, or redirect the conversation.
