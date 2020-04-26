@@ -10,7 +10,7 @@ description: 'Click the links below to view downloadable one-page summaries of e
 
 \*\*\*\*[**Module 3: Current Situation: Research Efforts, Policy Changes, and Health Disparities in the U.S.**](https://docs.google.com/document/d/1m9sB3OwzAE560a3GOL65RVfFR_gQu85ZpulziU1RCdc/edit#heading=h.9dyolvmurlmw)
 
-[**Module 4: Mental Health in the Time of COVID-19**](https://curriculum.covidstudentresponse.org/module-4-mental-health-in-the-time-of-covid-19)\*\*\*\*
+**Module 4: Mental Health in the Time of COVID-19**
 
 \*\*\*\*[**Module 5: Communicating Information about COVID-19**](https://docs.google.com/document/d/1QM3Xr9yIl3k7thI4d7EnC4_5zGpwjRnJZj7gZBSJbPY/edit?usp=sharing)\*\*\*\*
 
