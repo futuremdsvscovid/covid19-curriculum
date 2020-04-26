@@ -8,7 +8,7 @@ description: 'Click the links below to view downloadable one-page summaries of e
 
 \*\*\*\*[**Module 2: Epidemiology Principles**](https://docs.google.com/document/d/1pmXGlyV5tl2Yp81bMPMk8S0wgVL1SM6p7wxqN6Pey1Q/edit?usp=sharing)\*\*\*\*
 
-\*\*\*\*[**Module 3: Current Situation: Research Efforts, Policy Changes, and Health Disparities in the U.S.**](https://docs.google.com/document/d/1m9sB3OwzAE560a3GOL65RVfFR_gQu85ZpulziU1RCdc/edit#heading=h.9dyolvmurlmw)
+\*\*\*\*[**Module 3: Health Disparities, Policy Changes, and Socioeconomic Effects in the U.S.**](https://docs.google.com/document/d/1m9sB3OwzAE560a3GOL65RVfFR_gQu85ZpulziU1RCdc/edit#heading=h.9dyolvmurlmw)\*\*\*\*
 
 **Module 4: Mental Health in the Time of COVID-19**
 
