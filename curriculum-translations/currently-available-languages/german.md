@@ -18,8 +18,6 @@ Translations courtesy of  Miriam Burger, MD,  Zurich Switzerland \([www.whis.uk]
 
 Translations courtesy of Katharine Baugmart \(katharina.baumgart@student.uni-tuebingen.de\)
 
-
-
 ## [Module 5 Summary ](https://docs.google.com/document/d/1il-KeG4mExUgzEMa-9nxPbEFispIqJY6/edit#heading=h.gjdgxs)
 
 Translations courtesy of Katharine Baugmart \(katharina.baumgart@student.uni-tuebingen.de\)
