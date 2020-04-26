@@ -12,7 +12,7 @@ _Faculty reviewers:_ Jeremy B. Richards, MD; Harvey Simon, MD; Clyde Crumpacker,
 
 _Infectious Disease Fellow reviewer_: Christian Larsen, MD
 
-The COVID-19 pandemic has prompted numerous questions as to how best to prepare medical students to engage in efforts to stop the disease. This fifth module guides the reader through relevant information to smooth the transition onto hospital floors and play important roles in the clinic. Protocols regarding testing, triage, and PPE use for managing COVID-19 are constantly evolving at an institutional, state, and federal level.
+The COVID-19 pandemic has prompted numerous questions as to how best to prepare medical students to engage in efforts to stop the disease. This sixth module guides the reader through relevant information to smooth the transition onto hospital floors and play important roles in the clinic. Protocols regarding testing, triage, and PPE use for managing COVID-19 are constantly evolving at an institutional, state, and federal level.
 
 In short, PPE minimizes exposures to hazards that result in serious infectious illnesses by creating a barrier between the healthcare worker and the infectious agent. For COVID-19, gloves protect the hands, gowns protect skin and clothing, masks and respirators protect nose and mouth, and goggles and face shields protect eyes and the entire face.  It is important to develop an understanding of how to safely put on, take off, and, at least currently, re-use such equipment to minimize the contraction and continued spread of the virus. 
 
@@ -22,11 +22,7 @@ In addition to providing relevant information regarding PPE use, triaging, and m
 
 Finally, these are stressful, even traumatic times. Just as you protect your physical health, protecting your mental health and wellbeing is equally as important. This final section of this module instructs on ways to protect your own wellbeing and that of loved ones and colleagues using the principles of trauma-informed care.
 
-**OVERARCHING LEARNING GOAL:**
-
-Prepare medical students for potential clinical roles in the COVID-19 response in healthcare facilities
-
-## Learning Objectives:
+## Learning Objectives
 
 By the end of this module, medical students should be able to:
 
