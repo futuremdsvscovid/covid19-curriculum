@@ -4,7 +4,7 @@
 
 This section will discuss ethical questions that are particularly relevant to a range of vulnerable patient populations. By “vulnerable,” we mean patients who may be at particular risk of suffering physical or mental health consequences, financial hardship, or discrimination. Vulnerable populations may require additional aid and protection during a time of crisis, and, yet, can often be forgotten when public health measures are enacted for the population as a whole. This section will remind us of crucial issues and concerns affecting vulnerable groups.
 
-Please note that the ethics relating to homeless, low-income populations, and communities facing racism and xenophobia can be found in [Module 3](../module-3-current-situation-and-healthcare-response/), as well as in the supplemental material [here](https://docs.google.com/document/d/1knR5wday0HM4rb5ic2fV0qRpVIEgn-OGHk8Q8RCHcR0/edit?usp=sharing).
+Please note that the ethics relating to homeless, low-income populations, and communities facing racism and xenophobia can be found in [Module 3](../module-3-disparities-policy-socioeconomic-effects/), as well as in the supplemental material [here](https://docs.google.com/document/d/1knR5wday0HM4rb5ic2fV0qRpVIEgn-OGHk8Q8RCHcR0/edit?usp=sharing).
 
 ## **Children** 
 
