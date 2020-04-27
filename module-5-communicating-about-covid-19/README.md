@@ -11,11 +11,11 @@ _Authors:_ Isaac Alty; Wesley Chou; Michael Kochis, EdM; Ashwini Joshi; and Joyc
 
 _Editor:_ [Andrew Foley](mailto:andrew_folely@hms.harvard.edu), MPH
 
-_Reviewers:_ Kate Treadway, MD; Katie Greenzang, MD, EdM; Andrea Wershof Schwartz, MD, MPH; Jocelyn Streid, MPP; Aliya Feroe
+_Reviewers:_ Kate Treadway, MD; Katie Greenzang, MD, EdM; Andrea Wershof Schwartz, MD, MPH; Jocelyn Streid, MPP; Aliya Feroe; Catherine Mankiw
 
 ## Introduction
 
-As physicians, we must master not only the science of medicine but also the art. Module 4 discusses how the pandemic is a tremendous [psychological trauma](https://curriculum.covidstudentresponse.org/module-4-mental-health-in-the-time-of-covid-19/evolving-clinical-practices-in-mental-healthcare#trauma-informed-care-and-universal-precautions) for everyone. While not everyone will become infected with SARS-CoV-19, in the setting of a pandemic, everyone is a patient. The art of medicine involves bringing that recognition to our encounters with friends and family, as well as to patients in a direct clinical setting. Furthermore, physical distancing measures impose new realities on what interactions can look like. Adapting to these changes presents the perfect opportunity to review the communication skills that will serve us well in this uncertain time.
+As physicians, we must master not only the science of medicine but also the art. Module 4 discusses how the pandemic is a tremendous [psychological trauma](https://curriculum.covidstudentresponse.org/module-4-mental-health-in-the-time-of-covid-19/evolving-clinical-practices-in-mental-healthcare#trauma-informed-care-and-universal-precautions) for all of society: While not everyone will become infected with SARS-CoV-19, in the setting of a pandemic, everyone is a patient. The art of medicine involves bringing that recognition to our encounters with friends and family, as well as to patients in a direct clinical setting. Furthermore, physical distancing measures impose new realities on what interactions can look like. Adapting to these changes presents the perfect opportunity to review the communication skills that will serve us well in this uncertain time.
 
 Additionally, there is a renewed sense of urgency surrounding conversations on advance care planning \(ACP\), given the disproportionate burden of COVID-19 on the elderly and those with serious illness. While medical students may not necessarily spearhead these challenging conversations, they can play a critical role in prompting busy care teams to discuss ACP with patients. Thus, familiarizing themselves with what ACP entails and frameworks for approaching it are certainly relevant to every medical student’s education.
 

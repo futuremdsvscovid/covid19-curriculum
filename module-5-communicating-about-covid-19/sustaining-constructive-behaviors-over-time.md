@@ -14,7 +14,7 @@ _Thought Question_:
 
 ## Motivational Interviewing
 
-This section will provide a refresher course on the principles of motivational interviewing, as discussed in ICS module 12. When engaging people in conversations about behavior changes, the four processes central to the approach are as follows:
+This section will provide a refresher course on the principles of motivational interviewing. When engaging people in conversations about behavior changes, the four processes central to the approach are as follows:
 
 ![Graphic from the IFIOC Course: Introduction to Motivational Interviewing, Kelly Franklin](../.gitbook/assets/motivational-interviewing.png)
 
