@@ -19,7 +19,7 @@ As physicians, we must master not only the science of medicine but also the art.
 
 Additionally, there is a renewed sense of urgency surrounding conversations on advance care planning \(ACP\), given the disproportionate burden of COVID-19 on the elderly and those with serious illness. While medical students may not necessarily spearhead these challenging conversations, they can play a critical role in prompting busy care teams to discuss ACP with patients. Thus, familiarizing themselves with what ACP entails and frameworks for approaching it are certainly relevant to every medical student’s education.
 
-We’ve now discussed [**Brian and Diane**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) in the context of their medical risk and why our community benefits from all of us practicing physical distancing. But knowing the facts is only a small part of effective engagement. In this module, we pivot to developing concrete tools that can help us communicate effectively with individuals like Brian and Diane.
+We’ve now discussed [**Brian and Diane**](https://curriculum.covidstudentresponse.org/curriculum-overview/cases) in the context of their medical and mental health risk and why our community benefits from all of us practicing physical distancing. But knowing the facts is only a small part of effective engagement. In this module, we pivot to developing concrete tools that can help us communicate effectively with individuals like Brian and Diane.
 
 Think of the people in your own life who may be struggling in similar ways to Brian and Diane. What makes communicating with them challenging, and how may you try to understand or support them differently?
 
