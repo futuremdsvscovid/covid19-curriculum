@@ -44,6 +44,7 @@
   * [Summary](module-4-mental-health-in-the-time-of-covid-19/summary.md)
 * [Module 5: Communicating Information about COVID-19](module-5-communicating-about-covid-19/README.md)
   * [Skillset Review](module-5-communicating-about-covid-19/skillset-review.md)
+  * [Advance Care Planning](module-5-communicating-about-covid-19/advance-care-planning.md)
   * [Cultural Humility & Meeting People Where They Are](module-5-communicating-about-covid-19/cultural-humility.md)
   * [Sustaining Constructive Behaviors Over Time](module-5-communicating-about-covid-19/sustaining-constructive-behaviors-over-time.md)
   * [Activity: Putting it to Practice](module-5-communicating-about-covid-19/activity-putting-it-to-practice.md)
