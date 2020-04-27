@@ -19,10 +19,9 @@ _Editor:_ [Michael Dykstra](mailto:michael_dykstra@hms.harvard.edu)¹
 ⁶ University of Rwanda, College of Medicine and Health Sciences, Kigali, Rwanda  
 ⁷ Faculty of Medicine, Bel Campus University of Technology, Kinshasa, Democratic Republic of Congo
 
-_Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho](https://ughe.org/meet-the-team/agnes-binagwaho/), MD, PhD**¹**; [Cameron Nutt](https://connects.catalyst.harvard.edu/Profiles/display/Person/122757), MD**²**; [Leonard Kabongo](https://www.linkedin.com/in/leonard-kabongo-3b82b247/), MD, MSc³  
-**¹** University of Global Health Equity, Butaro, Rwanda  
-**²** Brigham and Women’s Hospital, Boston, MA, USA
-
+_Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho](https://ughe.org/meet-the-team/agnes-binagwaho/), MD, PhD¹; [Cameron Nutt](https://connects.catalyst.harvard.edu/Profiles/display/Person/122757), MD²; [Leonard Kabongo](https://www.linkedin.com/in/leonard-kabongo-3b82b247/), MD, MSc³  
+****¹ University of Global Health Equity, Butaro, Rwanda  
+² Brigham and Women’s Hospital, Boston, MA, USA  
 ³ Ministry of Health and Social Services, Gobabis, Namibia  
 
 
