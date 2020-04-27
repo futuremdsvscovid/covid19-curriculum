@@ -19,17 +19,20 @@ _Editor:_ [Michael Dykstra](mailto:michael_dykstra@hms.harvard.edu)¹
 ⁶ University of Rwanda, College of Medicine and Health Sciences, Kigali, Rwanda  
 ⁷ Faculty of Medicine, Bel Campus University of Technology, Kinshasa, Democratic Republic of Congo
 
-_Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho](https://ughe.org/meet-the-team/agnes-binagwaho/), MD, PhD**¹**; [Cameron Nutt](https://connects.catalyst.harvard.edu/Profiles/display/Person/122757), MD**²  
-¹** University of Global Health Equity, Butaro, Rwanda  
+_Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho](https://ughe.org/meet-the-team/agnes-binagwaho/), MD, PhD**¹**; [Cameron Nutt](https://connects.catalyst.harvard.edu/Profiles/display/Person/122757), MD**²**; [Leonard Kabongo](https://www.linkedin.com/in/leonard-kabongo-3b82b247/), MD, MSc³  
+**¹** University of Global Health Equity, Butaro, Rwanda  
 **²** Brigham and Women’s Hospital, Boston, MA, USA
+
+³ Ministry of Health and Social Services, Gobabis, Namibia  
+
 
 ## **Introduction**
 
-As of early April 2020, the reported morbidity and mortality from COVID-19 in low and middle income countries \(LMICs\) has been [relatively limited](https://www.bbc.com/news/world-africa-52058717) but is [quickly increasing](https://qz.com/africa/1827789/coronavirus-ghana-senegal-burkina-faso-shut-down/). Due to a variety of historical injustices and chronic lack of investments into robust health systems, many LMICs lack the essential resources to prevent, diagnose, and treat COVID-19. These resources include social support systems for impoverished daily wage-earners without income during social distancing, capacity to feed its citizens during lockdown, and medical resources to isolate and treat critically ill patients.
+As of early April 2020, the reported morbidity and mortality from COVID-19 in low and middle income countries \(LMICs\) has been [relatively limited](https://www.bbc.com/news/world-africa-52058717) but is [increasing](https://qz.com/africa/1827789/coronavirus-ghana-senegal-burkina-faso-shut-down/). Due to a variety of historical injustices and chronic lack of investments into robust health systems, many LMICs lack the essential resources to prevent, diagnose, and treat COVID-19. These resources include social support systems for impoverished daily wage-earners without income during social distancing, capacity to feed its citizens during lockdown, and health care resources to isolate, test, and treat critically ill patients.
 
 This module features a set of case studies that illustrate a range of responses to the COVID-19 pandemic, while also featuring examples of innovations that are being utilized in resource-limited settings. This material is organized by the [“4 S” analysis framework](https://www.globalhealthnow.org/2017-11/paul-farmer-remember-4-ss), advanced by Dr. Fernet Leandre and Dr. Paul Farmer of the global health non-profit Partners In Health:
 
-* **Staff**: Doctors, nurses, community health workers \(CHWs\), respiratory therapy, environmental services, custodial staff, and other medical professionals
+* **Staff**: Doctors, nurses, community health workers \(CHWs\), respiratory therapists, environmental health practitioners, custodial staff, and other medical professionals
 * **Stuff**: Essential medical equipment, both for treating patients and protecting healthcare workers
 * **Space:** Availability of and access to clean and sanitary environments to test, treat, and isolate patients as well as living spaces conducive to limiting disease spread
 * **Systems:** Infrastructure, logistical organization, and governance required to ensure the effective delivery of quality health care

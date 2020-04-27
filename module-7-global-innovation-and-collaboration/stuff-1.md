@@ -10,7 +10,7 @@ In this section, we explore the second component of the 4 S framework: stuff. He
 
 ## **Focus \#1: Personal Protective Equipment**
 
-As discussed in [Module 5](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles), personal protective equipment \(PPE\) is essential to the safety of healthcare professionals and prevention of virus spread in clinical environments. The Centers for Disease Control and Prevention \(CDC\), anticipating critical shortages, [issued recommendations](https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html#crisis-capacity) for prolonged use and re-use of masks and face shields, use after expiration dates, and alternatives like cloth masks or bandanas when no masks are available. However, they acknowledge that some of these practices are less efficacious than conventional PPE. In LMICs where such shortages are more common at baseline, this pandemic will make adequate protection for providers and patients difficult. Innovators have been considering how to address this need. Here we summarize examples of such potential innovations.
+As discussed in [Module 6](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles), personal protective equipment \(PPE\) is essential to the safety of healthcare professionals and prevention of virus spread in clinical environments. The Centers for Disease Control and Prevention \(CDC\), anticipating critical shortages, [issued recommendations](https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html#crisis-capacity) for prolonged use and re-use of masks and face shields, use after expiration dates, and alternatives like cloth masks or bandanas when no masks are available. However, they acknowledge that some of these practices are less efficacious than conventional PPE. In LMICs where such shortages are more common at baseline, this pandemic will make adequate protection for providers and patients difficult. Innovators have been considering how to address this need. Here we summarize examples of such potential innovations.
 
 ### PPE innovations from the Philippines - “Do it yourself” \(DIY\) face shields
 
@@ -92,7 +92,7 @@ Given this problem, experts explored a range of frameworks for practical guidanc
 
 For those patients who require ventilatory support, the following points have been recommended in the past for advanced ventilatory support and management, [especially in resource-limited settings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4751193/):
 
-* Follow ARDSnet protocol to prevent barotrauma \(as described in [Module 1 supplement](https://curriculum.covidstudentresponse.org/module-1-from-bench-to-bedside) and [Module 5](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles)\)
+* Follow ARDSnet protocol to prevent barotrauma \(as described in [Module 1 supplement](https://curriculum.covidstudentresponse.org/module-1-from-bench-to-bedside) and [Module 6](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles)\)
 * Elevate the head of the bed to a semi-upright position \(to prevent ventilator associated pneumonia\)
 * Use volume control modes instead of pressure control
 * Monitor end-tidal carbon dioxide \(ETCO2\) if possible
@@ -119,7 +119,7 @@ In some resource-limited settings or disaster resource settings, long-term “ha
 
 ### **Rationing and resource allocation**
 
-The ethics of rationing and resource allocation are further discussed in [Mod](https://curriculum.covidstudentresponse.org/module-6-medical-ethics-in-relation-to-covid-19)[ule 6](https://curriculum.covidstudentresponse.org/module-6-medical-ethics-in-relation-to-covid-19).
+The ethics of rationing and resource allocation are further discussed in [Mod](https://curriculum.covidstudentresponse.org/module-6-medical-ethics-in-relation-to-covid-19)[ule 8](https://curriculum.covidstudentresponse.org/module-6-medical-ethics-in-relation-to-covid-19).
 
 _Thought questions:_
 
