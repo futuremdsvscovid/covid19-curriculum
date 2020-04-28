@@ -97,7 +97,7 @@ Traumatic exposures may occur at an individual, interpersonal, or collective lev
 
 The experience of trauma has been documented to impact mental and physical health across the life-course. In the landmark [Adverse Childhood Experiences study](https://www.ajpmonline.org/action/showPdf?pii=S0749-3797%2898%2900017-8), childhood exposures to trauma were linked with adult health outcomes such as depression, substance use disorders, and cardiovascular disease in a dose-dependent fashion. The mechanism by which trauma leads to poorer health outcomes is still under investigation, but is thought to be mediated by neurohormonal and metabolic adaptations to stress that change both physiology and behaviors \([McEwen, JAMA 2017](https://jamanetwork-com.ezp-prod1.hul.harvard.edu/journals/jamapsychiatry/fullarticle/2619523)\).
 
-[Module 6 ](../module-6-training-for-clinical-roles/managing-anxiety-and-stress-and-promoting-self-care.md)addresses how the traumatic exposure of COVID-19 is doubly burdensome for healthcare providers, as well as approaches to mitigate those impacts and skills to care for yourself and those around you.
+[Module 6 ](../module-6-training-for-clinical-roles/care-for-self-and-others-during-crisis.md)addresses how the traumatic exposure of COVID-19 is doubly burdensome for healthcare providers, as well as approaches to mitigate those impacts and skills to care for yourself and those around you.
 
 ## **Review**
 

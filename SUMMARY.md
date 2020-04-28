@@ -55,7 +55,7 @@
   * [Triage](module-6-training-for-clinical-roles/triage.md)
   * [Mechanical Ventilation: The Basics](module-6-training-for-clinical-roles/mechanical-ventilation-the-basics.md)
   * [Current Medical Student Involvement](module-6-training-for-clinical-roles/current-medical-student-involvement.md)
-  * [Care for Self and Others During Crisis](module-6-training-for-clinical-roles/managing-anxiety-and-stress-and-promoting-self-care.md)
+  * [Care for Self and Others During Crisis](module-6-training-for-clinical-roles/care-for-self-and-others-during-crisis.md)
   * [Summary](module-6-training-for-clinical-roles/summary.md)
 * [Module 7: Global Innovation and Collaboration](module-7-global-innovation-and-collaboration/README.md)
   * [Staff](module-7-global-innovation-and-collaboration/staff.md)
