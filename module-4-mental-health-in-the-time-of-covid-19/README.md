@@ -6,7 +6,7 @@ description: >-
 
 # Module 4: Mental Health in the Time of COVID-19
 
-_Authors:_ Okechi Boms, Taylor Brown, Sun Fletcher, Katie Kester, Danny Linggonegoro, Catherine Mankiw, Katherine McDaniel, Larisa Shagababayeva
+_Authors:_ Okechi Boms; Taylor Brown; Sun Fletcher; Katie Kester; Danny Linggonegoro; Catherine Mankiw; Katherine McDaniel, MSc; Larisa Shagababayeva
 
 _Editor:_ [Catherine Mankiw](mailto:catherine_mankiw@hms.harvard.edu)
 
@@ -32,5 +32,5 @@ At the end of this module, medical students should be able to:
 * Evaluate the current state of telehealth in the context of mental health delivery and describe barriers to its dissemination.
 * Practice trauma-informed care with patients as a universal precaution.
 
-Note: This module is primarily aimed to help us as medical providers and future physicians understand the impact of the COVID-19 pandemic on the mental health of our patients. Our goal is to help you identify the complex ways that the crisis contributes to our population’s mental health and how your role in clinical settings may evolve to respond to these new mental health challenges. But before we can take care of our patients, it is important that we first take care of ourselves. Your own mental health and well-being as a trainee and medical provider are incredibly important in this time. For information on care of self and others, and tools to protect your own mental health in the setting of this traumatic exposure, please refer to [Module 6](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles/managing-anxiety-and-stress-and-promoting-self-care).
+Note: This module is primarily aimed to help us as medical providers and future physicians understand the impact of the COVID-19 pandemic on the mental health of our patients. Our goal is to help you identify the complex ways that the crisis contributes to our population’s mental health and how your role in clinical settings may evolve to respond to these new mental health challenges. But before we can take care of our patients, it is important that we first take care of ourselves. Your own mental health and well-being as a trainee and medical provider are incredibly important in this time. For information on care of self and others, and tools to protect your own mental health in the setting of this traumatic exposure, please refer to [Module 6](https://curriculum.covidstudentresponse.org/module-6-training-for-clinical-roles/care-for-self-and-others-during-crisis).
 
