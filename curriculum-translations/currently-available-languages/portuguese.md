@@ -1,18 +1,19 @@
 ---
 description: >-
   All translations on this page courtesy of: Luis Freitas
-  (luiscardosofreitas@gmail.com) and Paula Ando (paulakaoria@gmail.com)
+  (luiscardosofreitas@gmail.com),  Paula Ando (paulakaoria@gmail.com) and Jose
+  Almeida (josegui05@gmail.com)
 ---
 
 # Portuguese
 
 ## Module 1 Graphic Summary 
 
-![](../../.gitbook/assets/module-1-graphic-summary-portuguese.jpeg)
+![](../../.gitbook/assets/module-1-graphic-summary-portuguese-1.jpeg)
 
 ## Module 2 Graphic Summary 
 
-![](../../.gitbook/assets/module-2-graphic-summary-portuguese.jpeg)
+![](../../.gitbook/assets/module-2-graphic-summary-portuguese-1.jpeg)
 
 ## [Module 1 Summary ](https://docs.google.com/document/d/1_g856Mou54cPFvj2aaQYugoDChB9nrNLgED3PtGs4KM/edit)
 
@@ -27,6 +28,4 @@ description: >-
 ## [Module 6 Summary](https://docs.google.com/document/d/1B3FECyswOUmpP4psnGd3xgjoPBQ5lrPRHG66EbWaWo0/edit)
 
 ## [Module 7 Summary](https://docs.google.com/document/d/1kGzUT5LL_aWh414KGFwNwWggebadaazQ_DxZyPPAS-g/edit)
-
-## [ Module 7 Summary ](https://docs.google.com/document/d/1kGzUT5LL_aWh414KGFwNwWggebadaazQ_DxZyPPAS-g/edit#heading=h.kllxxnx56wcd)
 
