@@ -14,6 +14,8 @@ Listed here are links to curriculum materials that are currently available in va
 
 ## [Portuguese](portuguese.md) 
 
+## [Romanian](romanian.md)
+
 ## [Spanish](spanish.md)
 
 ## [Vietnamese ](vietnamese.md)
