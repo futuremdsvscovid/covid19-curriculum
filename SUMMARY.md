@@ -54,7 +54,7 @@
 * [Module 6: Training for Potential Clinical Roles](module-6-training-for-clinical-roles/README.md)
   * [Personal Protective Equipment](module-6-training-for-clinical-roles/personal-protective-equipment.md)
   * [Telehealth](module-6-training-for-clinical-roles/telehealth.md)
-  * [Being Mindfully Hygienic in the Age of COVID-19](module-6-training-for-clinical-roles/being-mindfully-hygienic-in-the-age-of-covid-19.md)
+  * [Being Mindfully Hygienic](module-6-training-for-clinical-roles/being-mindfully-hygienic-in-the-age-of-covid-19.md)
   * [Triage](module-6-training-for-clinical-roles/triage.md)
   * [Mechanical Ventilation: The Basics](module-6-training-for-clinical-roles/mechanical-ventilation-the-basics.md)
   * [Current Medical Student Involvement](module-6-training-for-clinical-roles/current-medical-student-involvement.md)

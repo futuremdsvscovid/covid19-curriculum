@@ -1,6 +1,6 @@
-# Being Mindfully Hygienic in the Age of COVID-19
+# Being Mindfully Hygienic
 
-**Introduction**
+## **Introduction**
 
 There is good scientific evidence that the virus responsible for causing COVID-19 can survive on various surfaces for quite some time. A study published in the [New England Journal Of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMc2004973) found SARS-CoV-2 could survive for up to three days on plastics, two days on stainless steel, 24 hours on cardboard, and four hours on copper. 
 
@@ -8,18 +8,17 @@ Given this information, we must be keenly aware of the surfaces that we come int
 
 _Thought question_
 
-* What are some surfaces you often carry with you/come into contact with in the clinical setting?
+* What are some surfaces with which you often come into contact \(or carry with you\) in the clinical setting?
 
 ## **The Many Potential Surfaces for Exposure**
 
-ID Badge, Stethoscope, White coat \(other clothes\), Pens/Pencils- Pager/Phone, Glasses, Watches, Rings, Shoes, Hands, Hair   
-****
+ID Badge, Stethoscope, White coat \(other clothes\), Pens/Pencils- Pager/Phone, Glasses, Watches, Rings, Shoes, Hands, Hair 
 
 ## **Upon Arrival to Your Workspace \(Every time\)**
 
 As a student serving during this time, your workspace will certainly vary and you must take the nuances of your specific environment into account. This section will provide you with some essential tips for properly preparing your new workspace. 
 
-**Plan Ahead**
+### **Plan ahead**
 
 Before coming to work, there are a few things you can do to limit the unnecessary exposure of the surfaces you carry with you. 
 
@@ -27,7 +26,7 @@ Before coming to work, there are a few things you can do to limit the unnecessar
 * Keep all essential items in a designated bag \(hospital badge, stethoscope, hand sanitizer, etc.\)
 * Other: keep your designated pair of shoes in one area, limit hair exposure, cut nails short 
 
-**Clean, Clean, Clean!**
+### **Clean, clean, clean!**
 
 When first arriving at your new workspace, take the opportunity to disinfect all the surfaces that you will come into contact with. Wash your hands and don a pair of gloves before grabbing an [EPA approved disinfectant](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) and disinfecting your workspace. For a typical clinical workspace, this may include your: desk, badge, printer, phones, pager, and chair. See the infographic from BWH ED hygiene initiatives below:  
 ****
@@ -36,9 +35,9 @@ When first arriving at your new workspace, take the opportunity to disinfect all
 
 \(Adapted directly from BWH ED Infographic Protocol\)
 
-**Continuous Caution & Avoiding Old Bad Habits**
+### **Continuous caution & avoiding old bad habits**
 
-As you progress through your workday, outside of your workspace, there will be various surfaces that you will likely come into contact with. In addition to the previously discussed importance of wearing appropriate PPE and regular hand washing, work to avoid the following habits that could put yourself and others at risk of exposure. 
+As you progress through your workday, you will also come into contact with various surfaces outside of your workspace.  In addition to the previously discussed importance of wearing appropriate PPE and regular hand washing, work to avoid the following habits that could put yourself and others at risk of exposure. 
 
 * Shaking hands \(or anything that breaks social distancing rules discussed above\)
 * Touching your face
@@ -49,7 +48,7 @@ As you progress through your workday, outside of your workspace, there will be v
 * Keep your phone and other items in a ziplock bag
 * Put a sticker over your phone screen to remind you to remove PPE/disinfect hands prior to use
 
-**Contaminated surfaces to be cognizant of**
+**Contaminated surfaces to be cognizant of:**
 
 * Doors/door handles
 * Patient beds
@@ -78,10 +77,9 @@ _Thought question:_
 
 ## **Hygiene At Home**
 
-One of the most important times to be aware of your hygiene is when returning back to your home from the clinical setting. This is especially important for those who live with others, as we certainly do not want to expose others, but it is also key in limiting exposure for ourselves.   
+One of the most important times to be aware of your hygiene is when returning back to your home from the clinical setting. This is especially important for those who live with others, as we certainly do not want to expose others, but it is also key in limiting exposure for ourselves. 
 
-
-**The Basics**
+**The basics**
 
 When it comes to keeping our living environments safe and clean, there are two key points to keep in mind: cleaning and disinfecting. Cleaning refers to the removal of microbes, while disinfecting refers to the killing of microbes. With awareness that a specific concentration of viral particles \(IC50\) is required to cause infection, both of these methods are essential in reducing that risk. When you clean a surface \(use a non-microbe killing solution\) you are reducing the amount of microbes but not killing them. The key is to do both! In general, soap, detergent, bleach, or &gt;70% alcohol based cleaner will cause enough damage to the viral membrane to kill it--though it is preferred to clean the surface first with soap or detergent and then disinfect with bleach or &gt;70% alcohol based solutions \(or other approved disinfecting agents\). To be sure you have products that are recognized by the CDC to be effective at killing COVID19, see the [EPA-registered disinfectants](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) webpage. All surfaces you come into contact with after returning from the hospital could potentially be exposed, so follow these brief guidelines to ensure the safety of yourself and those who live with you. 
 
