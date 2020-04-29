@@ -23,11 +23,9 @@ In addition to clinical roles, there is a wide range of efforts targeted towards
 * picking up and delivering groceries and prescriptions
 * helping with preparing meals
 
-Regardless of the level of medical training, many students may be able to help with blood donation. Blood centers across the country are experiencing a significant drop in donations amid COVID-19 fears, and the FDA is [urgently asking healthy adults to consider donating](https://abcnews.go.com/Politics/fda-worried-blood-shortage-donation-drives-canceled-amid/story?id=69581026). This is a helpful way to add tangible resources to our health system.  
-
+Regardless of the level of medical training, many students may be able to help with blood donation. Blood centers across the country are experiencing a significant drop in donations amid COVID-19 fears, and the FDA is [urgently asking healthy adults to consider donating](https://abcnews.go.com/Politics/fda-worried-blood-shortage-donation-drives-canceled-amid/story?id=69581026). This is a helpful way to add tangible resources to our health system.
 
 _Thought question:_
 
-What are some clinical and non-clinical roles that you envision medical students performing to aid the response to the COVID-19 pandemic?  
-
+* What are some clinical and non-clinical roles that you envision medical students performing to aid the response to the COVID-19 pandemic? 
 
