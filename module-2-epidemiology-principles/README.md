@@ -16,11 +16,11 @@ _Reviewers:_ Wolfram Goessling, MD, PhD; Andrea Wershof Schwartz, MD, MPH; Willi
 **Highlight of Updates \(5/1/20\):  
 \(Not yet reviewed\)**
 
-* New terms: case fatality rate, mortality rate, peak, surge
-* New discussion of the complexities of measuring case fatality rate
-* Approaches to Long-Term Planning - added discussion of Singapore
-* SK case study: update on election and 0 community acquired cases on April 30th for the first time
-* Updated links to other parts of the curriculum
+* Epidemiological [Terms](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/introduction-to-epidemiological-terms): added case fatality rate, mortality rate, peak, surge
+* Where Are We Now? - added complexities of measuring [case fatality rate](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/where-are-we-now#case-fatality-rate)
+* Approaches to Long-Term Planning - added discussion of [Singapore](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/approaches-to-long-term-planning#suppression)
+* SK case study: update on [election and 0 community acquired cases](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/case-study-south-korea-2020#situation-in-south-korea-as-of-4-16-20) on April 30th for the first time
+* Updated links to other modules
 
 ## Introduction
 
