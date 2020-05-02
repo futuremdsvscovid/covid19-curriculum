@@ -12,13 +12,15 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(4/24/20\):**
+**Highlight of Updates \(5/1/20\):**
 
-* Updated details of [viral replication cycle](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection)
-* Added section on [mask efficacy](basic-virology-and-immunology.md#transmission-dynamics)
-* Updated section on [duration of coronavirus immunity](basic-virology-and-immunology.md#adaptive-immune-response)
-* Added discussion under clinical course of mild-moderate cases managed in the [outpatient setting](management-of-covid-19.md#clinical-course)
-* Information originally presented in Module 3 “Current Situation and Healthcare Response” \(testing capacity and guidelines, ongoing clinical trials and vaccine development\) will now be [consolidated here](investigational-therapeutics-and-vaccine-development.md).
+* Updated literature on [innate immunity](basic-virology-and-immunology.md#innate-immune-response), [CD4+ T cells](basic-virology-and-immunology.md#adaptive-immune-response) and [protective antibodies](basic-virology-and-immunology.md#adaptive-immune-response)
+* Added discussion of [racial disparities](clinical-presentation-of-covid-19.md#risk-stratification) in risk stratification with a link out to Module 3’s discussion of health disparities in COVID-19
+* Updated [comorbidities graph](clinical-presentation-of-covid-19.md#risk-stratification) in risk stratification section to reflect data from the US
+* Updated discussion on [older age](clinical-presentation-of-covid-19.md#risk-stratification) as a risk factor for more severe disease
+* Moved [case fatality rate discussion](../module-2-epidemiology-principles/where-are-we-now.md#case-fatality-rate) to module 2
+* Added [umifenovir](investigational-therapeutics-and-vaccine-development.md#umifenovir-arbidol) and [camostat mesylate](investigational-therapeutics-and-vaccine-development.md#camostat-mesylate) under investigational therapeutics
+* Added data from [recent remdesivir trials](investigational-therapeutics-and-vaccine-development.md#remdesivir) under investigational therapeutics
 
 ## Introduction
 
