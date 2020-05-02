@@ -2,7 +2,7 @@
 
 ## Health and healthcare in correctional facilities prior to COVID
 
-         Given the United States has one of the highest incarceration rates in the world, the health and wellbeing of this population during the COVID pandemic warrants discussion. It is estimated that[ nearly 2.3 million](https://www.prisonpolicy.org/reports/pie2020.html) individuals in the United States are currently incarcerated.  For a discussion on the state of health and healthcare in correctional facilities prior to COVID, please refer to the [supplemental reading](https://docs.google.com/document/d/1weLnZQE7LxS_Gm9pyX4Ba7ViH_7rQNH56T-1GT5dRp8/edit?usp=sharing).  
+Given the United States has one of the highest incarceration rates in the world, the health and wellbeing of this population during the COVID pandemic warrants discussion. It is estimated that[ nearly 2.3 million](https://www.prisonpolicy.org/reports/pie2020.html) individuals in the United States are currently incarcerated.  For a discussion on the state of health and healthcare in correctional facilities prior to COVID, please refer to the [supplemental reading](https://docs.google.com/document/d/1weLnZQE7LxS_Gm9pyX4Ba7ViH_7rQNH56T-1GT5dRp8/edit?usp=sharing).  
 
 ## Incarceration during COVID pandemic
 
