@@ -12,5 +12,5 @@ Diane is worried about leaving her home for her usual book club and to volunteer
 
 We hope this module captured the broader implications of the COVID-19 pandemic  for health disparities, government policy, and U.S. socioeconomic well-being, as well as the adapting responses of the healthcare system and society as a whole.
 
-We welcome your feedback on this module and the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).
+We welcome your feedback on this module and the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSc011UD-NF1WCvFHb7qWfluu4G9nxb6P4c9l3c8S3ZqxXxNOg/viewform).
 

@@ -62,3 +62,5 @@ _Thought questions: Systems_
 
 * If you are in the ministry of health for a low, middle, or high income country, what recommendations would you make to the government about effective ways to address refugee health in pandemic contingency planning?
 
+We welcome your feedback on this module and on the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSc011UD-NF1WCvFHb7qWfluu4G9nxb6P4c9l3c8S3ZqxXxNOg/viewform).
+
