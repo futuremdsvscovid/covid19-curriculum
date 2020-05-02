@@ -33,6 +33,7 @@
   * [Graphic Summary](module-2-epidemiology-principles/summary.md)
 * [Module 3: Health Disparities, Policy Changes, and Socioeconomic Effects in the U.S.](module-3-disparities-policy-socioeconomic-effects/README.md)
   * [Health Disparities in COVID Outcomes](module-3-disparities-policy-socioeconomic-effects/current-landscape-for-covid-19-in-massachusetts.md)
+  * [COVID-19 among Populations in Correctional Facilities](module-3-disparities-policy-socioeconomic-effects/covid-19-among-populations-in-correctional-facilities.md)
   * [Overview of U.S. Health Policy Responses to COVID-19](module-3-disparities-policy-socioeconomic-effects/testing-capacity-and-eligibility.md)
   * [United States Federal Health Policy Response Details](module-3-disparities-policy-socioeconomic-effects/ongoing-clinical-trials.md)
   * [State Responses to COVID-19: Selected Case Studies](module-3-disparities-policy-socioeconomic-effects/state-responses-to-covid-19-selected-case-studies.md)
