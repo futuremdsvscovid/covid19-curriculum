@@ -1,7 +1,7 @@
 ---
 description: >-
-  Translations on this page courtesy of: Alina Ioana Grosu
-  (alinnagrosu@gmail.com)
+  Translations courtesy of: Alina Ioana Grosu(alinnagrosu@gmail.com)            
+  Updated 04/27/20
 ---
 
 # Romanian

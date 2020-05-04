@@ -1,5 +1,7 @@
 ---
-description: All translations courtesy of Mandeep Guragai (mandeep.guragai@gmail.com)
+description: >-
+  All translations courtesy of Mandeep Guragai (mandeep.guragai@gmail.com)
+  Updated 04/16/20
 ---
 
 # Nepali

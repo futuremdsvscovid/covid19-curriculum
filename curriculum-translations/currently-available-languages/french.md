@@ -1,5 +1,7 @@
 ---
-description: Translations courtesy of Wendy Demouge (wendy.demouge@gmail.com)
+description: >-
+  Translations courtesy of Wendy Demouge
+  (wendy.demouge@gmail.com)                    -Updated 04/09/20-
 ---
 
 # French

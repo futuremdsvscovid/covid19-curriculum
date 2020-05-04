@@ -1,7 +1,7 @@
 ---
 description: >-
   All translations on this page courtesy of: Mohamed Al-Beity
-  (albeitymohamed@gmail.com)
+  (albeitymohamed@gmail.com) - Updated 03/04/20 -
 ---
 
 # Kiswahili

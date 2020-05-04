@@ -1,6 +1,6 @@
 # Vietnamese
 
-> Tất cả các bản dịch trên trang này là đóng góp của một nhóm sinh viên Việt Nam. Vui lòng gửi các câu hỏi và đóng góp về dịch thuật tới [covid19-vn-translation-team@googlegroups.com](mailto:covid19-vn-translation-team@googlegroups.com). Cho các vấn đề khác, vui lòng liên hệ Phương Phạm \([phuongpm241@gmail.com](mailto:phuongpm241@gmail.com)\) hoặc Trinh Nguyễn \([trinh.thd.nguyen@gmail.com](mailto:trinh.thd.nguyen@gmail.com)\).
+> Tất cả các bản dịch trên trang này là đóng góp của một nhóm sinh viên Việt Nam. Vui lòng gửi các câu hỏi và đóng góp về dịch thuật tới [covid19-vn-translation-team@googlegroups.com](mailto:covid19-vn-translation-team@googlegroups.com). Cho các vấn đề khác, vui lòng liên hệ Phương Phạm \([phuongpm241@gmail.com](mailto:phuongpm241@gmail.com)\) hoặc Trinh Nguyễn \([trinh.thd.nguyen@gmail.com](mailto:trinh.thd.nguyen@gmail.com)\).                                                                                         - Updated 04/12/20 -
 
 ## [Modules 1 - 4](https://docs.google.com/document/d/1xVI556Gb9hP94iAOOr0tMlJaq_wLGd3Z6E6sdtSNLkI/edit#)
 

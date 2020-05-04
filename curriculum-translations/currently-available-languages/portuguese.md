@@ -2,7 +2,7 @@
 description: >-
   All translations on this page courtesy of: Luis Freitas
   (luiscardosofreitas@gmail.com),  Paula Ando (paulakaoria@gmail.com) and Jose
-  Almeida (josegui05@gmail.com)
+  Almeida (josegui05@gmail.com) - Updated 04/28/20 -
 ---
 
 # Portuguese

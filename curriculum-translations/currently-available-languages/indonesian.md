@@ -1,7 +1,7 @@
 ---
 description: >-
   All translations on this page courtesy of: Dr. Candrika Khairani
-  (Candrika_Khairani@hms.harvard.edu)
+  (Candrika_Khairani@hms.harvard.edu) -Updated 04/09/20-
 ---
 
 # Indonesian
