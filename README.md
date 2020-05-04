@@ -18,5 +18,5 @@ The contents in each module were reviewed for accuracy by expert faculty members
 
 [Michael Kochis](mailto:michael_kochis@hms.harvard.edu), EdM
 
-Education Committee Leader, [HMS COVID-19 Student Response Team](https://covidstudentresponse.org/about/) 
+Education Committee Chair, [HMS COVID-19 Student Response Team](https://covidstudentresponse.org/about/) 
 
