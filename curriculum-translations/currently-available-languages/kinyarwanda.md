@@ -1,5 +1,7 @@
 ---
-description: 'Translations courtesy of Norbert Niyongira, RN (niyonorbert@gmail.com)'
+description: >-
+  Translations courtesy of Norbert Niyongira, RN (niyonorbert@gmail.com) with
+  Oli Health Magazine.
 ---
 
 # Kinyarwanda
