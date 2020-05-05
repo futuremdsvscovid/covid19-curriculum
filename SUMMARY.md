@@ -16,6 +16,7 @@
     * [Portuguese](curriculum-translations/currently-available-languages/portuguese.md)
     * [Romanian](curriculum-translations/currently-available-languages/romanian.md)
     * [Russian](curriculum-translations/currently-available-languages/russian.md)
+    * [Serbian](curriculum-translations/currently-available-languages/serbian.md)
     * [Spanish](curriculum-translations/currently-available-languages/spanish.md)
     * [Vietnamese](curriculum-translations/currently-available-languages/vietnamese.md)
 * [Module 1: From Bench to Bedside](module-1-from-bench-to-bedside/README.md)
