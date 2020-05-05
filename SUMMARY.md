@@ -6,6 +6,7 @@
   * [One-Page Summaries](curriculum-overview/module-summaries.md)
 * [Curriculum Translations](curriculum-translations/README.md)
   * [Currently Available Languages](curriculum-translations/currently-available-languages/README.md)
+    * [Russian](curriculum-translations/currently-available-languages/russian.md)
     * [Kinyarwanda](curriculum-translations/currently-available-languages/kinyarwanda.md)
     * [French](curriculum-translations/currently-available-languages/french.md)
     * [Georgian](curriculum-translations/currently-available-languages/georgian.md)
