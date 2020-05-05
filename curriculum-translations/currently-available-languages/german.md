@@ -14,6 +14,10 @@ Translations courtesy of Katharine Baugmart \(katharina.baumgart@student.uni-tue
 
 Translations courtesy of  Miriam Burger, MD,  Zurich Switzerland \([www.whis.uk](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.whis.uk&d=DwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=1XAy0Fn4GMJc_8iApT9cDygkuWV_6aoDCrWrcgJ1BcI&m=W4qgJhZsHB8veZBoAaIuQEy0biv9xIA0o2wYnkFszuU&s=ePD_RIaZLbGCXWulUPVJuuXwE9xXCgmcimL9als-KD8&e=) / [burger.miriam@icloud.com](mailto:burger.miriam@icloud.com)\) -Updated 05/02/20-
 
+## Module 2 Graphic Summary
+
+![Translations courtesy of  Miriam Burger, MD,  Zurich Switzerland](../../.gitbook/assets/mod-2-german-1.png)
+
 ## [Module 3 Summary ](https://docs.google.com/document/d/145PnTqCj1cFBz_C9JPvubNGcR4WSTa22/edit?dls=true)
 
 Translations courtesy of Katharine Baugmart \(katharina.baumgart@student.uni-tuebingen.de\)
