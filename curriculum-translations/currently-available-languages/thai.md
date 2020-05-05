@@ -1,7 +1,7 @@
 ---
 description: >-
   Translations courtesy of Chayada Kasirawat (chayada.kas@gmail.com) and
-  Thachapon Thepchinda (Sthachapon@gmail.com)
+  Thachapon Thepchinda (Sthachapon@gmail.com) with Oli Health Magazine.
 ---
 
 # Thai
