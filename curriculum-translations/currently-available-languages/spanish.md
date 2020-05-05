@@ -2,7 +2,7 @@
 
 ### Module 1 Graphic Summary
 
-![Translations courtesy of: Vasti Thamara Ju&#xE1;rez Gonz&#xE1;lez \(vasti.juarez.gonzalez@gmail.com\) - Updated 04/10/20 - ](../../.gitbook/assets/harvard-medical-school-covid-19-education-committee-modulo-1-abstract-grafico-oberfeld_vasti-thamara.jpeg)
+![Translations courtesy of: Vasti Thamara Ju&#xE1;rez Gonz&#xE1;lez \(vasti.juarez.gonzalez@gmail.com\) - Updated 04/10/20 - ](../../.gitbook/assets/harvard-medical-school-covid-19-education-committee-modulo-1-abstract-grafico-oberfeld_vasti-thamara-juarez-gonzalez_spanish_version_2.jpeg)
 
 ## Module 2 Graphic Summary
 
