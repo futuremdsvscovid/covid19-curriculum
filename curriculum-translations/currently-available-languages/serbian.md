@@ -1,7 +1,7 @@
 ---
 description: >-
   Translations courtesy of Erna Topalović, Medical Student at Ankara Yıldırım
-  Beyazit University (ernatopalovic@gmail.com)
+  Beyazit University (ernatopalovic@gmail.com) with Oli Health Magazine.
 ---
 
 # Serbian
