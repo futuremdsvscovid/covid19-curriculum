@@ -1,8 +1,8 @@
 ---
 description: >-
-  Now that you’ve bolstered your COVID-19 knowledge, prepare to productively
-  communicate that information, especially with a non-medical audience who may
-  have varying attitudes towards the pandemic.
+  Prepare to productively communicate information about COVID-19, especially
+  with a non-medical audience who may have varying attitudes towards the
+  pandemic.
 ---
 
 # Module 5: Communicating Information about COVID-19

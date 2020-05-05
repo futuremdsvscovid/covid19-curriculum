@@ -26,7 +26,7 @@ Assess how the COVID-19 pandemic affects the mental health of patients and ident
 
 \*\*\*\*[**Module 5: Communicating Information about COVID-19**](https://futuremdvscovid.gitbook.io/covid19-curriculum/module-4-communicating-information-about-covid-19)
 
-Now that you’ve bolstered your COVID-19 knowledge, prepare to productively communicate that information, especially with a non-medical audience who may have varying attitudes towards the pandemic.
+Prepare to productively communicate information about COVID-19, especially with a non-medical audience who may have varying attitudes towards the pandemic.
 
 \*\*\*\*[**Module 6: Training for Potential Clinical Roles**](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles)\*\*\*\*
 
