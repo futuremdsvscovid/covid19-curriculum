@@ -20,6 +20,7 @@
     * [Spanish](curriculum-translations/currently-available-languages/spanish.md)
     * [Thai](curriculum-translations/currently-available-languages/thai.md)
     * [Turkish](curriculum-translations/currently-available-languages/turkish.md)
+    * [Urdu](curriculum-translations/currently-available-languages/urdu.md)
     * [Vietnamese](curriculum-translations/currently-available-languages/vietnamese.md)
 * [Module 1: From Bench to Bedside](module-1-from-bench-to-bedside/README.md)
   * [Basic Virology and Immunology](module-1-from-bench-to-bedside/basic-virology-and-immunology.md)
