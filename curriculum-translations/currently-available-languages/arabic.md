@@ -7,13 +7,13 @@ description: >-
 
 # Arabic
 
-## [Module 1 Summary ](https://drive.google.com/drive/folders/1ZyprBMVVAjdbUoIMaId0loLJ45ieK9kA)
+## [Module 1 Summary ](https://drive.google.com/file/d/1oVcmMWOtvFTEAalnz-dI_quKglnCwzNk/view?usp=sharing)
 
 ## Module 1 Graphic Summary
 
 ![](../../.gitbook/assets/module-1-graphic-summary.jpg)
 
-## [Module 2 Summary](https://drive.google.com/drive/folders/1ZyprBMVVAjdbUoIMaId0loLJ45ieK9kA)
+## [Module 2 Summary](https://drive.google.com/file/d/1OPQPcji0rP0AoAmYsODBsfJyXlYdytmt/view?usp=sharing)
 
 ## Module 2 Graphic Summary
 
