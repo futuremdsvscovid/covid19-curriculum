@@ -7,7 +7,7 @@
 * [Curriculum Translations](curriculum-translations/README.md)
   * [Currently Available Languages](curriculum-translations/currently-available-languages/README.md)
     * [Arabic](curriculum-translations/currently-available-languages/arabic.md)
-    * [Creole](curriculum-translations/currently-available-languages/creole.md)
+    * [Guinea Bissau - Creole](curriculum-translations/currently-available-languages/creole.md)
     * [French](curriculum-translations/currently-available-languages/french.md)
     * [Georgian](curriculum-translations/currently-available-languages/georgian.md)
     * [German](curriculum-translations/currently-available-languages/german.md)

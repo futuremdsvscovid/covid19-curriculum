@@ -1,8 +1,8 @@
 ---
 description: >-
-  Translations on this page courtesy of: Melissa Mhanna, Medical Student and
-  Masters in Biological and Medical Sciences at Saint Joseph University of
-  Beyrouth, Lebanon (melissamhanna98@gmail.com)
+  Translations courtesy of: Melissa Mhanna, Medical Student and Masters in
+  Biological and Medical Sciences at Saint Joseph University of Beyrouth,
+  Lebanon (melissamhanna98@gmail.com)  -Updated 5/6/20-
 ---
 
 # Arabic
