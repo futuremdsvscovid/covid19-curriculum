@@ -4,7 +4,7 @@
 * [Curriculum Overview](curriculum-overview/README.md)
   * [Cases](curriculum-overview/cases.md)
   * [One-Page Summaries](curriculum-overview/module-summaries.md)
-* [Curriculum Translations](curriculum-translations/README.md)
+* [Translations](curriculum-translations/README.md)
   * [Currently Available Languages](curriculum-translations/currently-available-languages/README.md)
     * [Arabic](curriculum-translations/currently-available-languages/arabic.md)
     * [French](curriculum-translations/currently-available-languages/french.md)

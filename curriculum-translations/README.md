@@ -2,7 +2,7 @@
 description: COVID-19 Curriculum has gone global!
 ---
 
-# Curriculum Translations
+# Translations
 
 ## Introduction
 
