@@ -1,8 +1,8 @@
 ---
 description: >-
   Translations courtesy of Uğurcan Özaydin (ugurcan.ozaydin@gazi.edu.tr), Esin
-  SÜLÜN (esin.sulun@gazi.edu.tr) (both with Oli Health Magazine), and Cansu
-  Tokat (tokatcansu@outlook.com)
+  SÜLÜN (esin.sulun@gazi.edu.tr), Hacer Alkan (hacer.alkan@gazi.edu.tr), and
+  Cansu Tokat (tokatcansu@outlook.com)
 ---
 
 # Turkish
