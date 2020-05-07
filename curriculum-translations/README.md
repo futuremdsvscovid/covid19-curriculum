@@ -6,7 +6,7 @@ description: COVID-19 Curriculum has gone global!
 
 ## Introduction
 
-Since the creation of the COVID Curriculum, we have been fortunate enough to receive numerous requests to translate the curriculum into various languages. We hope by working with collaborators from different countries and expanding the availability of the curriculum into numerous languages, we are able to also expand the education reach of the curriculum.
+Since the creation of the curriculum, we have been fortunate enough to receive numerous requests to translate it into other languages.  We are delighted to work with collaborators from different countries to expand our materials' educational reach.  We are especially grateful for our colleagues at [Oli Health Magazine](https://www.olihealthmagazine.com/covid19/homepage) who have contributed a number of these translations.
 
 ## Disclaimer
 
