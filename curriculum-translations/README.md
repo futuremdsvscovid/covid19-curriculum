@@ -16,5 +16,5 @@ Please note that while all possible effort has been made to ensure the accuracy 
 
 If you are interested in translating any aspect of the COVID curriculum into a specific language, please fill out the form below to expedite communication and process your request.
 
-### \*\*\*\*[**Translation request form**](https://docs.google.com/forms/d/e/1FAIpQLSebf7oDeLzp90TmtM6ZIqq_y0QQeXgX1gUC1joDh76QkNQ7qQ/viewform)\*\*\*\*
+\*\*\*\*[**Translation request form**](https://docs.google.com/forms/d/e/1FAIpQLSebf7oDeLzp90TmtM6ZIqq_y0QQeXgX1gUC1joDh76QkNQ7qQ/viewform)\*\*\*\*
 
