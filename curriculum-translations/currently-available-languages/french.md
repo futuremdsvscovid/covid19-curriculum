@@ -8,7 +8,7 @@ Translation courtesy: Wendy Demouge, Medical Student Besançon's Medical Univers
 
 ![](../../.gitbook/assets/covid-19-module-2-graphic-summary.png)
 
-Translations courtesy of: Wendy Demouge, Medical Student Besançon's Medical University \(wendy.demouge@gmail.com\) and Vincent Georges, SNIR student Jules Haag High School for Informatics and Networks Besançon, France \(georges.vincent4@laposte.net\)                               -Updated 05/06/20-
+Translations courtesy of: Wendy Demouge, Medical Student Besançon's Medical University \(wendy.demouge@gmail.com\) and Vincent Georges, SNIR student Jules Haag High School for Informatics and Networks Besançon, France \(georges.vincent4@laposte.net\) with Oli Health Magazine  -Updated 05/06/20-
 
 
 

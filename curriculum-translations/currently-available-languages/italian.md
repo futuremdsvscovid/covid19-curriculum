@@ -1,7 +1,8 @@
 ---
 description: >-
   Translations on this page courtesy of: Eliana Cassano, Medical Student at the
-  University of Salerno   (elianacassano@gmail.com)
+  University of Salerno (elianacassano@gmail.com) with Oli Health Magazine
+  -Updates 05/06/20-
 ---
 
 # Italian

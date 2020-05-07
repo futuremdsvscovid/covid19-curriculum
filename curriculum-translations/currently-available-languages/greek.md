@@ -1,8 +1,8 @@
 ---
 description: >-
   Translations courtesy of: Eirini Sapouni MD (iris13896@gmail.com) and
-  Efstathia Maria Sapouni,  University of Thessaly (Greeceefimarie@gmail.com)
-  -Updated 05/06/20-
+  Efstathia Maria Sapouni,  University of Thessaly, Greece (efimarie@gmail.com)
+  with Oli Health Magazine -Updated 05/06/20-
 ---
 
 # Greek

@@ -1,8 +1,8 @@
 ---
 description: >-
-  Translations on this page courtesy of Francisco José Lopes, Júnior Medical
-  student in Adnan Menderes University (Turkeyfcojoselopesjr1@gmail.com)
-  -Updated 5/6/20-
+  Translations on this page courtesy of Francisco José Lopes Júnior, Medical
+  Student at Adnan Menderes University, Turkey (fcojoselopesjr1@gmail.com) with
+  Oli Health Magazine -Updated 5/6/20-
 ---
 
 # Guinea Bissau - Creole
