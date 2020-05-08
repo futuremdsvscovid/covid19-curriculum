@@ -1,11 +1,6 @@
----
-description: >-
-  Translations courtesy of Uğurcan Özaydin (ugurcan.ozaydin@gazi.edu.tr), Esin
-  SÜLÜN (esin.sulun@gazi.edu.tr), Hacer Alkan (hacer.alkan@gazi.edu.tr), and
-  Cansu Tokat (tokatcansu@outlook.com)
----
-
 # Turkish
+
+Translations courtesy of Uğurcan Özaydin \(ugurcan.ozaydin@gazi.edu.tr\), Esin SÜLÜN \(esin.sulun@gazi.edu.tr\), Hacer Alkan \(hacer.alkan@gazi.edu.tr\), and Cansu Tokat \(tokatcansu@outlook.com\) with Oli Health Magazine.
 
 ## Module 1 Graphic Summary
 
