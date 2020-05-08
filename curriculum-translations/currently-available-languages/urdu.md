@@ -1,7 +1,7 @@
 ---
 description: >-
   Translations courtesy of Bilal Zafar, MD (zafarbilal575@gmail.com) and Mishal
-  Shan (mishalshansiddiqui@gmail.com) with Oli Health Magazine.
+  Shan (mishalshansiddiqui@gmail.com) with Oli Health Magazine. -Updated 5/6/20-
 ---
 
 # Urdu
