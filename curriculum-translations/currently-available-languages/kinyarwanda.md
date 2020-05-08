@@ -1,7 +1,7 @@
 ---
 description: >-
   Translations courtesy of Norbert Niyongira, RN (niyonorbert@gmail.com) with
-  Oli Health Magazine.
+  Oli Health Magazine. -Updated 05/06/20-
 ---
 
 # Kinyarwanda

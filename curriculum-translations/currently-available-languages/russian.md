@@ -1,6 +1,6 @@
 # Russian
 
-Translations courtesy of Azam Lazizov \(azam.lazizov@gmail.com\), Elina Rashitova \(elina.rashitova@gmail.com\), Anna Gerasimova \(Annager@inbox.ru\), Elnara Garaeva \(garaevaed@gmail.com\), Arina Zotova \(queenarin@yandex.ru\), Alfiia Zakirova \(azakirova@gmail.com\), and Georgii Krivoshein with Oli Health Magazine. 
+Translations courtesy of Azam Lazizov \(azam.lazizov@gmail.com\), Elina Rashitova \(elina.rashitova@gmail.com\), Anna Gerasimova \(Annager@inbox.ru\), Elnara Garaeva \(garaevaed@gmail.com\), Arina Zotova \(queenarin@yandex.ru\), Alfiia Zakirova \(azakirova@gmail.com\), and Georgii Krivoshein with Oli Health Magazine. -Updated 05/06/20-
 
 ## Module 1 Graphic Summary
 
