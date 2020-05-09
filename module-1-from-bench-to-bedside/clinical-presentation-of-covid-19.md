@@ -87,7 +87,7 @@ _Thought questions:_
 
 ### **Massachusetts Case Study: Testing on a State Level**
 
-Massachusetts began to see COVID-19 cases in early March; case numbers and state and commercial testing capacity rapidly increased since then. Compare the following two testing algorithms, adapted from Massachusetts Department of Public Health \(MA DPH\) guidelines \(version 1 published 3/13/20, version 2 published [4/2/20](https://www.mass.gov/doc/covid-19-pui-criteria/download)\).  
+Massachusetts began to see COVID-19 cases in early March; case numbers and state and commercial testing capacity rapidly increased since then. Compare the following two testing algorithms, adapted from Massachusetts Department of Public Health \(MA DPH\) guidelines \(version 1 published 3/13/20, version 2 published [4/2/20](https://www.mass.gov/doc/covid-19-pui-criteria/download)\) \(highest quality images [here](https://drive.google.com/file/d/1bEvsryaiYZv8q_0cqJp1db45xW0l8K-y/view?usp=sharing) and [here](https://drive.google.com/file/d/1UxsjI91Dc0Ndk0z6osjn5sekTFy5n6Kt/view?usp=sharing)\).  
   
 ****_Thought question:_
 
