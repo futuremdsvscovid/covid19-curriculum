@@ -1,6 +1,6 @@
 # Graphic Summary
 
-Highest quality available [here](https://drive.google.com/file/d/1eFYXyoFSJ1N-zYL3UMprYZYCaje8B_-a/view?usp=sharing).
+For an overview summary, please see the following Cell Snapshot article created by members of the Module 1 author team:
 
-![](https://lh6.googleusercontent.com/by_7eruirr-cQgrIiwxoilKUtKoAka8ob52ivxm01mLPlBjZ1kWEmM_ay6VwGK7BznuuPLNzyGOxXxcDvYOrMHq5el4j2GXgqnZr-lAWSt1spGDwfYMVANQm1PxMmnSKQWV4oydT)
+\*\*\*\*[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190493/pdf/main.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190493/pdf/main.pdf)
 
