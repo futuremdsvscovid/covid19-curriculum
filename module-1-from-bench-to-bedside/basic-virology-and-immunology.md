@@ -18,9 +18,7 @@ Coronaviruses are positive-sense, single-stranded enveloped RNA viruses with hel
 
 Coronaviruses have the largest genome of all ribonucleic acid \(RNA\) viruses infecting humans, consisting of a positive-sense single-stranded RNA roughly 30 kb in size that is 5’-capped and 3’-polyadenylated. Shown in the figure below, the virus genome is non-segmented with as many as 14 open reading frames \([Zhu et al., NEJM 2020](https://www.nejm.org/doi/10.1056/NEJMoa2001017?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov)\). The genome is organized with non-structural polyproteins, which are then cleaved to be enzymes such as proteases and a RNA-dependent RNA polymerase, encoded at the 5’ end and structural proteins encoded toward the 3’ end.
 
-
-
-![SARS-CoV-2 genomic organization and encoded proteins \(Lu et al., Lancet 2020; genome assembly data\). Figure adapted from Collier, Oxford, Kellam, Human Virology 5e 2016.](https://lh4.googleusercontent.com/mBytWcylgGyUhTCzCYiVPDcslojkZoPGUdCmi8Z5KPoDCNLKgslpGA4gkWzkJCMnlbQDfqRg1Bmf8hMNy1OjBT5QcOQNkPwq5kOMSY7YyEnp-b30MdzF73Zs1EJ_DAVNMMCAGplI)
+![SARS-CoV-2 genomic organization and encoded proteins \(Lu et al., Lancet 2020; genome assembly data\). Figure from Gordon et al., Nature 2020. ](https://lh6.googleusercontent.com/-JqR2cdd3QBkm5FTYoSEF6DUW3UpiA6iE-JnpAJNvGERIyYtwR7mNWCu95gU37haRTHXHsL3YMoxyzSRRY3YbSHGqRqH2kv8ZcdS2bTFyAuqFzo_mqr8tGrBfTQouP58nHhebhyk)
 
 ### **Genetic analyses: relatedness to other viruses, suspected origins, and continued surveillance**
 
