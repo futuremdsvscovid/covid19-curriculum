@@ -1,5 +1,5 @@
 ---
-description: 'Welcome!  Material was last updated on 5/3/2020, unless otherwise specified.'
+description: 'Welcome!  Material was last updated on 5/10/2020, unless otherwise specified.'
 ---
 
 # Medical Student COVID-19 Curriculum
@@ -10,7 +10,7 @@ One of the greatest difficulties facing everyone nowadays is a lack of clarity a
 
 Please share these materials with anyone whom you believe may benefit from them.  **We invite you to sign the** [**guest book**](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) **so we can track this material’s reach.**
 
-![As of May 3, visitors from 106 countries \(blue\) have signed the guest book!](.gitbook/assets/5.2-curriculum-map.png)
+![As of May 10, visitors from 108 countries \(blue\) have signed the guest book!](.gitbook/assets/5.2-curriculum-map.png)
 
 This curriculum was entirely written and compiled by Harvard Medical School students.  This document is not an official publication of the institution.  It is provided for educational purposes only and does not constitute medical advice.
 
