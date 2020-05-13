@@ -1,10 +1,10 @@
 # COVID-19 among Populations in Correctional Facilities
 
-## Health and healthcare in correctional facilities prior to COVID
+## Health and Health Care in Correctional Facilities Prior to COVID
 
 Given the United States has one of the highest incarceration rates in the world, the health and wellbeing of this population during the COVID pandemic warrants discussion. It is estimated that[ nearly 2.3 million](https://www.prisonpolicy.org/reports/pie2020.html) individuals in the United States are currently incarcerated.  For a discussion on the state of health and healthcare in correctional facilities prior to COVID, please refer to the [supplemental reading](https://docs.google.com/document/d/1weLnZQE7LxS_Gm9pyX4Ba7ViH_7rQNH56T-1GT5dRp8/edit?usp=sharing). 
 
-## Incarceration during COVID pandemic
+## Incarceration During the COVID Pandemic
 
 As of April 21,[ 540 federal inmates](https://www.bop.gov/coronavirus/) have tested positive for COVID-19, of whom 13 have died from the virus. This number does not represent state prisons and local jails, which have also reported COVID-19 related deaths across the U.S. At the state level, numerous reports are surfacing of cases in correctional facilities. As of [April 20](https://www.axios.com/ohio-prison-coronavirus-f03420d7-838a-46fe-99e3-5d9573449a84.html), an Ohio state prison is now the largest known source of COVID-19 cases in the U.S., with at least 1,937 confirmed cases \(73% of the population in that prison\). 
 
