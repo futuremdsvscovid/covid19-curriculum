@@ -115,8 +115,7 @@ Sample Mechanical Ventilator Settings \(Source: [Johns Hopkins Ventilator Guide]
 
 Acute respiratory distress syndrome \(ARDS\) is a complication of many different pulmonary and systemic processes, including severe SARS-CoV-2 \([Zhou et al. Lancet 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930566-3/fulltext); [Wu et al. JAMA Intern Med. 2020](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2763184)\).  In ARDS, an explosive pulmonary or systemic inflammatory response damages pulmonary vasculature, resulting in non-cardiogenic pulmonary edema that can trigger hypoxemic respiratory failure.  Patients with ARDS often need ICU-level care and mechanical ventilation \([AMBOSS](https://www.amboss.com/us/knowledge/Acute_respiratory_distress_syndrome)\).
 
-In mechanical ventilation of ARDS patients, including patients with ARDS from COVID-19, the goal is to provide low tidal volumes and low inspiratory pressures.  This approach, known as **lung-protective ventilation \(LPV\)**, can help avoid mechanical ventilator-associated lung injury \([AMBOSS](https://www.amboss.com/us/knowledge/Acute_respiratory_distress_syndrome); [ARDSnet](http://www.ardsnet.org/files/ventilator_protocol_2008-07.pdf); [WHO](https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-%28ncov%29-infection-is-suspected)\).  
-
+In mechanical ventilation of ARDS patients, including patients with ARDS from COVID-19, the goal is to provide low tidal volumes and low inspiratory pressures.  This approach, known as **lung-protective ventilation \(LPV\)**, can help avoid mechanical ventilator-associated lung injury \([AMBOSS](https://www.amboss.com/us/knowledge/Acute_respiratory_distress_syndrome); [ARDSnet](http://www.ardsnet.org/files/ventilator_protocol_2008-07.pdf); [WHO](https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-%28ncov%29-infection-is-suspected)\).
 
 **Inclusion Criteria for Mechanical Ventilator Use in ARDS \(**[**ARDSnet**](http://www.ardsnet.org/files/ventilator_protocol_2008-07.pdf)**\):**
 
@@ -151,4 +150,8 @@ For more information on clinical trials regarding mechanical ventilation, refer 
 _Thought question:_
 
 * Why might a slight respiratory acidosis be tolerated in a patient with ARDS?  In other words, if you are taking care of a patient with ARDS whose PaCO2 is above normal, why would you not increase the tidal volume to increase the minute ventilation? 
+
+## Simulator
+
+For an opportunity to apply these concepts while interacting with a ventilator control panel, please work through this [Ventilator Simulator](https://www.openpediatrics.org/assets/simulator/ventilator-simulator) created by OpenPediatrics.
 
