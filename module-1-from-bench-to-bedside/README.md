@@ -12,13 +12,13 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(5/8/20\):**
+**Highlight of Updates \(5/15/20\):**
 
-* New SARS-CoV-2 [genomics graphic](basic-virology-and-immunology.md#genome)
-* Updated link to [MGH Treatment Guidelines](clinical-presentation-of-covid-19.md#laboratory-diagnostics)
-* Additional information about the NIAD trial comparing [Remdesivir ](investigational-therapeutics-and-vaccine-development.md#remdesivir)to placebo in hospitalized patients added to the Management and Investigational Therapeutics Sections
-* Updated with the [latest vaccine trials](investigational-therapeutics-and-vaccine-development.md#clinical-vaccine-trials)
-* Added link to [Cell Snapshot review article](graphic-summary.md)
+* Updated risk stratification section to include [NHS data](clinical-presentation-of-covid-19.md#risk-stratification)
+* New discussion of [frailty](clinical-presentation-of-covid-19.md#risk-stratification) as a predictor of disease severity
+* Updated [supplementary materials](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#) on COVID-19 and children to include discussion of infectivity of pediatric patients
+* New [concept videos](investigational-therapeutics-and-vaccine-development.md#investigational-therapeutics) on investigation therapeutics
+* Updated investigation therapeutics for [hydroxychloroquine](investigational-therapeutics-and-vaccine-development.md#chloroquine-and-hydroxychloroquine), [remdesivir](investigational-therapeutics-and-vaccine-development.md#remdesivir), [favipiravir](investigational-therapeutics-and-vaccine-development.md#favipiravir), [umifenovir](investigational-therapeutics-and-vaccine-development.md#umifenovir-arbidol), and [IL-6 inhibitors](investigational-therapeutics-and-vaccine-development.md#interleukin-6-il-6-r-inhibition-tocilizumab-sarilumab-siltuximab)
 
 ## Introduction
 

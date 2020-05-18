@@ -32,7 +32,7 @@
   * [Diagnosis of COVID-19](module-1-from-bench-to-bedside/clinical-presentation-of-covid-19.md)
   * [Management of COVID-19](module-1-from-bench-to-bedside/management-of-covid-19.md)
   * [Investigational Therapeutics & Vaccine Development](module-1-from-bench-to-bedside/investigational-therapeutics-and-vaccine-development.md)
-  * [Graphic Summary](module-1-from-bench-to-bedside/graphic-summary.md)
+  * [Graphic Summary & Concept Videos](module-1-from-bench-to-bedside/graphic-summary.md)
 * [Module 2: Epidemiology Principles](module-2-epidemiology-principles/README.md)
   * [Introduction to Epidemiological Terms](module-2-epidemiology-principles/introduction-to-epidemiological-terms.md)
   * [Where Are We Now?](module-2-epidemiology-principles/where-are-we-now.md)

@@ -9,7 +9,7 @@ Congress has begun to address the social and economic impacts caused by COVID-19
 * Mandates that COVID-19 testing be of no cost to patients
 * Expands requirements around employers’ infectious disease control plans
 
-Senate Republicans and Democrats also constructed and passed the Coronavirus Aid, Relief, and Economic Security Act \(CARES\), a [$2 trillion stimulus package](https://www.nytimes.com/2020/03/25/us/politics/whats-in-coronavirus-stimulus-bill.html). [President Trump signed the bill on March 27](https://www.washingtonpost.com/us-policy/2020/03/27/congress-coronavirus-house-vote/). This package will include \(read the most recent text [here](https://www.congress.gov/bill/116th-congress/senate-bill/3548/text)\):
+Senate Republicans and Democrats also constructed and passed the Coronavirus Aid, Relief, and Economic Security Act \(CARES\), a [$2 trillion stimulus package](https://www.nytimes.com/2020/03/25/us/politics/whats-in-coronavirus-stimulus-bill.html). [President Trump signed the bill on March 27](https://www.washingtonpost.com/us-policy/2020/03/27/congress-coronavirus-house-vote/). This package includes \(read the most recent text [here](https://www.congress.gov/bill/116th-congress/senate-bill/3548/text)\):
 
 * Direct payments to taxpayers, with the IRS disbursing up to $1,200 per taxpayer based on 2018 and 2019 tax returns, with an additional $500 per child
 * Extension of unemployment benefits

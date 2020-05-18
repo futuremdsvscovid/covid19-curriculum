@@ -8,9 +8,9 @@ The U.S. has been unique in its response to COVID-19. Despite now having the [hi
 
 While we are not able to cover every state, we’ve highlighted a few that are distinct in their approaches. California’s population is the largest in the country, and leaders have had to consider a diverse population across a large geographic span. Ohio acted early on many social distancing measures, despite relatively few early cases. Texas has relied on actions from local and county officials, with state action coming later. Pennsylvania has taken a county-by-county approach, rather than enacting statewide measures. Alabama serves as an example of a response in a state with more rural populations and a historically politically conservative government; responses were initially led by county, but are now being coordinated statewide by the governor. Massachusetts is a densely populated state with a large healthcare infrastructure. We plan to profile additional states in the coming weeks.
 
-![COVID-19 Cases, selected states, as of April 24, 2020](../.gitbook/assets/image.png)
+![COVID-19 Cases, selected states, as of May 17, 2020](../.gitbook/assets/image%20%286%29.png)
 
-![COVID-19 Deaths, selected states, as of April 24, 2020](../.gitbook/assets/image%20%286%29.png)
+![COVID-19 Deaths, selected states, as of May 17, 2020](../.gitbook/assets/image%20%289%29.png)
 
 _Graphics by Jennifer Ge, HMS Student; data from_ [_The COVID Tracking Project_](https://covidtracking.com/)\_\_
 
@@ -28,9 +28,9 @@ While we have highlighted states that have taken a unique approach to managing t
 * Who orchestrates the response within the state? How does their background and expertise affect their leadership?
 * What does public health look like at baseline? How has the safety net \(or lack thereof\) affected the trajectory of the virus?
 * How did the state fare during the 1918 Influenza epidemic? Check out [this site](https://www.influenzaarchive.org/index.html) from the University of Michigan Center for the History of Medicine for more information.
-* How has the state handled testing? Who has access and why?
-* What kinds of social distancing and non-pharmacologic measures were put in place and when? How do these measures and timing impact the spread of the virus?
-* How have leaders communicated important information to the public?
+* How has the state handled testing? Who has access and why? How might you redesign testing access if you were tasked to do so? 
+* What kinds of social distancing and non-pharmacologic measures were put in place and when? How do these measures and timing impact the spread of the virus? Why might these measures be important during a pandemic and how could you evaluate whether or not these measures were successful?
+* How have leaders communicated important information to the public? How might this communication be continued or modified?
 
 ## Selected Case Studies
 
