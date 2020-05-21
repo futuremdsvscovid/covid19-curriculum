@@ -16,7 +16,5 @@ This curriculum was written and compiled by Harvard Medical School students.  Th
 
 The contents in each module were reviewed for accuracy by expert faculty members at the time of initial publication.  We thank them for their attention during this particularly demanding time. However, given our constantly changing understanding of SARS-CoV-2 and the pandemic’s spread in society, the material in this curriculum will need to be updated frequently, and we cannot guarantee the accuracy of the information at any given time.  We plan to update content every weekend.  Please share your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdZGYWkx5AVaYUIxCwvQmI75Vu6jVOHkinhDHr_XbrQq4WMTg/viewform).
 
-[Michael Kochis](mailto:michael_kochis@hms.harvard.edu), EdM
-
-Education Committee Chair, [HMS COVID-19 Student Response Team](https://covidstudentresponse.org/about/) 
+Contact: [HMS Medical Student COVID-19 Curriculum Committee](mailto:medicalstudentcovidcurriculum@gmail.com)
 
