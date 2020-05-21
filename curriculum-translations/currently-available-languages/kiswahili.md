@@ -1,4 +1,4 @@
-# Kiswahili
+# Swahili
 
 Translations on this page courtesy of Mohamed Al-Beity \(albeitymohamed@gmail.com\); Kalipa Kisuse \(mesh.r@hotmail.com\), Joshua Tadayo \(joshuatadayo@gmail.com\) \(with Oli Health Magazine\) - Updated 05/06/20 -
 
