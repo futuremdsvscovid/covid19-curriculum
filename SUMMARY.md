@@ -6,6 +6,7 @@
   * [One-Page Summaries](curriculum-overview/module-summaries.md)
 * [Translations](curriculum-translations/README.md)
   * [Currently Available Languages](curriculum-translations/currently-available-languages/README.md)
+    * [Chinese](curriculum-translations/currently-available-languages/chinese.md)
     * [Arabic](curriculum-translations/currently-available-languages/arabic.md)
     * [Farsi](curriculum-translations/currently-available-languages/farsi.md)
     * [French](curriculum-translations/currently-available-languages/french.md)
