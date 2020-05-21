@@ -1,10 +1,6 @@
----
-description: >-
-  All translations on this page courtesy of: Mohamed Al-Beity
-  (albeitymohamed@gmail.com) - Updated 03/04/20 -
----
-
 # Kiswahili
+
+Translations on this page courtesy of Mohamed Al-Beity \(albeitymohamed@gmail.com\); Kalipa Kisuse \(mesh.r@hotmail.com\), Joshua Tadayo \(joshuatadayo@gmail.com\) \(with Oli Health Magazine\) - Updated 05/06/20 -
 
 ## [Module 1 Summary](https://drive.google.com/file/d/1wnu7beKdXiYNkmmRdagzV7RdhMd1JXra/view?usp=sharing)
 
