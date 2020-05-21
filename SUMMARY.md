@@ -6,6 +6,7 @@
   * [One-Page Summaries](curriculum-overview/module-summaries.md)
 * [Translations](curriculum-translations/README.md)
   * [Currently Available Languages](curriculum-translations/currently-available-languages/README.md)
+    * [Krio](curriculum-translations/currently-available-languages/krio.md)
     * [Arabic](curriculum-translations/currently-available-languages/arabic.md)
     * [Chichewa](curriculum-translations/currently-available-languages/chichewa.md)
     * [Chinese](curriculum-translations/currently-available-languages/chinese.md)
