@@ -10,7 +10,7 @@ One of the greatest difficulties facing everyone nowadays is a lack of clarity a
 
 Please share these materials with anyone whom you believe may benefit from them.  **We invite you to sign the** [**guest book**](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) **so we can track this material’s reach.**
 
-![As of May 10, visitors from 109 countries \(blue\) have signed the guest book!](.gitbook/assets/5.20-curriculum-map.png)
+![As of May 20, visitors from 109 countries \(blue\) have signed the guest book!](.gitbook/assets/5.20-curriculum-map.png)
 
 This curriculum was written and compiled by Harvard Medical School students.  This document is not an official publication of the institution.  It is provided for educational purposes only and does not constitute medical advice.
 
