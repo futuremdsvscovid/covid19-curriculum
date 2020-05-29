@@ -7,7 +7,7 @@ description: >-
 
 # Module 8: Medical Ethics in Relation to COVID-19
 
-_Authors_: James Agolia, Michelle Bayefsky, Samuel Doernberg, Melody Huang, Margaret Irwin, Bina Kassamali, Katie Kester, Benjamin Landwersiek, Sun Fletcher, Soumyaa Mazumder, Niyi Odewade, Larisa Shagabayeva, Derek Soled, Sanjana Srinivasan, Maria Thomas, Allen Zhou, Angela Zou
+_Authors_: James Agolia, Michelle Bayefsky, Maheetha Bharadwaj, Samuel Doernberg, Melody Huang, Margaret Irwin, Bina Kassamali, Katie Kester, Benjamin Landwersiek, Sun Fletcher, Soumyaa Mazumder, Niyi Odewade, Larisa Shagabayeva, Derek Soled, Sanjana Srinivasan, Maria Thomas, Allen Zhou, Angela Zou
 
 _Editor:_ [Derek Soled](mailto:derek_soled@hms.harvard.edu), MSc
 
