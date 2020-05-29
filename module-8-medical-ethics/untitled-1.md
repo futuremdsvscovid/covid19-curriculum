@@ -102,7 +102,7 @@ _Thought question:_
 
 In addition to Massachusetts, several other states. have released Crisis Standards of Care \(CSC\) guidelines for the allocation of scarce critical care resources. Most guidelines use the Sequential Organ Failure Assessment \(SOFA\) scores to predict short-term survival and maximize lives saved. However, different states have adopted different stances on whether to account for patient co-morbidities as a measurement of incorporating long-term survival into the consideration. In the future, it is important that physicians, wherever they practice, have an easy way to access and understand their own state guidelines, since another surge could arise before a vaccine is found. This information will also be useful for future pandemics. The below table compares and contrasts four state guidelines: Maryland, Pennsylvania, New York, and Colorado. For more information about how these state guidelines compare in terms of outcomes, please visit the paper published in medRXiv: [https://www.medrxiv.org/content/10.1101/2020.05.16.20098657v1](https://www.medrxiv.org/content/10.1101/2020.05.16.20098657v1). Of note, Massachussetts's guidelines was originally similar to that of Pennsylvania, but has now been addended extensively.
 
-To learn more about CSC detailed state guidelines, please review our supplementary section [here](https://docs.google.com/document/d/1knR5wday0HM4rb5ic2fV0qRpVIEgn-OGHk8Q8RCHcR0/edit?usp=sharing).
+To learn more about CSC detailed state guidelines, please review our supplementary section [here](https://docs.google.com/document/d/1knR5wday0HM4rb5ic2fV0qRpVIEgn-OGHk8Q8RCHcR0/edit#heading=h.heut4o36m2np).
 
 
 
