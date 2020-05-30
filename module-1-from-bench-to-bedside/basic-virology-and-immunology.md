@@ -137,7 +137,7 @@ _Thought question:_
 
 ### **Immune factors involved in infection outcome**
 
-Many of the inflammatory markers discussed above have been investigated as possible predictors of disease mortality. See laboratory diagnostics in ****"Clinical Presentation of COVID-19" ****for more information.
+Many of the inflammatory markers discussed above have been investigated as possible predictors of disease mortality. See [laboratory diagnostics](clinical-presentation-of-covid-19.md#ancillary-studies) for more information.
 
 Additional Readings:
 

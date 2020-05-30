@@ -12,13 +12,16 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(5/15/20\):**
+**Highlight of Updates \(5/29/20\):**
 
-* Updated risk stratification section to include [NHS data](clinical-presentation-of-covid-19.md#risk-stratification)
-* New discussion of [frailty](clinical-presentation-of-covid-19.md#risk-stratification) as a predictor of disease severity
-* Updated [supplementary materials](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#) on COVID-19 and children to include discussion of infectivity of pediatric patients
-* New [concept videos](investigational-therapeutics-and-vaccine-development.md#investigational-therapeutics) on investigation therapeutics
-* Updated investigation therapeutics for [hydroxychloroquine](investigational-therapeutics-and-vaccine-development.md#chloroquine-and-hydroxychloroquine), [remdesivir](investigational-therapeutics-and-vaccine-development.md#remdesivir), [favipiravir](investigational-therapeutics-and-vaccine-development.md#favipiravir), [umifenovir](investigational-therapeutics-and-vaccine-development.md#umifenovir-arbidol), and [IL-6 inhibitors](investigational-therapeutics-and-vaccine-development.md#interleukin-6-il-6-r-inhibition-tocilizumab-sarilumab-siltuximab)
+* Discussion of [duration of infectious virus shedding](basic-virology-and-immunology.md#transmission-dynamics)
+* Discussion of [IL-6 mechanisms of action](basic-virology-and-immunology.md#immune-response-in-covid-19) in cytokine storm
+* Expanded discussion of [CD4+ and CD8+ T cell responses](basic-virology-and-immunology.md#adaptive-immune-response)
+* Discussion of protection from repeat infection
+* Updated discussion of Multisystem Inflammatory Syndrome in Children \(MIS-C\) in supplementary materials
+* Updated age risk stratification data 
+* New discussion of IL-6 and lymphopenia trends in predicting clinical severity
+* Remdesivir preliminary report published in NEJM added to Management
 
 ## Introduction
 
