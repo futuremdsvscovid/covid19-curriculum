@@ -17,11 +17,11 @@ _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 * Discussion of [duration of infectious virus shedding](basic-virology-and-immunology.md#transmission-dynamics)
 * Discussion of [IL-6 mechanisms of action](basic-virology-and-immunology.md#immune-response-in-covid-19) in cytokine storm
 * Expanded discussion of [CD4+ and CD8+ T cell responses](basic-virology-and-immunology.md#adaptive-immune-response)
-* Discussion of protection from repeat infection
-* Updated discussion of Multisystem Inflammatory Syndrome in Children \(MIS-C\) in supplementary materials
-* Updated age risk stratification data 
-* New discussion of IL-6 and lymphopenia trends in predicting clinical severity
-* Remdesivir preliminary report published in NEJM added to Management
+* Discussion of protection from [repeat infection](basic-virology-and-immunology.md#adaptive-immune-response)
+* Updated discussion of [Multisystem Inflammatory Syndrome in Children \(MIS-C\)](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#heading=h.fzjmqy11md9f) in supplementary materials
+* Updated [age risk stratification](clinical-presentation-of-covid-19.md#risk-stratification) data 
+* New discussion of [IL-6 and lymphopenia trends ](clinical-presentation-of-covid-19.md#ancillary-studies)in predicting clinical severity
+* [Remdesivir preliminary report ](management-of-covid-19.md#treatment)published in NEJM added to Management
 
 ## Introduction
 
