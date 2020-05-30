@@ -57,7 +57,7 @@ _In vitro/in vivo work:_
 Both MERS-CoV and SARS-CoV-1 are inhibited by remdesivir in multiple in vitro systems and activity against SARS-CoV-2 infectivity has been reported in vitro at micromolar levels \([Wang et al., Cell Res. 2020](https://pubmed.ncbi.nlm.nih.gov/32020029/?from_single_result=32020029&expanded_search_query=32020029)\).In mouse and non-human primate models of SARS and MERS, treatment led to significantly reduced lung viral load and improved respiratory function \([Sheahan et al., Sci Trans Med. 2017](https://pubmed.ncbi.nlm.nih.gov/28659436/)\).  In the first SARS-CoV-2 in vivo remdesivir study, clinical benefit, reduced BAL viral titers, and reduced lung viral load were demonstrated in rhesus macaques initiated on remdesivir early during infection \([Williamson et al., bioRxiv 2020](https://www.biorxiv.org/content/10.1101/2020.04.15.043166v1)\).
 
 _Clinical Results in COVID19:_  
-Interest in remdesivir gained traction after its compassionate use helped treat one of the first patients in the United States  in critical illness \([Holsue et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191)\). In a multicenter case series of the compassionate use of remdesivir for up to 10 days in 53 patients with severe COVID-19 and hypoxia, 68% had clinical improvement \(discharge or decreased requirement for oxygen support\) and 13% died. Out of the 30 intubated patients, 57% \(17 patients\) were extubated. Elevated liver enzymes were the most frequently reported adverse event, at 23% \([Grein et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016)\).  
+Interest in remdesivir gained traction after its compassionate use helped treat one of the first patients in the United States  in critical illness \([Holsue et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191)\). In a multicenter case series of the compassionate use of remdesivir for up to 10 days in 53 patients with severe COVID-19 and hypoxia, 68% had clinical improvement \(discharge or decreased requirement for oxygen support\) and 13% died. Out of the 30 intubated patients, 57% \(17 patients\) were extubated. Elevated liver enzymes was the most frequently reported adverse event \(23%\) \([Grein et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016)\).  
 
 Initial results from a comparison of a 5 to a 10 day regimen in patients with severe disease suggested no difference in outcomes \(clinical recovery, discharge, or death\) between the lengths of regimens. However, conclusions about treatment benefits are limited as there was no control group \([Gilead 2020](https://www.gilead.com/news-and-press/press-room/press-releases/2020/4/gilead-announces-results-from-phase-3-trial-of-investigational-antiviral-remdesivir-in-patients-with-severe-covid-19)\). Ten hospitals in Hubei, China conducted the first multi-center, randomized, double-blind, placebo controlled study of remdesivir. While mortality outcomes are similar between remdesivir and placebo arms, time to symptom resolution was shorter in the remdesivir treated group. The trial was underpowered \(only enrolled 52% of target sample\) due to the declining incidence of COVID-19 in Hubei \([Wang et al, Lancet 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2931022-9/fulltext)\).      
 
@@ -90,7 +90,7 @@ _Ongoing Clinical Trials_
 ### **Favipiravir**
 
 _Current Prescribed Use_  
-Catarrhal \(respiratory tract mucous membrane inflammation\)
+Catarrhal \(respiratory tract mucous membrane inflammation\), approved for influenza A resistant to neuraminidase inhibitors in Japan \([Hayden and Shindo, Curr Opin Infect Dis, 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6416007/)\).
 
 _Mechanism of Action_  
 Not fully understood, potentially a selective inhibitor of viral RNA-dependent RNA polymerase.
@@ -99,7 +99,7 @@ _In vitro/in vivo work_
 Activity against a broad array of RNA viruses in vitro \([Furuta et al Proc Jpn Acad Ser B Phys Biol Sci 2017](https://pubmed.ncbi.nlm.nih.gov/28769016/)\); in vitro activity also demonstrated against SARS-CoV-2 \([Wang et al Cell Res 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7054408/)\).
 
 _Clinical Results in COVID-19_  
-A multicenter, open-label trial of favipiravir versus umifenovir \(Arbidol, an influenza membrane fusion inhibitor\) demonstrated improved clinical recovery rate at day 7 in moderately ill patients but not in mildly or severely ill patients \([Chen et al. medRxiv 2020](https://www.medrxiv.org/content/10.1101/2020.03.17.20037432v4)\).  In a small open-label non-randomized trial vs. historical controls with lopinavir/ritonavir, favipravir had earlier time to viral clearance in mild-moderate disease \([Cai et al., Engineering 2020](https://www.sciencedirect.com/science/article/pii/S2095809920300631?via%3Dihub)\).
+A multicenter, open-label trial of favipiravir versus umifenovir \(Arbidol, an influenza membrane fusion inhibitor, see below\) demonstrated improved clinical recovery rate at day 7 in moderately ill patients but not in mildly or severely ill patients \([Chen et al. medRxiv 2020](https://www.medrxiv.org/content/10.1101/2020.03.17.20037432v4)\).  In a small open-label non-randomized trial vs. historical controls with lopinavir/ritonavir, favipravir had earlier time to viral clearance in mild-moderate disease \(median 4 vs. 11 days, [Cai et al., Engineering 2020](https://www.sciencedirect.com/science/article/pii/S2095809920300631?via%3Dihub)\).
 
 _Ongoing Clinical Trials_  
 Due to concern of teratogenicity and embryotoxicity in humans, favipiravir would have [limitations in use](https://www.jwatch.org/na51293/2020/04/09/favipiravir-potential-antiviral-covid-19) for pregnant women. [An ongoing study in China](https://clinicaltrials.gov/ct2/show/NCT04310228?term=favipiravir&cond=COVID&draw=2&rank=3) is investigating favipiravir in combination with tocilizumab. Favipiravir will first be trialed in the United States at three Massachusetts hospitals in approximately 50 patients \([NCT04358549](https://clinicaltrials.gov/ct2/show/NCT04358549?term=favipiravir&cond=covid+19&draw=2&rank=3)\).
@@ -119,8 +119,7 @@ _Clinical Results in COVID-19_
 Treatment with umifenovir \(median duration 9 days\) was associated with lower mortality rates \(0% \[0/36\] vs 16% \[5/31\]\) compared to control in a non-randomized study of 67 patients \([Wang et al., Clin Inf Dis 2020](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa272/5807944)\). 
 
 _Ongoing Clinical Trials_  
-Randomized clinical trials investigating umifenovir [are underway](https://clinicaltrials.gov/ct2/results?cond=covid&term=arbidol&cntry=&state=&city=&dist=&Search=Search); none as of yet in the United States.  
-
+Randomized clinical trials investigating umifenovir [are underway](https://clinicaltrials.gov/ct2/results?cond=covid&term=arbidol&cntry=&state=&city=&dist=&Search=Search); none as of yet in the United States.
 
 ### Camostat Mesylate
 
@@ -135,6 +134,25 @@ Demonstrated to inhibit SARS-CoV-2 cell entry in vitro \([Hauffman et al., Cell 
 
 _Ongoing Clinical Trials_  
 A Danish randomized, placebo-controlled trial will investigate camostat mesylate in COVID-19 patients at the maximum dose currently approved for pancreatitis in Japan \([NCT04321096](https://clinicaltrials.gov/ct2/show/NCT04321096?term=camostat&cond=covid&draw=2&rank=4)\).
+
+### **Interleukin-6/IL6R Inhibition \(tocilizumab, sarilumab, siltuximab\)**
+
+_Current Prescribed Use:_  
+Immunosuppressive drugs used to treat moderate or severe rheumatoid arthritis 
+
+_Mechanism of Action:_  
+Humanized monoclonal antibody against the interleukin-6 \(IL-6\) receptor \(Tocilizumab and Sarilumab\) or IL-6 \(Siltuximab\), mitigating the cytokine storm hypothesized to correlate with COVID-19 disease severity \([Liu et al., MedRxiv. 2020](https://www.medrxiv.org/content/10.1101/2020.03.01.20029769v2)\).
+
+_In vitro/in vivo work:_  
+None at present. Interest in use generated solely from international human observational data during the SARS-CoV-2 outbreak.  
+  
+_Clinical Results in COVID-19:_  
+In March 2020, Xu et al. described that in 15 out of 20 patients, treatment with tocilizumab showed a decrease in oxygen requirement and temperature, prompting China’s National Health Commission to approve the use of tocilizumab to treat patients with severe or critical disease \([Xu et al., ChinXiv 2020](http://www.chinaxiv.org/abs/202003.00026)\). Other case reports have also described good outcomes with tocilizumab \([Luo et al., J Med Virol. 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25801), [Michot et al., Ann Oncol. 2020](https://pubmed.ncbi.nlm.nih.gov/32247642/)\). As of yet, there are no randomized controlled trial data for IL-6 inhibition. 
+
+_Ongoing Clinical Trials:_  
+IL-6R or IL-6 inhibition through tocilizumab, sarilumab, and siltuximab is being evaluated in [multiple clinical trials](https://clinicaltrials.gov/ct2/results?cond=COVID-19&term=IL-6&cntry=&state=&city=&dist=). A Phase 3 trial of sarilumab expects results by June \([Regeneron Press Release 2020](https://investor.regeneron.com/news-releases/news-release-details/regeneron-and-sanofi-provide-update-us-phase-23-adaptive)\).
+
+## Investigational therapeutics _"in the pipeline"_
 
 ### **β-D-N4-hydroxycytidine \(NHC, EIDD-2801\)**
 
@@ -152,28 +170,10 @@ EIDD-2801 reduces viral loads, prevents body weight loss and decreases lung hemo
 _Clinical Results in COVID-19 :  
 ****_Not being investigated clinically.
 
-### **Interleukin-6/IL6R Inhibition \(tocilizumab, sarilumab, siltuximab\)**
-
-_Current Prescribed Use:_  
-Immunosuppressive drugs used to treat moderate or severe rheumatoid arthritis 
-
-_Mechanism of Action:_  
-Humanized monoclonal antibody against the interleukin-6 \(IL-6\) receptor \(Tocilizumab and Sarilumab\) or IL-6 \(Siltuximab\), mitigating the cytokine storm hypothesized to correlate with COVID-19 disease severity \([Liu et al., MedRxiv. 2020](https://www.medrxiv.org/content/10.1101/2020.03.01.20029769v2)\).
-
-_In vitro/in vivo work:_  
-None at present. Interest in use generated solely from international human observational data during the SARS-CoV-2 outbreak.  
-  
-_Clinical Results in COVID-19:_  
-In March 2020, Xu et al. described that in 15 out of 20 patients, treatment with tocilizumab showed a decrease in oxygen requirement and temperature, prompting China’s National Health Commission to approve the use of tocilizumab to treat patients with severe or critical disease \([Xu et al., ChinXiv 2020](http://www.chinaxiv.org/abs/202003.00026)\). Other case reports have also described good outcomes with tocilizumab \([Luo et al., J Med Virol. 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25801), [Michot et al., Ann Oncol. 2020](https://pubmed.ncbi.nlm.nih.gov/32247642/)\). As of yet, there are no randomized controlled trial data for IL-6 inhibition.   
-
-
-_Ongoing Clinical Trials:_  
-IL-6R or IL-6 inhibition through tocilizumab, sarilumab, and siltuximab is being evaluated in [multiple clinical trials](https://clinicaltrials.gov/ct2/results?cond=COVID-19&term=IL-6&cntry=&state=&city=&dist=). 
-
-### Passive antibody transfer
+## Passive antibody transfer
 
 _History of convalescent sera_  
-****The role of our immune system is to develop “memory” against foreign pathogens so that once exposed a second time to said pathogens, neutralizing antibodies are used to quickly eradicate an impending infection. With this understanding, physicians and scientists have long argued that the transfusion of human convalescent sera \(that which contains neutralizing antibodies from a recovered patient\) could treat infection or be administered prophylactically to inhibit systemic infection [\(Casadevall and Scharff 1995\)](https://paperpile.com/c/Z2EDp3/bWhy). Passive antibody transfer tends to be more effective for prophylaxis than for treating systemic infection, and therefore should be given shortly after symptom onset. While we don’t fully understand how temporality of administration affects efficacy, it is thought that smaller inoculums may be more manageable for neutralization than systemic infection, or that the transferred antibodies modulate the receiver’s inflammatory response which is more easily done at earlier stages of infection.
+**The role of our immune system is to develop “memory” against foreign pathogens so that once exposed a second time to said pathogens, neutralizing antibodies are used to quickly eradicate an impending infection. With this understanding, physicians and scientists have long been interested in the  transfusion of human convalescent sera \(that which contains neutralizing antibodies from a recovered patient\) to treat infection or serve as prophylaxis immediately following exposure** [**\(Casadevall and Scharff 1995\)**](https://paperpile.com/c/Z2EDp3/bWhy)**. Passive antibody transfer tends to be more effective for prophylaxis than for treating systemic infection, and therefore should be given shortly after symptom onset. While we don’t fully understand how temporality of administration affects efficacy, it is thought that smaller inoculums may be more manageable for neutralization than systemic infection, or that the transferred antibodies modulate the receiver’s inflammatory response which is more easily done at earlier stages of infection.**
 
 _If interested in learning more about previous uses of convalescent sera for treatment of viral infections please read:_
 
