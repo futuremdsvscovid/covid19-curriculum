@@ -6,7 +6,7 @@ description: >-
 
 # Module 1: From Bench to Bedside
 
-_Authors:_ Adi Achanta; Pamela Chen; Nicole M. Gilette; Pinky Langat, PhD; Jeff Meng; Blake Oberfeld; Jordan Said; Simone Sasse; Abigail Schiff, PhD; Allen Zhou
+_Authors:_ Adi Achanta; Stephanie Alden; Pamela Chen; Nicole M. Gilette; Ashwini Joshi; Pinky Langat, PhD; Jeff Meng; Blake Oberfeld; Jordan Said; Simone Sasse; Abigail Schiff, PhD; Allen Zhou
 
 _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
