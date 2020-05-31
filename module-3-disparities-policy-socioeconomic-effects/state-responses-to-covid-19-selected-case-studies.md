@@ -36,5 +36,5 @@ While we have highlighted states that have taken a unique approach to managing t
 
 To view the cases, click [HERE](https://docs.google.com/document/d/17dUmXrdfCQtDYfNH4aQfX4pdY9mEpOqqBFeB1KLcC5M/edit?usp=sharing).
 
-![States with a case study are highlighted in orange.](../.gitbook/assets/image%20%285%29.png)
+![States with a case study are highlighted in orange.](../.gitbook/assets/image%20%2813%29.png)
 

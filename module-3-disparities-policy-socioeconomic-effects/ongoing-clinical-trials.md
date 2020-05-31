@@ -2,14 +2,14 @@
 
 President Donald Trump enacted the C[oronavirus Guidelines for America on](https://www.whitehouse.gov/briefings-statements/coronavirus-guidelines-america/) March 16, 2020, which include avoiding gatherings of more than 10 people, working from home when possible, closing schools, and avoiding unnecessary travel, among other requirements. On March 29, 2020, in light of recommendations from multiple public health advisors, President Trump extended these guidelines from April 12 to [April 30](https://www.nytimes.com/2020/03/29/us/politics/trump-coronavirus-guidelines.html). On April 16, 2010, President Trump announced new guidelines for re-opening parts of the country. 
 
-Congress has begun to address the social and economic impacts caused by COVID-19 and its resulting guidelines with the Families First Coronavirus Response Act, which passed both chambers of Congress and was signed by the President on March 18. This bill includes the following \(read the full text [here](https://www.congress.gov/bill/116th-congress/house-bill/6201/text)\):
+Congress began addressing the social and economic impacts caused by COVID-19 and its resulting guidelines with the Families First Coronavirus Response Act, passed March 18. This bill includes the following \(read the full text [here](https://www.congress.gov/bill/116th-congress/house-bill/6201/text)\):
 
 * Expands paid sick leave
 * Provides additional funding to WIC and other supplemental nutrition programs
 * Mandates that COVID-19 testing be of no cost to patients
 * Expands requirements around employers’ infectious disease control plans
 
-Senate Republicans and Democrats also constructed and passed the Coronavirus Aid, Relief, and Economic Security Act \(CARES\), a [$2 trillion stimulus package](https://www.nytimes.com/2020/03/25/us/politics/whats-in-coronavirus-stimulus-bill.html). [President Trump signed the bill on March 27](https://www.washingtonpost.com/us-policy/2020/03/27/congress-coronavirus-house-vote/). This package includes \(read the most recent text [here](https://www.congress.gov/bill/116th-congress/senate-bill/3548/text)\):
+Senate Republicans and Democrats also constructed and passed the Coronavirus Aid, Relief, and Economic Security Act \(CARES\), a [$2 trillion stimulus package](https://www.nytimes.com/2020/03/25/us/politics/whats-in-coronavirus-stimulus-bill.html), which was enacted at the end of March 2020. This package includes \(read the most recent text [here](https://www.congress.gov/bill/116th-congress/senate-bill/3548/text)\):
 
 * Direct payments to taxpayers, with the IRS disbursing up to $1,200 per taxpayer based on 2018 and 2019 tax returns, with an additional $500 per child
 * Extension of unemployment benefits
@@ -22,9 +22,24 @@ Senate Republicans and Democrats also constructed and passed the Coronavirus Aid
 * $200 million for Centers for Medicare and Medicaid to assist nursing homes with infection control
 * $425 million for Substance Abuse and Mental Health Services Administration to increase access to mental health services
 
- Another interim coronavirus funding bill worth $484 billion provides more funding for small businesses, hospitals, and testing.  A majority of the bill is designated towards replenishing the [Paycheck Protection Program \(PPP\)](https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program-ppp). This bill was signed by the President April 24, 2020. 
+ Another interim coronavirus funding bill worth $484 billion provides more funding for small businesses, hospitals, and testing.  A majority of the bill is designated towards replenishing the [Paycheck Protection Program \(PPP\)](https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program-ppp). This bill was signed by the President April 24, 2020.
 
 * The PPP provides government-guaranteed loans to small businesses through the CARES Act.  The loan amount is forgiven if “all employees are kept on the payroll for eight weeks and the money is used for payroll, rent, mortgage interest, or utilities.”
+
+As many states pass their peak, each state, and, in many areas, each county, is enacting regulations to ensure a safe reopening. The [CDC](https://www.cdc.gov/coronavirus/2019-ncov/community/index.html) has provided recommendations for communities, schools, workplaces, and events as they begin to reopen, and the White House has established broader guidelines for [Opening Up America Again](https://www.whitehouse.gov/openingamerica/). To read more about individual state responses, please see our section on [State Responses to COVID-19](https://curriculum.covidstudentresponse.org/module-3-disparities-policy-socioeconomic-effects/state-responses-to-covid-19-selected-case-studies), as well as state policy maps from the [Washington Post](https://www.washingtonpost.com/graphics/2020/national/states-reopening-coronavirus-map/) and [CNN](https://www.cnn.com/interactive/2020/us/states-reopen-coronavirus-trnd/).  
+
+
+On May 15th, the House passed the HEROES Act, a $3 trillion stimulus package.  Discussion of a second relief bill will resume in the Senate after the congressional Memorial Day Recess.  Notable provisions of the House bill include:
+
+1.     Nearly $900 billion for states and local governments
+
+2.     A second round of $1,200 stimulus checks, with a new provision granting filers an additional $1200 per dependent \(for up to three dependents\)  
+
+3.     Funding to expand testing and tracing programs 
+
+4.     Extension of unemployment insurance, increased SNAP benefits, COBRA subsidies for health insurance, and support for small businesses
+
+5.     Expansion of vote-by-mail access and early voting
 
 ### Thought questions:
 
@@ -40,8 +55,7 @@ In a later influenza pandemic simulation called [Crimson Contagion 2019](https:/
 
 Two weeks later, on March 18, 2020, the White House invoked but did not activate the [DPA](https://www.vox.com/2020/3/18/21185333/coronavirus-defense-production-act-trump), which gives the President the authority to order manufacturers to increase their production of needed supplies \(such as masks, respirators, and ventilators\) in times of emergency. Once the act has been invoked, industries are obligated to fill orders coming from the federal government before any others, and the federal government can distribute medical supplies according to need instead of ability to pay. Without the DPA, [state governors were forced to compete with one another and the federal government](https://www.washingtonpost.com/business/2020/03/26/gouged-prices-middlemen-medical-supply-chaos-why-governors-are-so-upset-with-trump/) to purchase medical supplies, leading to increases in medical supply cost and counterfeit sales. President Trump issued an [executive order](https://www.hhs.gov/about/news/2020/03/25/hhs-implements-president-trumps-hoarding-prevention-executive-order.html) under the DPA on March 23, 2020 “preventing hoarding of health and medical resources necessary to respond to COVID-19” by “business, personal, and home” interests. 
 
-The President went further on March 27, 2020, [activating the DPA](https://www.washingtonpost.com/politics/2020/03/25/is-trump-using-defense-production-act/) to force ventilator production by General Motors. He took a similar measure on April 2 with two memorandums, the [first](https://www.whitehouse.gov/presidential-actions/memorandum-order-defense-production-act-regarding-3m-company/) instructing 3M Company to increase production of N95 masks and a [second](https://www.whitehouse.gov/briefings-statements/statement-president-regarding-defense-production-act-3/) to facilitate the supply of manufacturing products to [General Electric Company, Hill-Rom Holdings Inc., Medtronic Public Limited Company, ResMed Inc., Royal Philips N.V., and Vyaire Medical Inc. to accelerate ventilator production](https://www.aha.org/news/headline/2020-04-02-president-uses-dpa-facilitate-production-ventilators). The U.S. government and 3M reached an agreement four days later, with 3M providing an additional [55.5 million N95 masks each month](https://www.cnn.com/2020/04/06/politics/trump-3m-defense-production-act-masks/index.html).  
-
+The President went further on March 27, 2020, [activating the DPA](https://www.washingtonpost.com/politics/2020/03/25/is-trump-using-defense-production-act/) to force ventilator production by General Motors. He took a similar measure on April 2 with two memorandums, the [first](https://www.whitehouse.gov/presidential-actions/memorandum-order-defense-production-act-regarding-3m-company/) instructing 3M Company to increase production of N95 masks and a [second](https://www.whitehouse.gov/briefings-statements/statement-president-regarding-defense-production-act-3/) to facilitate the supply of manufacturing products to [General Electric Company, Hill-Rom Holdings Inc., Medtronic Public Limited Company, ResMed Inc., Royal Philips N.V., and Vyaire Medical Inc. to accelerate ventilator production](https://www.aha.org/news/headline/2020-04-02-president-uses-dpa-facilitate-production-ventilators). The U.S. government and 3M reached an agreement four days later, with 3M providing an additional [55.5 million N95 masks each month](https://www.cnn.com/2020/04/06/politics/trump-3m-defense-production-act-masks/index.html).
 
 For more information on optimizing PPE use in our current shortage, please see [Module 6: Personal Protective Equipment](https://curriculum.covidstudentresponse.org/module-5-training-for-medical-student-specific-roles/personal-protective-equipment). For more information regarding the ethical considerations surrounding PPE allocation and lifesaving interventions, such as CPR, please see [Module 8: Resource Distribution](https://curriculum.covidstudentresponse.org/module-6-medical-ethics-in-relation-to-covid-19/untitled-1#microallocation).  
 
