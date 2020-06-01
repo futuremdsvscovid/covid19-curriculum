@@ -87,7 +87,7 @@ Here are some specific communication & physical exam tips that will help you app
 1. Safety: Be aware of your physical positioning in the room, do not stand between the patient and the door, and always stay within eyesight of the patient. In a telehealth encounter, ensure the patient is somewhere they feel safe before starting the visit. 
 2. Trust and transparency: Offer anticipatory guidance and obtain consent for each step of the interview and before you perform any exam maneuvers. 
 3. Peer support: Ask the patient whether having a friend or family member present would facilitate care. 
-4. Empowerment, voice & choice: Empower your patient to stop the exam at any time if they become uncomfortable. 
+4. Empowerment, voice & choice: Reaffirm your patient’s authority to stop the exam at any time if they become uncomfortable.
 5. Collaboration and mutuality: Introduce yourself and ask for the  patient’s name and pronouns, and ask for and use the patient’s own terms for body parts.
 6. Gender, historical, and cultural issues: Acknowledge that patients may have had negative personal or historical interactions with the healthcare system in the past, do not blame patients for their distrust of the system. 
 
