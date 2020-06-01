@@ -10,7 +10,7 @@ _Authors:_ Okechi Boms; Taylor Brown; Sun Fletcher; Colby Hyland; Katie Kester; 
 
 _Editor:_ [Catherine Mankiw](mailto:catherine_mankiw@hms.harvard.edu)
 
-_Reviewers:_ Jennifer Potter, MD; Fernando Rodriguez-Villa, MD; Nhi-Ha Trinh, MD, MPH; Aliya Feroe; King Fok, MSc
+_Reviewers:_ Jennifer Potter, MD; Fernando Rodriguez-Villa, MD; Nhi-Ha Trinh, MD, MPH; Aliya Feroe; King Fok, MSc; Sabra Katz-Wise, PhD
 
 ## Introduction
 
