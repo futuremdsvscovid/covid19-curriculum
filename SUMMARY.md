@@ -28,7 +28,6 @@
     * [Serbian](curriculum-translations/currently-available-languages/serbian.md)
     * [Spanish](curriculum-translations/currently-available-languages/spanish.md)
     * [Swahili](curriculum-translations/currently-available-languages/kiswahili.md)
-    * [Tamil](curriculum-translations/currently-available-languages/tamil.md)
     * [Thai](curriculum-translations/currently-available-languages/thai.md)
     * [Tumbuka](curriculum-translations/currently-available-languages/tumbuka.md)
     * [Turkish](curriculum-translations/currently-available-languages/turkish.md)
