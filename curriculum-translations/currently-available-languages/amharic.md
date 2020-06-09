@@ -1,6 +1,6 @@
 # Amharic
 
-Translations courtesy of Aemon Berhane Fissha \(aemonberhane1@gmail.com\), Gebeyaw Addis Bezie \(gebeyawas2006@gmail.com\), Loza Admassu Kelemework \(lozaad2017@gmail.com\), Miraf Yeshaneh Tatere \(mirafmyyeshaneh@gmail.com**\),** Yodit Yacob Arsano,\(yodityacobarsano@gmail.com\)
+Translations courtesy of Aemon Berhane Fissha \(aemonberhane1@gmail.com\), Gebeyaw Addis Bezie \(gebeyawas2006@gmail.com\), Loza Admassu Kelemework \(lozaad2017@gmail.com\), Miraf Yeshaneh Tatere \(mirafmyyeshaneh@gmail.com**\),** and Yodit Yacob Arsano \(yodityacobarsano@gmail.com\) with Oli Health Magazine.
 
 ## [Module 1 Graphic Summary ](https://drive.google.com/file/d/11_A620OfL_Zays68PGroV1O8RPetzozi/view?usp=sharing)
 
