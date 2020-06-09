@@ -9,6 +9,7 @@
     * [Amharic](curriculum-translations/currently-available-languages/amharic.md)
     * [Arabic](curriculum-translations/currently-available-languages/arabic.md)
     * [Chichewa](curriculum-translations/currently-available-languages/chichewa.md)
+    * [Tamil](curriculum-translations/currently-available-languages/tamil-1.md)
     * [Chinese](curriculum-translations/currently-available-languages/chinese.md)
     * [Farsi](curriculum-translations/currently-available-languages/farsi.md)
     * [French](curriculum-translations/currently-available-languages/french.md)
