@@ -29,3 +29,5 @@ description: >-
 
 ## [Module 7 Summary](https://docs.google.com/document/d/1kGzUT5LL_aWh414KGFwNwWggebadaazQ_DxZyPPAS-g/edit)
 
+## [Module 8 Summary](https://docs.google.com/document/d/1CFc24RdsSTVmB1f3TeaXel02yFzOHj_rI6xnkk5JSJ0/edit?usp=sharing)
+
