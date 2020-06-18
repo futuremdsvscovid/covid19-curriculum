@@ -1,5 +1,7 @@
 ---
-description: 'Welcome!  Material was last updated on 5/17/2020, unless otherwise specified.'
+description: >-
+  Welcome!  Modules are updated on an individualized basis and will have their
+  date of last update at the top of the module. Enjoy!
 ---
 
 # Medical Student COVID-19 Curriculum
