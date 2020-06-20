@@ -106,7 +106,7 @@ A strong push has been made for identifying laboratory markers that can be used 
 
 Elevated procalcitonin has been shown to be associated with a higher risk of more severe SARS-CoV-2 infection. Whether this represents bacterial superinfection or an inherent feature of the immune system’s response to SARS-CoV-2 remains unclear \([Lippi et al., Clin Chim Acta 2020](https://www.sciencedirect.com/science/article/pii/S0009898120301066?via%3Dihub)\).
 
-MGH’s [COVID-19 Management Guidelines](https://www.massgeneral.org/assets/MGH/pdf/news/coronavirus/mass-general-COVID-19-treatment-guidance.pdf) \(5.19.20\) recommend daily CBC, CMP, CPK, and Ferritin/CRP as well as PT/PTT/fibrinogen and d-dimer every other day for all patients admitted with confirmed or suspected COVID-19. Additionally they recommend LDH, troponin, and baseline ECG for risk stratification.
+MGH’s [COVID-19 Management Guidelines](https://www.massgeneral.org/assets/MGH/pdf/news/coronavirus/mass-general-COVID-19-treatment-guidance.pdf) \(6.17.20\) recommend daily CBC, CMP, CPK, and Ferritin/CRP as well as PT/PTT/fibrinogen and d-dimer every other day for all patients admitted with confirmed or suspected COVID-19. Additionally they recommend LDH, troponin, and baseline ECG for risk stratification.
 
 ### Imaging
 
