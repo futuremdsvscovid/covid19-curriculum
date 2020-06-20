@@ -12,9 +12,10 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(6/5/20\):**
+**Highlight of Updates \(6/19/20\):**
 
-* Added results of first [post-exposure prophylaxis trial of hydroxychloroquine](investigational-therapeutics-and-vaccine-development.md#chloroquine-and-hydroxychloroquine)
+* Moved [risk stratification](management-of-covid-19.md#risk-stratification) to management of COVID-19 to improve readability
+* Expanded on [cardiovascular and neurologic complications](management-of-covid-19.md#clinical-course) of COVID-19
 
 ## Introduction
 
