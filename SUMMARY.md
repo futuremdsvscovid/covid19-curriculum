@@ -49,6 +49,7 @@
   * [Case Study: South Korea 2020](module-2-epidemiology-principles/case-study-south-korea-2020.md)
   * [Graphic Summary](module-2-epidemiology-principles/summary.md)
 * [Module 3: Health Disparities, Policy Changes, and Socioeconomic Effects in the U.S.](module-3-disparities-policy-socioeconomic-effects/README.md)
+  * [Social-Ecological Model for Understanding Differential Impact of COVID-19](module-3-disparities-policy-socioeconomic-effects/social-ecological-model-for-understanding-differential-impact-of-covid-19.md)
   * [Health Disparities in COVID Outcomes](module-3-disparities-policy-socioeconomic-effects/current-landscape-for-covid-19-in-massachusetts.md)
   * [COVID-19 among Populations in Correctional Facilities](module-3-disparities-policy-socioeconomic-effects/covid-19-among-populations-in-correctional-facilities.md)
   * [Overview of U.S. Health Policy Responses to COVID-19](module-3-disparities-policy-socioeconomic-effects/testing-capacity-and-eligibility.md)

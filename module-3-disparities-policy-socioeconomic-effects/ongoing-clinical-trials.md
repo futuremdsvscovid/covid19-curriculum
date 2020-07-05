@@ -26,20 +26,22 @@ Senate Republicans and Democrats also constructed and passed the Coronavirus Aid
 
 * The PPP provides government-guaranteed loans to small businesses through the CARES Act.  The loan amount is forgiven if “all employees are kept on the payroll for eight weeks and the money is used for payroll, rent, mortgage interest, or utilities.”
 
-As many states pass their peak, each state, and, in many areas, each county, is enacting regulations to ensure a safe reopening. The [CDC](https://www.cdc.gov/coronavirus/2019-ncov/community/index.html) has provided recommendations for communities, schools, workplaces, and events as they begin to reopen, and the White House has established broader guidelines for [Opening Up America Again](https://www.whitehouse.gov/openingamerica/). To read more about individual state responses, please see our section on [State Responses to COVID-19](https://curriculum.covidstudentresponse.org/module-3-disparities-policy-socioeconomic-effects/state-responses-to-covid-19-selected-case-studies), as well as state policy maps from the [Washington Post](https://www.washingtonpost.com/graphics/2020/national/states-reopening-coronavirus-map/) and [CNN](https://www.cnn.com/interactive/2020/us/states-reopen-coronavirus-trnd/).  
-
-
-On May 15th, the House passed the HEROES Act, a $3 trillion stimulus package.  Discussion of a second relief bill will resume in the Senate after the congressional Memorial Day Recess.  Notable provisions of the House bill include:
+On May 15th, the House passed the [HEROES Act](https://docs.house.gov/billsthisweek/20200511/BILLS-116hr6800ih.pdf), a $3 trillion stimulus package.  Discussion of a second relief bill will resume in the Senate after the congressional Memorial Day Recess.  [Notable provisions](https://www.vox.com/2020/5/15/21258854/house-three-trillion-stimulus-bill) of the House bill include:
 
 1.     Nearly $900 billion for states and local governments
 
-2.     A second round of $1,200 stimulus checks, with a new provision granting filers an additional $1200 per dependent \(for up to three dependents\)  
+2.     A second round of $1,200 stimulus checks, with a new provision granting filers an additional $1200 per dependent \(for up to three dependents\).  
 
 3.     Funding to expand testing and tracing programs 
 
-4.     Extension of unemployment insurance, increased SNAP benefits, COBRA subsidies for health insurance, and support for small businesses
+4.     Extension of unemployment insurance, increased SNAP benefits, COBRA subsidies for health insurance, and support for small business
 
-5.     Expansion of vote-by-mail access and early voting
+5.     Expansion of vote-by-mail access and early voting  
+
+
+Despite the passage of the HEROES Act in the House, discussion of a second stimulus package remains ongoing at all levels of government.  Compared to its predecessor, the HEROES act would expand the number of adults and dependents eligible for a stimulus check, but it remains unclear if this act will pass as written in the Senate.  With record unemployment and a worsening economic situation, members of the executive administration have also signaled their interest in a [second stimulus package](https://www.cbsnews.com/news/second-stimulus-check-round-2-how-much/)  but have not specified their plan for recovery.  
+
+As many states struggle to deal with the economic ramifications of the COVID-19 pandemic \(discussed below\), each state, and, in many areas, each county, is enacting regulations in an attempt to ensure a safe reopening. The [CDC](https://www.cdc.gov/coronavirus/2019-ncov/community/index.html) has provided recommendations for communities, schools, workplaces, and events as they begin to reopen, and the White House has established broader guidelines for [Opening Up America Again](https://www.whitehouse.gov/openingamerica/). Despite these recommendations, [over 30 states](https://www.healthline.com/health-news/covid19-cases-rising-states-reopened#Some-states-are-doing-better) were seeing a daily rise in confirmed cases at the end of June, causing 12 states, including [California, Texas, and Florida,](https://www.cnn.com/2020/06/29/health/us-coronavirus-monday/index.html) to pause or move backwards in their reopening plans. To read more about individual state responses, please see our section on [State Responses to COVID-19](https://curriculum.covidstudentresponse.org/module-3-disparities-policy-socioeconomic-effects/state-responses-to-covid-19-selected-case-studies), as well as state policy maps from the [Washington Post](https://www.washingtonpost.com/graphics/2020/national/states-reopening-coronavirus-map/) and [CNN](https://www.cnn.com/interactive/2020/us/states-reopen-coronavirus-trnd/).
 
 ### Thought questions:
 
