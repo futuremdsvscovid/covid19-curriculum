@@ -22,5 +22,9 @@ Institutions that shape behaviors and attitudes due to their organizational char
 
 ### Community 
 
-The environment within defined boundaries an individual lives in that may promote certain social norms, provide access to resources, and offer social networks. Built environment, location of community, housing, transportations, community engagement, income level, health and educational facilities are components of communities.  Public Policy: Laws and policies may be at the local, state or federal level may be influential in determining health outcomes. Allocation of funds, policy initiatives that aim to address health behaviors, social equity, and overall infrastructure all are integral in shaping health outcomes. 
+The environment within defined boundaries an individual lives in that may promote certain social norms, provide access to resources, and offer social networks. Built environment, location of community, housing, transportations, community engagement, income level, health and educational facilities are components of communities.  
+
+### Public Policy 
+
+Laws and policies may be at the local, state or federal level may be influential in determining health outcomes. Allocation of funds, policy initiatives that aim to address health behaviors, social equity, and overall infrastructure all are integral in shaping health outcomes. 
 
