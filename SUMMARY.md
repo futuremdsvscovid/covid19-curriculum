@@ -4,6 +4,7 @@
 * [Curriculum Overview](curriculum-overview/README.md)
   * [Cases](curriculum-overview/cases.md)
   * [One-Page Summaries](curriculum-overview/module-summaries.md)
+* [About Us](about-us.md)
 * [Translations](curriculum-translations/README.md)
   * [Currently Available Languages](curriculum-translations/currently-available-languages/README.md)
     * [Amharic](curriculum-translations/currently-available-languages/amharic.md)
