@@ -12,10 +12,12 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(6/19/20\):**
+**Highlight of Updates \(7/17/20\):**
 
-* Moved [risk stratification](management-of-covid-19.md#risk-stratification) to management of COVID-19 to improve readability
-* Expanded on [cardiovascular and neurologic complications](management-of-covid-19.md#clinical-course) of COVID-19
+* New Discussion of [blood type](management-of-covid-19.md#risk-stratification) as a risk factor in Risk Stratification section
+* Updated information about [immunosuppression](management-of-covid-19.md#risk-stratification) and COVID-19 in Risk Stratification
+* Moved discussion of [MIS-C](management-of-covid-19.md#clinical-course) from supplemental materials to main text under Clinical Course
+* New Discussion of [dexamethasone](management-of-covid-19.md#treatment) for hospitalized patients requiring supplemental oxygen in management section
 
 ## Introduction
 
