@@ -31,3 +31,5 @@ Co-Chair for Outreach: Abby Schiff
 
 Co-Chair for Development: Katie Shaffer
 
+Former Chair and Founder: Michael Kochis, MD, M.Ed.
+
