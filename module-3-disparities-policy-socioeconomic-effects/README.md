@@ -15,7 +15,7 @@ _Reviewers:_ Brian Chan, MD, MPH; Jennifer Kasper, MD, MPH; Camila M. Mateo, MD,
 
 _Past Reviewers:_ Holly Rawizza, MD; Michael Dougan, MD, PhD
 
-**Highlight of Updates \(7/26/2020, not yet reviewed by all faculty\):**
+**Highlight of Updates \(7/29/2020, not yet reviewed by all faculty\):**
 
 * **Updated figures and statistics throughout**
 * **New section on COVID-19 in populations with limited English proficiency**
