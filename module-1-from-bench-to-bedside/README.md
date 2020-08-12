@@ -12,12 +12,14 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(7/17/20\):**
+**Highlight of Updates \(8/12/20\):**
 
-* New Discussion of [blood type](management-of-covid-19.md#risk-stratification) as a risk factor in Risk Stratification section
-* Updated information about [immunosuppression](management-of-covid-19.md#risk-stratification) and COVID-19 in Risk Stratification
-* Moved discussion of [MIS-C](management-of-covid-19.md#clinical-course) from supplemental materials to main text under Clinical Course
-* New Discussion of [dexamethasone](management-of-covid-19.md#treatment) for hospitalized patients requiring supplemental oxygen in management section
+* Discussion on lack of impact of [ACEi and ARB](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) on COVID acquisition and mortality
+* Quantifying efficacy of [physical distancing, mask and eye protection](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) in decreasing transmission risk
+* Discussion of [airborne transmission](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection)
+* Discussion of transmission of [presymptomatic and asymptomatic](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) individuals
+* Discussion on the pathogenesis of [organ damage](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) in COVID-19
+* Discussion of [dexamethasone](basic-virology-and-immunology.md#innate-immune-response) impact on immune response
 
 ## Introduction
 
