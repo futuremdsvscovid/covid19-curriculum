@@ -244,9 +244,9 @@ Vaccines also commonly have adjuvants, which are used in order to increase the i
 
 ### Clinical Vaccine Trials
 
-Many pharmaceutical companies and governments are currently in the process of developing SARS-CoV-2 vaccines, and strategies with all of the above vaccine types are being utilized \([Pang et al., JCM 2020](https://www.mdpi.com/2077-0383/9/3/623/htm)\). Potential mRNA and DNA vaccines have been developed more quickly because these only require knowing the [genetic sequence](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/#nucleotide-sequences) of SARS-CoV-2 \(which was identified and quickly uploaded by Chinese researchers in January\), whereas whole pathogen vaccines require growing the virus, and subunit vaccines require protein production in a laboratory. Specific promising vaccines in development include \(See these references for more detailed information: [A detailed guide to the coronavirus drugs and vaccines in development](https://www.statnews.com/2020/03/02/coronavirus-drugs-and-vaccines-in-development/); [WHO](https://www.who.int/blueprint/priority-diseases/key-action/novel-coronavirus-landscape-ncov.pdf?ua=1); [Lurie et al. NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2005630)\):
+\*\*\*This section is undergoing major changes/additions, please bear with us while we update\*\*\*
 
-
+Many pharmaceutical companies and governments are currently in the process of developing SARS-CoV-2 vaccines, and strategies with all of the above vaccine types are being utilized \([Pang et al., JCM 2020](https://www.mdpi.com/2077-0383/9/3/623/htm)\). The speed at which each type of vaccine can be developed can vary; with mRNA/DNA vaccine development being more rapid and subunit development more slow \(read [Lurie et al. NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2005630) to learn more\).
 
 | Developer | Vaccine platform | Phase | Description/Additional Information |
 | :--- | :--- | :--- | :--- |
