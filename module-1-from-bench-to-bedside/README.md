@@ -12,7 +12,7 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(8/12/20\):**
+**Highlight of Updates \(8/14/20\):**
 
 * Discussion on lack of impact of [ACEi and ARB](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) on COVID acquisition and mortality
 * Quantifying efficacy of [physical distancing, mask and eye protection](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) in decreasing transmission risk
@@ -20,8 +20,8 @@ _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 * Discussion of transmission of [presymptomatic and asymptomatic](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) individuals
 * Discussion on the pathogenesis of [organ damage](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) in COVID-19
 * Discussion of [dexamethasone](basic-virology-and-immunology.md#innate-immune-response) impact on immune response
-
-## Introduction
+* Updates on hydroxychloroquine and remdesivir data
+* Updates to vaccine development
 
 The Coronavirus Disease 2019 \(COVID-19\) pandemic has had massive, overarching ramifications for our global population. This is an unprecedented time for our healthcare system, and as medical trainees ourselves, we felt an obligation to synthesize the growing literature and educate our peers. 
 
