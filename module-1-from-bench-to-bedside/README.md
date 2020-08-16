@@ -20,8 +20,8 @@ _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 * Discussion of transmission of [presymptomatic and asymptomatic](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) individuals
 * Discussion on the pathogenesis of [organ damage](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) in COVID-19
 * Discussion of [dexamethasone](basic-virology-and-immunology.md#innate-immune-response) impact on immune response
-* Updates on hydroxychloroquine and remdesivir data
-* Updates to vaccine development
+* Updates on [hydroxychloroquine](investigational-therapeutics-and-vaccine-development.md#chloroquine-and-hydroxychloroquine) and [remdesivir](investigational-therapeutics-and-vaccine-development.md#remdesivir) data
+* Updates to [vaccine development](investigational-therapeutics-and-vaccine-development.md#vaccines)
 
 The Coronavirus Disease 2019 \(COVID-19\) pandemic has had massive, overarching ramifications for our global population. This is an unprecedented time for our healthcare system, and as medical trainees ourselves, we felt an obligation to synthesize the growing literature and educate our peers. 
 
