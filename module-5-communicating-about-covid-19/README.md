@@ -7,7 +7,7 @@ description: >-
 
 # Module 5: Communicating Information about COVID-19
 
-_Authors:_ Isaac Alty; Wesley Chou; Michael Kochis, EdM; Ashwini Joshi; and Joyce Zhou
+_Authors:_ Isaac Alty; Luis Guilherme Cardoso; Wesley Chou; Michael Kochis, EdM; Ashwini Joshi; and Joyce Zhou
 
 _Editor:_ [Andrew Foley](mailto:andrew_folely@hms.harvard.edu), MPH
 
@@ -30,7 +30,7 @@ At the end of this module, medical students should be able to:
 * Compare and contrast 2 different responses individuals may have to the pandemic
 * Revisit 3 key conceptual frameworks for communication skills
 * Recognize the tool that would be most appropriate for a given situation
-* Rehearse a potentially difficult situation with someone from your life
+* Rehearse potentially difficult situations with patients pertaining to bad news, misinformation, and advanced care planning.
 
 ## Core Materials
 
