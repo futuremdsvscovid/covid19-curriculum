@@ -7,9 +7,9 @@ description: >-
 
 # Module 5: Communicating Information about COVID-19
 
-_Authors:_ Isaac Alty; Luis Guilherme Cardoso; Wesley Chou; Michael Kochis, EdM; Ashwini Joshi; and Joyce Zhou
+_Authors:_ Isaac Alty; Luis Guilherme Cardoso; Michael Kochis, EdM; Ashwini Joshi
 
-_Editor:_ [Andrew Foley](mailto:andrew_folely@hms.harvard.edu), MPH
+_Editor:_ [Wesley Chou](mailto:wesley_chou@hms.harvard.edu), [Andrew Foley](mailto:andrew_folely@hms.harvard.edu), MPH, and [Joyce Zhou](mailto:joyce_zhou@hms.harvard.edu)
 
 _Reviewers:_ Kate Treadway, MD; Katie Greenzang, MD, EdM; Andrea Wershof Schwartz, MD, MPH; Jocelyn Streid, MPP; Aliya Feroe; Catherine Mankiw
 
