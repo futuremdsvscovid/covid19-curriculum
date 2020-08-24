@@ -248,17 +248,278 @@ Vaccines also commonly have adjuvants, which are used in order to increase the i
 
 Many pharmaceutical companies and governments are currently in the process of developing SARS-CoV-2 vaccines, and strategies with all of the above vaccine types are being utilized \([Pang et al., JCM 2020](https://www.mdpi.com/2077-0383/9/3/623/htm)\). The speed at which each type of vaccine can be developed can vary; with mRNA/DNA vaccine development being more rapid and subunit development more slow \(read [Lurie et al. NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2005630) to learn more\).
 
-| Developer | Vaccine platform | Phase | Description/Additional Information |
-| :--- | :--- | :--- | :--- |
-| [CanSino Biological Inc.](https://www.marketscreener.com/CANSINO-BIOLOGICS-INC-59318312/news/CanSino-Biologics-China-announces-first-human-trials-of-Covid-19-vaccine-30183232/) | Nonreplicating adenovirus type 5 vector \(chimeric\) | [Phase II](http://www.chictr.org.cn/showprojen.aspx?proj=51154) | Phase 2 Clinical trial is [in progress](https://www.clinicaltrials.gov/ct2/show/NCT04341389). |
-| University of OxfordUniversity of Oxford | Chimeric vaccine | Phase I/II Preclinical/Phase 1 | Phase I/II trial is [in progress](https://www.clinicaltrials.gov/ct2/show/NCT04324606). |
-| [Inovio Pharmaceuticals](http://ir.inovio.com/news-and-media/news/press-release-details/2020/INOVIO-Initiates-Phase-1-Clinical-Trial-Of-Its-COVID-19-Vaccine-and-Plans-First-Dose-Today/default.aspx) | DNA | Phase I/II | [Phase I clinical trial began](http://ir.inovio.com/news-and-media/news/press-release-details/2020/INOVIO-Initiates-Phase-1-Clinical-Trial-Of-Its-COVID-19-Vaccine-and-Plans-First-Dose-Today/default.aspx) on April 6, 2020 with 40 healthy volunteers. Concurrent Phase II clinical trial [in South Korea](https://www.ivi.int/ivi-inovio-and-knih-to-partner-with-cepi-in-a-phase-i-ii-clinical-trial-of-inovios-covid-19-dna-vaccine-in-south-korea/). |
-| BioNTech | RNA | Phase I/II | Phase I/II clinical trials underway [in Germany.](https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001038-36/DE) |
-| SinoVac | Inactivated virus | Phase I/II | Phase I/II clinical trials in progress [in China.](https://www.clinicaltrials.gov/ct2/show/NCT04352608) |
-| [Moderna](https://www.modernatx.com/modernas-work-potential-vaccine-against-covid-19) | mRNA | [Phase I](https://clinicaltrials.gov/ct2/show/NCT04283461) | This vaccine entered a Phase 1 study on March 16, 2020 with Kaiser Permanente Washington Health Research Institute in Seattle. The goals of this study are to determine the safety & immunogenicity of the supposed vaccine, not its ability to prevent COVID-19 infection. The study involves 45 healthy adults aged 18-55 who each receive two injections of mRNA-1273 28 days apart. The group is also separated into three different series of doses being tested. Moderna Therapeutics is the first company attempting to use mRNA as a basis for vaccine development. While they have several other vaccines in development using this technology \(H10N8, H7N9, RSV, chikungunya virus, hMPV/PIV3 and CMV\), there are currently no mRNA vaccines on the market that utilize this strategy for prophylactic vaccine treatment. |
-| Multiple countries and developers | Bacillus Calmette-Guerin \(BCG\) vaccine | Phase I | Based on [limited evidence](https://www.bmj.com/content/355/bmj.i5170), it is hypothesized that the BCG vaccine, first developed in the early 20th century to prevent tuberculosis, may stimulate the immune system in a way that reduces the risk of any given infection. These findings have mainly been observational or in very limited clinical trials. It is thought that the BCG vaccine may upregulate activation of the innate immune system’s macrophages, neutrophils, and natural killer \(NK\) cells, inducing heightened immune responses against all pathogens. This concept is distinct from the general principle of vaccination, in which long-lasting, specific immunity to a pathogen is achieved through antigen-specific activation of the adaptive immune system’s T- and B-cells. Currently, [clinical trials](https://www.sciencemag.org/news/2020/03/can-century-old-tb-vaccine-steel-immune-system-against-new-coronavirus) are beginning with healthcare workers and the elderly in the Netherlands, Australia, England, and Germany. |
-| [University of Pittsburgh](https://www.upmc.com/media/news/040220-falo-gambotto-sars-cov2-vaccine) | Recombinant spike protein, delivered by skin patch | [Preclinical](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964%2820%2930118-3/fulltext) | Hoping to begin human trials in the next few months  |
-| [Johnson & Johnson \(Janssen\)](https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use) | Nonreplicating Ad26 viral vector | Preclinical |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Vaccine Type</th>
+      <th style="text-align:left">Target</th>
+      <th style="text-align:left">Developer</th>
+      <th style="text-align:left">Phase</th>
+      <th style="text-align:left">Updates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"><b>mRNA-</b>1273</td>
+      <td style="text-align:left"><a href="https://www.modernatx.com/modernas-work-potential-vaccine-against-covid-19">Moderna</a> +
+        NIH</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">
+        <p>mRNA-1273 demonstrated efficacy in a <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2024671?query=RP">pre-clincial trial with non-human primates</a>
+        </p>
+        <p><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2022483">Phase 1 results</a> demonstrated
+          anti-SARS-CoV-2 responses in all participants with no safety concerns.
+          <br
+          />
+          <br />8/11/2020 - US govt <a href="https://www.businesswire.com/news/home/20200811005852/en/Moderna-Announces-Supply-Agreement-U.S.-Government-Initial">offered 1.5 billion to Moderna</a> in
+          exchange for 100 million doses if effective</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"><b>mRNA </b>encoding glycoprotein receptor-binding domain
+        <br />&#x2018;BNT162b1&#x2019;</td>
+      <td style="text-align:left">Biontech, Pfizer, FosunPharma</td>
+      <td style="text-align:left">2/3</td>
+      <td style="text-align:left"><a href="https://www.medrxiv.org/content/10.1101/2020.06.30.20142570v1">Phase 1/2 results</a> demonstrated
+        dose-dependent increases in RBD-IgG and also found SARS-CoV-2 neutralizing
+        titers that exceeded that of COVID-19 + patient sera</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"><b>DNA</b>
+      </td>
+      <td style="text-align:left">Zydus</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"><b>RNA</b>
+      </td>
+      <td style="text-align:left">Imperial College London, Morningside</td>
+      <td style="text-align:left">1/2</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"><b>DNA</b>
+      </td>
+      <td style="text-align:left">AnGes, Osaka University, Takara Bio</td>
+      <td style="text-align:left">1/2</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Arcturus therapeutics, Duke-NUS Medical</td>
+      <td style="text-align:left">1/2</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Inovio</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Urevac</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"><b>DNA</b>
+      </td>
+      <td style="text-align:left">Genexine</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Academy of MIlitary Medical Sciences, Suzhou Abogen Biosciences and Walvax
+        Biotechnology</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Genetic</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Sanofi, Translate Bio</td>
+      <td style="text-align:left">Pre-Clinical</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viral Vector</td>
+      <td style="text-align:left">Nonreplicating adenovirus type 5 vector (chimeric)</td>
+      <td style="text-align:left"><a href="https://www.marketscreener.com/CANSINO-BIOLOGICS-INC-59318312/news/CanSino-Biologics-China-announces-first-human-trials-of-Covid-19-vaccine-30183232/">CanSino Biological Inc.</a>
+      </td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">6/25/2020 Approved for limited use in the Chinese military</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viral Vector</td>
+      <td style="text-align:left">Chimpanzee adenovirus ChAdOx1</td>
+      <td style="text-align:left">AstraZeneca, University of Oxford</td>
+      <td style="text-align:left">2/3</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viral Vector</td>
+      <td style="text-align:left">Nonreplicating Ad26</td>
+      <td style="text-align:left"><a href="https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use">Johnson &amp; Johnson (Janssen)</a>,
+        BIDMC</td>
+      <td style="text-align:left">1/2</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viral Vector</td>
+      <td style="text-align:left">Ad5 and Ad26 + SARS-CoV-2 gene</td>
+      <td style="text-align:left">Gamaleya Research Institute</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viral Vector</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Reithera, Lazzaro Spallanzani Ntl Inst for ID</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viral Vector</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Merck, Themis Bioscience, Institut Pasteur</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viral Vector</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Merck, IAVI</td>
+      <td style="text-align:left">Pre-Clinical</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viral Vector</td>
+      <td style="text-align:left">AAV</td>
+      <td style="text-align:left">Novartis, Mass Eye &amp; Ear</td>
+      <td style="text-align:left">Pre-Clinical</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viral Vector</td>
+      <td style="text-align:left">Adenovirus</td>
+      <td style="text-align:left">Vaxart</td>
+      <td style="text-align:left">Pre-Clinical</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Protein</td>
+      <td style="text-align:left">Viral proteins + adjuvant</td>
+      <td style="text-align:left">Anhui Zhifei Longcom, Chinese Academy of Medical Sciences</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Protein</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Novavax</td>
+      <td style="text-align:left">1/2</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Protein</td>
+      <td style="text-align:left">Viral proteins + adjuvant</td>
+      <td style="text-align:left">Clover Biopharmaceuticals, GSK, Dynavax</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Protein</td>
+      <td style="text-align:left">Viral proteins + adjuvant</td>
+      <td style="text-align:left">Vaxine</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Protein</td>
+      <td style="text-align:left">Tobacco-plant mediated production of virus-like protein</td>
+      <td style="text-align:left">Medicago, GSK, Dynavax</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Protein</td>
+      <td style="text-align:left">Viral proteins + adjuvant (CSL)</td>
+      <td style="text-align:left">The University of Queensland, CSL</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Protein</td>
+      <td style="text-align:left">Tobacco-plant mediated production of virus-like protein</td>
+      <td style="text-align:left">Kentucky BioProcessing</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Whole Virus</td>
+      <td style="text-align:left">Inactivated virus</td>
+      <td style="text-align:left">Wuhan Institute of Biological Products</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Whole Virus</td>
+      <td style="text-align:left">Inactivated virus</td>
+      <td style="text-align:left">Sinopharm</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Whole Virus</td>
+      <td style="text-align:left">Inactivated virus</td>
+      <td style="text-align:left">Sinovac Biotech</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Whole Virus</td>
+      <td style="text-align:left">Inactivated virus</td>
+      <td style="text-align:left">Chinese Academy of Medical Sciences</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Whole Virus</td>
+      <td style="text-align:left">Inactivated virus</td>
+      <td style="text-align:left">Indian Council of Medical Research, Natl Institute of Virology, Bharat
+        Biotech</td>
+      <td style="text-align:left">1/2</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Repurposed</td>
+      <td style="text-align:left">Bacillus Calmette-Guerin (BCG) vaccine</td>
+      <td style="text-align:left">Murdoch Children&#x2019;s Research Institute + others</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">Based on <a href="https://www.bmj.com/content/355/bmj.i5170">limited evidence</a>,
+        it is hypothesized that the BCG vaccine, first developed in the early 20th
+        century to prevent tuberculosis, may stimulate the immune system in a way
+        that reduces the risk of any given infection. These findings have mainly
+        been observational or in very limited clinical trials. It is thought that
+        the BCG vaccine may upregulate activation of the innate immune system&#x2019;s
+        macrophages, neutrophils, and natural killer (NK) cells, inducing heightened
+        immune responses against all pathogens.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## **Summary**
 
