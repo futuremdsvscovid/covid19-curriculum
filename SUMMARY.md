@@ -19,6 +19,7 @@
     * [Guinea Bissau - Creole](curriculum-translations/currently-available-languages/creole.md)
     * [Indonesian](curriculum-translations/currently-available-languages/indonesian.md)
     * [Italian](curriculum-translations/currently-available-languages/italian.md)
+    * [Japanese](curriculum-translations/currently-available-languages/japanese.md)
     * [Kinyarwanda](curriculum-translations/currently-available-languages/kinyarwanda.md)
     * [Krio](curriculum-translations/currently-available-languages/krio.md)
     * [Nepali](curriculum-translations/currently-available-languages/nepali.md)
