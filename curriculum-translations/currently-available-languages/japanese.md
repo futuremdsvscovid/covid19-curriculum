@@ -1,8 +1,18 @@
 # Japanese
 
-Translations on this page courtesy of: Akane Kajita, MPH, graduate student in health management at Keio University \(h18806ak@sfc.keio.ac.jp\)
+Japanese translation team leader: Ms. Akane Kajita, MPH, graduate student in health management at Keio University \([h18806ak@sfc.keio.ac.jp](mailto:h18806ak@sfc.keio.ac.jp)\)
 
--Updates 08/27/20-
+Translators: Ms. Emi Hiraga, Dr. Takeshi Kimura, Ms. Kana Kawai.
+
+Modules 1 and 2- translated by Ms. Akane Kajita
+
+Module 4- translated by Ms.Emi Hiraga, undergraduate student at Keio University \([h.emi@keio.jp](mailto:h.emi@keio.jp)\)
+
+Module 5- translated by Ms. Kana Kawai, undergraduate student at Keio University \([kana.kawai@keio.jp](mailto:kana.kawai@keio.jp)\)
+
+Module 6-translated by Dr. Takeshi Kimura MD, DDS \([tkbrand@keio.jp](mailto:tkbrand@keio.jp)\)
+
+-Updated 08/30/20-
 
 ## Overview
 
