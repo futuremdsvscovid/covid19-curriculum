@@ -12,13 +12,12 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(8/28/20\):**
+**Highlight of Updates \(9/11/20\):**
 
-* Updated genetic analysis - [suspected origins](basic-virology-and-immunology.md#genome) section
-* Discussion of [viral inhibition of interferon signaling](basic-virology-and-immunology.md#innate-immune-response)
-* Case report of [reinfection](basic-virology-and-immunology.md#adaptive-immune-response) with sequencing
-* [Coagulation abnormalities](clinical-presentation-of-covid-19.md#ancillary-studies) vs DIC in ancillary studies
-* Emergency use authorization of [convalescent plasma](investigational-therapeutics-and-vaccine-development.md#passive-antibody-transfer)
+* [DVT prophylaxis](management-of-covid-19.md#treatment) recommendations
+* Meta-analysis support for [steroid therapy](management-of-covid-19.md#treatment) in oxygen dependent patients
+* [IDSA Remdesivir ](management-of-covid-19.md#treatment)recommendations
+* Halting of [AstraZeneca vaccine trial](investigational-therapeutics-and-vaccine-development.md#vaccines)
 
 The Coronavirus Disease 2019 \(COVID-19\) pandemic has had massive, overarching ramifications for our global population. This is an unprecedented time for our healthcare system, and as medical trainees ourselves, we felt an obligation to synthesize the growing literature and educate our peers. 
 
