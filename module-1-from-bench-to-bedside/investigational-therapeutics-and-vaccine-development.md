@@ -372,7 +372,9 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left">Chimpanzee adenovirus ChAdOx1</td>
       <td style="text-align:left">AstraZeneca, University of Oxford</td>
       <td style="text-align:left">2/3</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">9/8/20 Trial halted due to transverse myelitis complication in study volunteer
+        (unclear at this time if this was related to the vaccine - investigation
+        ongoing)</td>
     </tr>
     <tr>
       <td style="text-align:left">Viral Vector</td>
