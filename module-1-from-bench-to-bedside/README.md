@@ -12,7 +12,7 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(9/11/20\):**
+**Highlight of Updates \(9/14/20\):**
 
 * [DVT prophylaxis](management-of-covid-19.md#treatment) recommendations
 * Meta-analysis support for [steroid therapy](management-of-covid-19.md#treatment) in oxygen dependent patients
