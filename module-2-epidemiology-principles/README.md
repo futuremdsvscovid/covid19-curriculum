@@ -9,7 +9,7 @@ description: >-
 
 _Authors:_ Jakub Glowala; Kiryung Kim; Katherine McDaniel, MSc; Katherine Nabel; Himaja Nagireddy; Deborah Plana; Emily Rencsok; Lily Zhong
 
-_Editor:_ [Katherine McDaniel](mailto:katherine_mcdaniel@hms.harvard.edu), MSc
+_Editor:_ [Himaja Nagireddy](mailto:himaja_nagireddy@hsph.harvard.edu)
 
 _Reviewers:_ Wolfram Goessling, MD, PhD; Andrea Wershof Schwartz, MD, MPH; William Hanage, PhD; Rebecca Kahn, MS; James Hay, PhD
 
