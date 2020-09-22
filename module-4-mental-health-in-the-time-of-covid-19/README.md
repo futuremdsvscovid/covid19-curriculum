@@ -6,7 +6,7 @@ description: >-
 
 # Module 4: Mental Health in the Time of COVID-19
 
-_Authors:_ Okechi Boms; Taylor Brown; Andrew Chun, Sun Fletcher; Colby Hyland; Katie Kester; Danny Linggonegoro; Catherine Mankiw; Katherine McDaniel, MSc; Larisa Shagababayeva
+_Authors:_ Anthony Almazan; Okechi Boms; Maggie Beazer; Taylor Brown; Andrew Chun, Sun Fletcher; Colby Hyland; Katie Kester; Danny Linggonegoro; Catherine Mankiw; Katherine McDaniel, MSc; Larisa Shagababayeva; Miriam Zawadzki
 
 _Editor:_ [Catherine Mankiw](mailto:catherine_mankiw@hms.harvard.edu)
 
