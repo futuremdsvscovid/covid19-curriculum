@@ -7,20 +7,20 @@ description: >-
 
 # Module 2: Epidemiology Principles
 
-_Authors:_ Jakub Glowala; Kiryung Kim; Katherine McDaniel, MSc; Katherine Nabel; Himaja Nagireddy; Deborah Plana; Emily Rencsok; Lily Zhong
+_Authors:_ Jakub Glowala; Kiryung Kim; Gina Liu; Katherine McDaniel, MSc; Katherine Nabel; Himaja Nagireddy; Deborah Plana; Emily Rencsok; Lily Zhong
 
 _Editor:_ [Himaja Nagireddy](mailto:himaja_nagireddy@hsph.harvard.edu)
 
 _Reviewers:_ Wolfram Goessling, MD, PhD; Andrea Wershof Schwartz, MD, MPH; William Hanage, PhD; Rebecca Kahn, MS; James Hay, PhD
 
-**Highlight of Updates \(9/25/20\): Currently pending faculty review**
+**Highlight of Updates \(9/25/20\): Pending faculty review**
 
-* Clarified learning objectives in [introduction](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles) and updated [author team](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles)
+* Clarified learning objectives in [Introduction](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles) and updated [author team](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles)
 * [Glossary](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles): Added definition of presymptomatic vs. asymptomatic
-* Added section on differential rates by race
-* Super spreading event section: added section on nursing homes 
-* South Korea case study updates
-* Added new section: Re-opening
+* Added section on differential [disease and mortality burden by race](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/where-are-we-now#disease-burden-and-mortality-by-race)
+* Included information on [super spreading events](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/where-are-we-now#risk-of-superspreading-events) in nursing homes 
+* Updated [South Korea Case Study](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/case-study-south-korea-2020) 
+* Created the [Re-opening](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/approaches-to-long-term-planning#reopening) Section
 
 ## Introduction
 
