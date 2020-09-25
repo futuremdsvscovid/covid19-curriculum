@@ -52,6 +52,19 @@ On April 15th, South Korea held their National Assembly election as scheduled. S
 
 As of April 30th, SK reports 4 new cases, all of them being imported cases. This is the first day since January 20th, where SK reports 0 infections acquired within the country.
 
+## Situation in South Korea as of June 16th 2020
+
+![South Korea Daily Cases 4/1/2020 - 6/15/2020](https://lh6.googleusercontent.com/1LWmVKpttSsy8X1hOdDGQCDUnMMm7NY1zRnK5pcgtrlkrUh64P7AHam0uQb2ks88lzZ4_qLPJjG9CDCaJyy85zOWATTlg3FcZNHYWdAnIwb_kPp5J6Jh3yYQqPBrrMa9VwWrcEde)
+
+**As of June 16th 2020** \(source: [KCDC](https://www.cdc.go.kr/board/board.es?mid=&bid=0030)\)
+
+With decline in daily domestic cases and stabilization at the end of April and early May, schools have begun to reopen in South Korea as of mid-May with supports such as daily temperature checks, partition on desks and cafeteria, mandatory mask wearing, and regular disinfection. Although South Korea was never under lockdown, social distancing guidelines were also loosened. Despite measures such as regular temperature checks to enter public places, considerable rise in cases were detected starting with a cluster in night clubs of Itaewon district. With SK’s stance on public transparency, data regarding specific clubs where people have tested positive were made public which were prominent LGBTQ establishments. Local [media](https://www.cnn.com/2020/05/12/asia/south-korea-club-outbreak-intl-hnk/index.html) erupted with anti-LGBTQ rhetoric, and in response the Korean government asked everyone who visited Itaewon district, whether they had visited any clubs or not to come forward to test, anonymously, in order to reduce stigma and barrier to testing for people who feared being outed.
+
+Several clusters have spread through schools, and other public spaces but immediate testing, contact tracing and isolation has continued, with institutional protocols such as prompt closing and disinfection of spaces that were visited by those who tested positive. 
+
+While resurgence in cases have stayed below 100 new cases per day, compared to over 900 at its earlier peak in February, KCDC officials warn of the possibility of greater resurgence especially with the new clusters of cases concentrated in Seoul, the capital and most densely populated city in SK.  
+
+
 ## Summary
 
 South Korea and other Asian countries experienced the [MERS outbreak in 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5840604/), which contributed to increased [preparedness](https://www.lawfareblog.com/lessons-america-how-south-korean-authorities-used-law-fight-coronavirus) for this pandemic. Although more time and monitoring is needed to determine whether SK has been able to suppress the COVID-19 outbreak, current trends suggest that their strategies of public transparency, civic awareness and responsibility, cooperation between the private sector and the government, decreasing barriers, and widespread testing has led to slowing the outbreak.

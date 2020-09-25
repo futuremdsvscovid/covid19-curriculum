@@ -14,7 +14,7 @@ _Editor:_ [Himaja Nagireddy](mailto:himaja_nagireddy@hsph.harvard.edu)
 _Reviewers:_ Wolfram Goessling, MD, PhD; Andrea Wershof Schwartz, MD, MPH; William Hanage, PhD; Rebecca Kahn, MS; James Hay, PhD
 
 **Highlight of Updates \(5/1/20\):  
-\(Reviewed by Rebecca Kahn, MS; Andrea Wershof Schwartz, MD; Wolfram Goessling, MD, PhD\)**
+\(Currently pending faculty review\)**
 
 * Epidemiological [Terms](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/introduction-to-epidemiological-terms): added case fatality rate, mortality rate, peak, surge
 * Where Are We Now? - added complexities of measuring [case fatality rate](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/where-are-we-now#case-fatality-rate)

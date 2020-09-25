@@ -4,6 +4,8 @@ We hope this module helped you apply epidemiological principles to describe the 
 
 ![](../.gitbook/assets/harvard-medical-school-covid-19-education-committee-module-2-graphic-summary_04-04-2020.png)
 
+To continue in our COVID-19 curriculum, please click here: [Module 3: Health Disparities, Policy Changes, and Socioeconomic Effects in the U.S.](https://curriculum.covidstudentresponse.org/module-3-disparities-policy-socioeconomic-effects). Click here to return to our [Overview](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles).
+
 We welcome your feedback on this module and on the curriculum overall. Please share it [here](https://docs.google.com/forms/d/e/1FAIpQLSc011UD-NF1WCvFHb7qWfluu4G9nxb6P4c9l3c8S3ZqxXxNOg/viewform).
 
 We also invite you to sign the [guest book](https://docs.google.com/forms/d/e/1FAIpQLSdDgCyBO-l7qsamNhbEPznxhaDetC-dFBd4W5Tu5WC4zBWC6g/viewform) so we can track this material’s reach.
