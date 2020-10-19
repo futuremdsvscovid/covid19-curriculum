@@ -1,6 +1,6 @@
 # Skillset Review
 
-Let’s review some _critical communication skills_ in the context of a public health emergency. First, recall the overarching principles for physician/medical student communication with patients: build a relationship, open the discussion, gather information, understand the person’s perspective, share information, reach agreement on problems and plans, and provide closure \([Makoul, Acad Med 2001](https://www.ncbi.nlm.nih.gov/pubmed/11299158)\). Depending on the scenario in which you find yourself \(talking with an individual or in a group setting\), you may also find the [CDC Crisis + Emergency Risk Communication](https://www.cdc.gov/coronavirus/2019-ncov/downloads/fs-CERC-Infectious-Disease.pdf) \(CERC\) in an Infectious Disease Outbreak principles helpful as well:
+Let’s review some **critical communication skills** in the context of a public health emergency. First, recall the overarching principles for physician/medical student communication with patients: build a relationship, open the discussion, gather information, understand the person’s perspective, share information, reach agreement on problems and plans, and provide closure \([Makoul, Acad Med 2001](https://www.ncbi.nlm.nih.gov/pubmed/11299158)\). Depending on the scenario in which you find yourself \(talking with an individual or in a group setting\), you may also find the [CDC Crisis + Emergency Risk Communication](https://www.cdc.gov/coronavirus/2019-ncov/downloads/fs-CERC-Infectious-Disease.pdf) \(CERC\) in an Infectious Disease Outbreak principles helpful as well:
 
 1. Build trust and credibility by expressing empathy and caring, competence and expertise, honesty and openness, commitment and dedication
 2. Acknowledge uncertainty, validate concern, and explain the process in place to find answers
@@ -10,7 +10,7 @@ With these principles in mind, let’s take a deeper dive into communication fra
 
 ## **Difficult Conversations**
 
-A useful paradigm to keep in mind during these sorts of interactions is set forth by Harvard Law School Professors Douglas Stone, Bruce Patton, and Sheila Heen in their New York Times-bestselling book “Difficult Conversations.” \(If you haven’t read it before, now is as good a time as any! If nothing else, read the Introduction and Chapter 1 to get an idea of the framework.\)
+A useful paradigm to keep in mind during these sorts of interactions is set forth by Harvard Law School Professors Douglas Stone, Bruce Patton, and Sheila Heen in their New York Times-bestselling book “Difficult Conversations.”
 
 In studying a variety of conversations, they found: 
 
@@ -18,7 +18,7 @@ In studying a variety of conversations, they found:
 
 The three conversations can be summarized as:
 
-**1. The Facts Conversation.** In discussions about COVID-19, this would encapsulate things like R0 or the anticipated impact of physical distancing on flattening the infection curve. This knowledge is critical for us as physicians. Given our own biases as physicians-in-training \(perhaps including, among other things, our personality types, coping styles, and all the effort we’ve invested into amassing our medical knowledge\), our go-to approach to uncertain or challenging situations is often to return to the facts. However, no matter how convincing the evidence may be, or how effective we are as communicators and teachers, facts alone are not enough to fully connect with listeners.
+**1. The Facts Conversation.** In discussions about COVID-19, this would encapsulate concepts like R0 or the anticipated impact of physical distancing on flattening the infection curve. This knowledge is critical for us as physicians. Given our own biases as physicians-in-training \(perhaps including, among other things, our personality types, coping styles, and all the effort we’ve invested into amassing our medical knowledge\), our go-to approach to uncertain or challenging situations is often to return to the facts. However, no matter how convincing the evidence may be, or how effective we are as communicators and teachers, facts alone are not enough to fully connect with listeners.
 
 Psychologist Jonathan Haidt describes this idea in his metaphor of the [Elephant and the Rider](https://www.creativehuddle.co.uk/the-elephant-and-the-rider). Although it may seem like the Rider, representing logic and reason, can control where the two end up, the Rider’s commands are worthless unless they’re directing the Elephant’s own efforts. If they are in opposition, the Elephant always wins out. How can we tap into the Elephant?
 
@@ -28,7 +28,7 @@ The first step is to recognize those emotions; we can make that easier by antici
 
 **3. The Identity Conversation.** At the core of every difficult conversation is what this situation means to us. The authors explain: “We conduct an internal debate over whether this means we are competent or incompetent, a good person or bad, worthy of love or unlovable. What impact might it have on our self-image and self-esteem, our future and our well-being?”
 
-And all this cuts both ways: the conversation involves both your identity as well as your partner’s. What does the outcome of the conversation mean to you? Taking stock of this ahead of time will prevent you from getting caught up and acting against your best judgment.
+And all this cuts both ways: the conversation involves both your identity as well as your conversation partner’s. What does the outcome of the conversation mean to you? Taking stock of this ahead of time will prevent you from getting caught up and acting against your best judgment.
 
 In short, focusing on facts without feelings will only make the conversation worse. To best anticipate your partner’s feelings, it helps to think about their identity and how the situation may relate to their most important values. The subsequent sections review specific communication techniques that have been proven to help clinicians provide facts about challenging situations in a way that also addresses the underlying emotions.
 
@@ -36,7 +36,7 @@ _Thought Question:_
 
 * Look at some of the dialogues in the resource, [COVID ready communication](https://docs.google.com/document/d/1uSh0FeYdkGgHsZqem552iC0KmXIgaGKohl7SoeY2UXQ/mobilebasic). How do the three conversations surface?
 
-It is equally important that you take stock of your own reactions in preparing for potentially difficult encounters with patients. Anticipating your own negative feelings–especially in light of how stressed you are or how many demands are being placed on you–may help you recognize these emotions and let them go in the interest of a more productive interaction. For example, you may find that the anxiety of patients who are not sick or the demands of patients who are mildly ill evoke in you feelings of annoyance, and even anger, when you are simultaneously seeing severely ill patients. These are perfectly normal reactions, but they will not lead to productive encounters. The important thing is to accept your feelings and try to let them go as you turn your attention to each particular patient.
+It is equally important that you take stock of your own reactions in preparing for potentially difficult encounters with patients. Anticipating your own negative feelings may help you recognize these emotions and let them go in the interest of a more productive interaction. For example, you may find that the anxiety of patients who are not sick or the demands of patients who are mildly ill evoke in you feelings of annoyance, and even anger, when you are simultaneously seeing severely ill patients. These are perfectly normal reactions, but they will not lead to productive encounters. What is most important is to accept your feelings and try to let them go as you turn your attention to each particular patient.
 
 ## **Giving Bad News**
 

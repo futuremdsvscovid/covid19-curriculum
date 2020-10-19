@@ -39,7 +39,7 @@ In this section on navigating misinformation, our aim is not to make you an expe
 {% tab title="Facts conversation" %}
 Many parents who hold anti-vaccination beliefs and patients who believe false information about COVID-19 have received their information from somewhere they took to be true, and are simply acting in accordance with what they have learned.
 
-For[ example](https://pubmed.ncbi.nlm.nih.gov/26814029/), media coverage of the anti-vaccination movement has often focused on fears of mercury additives or autism, which are certainly arguments that have been made. However, research and interviews show that vaccine-hesitant parents have a wide range of concerns regarding vaccines \(e.g. towards one particular vaccine versus another, the number of vaccinations within a time period, skepticism about vested financial interests of physicians, etc.\).
+For[ example](https://pubmed.ncbi.nlm.nih.gov/26814029/), media coverage of the anti-vaccination movement has often focused on fears of mercury additives or autism. However, research and interviews show that vaccine-hesitant parents have other or more nuanced concerns regarding vaccines, such as towards one particular vaccine versus another, the number of vaccinations within a time period, and skepticism about vested financial interests of physicians.
 {% endtab %}
 
 {% tab title="Feelings conversation" %}
@@ -47,7 +47,7 @@ For clinicians, anti-vaccination beliefs held by our patients can elicit frustra
 {% endtab %}
 
 {% tab title="Identity conversation" %}
-In the setting of refusing childhood vaccinations, a parent may view themselves as their child’s guardian, a key identity that they will strive to maintain.
+In the setting of refusing childhood vaccinations, a parent may view themselves as their child’s guardian. This is a key identity that they may feel strongly to maintain.
 {% endtab %}
 {% endtabs %}
 

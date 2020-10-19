@@ -1,6 +1,6 @@
 # Cultural Humility & Meeting People Where They Are
 
-Recognizing the differential impact that COVID-19 has on people based on their past experiences or their current circumstances is foundational for effective communication. Practicing cultural humility as you approach conversations around COVID-19 includes, but is not limited to, bearing witness to a person's lived experience, recognizing the unique elements of someone’s personal experiences based on their background and culture, and acknowledging the authority that each person has over their experiences and story. Practicing cultural humility requires looking beyond one’s own experience and approaching the experiences of others without judgment.
+Recognizing the differential impact that COVID-19 has on people based on their past experiences or their current circumstances is foundational for effective communication. Practicing cultural humility as you approach conversations around COVID-19 includes bearing witness to a person's lived experience, recognizing the unique elements of someone’s personal experiences based on their background and culture, and acknowledging the authority that each person has over their experiences and story. Practicing cultural humility requires looking beyond one’s own experience and approaching the experiences of others without judgment.
 
 _Thought Question:_ 
 
