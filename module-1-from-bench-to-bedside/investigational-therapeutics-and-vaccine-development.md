@@ -432,7 +432,7 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left">Viral Vector</td>
       <td style="text-align:left">Adenovirus</td>
       <td style="text-align:left">Vaxart</td>
-      <td style="text-align:left">Pre-Clinical</td>
+      <td style="text-align:left">1</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -446,7 +446,7 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left">Protein</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Novavax</td>
-      <td style="text-align:left">1/2</td>
+      <td style="text-align:left">3</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -481,7 +481,7 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left">Protein</td>
       <td style="text-align:left">Tobacco-plant mediated production of virus-like protein</td>
       <td style="text-align:left">Kentucky BioProcessing</td>
-      <td style="text-align:left">1</td>
+      <td style="text-align:left">1/2</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
