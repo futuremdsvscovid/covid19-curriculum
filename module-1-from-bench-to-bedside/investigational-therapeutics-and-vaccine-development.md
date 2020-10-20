@@ -196,14 +196,15 @@ Influenza: [Luke et al. 2006; Hung et al. 2011](https://paperpile.com/c/Z2EDp3/a
 During the epidemics of SARS and MERS, high mortality and dearth of effective treatment options led to use of convalescent serum [\(Cheng et al. 2005\)](https://paperpile.com/c/Z2EDp3/lT6i). A recent study reported that sera collected from confirmed positive SARS-CoV-2 patients have the ability to neutralize SARS-CoV-2 in an in vitro plaque assay [\(Zhou et al. 2020\)](https://paperpile.com/c/Z2EDp3/juss).
 
 _Clinical Results In COVID-19_  
+  
 In August 2020, [the FDA issued emergency use authorization](https://www.fda.gov/media/141477/download) \(EUA\) for convalescent plasma as a treatment for hospitalized COVID-19 patients. A preprint study of 35,322 COVID-19 patients transfused with convalescent plasma showed that patients treated within 3 days of COVID-19 diagnosis exhibited a reduction in mortality: 8.7% seven-day mortality rate compared to 11.9% for patients transfused 4 or more days after diagnosis \([Joyner et al; preprint medRxIV 2020 NCT04338360](https://www.medrxiv.org/content/10.1101/2020.08.12.20169359v1.full.pdf)\). The study also showed that treatment using convalescent plasma with higher IgG antibody levels \(&gt;18.45 S/Co\) significantly reduced mortality compared to transfusions with low IgG antibody levels \(&lt;4.62 S/Co\) \(8.9% compared to 13.7%\). However, it is important to note that higher IgG levels do not necessarily imply virus-specific antibodies and the possibility that the benefits represent an IVIg-like effect cannot be excluded. Given that this was not a randomized clinical trial \(RCT\) or have a control arm, both the authors and FDA discuss that additional RCTs are needed.  The American Red Cross is helping to find appropriate donors and distribute convalescent plasma across the United States \([FDA News Release 2020](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-coordinates-national-effort-develop-blood-related-therapies-covid-19)\). 
 
-Other non-randomized, not well-controlled studies also suggest an incremental benefit from convalescent plasma. A preprint pilot study in 10 severely ill patients performed in China revealed that transfusion was well tolerated and that, in 7/10 patients, viral load was undetectable one week after treatment \([Duan et al;, preprint medRxIV 2020](https://www.medrxiv.org/content/10.1101/2020.03.16.20036145v1)\). Another case-series study in China demonstrated improvement in five patients with severe COVID-19 after treatment with convalescent plasma \([Shen et al. JAMA 2020](https://jamanetwork.com/journals/jama/fullarticle/2763983)\).   
+Other non-randomized, not well-controlled studies also suggest an incremental benefit from convalescent plasma. A preprint pilot study in 10 severely ill patients performed in China revealed that transfusion was well tolerated and that, in 7/10 patients, viral load was undetectable one week after treatment \([Duan et al;, preprint medRxIV 2020](https://www.medrxiv.org/content/10.1101/2020.03.16.20036145v1)\). Another case-series study in China demonstrated improvement in five patients with severe COVID-19 after treatment with convalescent plasma \([Shen et al. JAMA 2020](https://jamanetwork.com/journals/jama/fullarticle/2763983)\). 
+
+Several approaches leveraging passive immunity against SARS-CoV-2 are in development and some are now in clinical trials:  
 
 
-Several convalescent plasma approaches against SARS-CoV-2 are in development:
-
-* Regeneron Pharmaceuticals: Using antibody-generating mice exposed to a harmless analogue of SARS-CoV-2, they aim to find a potent antibody that provides immunity in these mice to SARS-CoV-2. The hope is that these antibodies can also be given to humans to fight the SARS-CoV-2 virus. During the Ebola outbreak in 2015, Regeneron Pharmaceuticals used a similar approach to develop a treatment for Ebola that significantly improved [the survival rate](https://www.nejm.org/doi/full/10.1056/NEJMoa1910993). 
+* Regenron and Eli Lilly have both generated convalescent patient derived human monoclonal antibodies that are currently being tested in the early stages of disease in clinical trials. During the Ebola outbreak in 2015, Regeneron Pharmaceuticals used a similar approach to develop a treatment for Ebola that significantly improved [the survival rate](https://www.nejm.org/doi/full/10.1056/NEJMoa1910993). 
 * Vir Biotechnology: By isolating antibodies from patients who survived SARS \(which is a coronavirus related to the novel SARS-CoV-2 coronavirus\), they hope to determine whether these antibodies against SARS provide some benefit against this new related SARS-CoV-2 virus.
 
 _Thought questions:_
@@ -249,9 +250,8 @@ Vaccines also commonly have adjuvants, which are used in order to increase the i
 
 ### Clinical Vaccine Trials
 
-\*\*\*This section is undergoing major changes/additions, please bear with us while we update\*\*\*
+Many pharmaceutical companies and governments are currently in the process of developing SARS-CoV-2 vaccines, and strategies with all of the above vaccine types are being utilized \([Pang et al., JCM 2020](https://www.mdpi.com/2077-0383/9/3/623/htm)\). The speed at which each type of vaccine can be developed can vary; with mRNA/DNA vaccine development being more rapid and subunit development more slow \(read [Lurie et al. NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2005630) to learn more\). A list of vaccines under clinical and preclinical development is compiled and updated by [WHO](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines). The NYT also has an easy to follow [vaccine tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html).   
 
-Many pharmaceutical companies and governments are currently in the process of developing SARS-CoV-2 vaccines, and strategies with all of the above vaccine types are being utilized \([Pang et al., JCM 2020](https://www.mdpi.com/2077-0383/9/3/623/htm)\). The speed at which each type of vaccine can be developed can vary; with mRNA/DNA vaccine development being more rapid and subunit development more slow \(read [Lurie et al. NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2005630) to learn more\).
 
 <table>
   <thead>
@@ -326,14 +326,15 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left">Genetic</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Inovio</td>
-      <td style="text-align:left">1</td>
+      <td style="text-align:left">1/2</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Genetic</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Urevac</td>
-      <td style="text-align:left">1</td>
+      <td style="text-align:left"><b>mRNA</b>
+      </td>
+      <td style="text-align:left">Curevac</td>
+      <td style="text-align:left">2</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -341,7 +342,7 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left"><b>DNA</b>
       </td>
       <td style="text-align:left">Genexine</td>
-      <td style="text-align:left">1</td>
+      <td style="text-align:left">1/2</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -371,25 +372,33 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left">Viral Vector</td>
       <td style="text-align:left">Chimpanzee adenovirus ChAdOx1</td>
       <td style="text-align:left">AstraZeneca, University of Oxford</td>
-      <td style="text-align:left">2/3</td>
-      <td style="text-align:left">9/8/20 Trial halted due to transverse myelitis complication in study volunteer
-        (unclear at this time if this was related to the vaccine - investigation
-        ongoing)</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">
+        <p>9/8/20 Trial halted due to transverse myelitis complication in study volunteer
+          (unclear at this time if this was related to the vaccine - investigation
+          ongoing)
+          <br />
+        </p>
+        <p>09/12/20 Trial resumed in the UK (and later in other countries) following
+          regulatory review.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Viral Vector</td>
       <td style="text-align:left">Nonreplicating Ad26</td>
       <td style="text-align:left"><a href="https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use">Johnson &amp; Johnson (Janssen)</a>,
         BIDMC</td>
-      <td style="text-align:left">1/2</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">Phase 3 Trial announced 09/23/20</td>
     </tr>
     <tr>
       <td style="text-align:left">Viral Vector</td>
       <td style="text-align:left">Ad5 and Ad26 + SARS-CoV-2 gene</td>
       <td style="text-align:left">Gamaleya Research Institute</td>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">Regulatory approval on 08/11/20 (1st in the world) was based on <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31866-3/fulltext#%20">Phase 1/2 Trial</a>,
+        and was met with concerns of safety and efficacy. Phase 3 trial launched
+        post-registration.</td>
     </tr>
     <tr>
       <td style="text-align:left">Viral Vector</td>
