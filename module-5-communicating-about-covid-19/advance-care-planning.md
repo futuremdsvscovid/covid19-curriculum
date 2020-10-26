@@ -8,14 +8,14 @@ Those who wish to learn more about terms pertaining to ACP can find a glossary [
 
 ### Why is ACP particularly relevant now? 
 
-* COVID-19 can have an unpredictable and precipitous clinical course. Initially stable patients can rapidly progress to respiratory failure requiring critical care interventions. Such situations severely limit the ability for patients to express treatment preferences, which is further compounded by restrictions on visitation by loved ones for infection control.
+* COVID-19 can have an unpredictable and precipitous clinical course. Initially stable patients can rapidly progress to respiratory failure. Such situations severely limit the ability for patients to express treatment preferences, which is further compounded by restrictions on visitation by loved ones.
 * COVID-19 imposes a[ disproportionate burden on the elderly and those with serious comorbidities](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/where-are-we-now). ACP is especially crucial for these vulnerable patients, and as with ACP in any context, should begin prior to acute illness when discussions and decisions can take place in a calm, supportive, and unhurried atmosphere.
 * COVID-19’s infectious nature and strain on PPE mean that resuscitation \(e.g. CPR and defibrillation\) of affected patients exposes healthcare workers to greater risk. By engaging in ACP with patients about resuscitation, healthcare workers can ensure care that aligns with patient preferences, and may also avoid unnecessarily risky care that is undesired. 
-  * These issues have sparked discussions in hospitals on potentially limiting or foregoing resuscitation in patients with COVID-19. How patient preferences should intersect with these potential policies is beyond the scope of this module, but you can read more about such discussions[ here](https://www.washingtonpost.com/health/2020/03/25/coronavirus-patients-do-not-resucitate/).
+  * These issues have sparked discussions in hospitals on potentially limiting or foregoing resuscitation in patients with COVID-19. How patient preferences should intersect with these potential policies is beyond this module's scope, but you can read more about this [here](https://www.washingtonpost.com/health/2020/03/25/coronavirus-patients-do-not-resucitate/).
 
 ### Frameworks for ACP
 
-These are difficult conversations. Thus, it can be helpful to have a framework for approaching this topic. While various frameworks exist, they share many common characteristics. We will focus on Ariadne Labs’s[ COVID-19 conversation guide for outpatient care](https://www.ariadnelabs.org/wp-content/uploads/sites/2/2020/04/2.-COVID-19-Conversation-Guide-for-Outpatient-Care-1.pdf), for which there is also a[ video](https://www.youtube.com/watch?v=Va6lTUcm85M&feature=youtu.be).
+These are difficult conversations. Thus, it can be helpful to have a framework for approaching this topic. While various frameworks exist \(such as the previously described REMAP mnemonic for goals of care\), they share many common characteristics. Here, we will focus on Ariadne Labs’s[ COVID-19 conversation guide for outpatient care](https://www.ariadnelabs.org/wp-content/uploads/sites/2/2020/04/2.-COVID-19-Conversation-Guide-for-Outpatient-Care-1.pdf), for which there is also a[ video](https://www.youtube.com/watch?v=Va6lTUcm85M&feature=youtu.be) demonstration.
 
 Process
 
@@ -30,5 +30,5 @@ This is not a one-size-fits-all approach, but it contains themes that are useful
 
 _Thought questions:_
 
-* Imagine that you are Diane’s new PCP who has seen her once before. You are about to conduct a telehealth follow-up for her comorbidities \(i.e. COPD, heart failure, depression, and anxiety\). How might you broach ACP, and what wording might you use? How would you explain [differences between advance directives and POLSTs](https://polst.org/wp-content/uploads/2019/05/2019.04.30-POLST-vs-ADs-chart.pdf) if she asks if she needs them?
+* Imagine that you are Diane’s new PCP who has seen her once before. You are about to conduct a telehealth follow-up for her comorbidities \(i.e. COPD, heart failure, depression, and anxiety\). How might you broach ACP, and what wording might you use? How would you explain the [differences between advance directives and POLSTs](https://polst.org/wp-content/uploads/2019/05/2019.04.30-POLST-vs-ADs-chart.pdf) if she asks if she needs them?
 
