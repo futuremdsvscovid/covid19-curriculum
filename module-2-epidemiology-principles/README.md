@@ -33,9 +33,9 @@ We end with three **case studies** to contextualize these epidemiology principle
 By the end of this module, medical students should be able to:
 
 * Define R0, Re, incubation period, serial interval, epidemic curve, community transmission, social distancing, and flattening the curve as they pertain to COVID-19
-* Identify and access a reliable source of the latest epidemiologic information about COVID-19
+* Access a reliable source of the latest epidemiologic information about COVID-19
 * Describe how changing epidemiological parameters changes disease dynamics
-* Contrast three cases that illustrate how flattening the curve saves lives in a pandemic
+* Contrast three cases that illustrate how nonpharmaceutical interventions save lives in a pandemic
 
 ## Core Materials
 
