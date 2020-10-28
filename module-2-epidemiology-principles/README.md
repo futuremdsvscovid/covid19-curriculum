@@ -7,7 +7,7 @@ description: >-
 
 # Module 2: Epidemiology Principles
 
-_Authors:_ Jakub Glowala; Kiryung Kim; Gina Liu; Katherine McDaniel, MSc; Katherine Nabel; Himaja Nagireddy; Deborah Plana; Emily Rencsok; Lily Zhong
+_Authors:_ Vineet Desai; Jessie Duggan; Jakub Glowala; Manav Gupta; Kiryung Kim; Gina Liu; Katherine McDaniel, MSc; Katherine Nabel; Himaja Nagireddy; Deborah Plana; Emily Rencsok; Connor Verheyen; Lily Zhong
 
 _Editor:_ [Himaja Nagireddy](mailto:himaja_nagireddy@hsph.harvard.edu)
 
