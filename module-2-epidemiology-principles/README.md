@@ -21,7 +21,7 @@ _Reviewers:_ Wolfram Goessling, MD, PhD; Andrea Wershof Schwartz, MD, MPH; Willi
 * Included information on [super spreading events](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/where-are-we-now#risk-of-superspreading-events) in nursing homes 
 * Updated [South Korea Case Study](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/case-study-south-korea-2020) 
 * Created the [Re-opening](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/approaches-to-long-term-planning#reopening) Section
-* Added section on Mental Health Concerns
+* Added section on [Mental Health Concerns](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/where-are-we-now#epidemiology-of-mental-health-concerns-during-the-covid-19-pandemic)
 
 ## Introduction
 
