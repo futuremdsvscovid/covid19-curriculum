@@ -40,6 +40,25 @@ If racial minority groups had died at the same rate of White Americans, at least
 
 [Ajilore and Thames](https://doi.org/10.1016/j.bbi.2020.06.003) explore the biological consequences of structural racism and discrimination in the COVID-19 era, building upon a large body of work examining biological stress effects of racism \([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6532404/),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580597/),[3](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2018.304766)\). Although more studies are being done to show and explain racial inequities in the COVID-19 pandemic, the evidence is already clear that Blacks, Indigenous and People of Color are experiencing disproportionate morbidity and mortality. It is important to note that the higher disease risk cannot only be explained by race and other co-morbidities. Varying risk of  exposure, for example, with a high percentage of Blacks and Latinos part of the essential work force, also exacerbates COVID-19 disease and mortality burden \([Boulware et al., JAMA, 2020](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2769381)\).
 
+## Epidemiology of Mental Health Concerns During the COVID-19 Pandemic
+
+The COVID-19 pandemic has taken a severe toll on the physical health of populations around the world, and its effects on community mental and emotional health are also becoming increasingly clear. Mental health challenges can arise from both the disease itself \(being ill or knowing others suffering from the disease\) and from the risk-mitigation measures set in place to control the outbreak of the SARS-CoV-2 virus \(ex. social distancing\). The following study from the [CDC Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm) \(8.14.20\) presents survey results from 5,412 adults in the U.S., looking at their mental health, substance abuse, and suicidal ideation. 
+
+* 40.9% reported having at least “one adverse mental or behavioral health condition”. 
+* 30.9% reported symptoms of an anxiety disorder or a depressive disorder, with these symptoms being 3.15 times and 3.74 times more prevalent, respectively, than seen for the same time period in 2019. 
+* 26.3% reported symptoms of a “trauma and stressor-related disorder \(TSRD\) related to the pandemic”. 
+* 13.3% reported increasing their substance use to cope with stressors of the pandemic. This finding was most common among Black individuals \(18.4%\). 
+* 10.7% seriously considered committing suicide within the past 30 days. This finding was significantly higher among certain subsets of the population.
+  * 18-24 year olds: 25.5% considered suicide
+  * Hispanic people: 18.6% considered suicide
+  * Black people: 15.1% considered suicide
+  * Unpaid caregivers for adults: 30.7% considered suicide 
+  * Essential workers: 21.7% considered suicide 
+
+While this study did not directly identify factors responsible for changes in mental health, several proposals include: impacts of social isolation, lack of school/work structure, unemployment, financial concerns, and violence/abuse \(physical, emotional, mental, or sexual\). These factors and their influence on individuals’ mental health during the COVID-19 pandemic are areas for future research. 
+
+Nearly everyone has been impacted by COVID-19 in some way, but certain populations of individuals in the U.S. have been disproportionately affected by adverse mental health conditions. These populations include young adults \(ages 18-24\), Hispanic people, Black people, unpaid caregivers for adults, and those who were receiving psychiatric treatment prior to the pandemic. Mental health thus provides a new lens through which health inequities in America can be identified and addressed. Several systemic approaches to reducing these disparities during the COVID-19 pandemic include providing increased financial support, address the impact of racism on peoples’ mental health, supporting those at risk for suicide, and providing services to those struggling with increased substance use.
+
 ## Asymptomatic Transmission
 
 ![A difference between latent period and incubation period can lead to a period of asymptomatic communicability. The period of communicability may also extend beyond the duration of symptoms. Figure from Wikimedia, contributor Patilsaurabhr.](https://lh5.googleusercontent.com/uc-9xhbQCaLFcv4TbrhLg3MQD98NDX6FH3fpQ779NCTQ6BgcZWVSN9ACpDp11orFcjndq9-eMFplm_ynPcp202nhH73Asa79JHVluGPv6Z7IHQfvACUzJag_B7cboXYEPy8vJGEJ)
