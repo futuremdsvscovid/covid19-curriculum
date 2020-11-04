@@ -8,8 +8,6 @@ To better understand how the pandemic may be causing this spike in mental health
 
 These cases capture some of the ways the pandemic may impact the mental health of our patients; we appreciate that there may be numerous factors that affect their health.  Our goal is to demonstrate some of the prevalent stressors that we are seeing in our patients right now and provide examples of how to pull together the many interwoven life events that contribute to our patients' mental health.
 
-**Please note that these cases was updated on 9/22/20 to reflect the changing environment our patients are experiencing as a result of the ongoing pandemic. Faculty review of the new edits is pending at this time.**
-
 ## Adam’s Case
 
 Let’s begin with Adam. Adam is a healthy, 20-year-old college student in Boston who has just returned to campus for his junior year. 
