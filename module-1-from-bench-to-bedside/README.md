@@ -12,14 +12,14 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(10/20/20\):**
+**Highlight of Updates \(11/20/20\):**
 
-* Proposed pathogenesis of [neurological symptoms](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection)
-* [Neutralizing antibodies](basic-virology-and-immunology.md#innate-immune-response) against type 1 interferons
-* Updated hospitalizations by [age](management-of-covid-19.md#risk-stratification) group
-* Risk factors for developing [encephalopathy](management-of-covid-19.md#risk-stratification)
-* Updated [NSAID](management-of-covid-19.md#treatment) treatment information
-* Updates to vaccine trial [phases](investigational-therapeutics-and-vaccine-development.md#clinical-vaccine-trials)
+* Discussion of “cytokine storm” hypothesis and results of Phase 3 trials for tocilizumab and sarilumab
+* Discussion of monoclonal antibody therapies and convalescent plasma
+* Description of immune response at 6 months after infection
+* FDA EUA announcement for home molecular testing with rapid at-home results
+* Discussion of updated IDSA treatment and management guidelines
+* Results of Phase 3 trials for Pfizer and Moderna COVID-19 vaccines
 
 The Coronavirus Disease 2019 \(COVID-19\) pandemic has had massive, overarching ramifications for our global population. This is an unprecedented time for our healthcare system, and as medical trainees ourselves, we felt an obligation to synthesize the growing literature and educate our peers. 
 
