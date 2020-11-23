@@ -204,7 +204,7 @@ Other non-randomized, not well-controlled studies also suggest an incremental be
 Several approaches leveraging passive immunity against SARS-CoV-2 are in development and some are now in clinical trials:  
 
 
-* Regenron and Eli Lilly have both generated convalescent patient derived human monoclonal antibodies that are currently being tested in the early stages of disease in clinical trials. During the Ebola outbreak in 2015, Regeneron Pharmaceuticals used a similar approach to develop a treatment for Ebola that significantly improved [the survival rate](https://www.nejm.org/doi/full/10.1056/NEJMoa1910993). 
+* Regenron and Eli Lilly have both generated convalescent patient derived human monoclonal antibodies that are currently being tested in the early stages of disease in clinical trials. During the Ebola outbreak in 2015, Regeneron Pharmaceuticals used a similar approach to develop a treatment for Ebola that significantly improved [the survival rate](https://www.nejm.org/doi/full/10.1056/NEJMoa1910993). Both companies’ monoclonal antibodies showed preliminary efficacy in decreasing viral loads and follow-up visits in outpatient clinical trials \([Regeneron press release 10/28/20](https://investor.regeneron.com/news-releases/news-release-details/regenerons-covid-19-outpatient-trial-prospectively-demonstrates); [Chen et al. for the BLAZE-1 study, NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2029849)\). Both Lilly’s antibody, bamlanivimab, and Regeneron’s, casirivimab and imdevimab, received an emergency use authorization for outpatient use from the FDA \([Lilly press release 11/9/20;](https://www.lilly.com/news/media/media-kits/bamlanivimab-covid19) [FDA press release 11/21/20](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-monoclonal-antibodies-treatment-covid-19)\).
 * Vir Biotechnology: By isolating antibodies from patients who survived SARS \(which is a coronavirus related to the novel SARS-CoV-2 coronavirus\), they hope to determine whether these antibodies against SARS provide some benefit against this new related SARS-CoV-2 virus.
 
 _Thought questions:_
@@ -279,6 +279,8 @@ Many pharmaceutical companies and governments are currently in the process of de
           />
           <br />8/11/2020 - US govt <a href="https://www.businesswire.com/news/home/20200811005852/en/Moderna-Announces-Supply-Agreement-U.S.-Government-Initial">offered 1.5 billion to Moderna</a> in
           exchange for 100 million doses if effective</p>
+        <p><b><br /></b>11/16/20 <a href="https://investors.modernatx.com/news-releases/news-release-details/modernas-covid-19-vaccine-candidate-meets-its-primary-efficacy">First interim analysis of Phase3 trial showed 94.5% efficacy</a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -286,10 +288,18 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left"><b>mRNA </b>encoding glycoprotein receptor-binding domain
         <br />&#x2018;BNT162b1&#x2019;</td>
       <td style="text-align:left">Biontech, Pfizer, FosunPharma</td>
-      <td style="text-align:left">2/3</td>
-      <td style="text-align:left"><a href="https://www.medrxiv.org/content/10.1101/2020.06.30.20142570v1">Phase 1/2 results</a> demonstrated
-        dose-dependent increases in RBD-IgG and also found SARS-CoV-2 neutralizing
-        titers that exceeded that of COVID-19 + patient sera</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">
+        <p><a href="https://www.medrxiv.org/content/10.1101/2020.06.30.20142570v1">Phase 1/2 results</a> demonstrated
+          dose-dependent increases in RBD-IgG and also found SARS-CoV-2 neutralizing
+          titers that exceeded that of COVID-19 + patient sera</p>
+        <p></p>
+        <p>11/9/20 <a href="https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-vaccine-candidate-against">First Interim Analysis of Phase3 trial showed more than 90% efficacy</a>
+          <br
+          />
+          <br />11/18/20 <a href="https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine">Conclusion of Phase3 trial showed 95% efficacy.</a>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Genetic</td>
