@@ -14,12 +14,12 @@ _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
 **Highlight of Updates \(11/20/20\):**
 
-* Discussion of “cytokine storm” hypothesis and results of Phase 3 trials for tocilizumab and sarilumab
-* Discussion of monoclonal antibody therapies and convalescent plasma
-* Description of immune response at 6 months after infection
-* FDA EUA announcement for home molecular testing with rapid at-home results
-* Discussion of updated IDSA treatment and management guidelines
-* Results of Phase 3 trials for Pfizer and Moderna COVID-19 vaccines
+* Discussion of [“cytokine storm” hypothesis](basic-virology-and-immunology.md#innate-immune-response) and results of Phase 3 trials for tocilizumab and sarilumab
+* Description of [immune response at 6 months after infection](basic-virology-and-immunology.md#adaptive-immune-response)
+* FDA EUA announcement for home molecular testing with [rapid at-home results](clinical-presentation-of-covid-19.md#united-states-testing-capacity)
+* Discussion of [updated IDSA treatment and management guidelines](management-of-covid-19.md#treatment)
+* Updated discussion of [monoclonal antibody therapies](investigational-therapeutics-and-vaccine-development.md#passive-antibody-transfer) and convalescent plasma
+* Results of Phase 3 trials for [Pfizer and Moderna](investigational-therapeutics-and-vaccine-development.md#clinical-vaccine-trials) COVID-19 vaccines
 
 The Coronavirus Disease 2019 \(COVID-19\) pandemic has had massive, overarching ramifications for our global population. This is an unprecedented time for our healthcare system, and as medical trainees ourselves, we felt an obligation to synthesize the growing literature and educate our peers. 
 
