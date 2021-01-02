@@ -12,7 +12,7 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(12/18/20\):**
+**Highlight of Updates \(12/10/20\):**
 
 * Discussion of [rare intrauterine transmission](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) of SARS-CoV-2
 * Discussion of [post-COVID syndrome](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) and development of autoantibodies in COVID-19
