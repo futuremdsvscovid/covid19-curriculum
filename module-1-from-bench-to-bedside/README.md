@@ -12,14 +12,13 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(11/20/20\):**
+**Highlight of Updates \(12/18/20\):**
 
-* Discussion of [“cytokine storm” hypothesis](basic-virology-and-immunology.md#innate-immune-response) and results of Phase 3 trials for tocilizumab and sarilumab
-* Description of [immune response at 6 months after infection](basic-virology-and-immunology.md#adaptive-immune-response)
-* FDA EUA announcement for home molecular testing with [rapid at-home results](clinical-presentation-of-covid-19.md#united-states-testing-capacity)
-* Discussion of [updated IDSA treatment and management guidelines](management-of-covid-19.md#treatment)
-* Updated discussion of [monoclonal antibody therapies](investigational-therapeutics-and-vaccine-development.md#passive-antibody-transfer) and convalescent plasma
-* Results of Phase 3 trials for [Pfizer and Moderna](investigational-therapeutics-and-vaccine-development.md#clinical-vaccine-trials) COVID-19 vaccines
+* Discussion of rare intrauterine transmission of SARS-CoV-2
+* Discussion of post-COVID syndrome and development of autoantibodies in COVID-19
+* Discussion of genetic loci associated with severe disease
+* EUA for monoclonal antibody cocktails for outpatient use
+* EUA for Pfizer-BioNTech and Moderna SARS-CoV-2 vaccine
 
 The Coronavirus Disease 2019 \(COVID-19\) pandemic has had massive, overarching ramifications for our global population. This is an unprecedented time for our healthcare system, and as medical trainees ourselves, we felt an obligation to synthesize the growing literature and educate our peers. 
 
