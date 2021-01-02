@@ -221,18 +221,18 @@ _Thought Questions:_
 
 ### Timing
 
-Vaccines are used in healthy individuals to prevent the development of future illness, as well as to attenuate the duration and severity of symptoms in those who do develop illness in the future. Most sources are indicating that a COVID-19 vaccine will not be ready for public use until at least 1 year from now [\(MGH Grand Rounds 3/12/2020\)](https://paperpile.com/c/Z2EDp3/NODs).   
+Vaccines are used in healthy individuals to prevent the development of future illness, as well as to attenuate the duration and severity of symptoms in those who do develop illness in the future.   
   
-Prior to a vaccine’s introduction on the market, scientists not only need to identify specific markers of the virus \(antigens\) to be incorporated into a vaccine used to stimulate the immune system, but will also need to undergo the entire clinical trial process to demonstrate that the vaccine is both safe and effective. \(Review: [Vaccine Testing and Approval Process](https://www.cdc.gov/vaccines/basics/test-approve.html) [\(CDC\)](https://paperpile.com/c/Z2EDp3/H2Iw) and [video](https://youtu.be/ek3T8xiu1Fw) [\(CNBC](https://paperpile.com/c/Z2EDp3/32j0)\).
+Prior to a vaccine’s introduction on the market, scientists must go through the following steps: \(Review: [Vaccine Testing and Approval Process](https://www.cdc.gov/vaccines/basics/test-approve.html) [\(CDC\)](https://paperpile.com/c/Z2EDp3/H2Iw) and [video](https://youtu.be/ek3T8xiu1Fw) [\(CNBC](https://paperpile.com/c/Z2EDp3/32j0)\) ****
 
 * **Phase 1** trials with small numbers of healthy patients will first strive to demonstrate that the vaccine is safe, void of adverse side effects, and establish an acceptable dosage. This is especially important given that vaccines are given to healthy individuals, rather than sick individuals, and must reach a greater threshold for safety. 
 * **Phase 2** trials enroll a larger group of individuals and aim to demonstrate the vaccine is effective in preventing the symptoms or disease under investigation. The subjects enrolled tend to be people that are considered to benefit most from a new treatment \(i.e. elderly, persons with comorbid conditions\).
-* Upon successful completion of the prior stage, **phase 3** trials enrolling even more patients will seek to show continued safety and efficacy. Typically Phase 3 trials are conducted in an area where a pathogen is endemic and the frequency of infection in the vaccinated and control groups are compared and efficacy thus determined. However in this outbreak some ethicists have supported human challenge studies in well informed volunteers, in which one arm of the study will involve volunteers receiving a  deliberate vaccine challenge.This issue is being debated but the likelihood  that such studies might be conducted in the fall of 2020, has greatly increased.
-* After a phase 3 trial, the vaccine is generally approved and available to the general public, though formal **phase 4** trials are encouraged \(but usually not formally required\) to assess for longer-term safety and efficacy. 
+* Upon successful completion of the prior stage, **phase 3** trials enrolling even more patients will seek to show continued safety and efficacy. Typically Phase 3 trials are conducted in an area where a pathogen is endemic and the frequency of infection in the vaccinated and control groups are compared and efficacy thus determined. However in this outbreak some ethicists have supported human challenge studies in well informed volunteers, in which one arm of the study will involve volunteers receiving a  deliberate vaccine challenge.This issue is currently being debated  with some civil society organizations pushing for this approach \([https://www.1daysooner.org/](https://www.1daysooner.org/)\).
+* After a phase 3 trial, the vaccine is generally approved and available to the general public, though formal **phase 4 trials** are encouraged \(but not usually formally required\) to assess for longer-term safety and efficacy. The safety of the vaccine should continue to be surveilled after its rollout to the public as well.
 
 ### Approaches
 
-While some clinical trials for COVID-19 vaccines are already underway in the US and abroad, what the medical and scientific community must consider is which viral component will be used as a basis for developing immunity. In general, previous vaccine strategies for SARS & MERS have targeted the S protein, since it has been shown to play a role in inducing protective immunity by eliciting the production of neutralizing-antibodies and T-cell responses [\(Keng et al. 2005; Zhou et al. 2004; Bukreyev et al. 2004\)](https://paperpile.com/c/Z2EDp3/PhfX+RjCE+IKA9). Based on the function of this protein it is also an attractive target because immunity against this protein could block virus binding, impair membrane fusion or neutralize infection.The use of an inactivated SARS-CoV-2 vaccine resulted in the generation of neutralizing antibodies and the protection of immunized macaques from SARS-CoC-2 rechallenge without any evidence of disease enhancement \([Gao et al., Science 2020](https://science.sciencemag.org/content/early/2020/05/06/science.abc1932)\). There are many different types of vaccines in the modern era, including whole pathogen vaccines \(either killed/inactivated or live attenuated\), subunit vaccines, mRNA vaccines, and DNA vaccines [\(Vaccine Types \| NIH\)](https://paperpile.com/c/Z2EDp3/lP3D).  Vaccines  previously developed for SARS and MERS have informed the approach to SARS-CoV-2 vaccine development. Different approaches are detailed below and are also described more broadly with graphics in this [NYT article](https://www.nytimes.com/interactive/2020/05/20/science/coronavirus-vaccine-development.html):
+As clinical trials for COVID-19 vaccines continue and the first vaccines are administered to priority populations in multiple countries, the choice of viral component to be used as a basis for developing immunity is an important consideration. In general, previous vaccine strategies for SARS & MERS have targeted the S protein, since it has been shown to play a role in inducing protective immunity by eliciting the production of neutralizing-antibodies and T-cell responses [\(Keng et al. 2005; Zhou et al. 2004; Bukreyev et al. 2004\)](https://paperpile.com/c/Z2EDp3/PhfX+RjCE+IKA9). Based on the function of this protein, it is also an attractive target because immunity against this protein could block virus binding, impair membrane fusion or neutralize infection.The use of an inactivated SARS-CoV-2 vaccine resulted in the generation of neutralizing antibodies and the protection of immunized macaques from SARS-CoC-2 rechallenge without any evidence of disease enhancement \([Gao et al., Science 2020](https://science.sciencemag.org/content/early/2020/05/06/science.abc1932)\). There are many different types of vaccines in the modern era, including whole pathogen vaccines \(either killed/inactivated or live attenuated\), subunit vaccines, mRNA vaccines, and DNA vaccines [\(Vaccine Types \| NIH\)](https://paperpile.com/c/Z2EDp3/lP3D).  Vaccines previously developed for SARS and MERS have informed the approach to SARS-CoV-2 vaccine development. Different approaches are detailed below and are also described more broadly in this [NYT article](https://www.nytimes.com/interactive/2020/05/20/science/coronavirus-vaccine-development.html):
 
 **Whole pathogen vaccines** require the pathogen to be grown in the laboratory, where they can then either be killed with chemicals, heat, or radiation \(to make a killed/inactivated vaccine\) or weakened \(to make a live attenuated vaccine\), and then incorporated into the vaccine. Yet another approach that has been used for many live viral vaccines is codon deoptimisation of the genetic material of a virus to make it less virulent. The use of non-preferred codons can markedly reduce viral protein expression. This approach has been used for a SARS-CoV-2 vaccine as well.
 
@@ -250,7 +250,7 @@ Vaccines also commonly have adjuvants, which are used in order to increase the i
 
 ### Clinical Vaccine Trials
 
-Many pharmaceutical companies and governments are currently in the process of developing SARS-CoV-2 vaccines, and strategies with all of the above vaccine types are being utilized \([Pang et al., JCM 2020](https://www.mdpi.com/2077-0383/9/3/623/htm)\). The speed at which each type of vaccine can be developed can vary; with mRNA/DNA vaccine development being more rapid and subunit development more slow \(read [Lurie et al. NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2005630) to learn more\). A list of vaccines under clinical and preclinical development is compiled and updated by [WHO](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines). The NYT also has an easy to follow [vaccine tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html).   
+Many pharmaceutical companies and governments are currently in the process of developing SARS-CoV-2 vaccines, and strategies with all of the above vaccine types are being utilized \([Pang et al., JCM 2020](https://www.mdpi.com/2077-0383/9/3/623/htm)\). The speed at which each type of vaccine can be developed can vary, with mRNA/DNA vaccine development being more rapid and subunit development more slow \(read [Lurie et al. NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2005630) to learn more\). A list of vaccines under clinical and preclinical development is compiled and updated by [WHO](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines). The NYT also has an easy to follow [vaccine tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html). Below we provide a highlight of some of the most promising vaccine candidates:  
 
 
 <table>
@@ -281,6 +281,12 @@ Many pharmaceutical companies and governments are currently in the process of de
           exchange for 100 million doses if effective</p>
         <p><b><br /></b>11/16/20 <a href="https://investors.modernatx.com/news-releases/news-release-details/modernas-covid-19-vaccine-candidate-meets-its-primary-efficacy">First interim analysis of Phase3 trial showed 94.5% efficacy</a>
         </p>
+        <p></p>
+        <p>11/30/20 <a href="https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-primary-efficacy-analysis-phase-3-cove-study">Final analysis</a> shows
+          94.1% efficacy against COVID-19, and 100% efficacy against severe COVID-19.</p>
+        <p></p>
+        <p>12/18/20 FDA approves vaccine for emergency use. Vaccine distribution
+          and administration begins starting with front-line healthcare workers.</p>
       </td>
     </tr>
     <tr>
@@ -299,76 +305,13 @@ Many pharmaceutical companies and governments are currently in the process of de
           />
           <br />11/18/20 <a href="https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine">Conclusion of Phase3 trial showed 95% efficacy.</a>
         </p>
+        <p></p>
+        <p>12/11/20 <a href="https://www.fda.gov/media/144412/download">FDA issues an Emergency Use Authorization for the Pfizer-BioNTech vaccine.</a>
+          <br
+          />
+          <br />12/14/20 <a href="https://abcnews.go.com/US/us-administer-1st-doses-pfizer-coronavirus-vaccine/story?id=74703018">First US administration of a SARS-COV-2 vaccine outside of a clinical trial.</a>
+        </p>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Genetic</td>
-      <td style="text-align:left"><b>DNA</b>
-      </td>
-      <td style="text-align:left">Zydus</td>
-      <td style="text-align:left">2</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Genetic</td>
-      <td style="text-align:left"><b>RNA</b>
-      </td>
-      <td style="text-align:left">Imperial College London, Morningside</td>
-      <td style="text-align:left">1/2</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Genetic</td>
-      <td style="text-align:left"><b>DNA</b>
-      </td>
-      <td style="text-align:left">AnGes, Osaka University, Takara Bio</td>
-      <td style="text-align:left">1/2</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Genetic</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Arcturus therapeutics, Duke-NUS Medical</td>
-      <td style="text-align:left">1/2</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Genetic</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Inovio</td>
-      <td style="text-align:left">1/2</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Genetic</td>
-      <td style="text-align:left"><b>mRNA</b>
-      </td>
-      <td style="text-align:left">Curevac</td>
-      <td style="text-align:left">2</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Genetic</td>
-      <td style="text-align:left"><b>DNA</b>
-      </td>
-      <td style="text-align:left">Genexine</td>
-      <td style="text-align:left">1/2</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Genetic</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Academy of MIlitary Medical Sciences, Suzhou Abogen Biosciences and Walvax
-        Biotechnology</td>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Genetic</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Sanofi, Translate Bio</td>
-      <td style="text-align:left">Pre-Clinical</td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Viral Vector</td>
@@ -391,6 +334,10 @@ Many pharmaceutical companies and governments are currently in the process of de
         </p>
         <p>09/12/20 Trial resumed in the UK (and later in other countries) following
           regulatory review.</p>
+        <p></p>
+        <p>11/23/20 <a href="https://www.astrazeneca.com/media-centre/press-releases/2020/azd1222hlr.html">Conclusion of Phase3 Trial</a> shows
+          70% overall efficacy (although results are somewhat <a href="https://www.nature.com/articles/d41586-020-03326-w">puzzling</a>),
+          with no hospitalizations or severe disease in the vaccinated group</p>
       </td>
     </tr>
     <tr>
@@ -411,87 +358,10 @@ Many pharmaceutical companies and governments are currently in the process of de
         post-registration.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Viral Vector</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Reithera, Lazzaro Spallanzani Ntl Inst for ID</td>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Viral Vector</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Merck, Themis Bioscience, Institut Pasteur</td>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Viral Vector</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Merck, IAVI</td>
-      <td style="text-align:left">Pre-Clinical</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Viral Vector</td>
-      <td style="text-align:left">AAV</td>
-      <td style="text-align:left">Novartis, Mass Eye &amp; Ear</td>
-      <td style="text-align:left">Pre-Clinical</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Viral Vector</td>
-      <td style="text-align:left">Adenovirus</td>
-      <td style="text-align:left">Vaxart</td>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Protein</td>
-      <td style="text-align:left">Viral proteins + adjuvant</td>
-      <td style="text-align:left">Anhui Zhifei Longcom, Chinese Academy of Medical Sciences</td>
-      <td style="text-align:left">2</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
       <td style="text-align:left">Protein</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Novavax</td>
       <td style="text-align:left">3</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Protein</td>
-      <td style="text-align:left">Viral proteins + adjuvant</td>
-      <td style="text-align:left">Clover Biopharmaceuticals, GSK, Dynavax</td>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Protein</td>
-      <td style="text-align:left">Viral proteins + adjuvant</td>
-      <td style="text-align:left">Vaxine</td>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Protein</td>
-      <td style="text-align:left">Tobacco-plant mediated production of virus-like protein</td>
-      <td style="text-align:left">Medicago, GSK, Dynavax</td>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Protein</td>
-      <td style="text-align:left">Viral proteins + adjuvant (CSL)</td>
-      <td style="text-align:left">The University of Queensland, CSL</td>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Protein</td>
-      <td style="text-align:left">Tobacco-plant mediated production of virus-like protein</td>
-      <td style="text-align:left">Kentucky BioProcessing</td>
-      <td style="text-align:left">1/2</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -513,21 +383,6 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left">Inactivated virus</td>
       <td style="text-align:left">Sinovac Biotech</td>
       <td style="text-align:left">3</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Whole Virus</td>
-      <td style="text-align:left">Inactivated virus</td>
-      <td style="text-align:left">Chinese Academy of Medical Sciences</td>
-      <td style="text-align:left">2</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Whole Virus</td>
-      <td style="text-align:left">Inactivated virus</td>
-      <td style="text-align:left">Indian Council of Medical Research, Natl Institute of Virology, Bharat
-        Biotech</td>
-      <td style="text-align:left">1/2</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
