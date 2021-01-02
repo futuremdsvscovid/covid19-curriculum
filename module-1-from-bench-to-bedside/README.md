@@ -16,7 +16,7 @@ _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
 * Discussion of [rare intrauterine transmission](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) of SARS-CoV-2
 * Discussion of [post-COVID syndrome](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) and development of autoantibodies in COVID-19
-* Discussion of genetic loci associated with severe infection
+* Discussion of [genetic loci ](management-of-covid-19.md#risk-stratification)associated with severe infection
 * EUA for monoclonal antibody cocktails for outpatient use
 * EUA for Pfizer-BioNTech and Moderna SARS-CoV-2 vaccine
 
