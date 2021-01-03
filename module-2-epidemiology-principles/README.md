@@ -13,7 +13,7 @@ _Editor:_ [Himaja Nagireddy](mailto:himaja_nagireddy@hsph.harvard.edu)
 
 _Reviewers:_ Wolfram Goessling, MD, PhD; Andrea Wershof Schwartz, MD, MPH; William Hanage, PhD; Rebecca Kahn, MS; James Hay, PhD
 
-**Highlight of Updates \(12/04/20\): Pending faculty review**
+**Highlight of Updates \(1/03/21\): Pending faculty review**
 
 * Clarified learning objectives in [Introduction](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles) and updated [author team](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles)
 * [Glossary](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles): Added definition of presymptomatic vs. asymptomatic

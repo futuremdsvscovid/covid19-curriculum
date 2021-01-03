@@ -63,8 +63,34 @@ Different activities and interactions have various levels of risk for infection.
 
 Risk benefit analysis of activities stratified on importance of location and risk of SARS-CoV-2 transmission, from [Benzel, et al., SSRN, 04/20/20](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3579678).
 
-These principles apply during public gatherings as well. In protests, for example, attendees should stay home if feeling sick and bring protective equipment for themselves \(masks, hand sanitizer, eye protection\). During the protest, attendees can reduce risk by masking, maintaining physical distance from others not in their pod, and minimizing additional aerosol production by avoiding shouting. They should avoid touching their faces. After returning home, they should wash their hands and sanitize all items with. The recommendation is to test or self-quarantine for 14 days afterward. Refer to [How to Protest Safely During the COVID-19 Pandemic](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-safe-protest.pdf) and [How to more safely protest in a pandemic](https://www.vox.com/2020/5/31/21276082/what-to-bring-to-a-protest-coronavirus-covid-19-risk-safety) for more detailed advice.  
-  
+These principles apply during public gatherings as well. In protests, for example, attendees should stay home if feeling sick and bring protective equipment for themselves \(masks, hand sanitizer, eye protection\). During the protest, attendees can reduce risk by masking, maintaining physical distance from others not in their pod, and minimizing additional aerosol production by avoiding shouting. They should avoid touching their faces. After returning home, they should wash their hands and sanitize all items with. The recommendation is to test or self-quarantine for 14 days afterward. Refer to [How to Protest Safely During the COVID-19 Pandemic](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-safe-protest.pdf) and [How to more safely protest in a pandemic](https://www.vox.com/2020/5/31/21276082/what-to-bring-to-a-protest-coronavirus-covid-19-risk-safety) for more detailed advice.
+
+### Equitable Vaccine Distribution
+
+With record-breaking progress being made in SARS-CoV-2 [vaccine development](https://curriculum.covidstudentresponse.org/module-1-from-bench-to-bedside/investigational-therapeutics-and-vaccine-development#vaccines) \(by Moderna, Pfizer, AstraZeneca, and more\), the challenge of equitable vaccine distribution remains. Who will receive the vaccine and when? Will at-risk individuals in poorer countries have to wait longer than healthy individuals in wealthy countries? What will the financial burden be? 
+
+In September 2020, the World Health Organization \(WHO\) developed a plan to distribute the SARS-CoV-2 vaccine to all countries via a “[fair allocation mechanism](https://www.sciencemag.org/news/2020/09/who-unveils-global-plan-fairly-distribute-covid-19-vaccine-challenges-await),” in hopes of ensuring access to the vaccine in lower income countries. Roughly $1.7 billion has been raised globally to support this program, named the COVID-19 Vaccines Global Access \(COVAX\) Facility. The WHO’s proposal is as follows: 
+
+Phase 1: Baseline coverage for all participating countries 
+
+* First, all countries receive vaccines “proportional to their population”
+  * Sufficient vaccine to cover 3% of the population
+  * Distribute first to front-line workers health care and social care
+* Second, vaccine delivered until 20% of countries’ populations are immunized 
+  * Prioritizing high-risk individuals, such as those who are elderly, immunocompromised, and/or have comorbidities 
+
+Phase 2: Prioritized global distribution 
+
+* Vaccine delivered based on its level of urgency in particular countries 
+* Country priority will be determined by:
+  * The [effective reproduction number](https://curriculum.covidstudentresponse.org/module-2-epidemiology-principles/introduction-to-epidemiological-terms#epidemic-parameters) \(Re\) or rate, of COVID-19 spread 
+  * Presence of other infectious pathogens \(influenza, measles, TB\) 
+  * Vulnerabilities and limitations of health systems \(ex. hospital and ICU capacities\)  
+
+As of late September 2020, over 170 countries, representing roughly ⅔ of the world’s population, have joined the COVAX Facility. Of important note, the United States and China have not partnered with the WHO in support of their COVAX Facility, highlighting the “deeply unequal power dynamics in global health and vaccine manufacturing capabilities that may still challenge equitable access to vaccines” \([Science Magazine](https://www.sciencemag.org/news/2020/09/who-unveils-global-plan-fairly-distribute-covid-19-vaccine-challenges-await), 21 Sept 2020\). With both [Pfizer](https://www.nytimes.com/2020/12/23/us/politics/pfizer-vaccine-doses-virus.html) and [Moderna](https://www.nytimes.com/2020/12/18/health/covid-vaccine-fda-moderna.html) being U.S.-based pharmaceutical companies, the lack of U.S. participation in COVAX is likely to have a major impact on vaccine distribution globally. 
+
+An additional challenge to the WHO’s plan of equitable distribution includes lack of knowledge regarding vaccine efficacy across certain groups of people \(age groups, racial and ethnic minorities, those with underlying conditions\). Given that COVID-19 has disproportionately impacted Black communities, [vaccine education](https://www.aamc.org/news-insights/saving-black-lives-during-covid-19-vaccines-matter) will be imperative in saving lives. Moreover, certain political agendas may prevent the WHO from obtaining sufficient vaccine supply. In order to make strides towards worldwide immunization, however, it is imperative that we prioritize equitable vaccine distribution in order to reduce the overall transmission and disease burden of COVID-19.
+
 
 
 _Thought Questions:_
