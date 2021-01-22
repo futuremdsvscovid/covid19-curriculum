@@ -269,7 +269,7 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left"><b>mRNA-</b>1273</td>
       <td style="text-align:left"><a href="https://www.modernatx.com/modernas-work-potential-vaccine-against-covid-19">Moderna</a> +
         NIH</td>
-      <td style="text-align:left">3</td>
+      <td style="text-align:left">FDA EUA</td>
       <td style="text-align:left">
         <p>mRNA-1273 demonstrated efficacy in a <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2024671?query=RP">pre-clincial trial with non-human primates</a>
         </p>
@@ -323,7 +323,10 @@ Many pharmaceutical companies and governments are currently in the process of de
     </tr>
     <tr>
       <td style="text-align:left">Viral Vector</td>
-      <td style="text-align:left">Chimpanzee adenovirus ChAdOx1</td>
+      <td style="text-align:left">
+        <p>Chimpanzee adenovirus ChAdOx1</p>
+        <p><b>&#x2018;</b>AZD1222&#x2019;</p>
+      </td>
       <td style="text-align:left">AstraZeneca, University of Oxford</td>
       <td style="text-align:left">3</td>
       <td style="text-align:left">
@@ -346,16 +349,29 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left"><a href="https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use">Johnson &amp; Johnson (Janssen)</a>,
         BIDMC</td>
       <td style="text-align:left">3</td>
-      <td style="text-align:left">Phase 3 Trial announced 09/23/20</td>
+      <td style="text-align:left">
+        <p>Phase 3 Trial announced 09/23/20</p>
+        <p></p>
+        <p><a href="https://www.jnj.com/johnson-johnson-initiates-second-global-phase-3-clinical-trial-of-its-janssen-covid-19-vaccine-candidate">A second Phase3 Trial</a> announced
+          11/15/20 to test the efficacy of 2-dose regimen.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Viral Vector</td>
-      <td style="text-align:left">Ad5 and Ad26 + SARS-CoV-2 gene</td>
+      <td style="text-align:left">
+        <p>Ad5 and Ad26 + SARS-CoV-2 gene</p>
+        <p>&#x2018;Sputnik V&#x2019;</p>
+      </td>
       <td style="text-align:left">Gamaleya Research Institute</td>
       <td style="text-align:left">3</td>
-      <td style="text-align:left">Regulatory approval on 08/11/20 (1st in the world) was based on <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31866-3/fulltext#%20">Phase 1/2 Trial</a>,
-        and was met with concerns of safety and efficacy. Phase 3 trial launched
-        post-registration.</td>
+      <td style="text-align:left">
+        <p>Regulatory approval on 08/11/20 (1st in the world) was based on <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31866-3/fulltext#%20">Phase 1/2 Trial</a>,
+          and was met with concerns of safety and efficacy. Phase 3 trial launched
+          post-registration.</p>
+        <p></p>
+        <p>12/14/2020 Conclusion of Phase3 trial, <a href="https://sputnikvaccine.com/newsroom/pressreleases/second-interim-analysis-of-clinical-trial-data-showed-a-91-4-efficacy-for-the-sputnik-v-vaccine-on-d/">efficacy announced at 91.4%</a>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Protein</td>
@@ -374,7 +390,10 @@ Many pharmaceutical companies and governments are currently in the process of de
     <tr>
       <td style="text-align:left">Whole Virus</td>
       <td style="text-align:left">Inactivated virus</td>
-      <td style="text-align:left">Sinopharm</td>
+      <td style="text-align:left">
+        <p>Sinopharm</p>
+        <p>(BBIBP-CorV)</p>
+      </td>
       <td style="text-align:left">3</td>
       <td style="text-align:left"></td>
     </tr>
@@ -382,6 +401,13 @@ Many pharmaceutical companies and governments are currently in the process of de
       <td style="text-align:left">Whole Virus</td>
       <td style="text-align:left">Inactivated virus</td>
       <td style="text-align:left">Sinovac Biotech</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Whole Virus</td>
+      <td style="text-align:left">Inactivated virus</td>
+      <td style="text-align:left">Bharat Biotech</td>
       <td style="text-align:left">3</td>
       <td style="text-align:left"></td>
     </tr>
