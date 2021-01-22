@@ -41,11 +41,12 @@ By the end of this module, medical students should be able to:
 
 ## Core Materials
 
-* Pueyo, T. [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca). Medium, 3.10.20
 * Sanderson, G. [Exponential Growth and Epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg&feature=youtu.be). Youtube, 3.8.20
 * Stevens, H. [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/). Washington Post, 3.14.20.
+* Scott, D. [Flattening the Curve Worked- Until It Didn't](https://www.vox.com/22180261/covid-19-coronavirus-social-distancing-lockdowns-flatten-the-curve). Vox, 12.31.20
 * Bitton, A. [Social Distancing: This Is Not a Snow Day](https://www.ariadnelabs.org/resources/articles/news/social-distancing-this-is-not-a-snow-day/). Ariadne Labs, 3.20.20
 * Pueyo, T. [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56). Medium, 3.19.2020.
+* Scudellari, M. [How the Pandemic May Play Out in 2021 and Beyond](https://www.nature.com/articles/d41586-020-02278-5). Nature, 8.5.2020
 * Baird, R. [What Went Wrong with Coronavirus Testing in the U.S.](https://www.newyorker.com/news/news-desk/what-went-wrong-with-coronavirus-testing-in-the-us) New Yorker, 3.16.20
 * Barry, J. [The Single Most Important Lesson From the 1918 Influenza](https://www.nytimes.com/2020/03/17/opinion/coronavirus-1918-spanish-flu.html). New York Times, 3.17.20.
 
