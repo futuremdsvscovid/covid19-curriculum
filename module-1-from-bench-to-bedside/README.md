@@ -12,13 +12,10 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(12/20/20\):**
+**Highlight of Updates \(1/22/21\):**
 
-* Discussion of [rare intrauterine transmission](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) of SARS-CoV-2
-* Discussion of [post-COVID syndrome](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection) and development of autoantibodies in COVID-19
-* Discussion of [genetic loci ](management-of-covid-19.md#risk-stratification)associated with severe infection
-* EUA for [monoclonal antibody cocktails](investigational-therapeutics-and-vaccine-development.md#passive-antibody-transfer) for outpatient use
-* EUA for [Pfizer-BioNTech and Moderna](investigational-therapeutics-and-vaccine-development.md#clinical-vaccine-trials) SARS-CoV-2 vaccine
+* New discussion of COVID-19 variants
+* Updated vaccine development table
 
 The Coronavirus Disease 2019 \(COVID-19\) pandemic has had massive, overarching ramifications for our global population. This is an unprecedented time for our healthcare system, and as medical trainees ourselves, we felt an obligation to synthesize the growing literature and educate our peers. 
 
