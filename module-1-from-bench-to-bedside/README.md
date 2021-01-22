@@ -14,8 +14,8 @@ _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
 **Highlight of Updates \(1/22/21\):**
 
-* New discussion of COVID-19 variants
-* Updated vaccine development table
+* New discussion of [COVID-19 variants](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection)
+* Updated [vaccine development table](investigational-therapeutics-and-vaccine-development.md#clinical-vaccine-trials)
 
 The Coronavirus Disease 2019 \(COVID-19\) pandemic has had massive, overarching ramifications for our global population. This is an unprecedented time for our healthcare system, and as medical trainees ourselves, we felt an obligation to synthesize the growing literature and educate our peers. 
 
