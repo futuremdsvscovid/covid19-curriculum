@@ -1,7 +1,7 @@
 ---
 description: >-
   Essential medical equipment, both for treating patients and protecting
-  healthcare workers
+  healthcare workers.
 ---
 
 # Stuff
@@ -39,6 +39,7 @@ The [original blueprint](https://sites.google.com/view/aerosolbox/design) by Dr.
 ### Addressing PPE shortages in the United States
 
 **Mask decontamination and re-use** has been considered in the U.S. for past outbreaks. Two important questions that must be addressed with this process include:   
+  
 1\) Does decontamination impair the integrity of masks  
 2\) Is the efficacy for eliminating viruses high enough? 
 
@@ -52,29 +53,53 @@ High energy [UV-C radiation](https://www.sciencedirect.com/science/article/pii/S
 
 ![Mask sterilization at University of Nebraska using UV-C light.](../.gitbook/assets/5.png)
 
-Given the shortages of conventional N-95 respirators and surgical masks, **unconventional mask alternatives** are being widely made. While the [difference between N-95 and surgical masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724169/) is not significant for influenza, [cloth masks](https://bmjopen.bmj.com/content/5/4/e006577) have been shown to be inferior to conventional medical masks in a large randomized controlled trial. However, it is possible that with the correct materials or an added filter, washable cloth masks could fill an important need when suitable first-line materials are unavailable. For example, [UF Anesthesiology](https://m.ufhealth.org/news/2020/uf-health-anesthesiology-team-devises-respirator-mask-made-existing-hospital-materials?fbclid=IwAR0-w6cmc8EcczT-Inkd0zL7KP8msEbQDEYJh_hITMD8UWBxL4N5wO0kDyA) is using Halyard H600 two-ply spun polypropylene to make masks with minimal particulate penetration. Researchers at Boston Children’s Hospital also produced a washable, inexpensive mask from available hospital materials, as seen [below](https://www.forbes.com/sites/jacquelyncorley/2020/03/23/researchers-devise-new-breakthrough-to-protect-healthcare-workers-from-coronavirus/#3c2ced712102) or at this [link for a video description](https://www.youtube.com/watch?v=Es_iY5WJdmI).
+It is woth mentioning a novel strategy: microwaving. [Zulauf et al.](https://mbio.asm.org/content/11/3/e00997-20) were pioneers in the use of this approach. They used a rubber band, a glass container, mesh from a commercial produce bag and a 1,000 W microwave to decontaminate an N95 respirator from MS2 phages \(surrogates for SARS-CoV-2\). After a single use for 3 minutes, they found that there was a greater than 4-log10 reduction of plaque forming units \(PFU\) \(a PFU is a measure of concentration used in virology\). Even after 20 sequential cycles, fit and function of the respirator were preserved. Discoveries like these are essential because **the future is not always within the creation of new things, but in taking what is and transforming it.** 
+
+![N95 respirator microwave steam decontamination. PFU: plaque-forming units. ](blob:https://app.gitbook.com/0e3db901-adb6-4a9b-ba42-ecf1f0b9a07c)
+
+Given the shortages of conventional N-95 respirators and surgical masks, **unconventional mask alternatives** are being widely made. Already in 2015 [McIntyre et al](https://bmjopen.bmj.com/content/bmjopen/5/4/e006577.full.pdf) showed in a large-scale randomized clinical trial that cloth face masks were inferior to medical ones in preventing influenza transmission among healthcare workers. This was theorized to be in part due to the smaller number of layers as well as moisture retention, associating the mask’s protection with a larger number of layers, a finer weave and a better fit. Four years later, the N95 masks were assessed against medical masks [in a cluster randomized clinical trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724169/), evaluating their efficiency in a clinical setting; it was found that N95 respirators are better in preventing aerosols, though no difference was found in preventing influenza infection. In other words, N95 respirators are clinically similar to wearing medical masks, and the latter are superior when it comes to preventing certain viral transmissions. **But exactly how much better?** 
+
+Different studies are available to answer this question. Cloth can be expected to block droplets and aerosols, even if it does not stop isolated virions. In comparison, the filtration efficiency in a single layer of different types of cotton in bioaerosols \(0.2 μm\) was 43-94% compared to 98-99% in disposable medical masks. [Davies et al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7108646/pdf/S1935789313000438a.pdf) delved into this topic comparing the filtering efficiency of different materials. They concluded that despite the overall superiority in preventing bacterial and viral infections of the surgical masks, when it came to homemade textiles, pillowcases and 100% cotton fabrics were sufficient enough for their purpose. These experiments, useful as they are, are not geared towards COVID-19. For this reason, [Rodríguez-Palacios et al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7267001/pdf/fmed-07-00260.pdf) assessed household textiles to quantify effective environmental droplet barriers. After spraying microorganisms at six types of fabrics, they found that when using two-layered textiles as much as 99.7% of the ejection of micro droplets could be retained, leaving a circumferential contamination of approximately 0.3%. 
+
+![Droplet retention potential of different textile barriers. ](../.gitbook/assets/image%20%2816%29.png)
+
+Another approach, led by [UF Anesthesiology](https://m.ufhealth.org/news/2020/uf-health-anesthesiology-team-devises-respirator-mask-made-existing-hospital-materials?fbclid=IwAR0-w6cmc8EcczT-Inkd0zL7KP8msEbQDEYJh_hITMD8UWBxL4N5wO0kDyA), is encouraging the use of Halyard H600 two-ply spun polypropylene to make masks with minimal particulate penetration. Researchers at Boston Children’s Hospital also produced a washable, inexpensive mask from available hospital materials, as seen [below](https://www.forbes.com/sites/jacquelyncorley/2020/03/23/researchers-devise-new-breakthrough-to-protect-healthcare-workers-from-coronavirus/#3c2ced712102) or at this [link for a video description](https://www.youtube.com/watch?v=Es_iY5WJdmI).
 
 ![Boston Children&#x2019;s Hospital Mask Solution](../.gitbook/assets/6.png)
+
+When it comes to giving advice, healthcare workers should make [training](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7108646/pdf/S1935789313000438a.pdf) in usage and correct fitting of masks a priority. [Sneezing downwards](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7267001/pdf/fmed-07-00260.pdf) in addition to having a face mask could help contain the droplet contamination’s trajectory, due to a sneeze’s dispersion dynamics. Ironing masks could be beneficial as well, given that it does not affect textile integrity. Finally, washing textiles could eliminate COVID-19 from face masks and other coverings; it has been shown that SARS-CoV-2 can be denaturalized by heat, when exposed to 70°C for 5 minutes, bleach, when exposed at a concentration of 1:49 for 5 minutes, or detergents, when exposed for 20 minutes.
 
 _Thought question:_ 
 
 * How could cloth masks be improved to be equivalent to medical-grade masks? What would you do to mass-produce them for medical professionals during a shortage?
+* Thought question: What can you teach your family members and friends about homemade Personal Protective Equipment? Is there something you can improve at home to keep everyone safer?
 
 ## **Focus \#2: Oxygen Administration**
 
-Another example of the “stuff” that is required to care for COVID-19  patients is oxygen and the means to deliver it Oxygen delivery is a critical need given that the cardinal manifestation of COVID-19 prompting hospitalization is hypoxemic respiratory failure progressing to acute respiratory distress syndrome \(ARDS\). Healthcare facilities in resource-limited settings have many barriers to delivering oxygen to patients. According to a 2010 survey of health care facilities in 12 African countries, less than half reported uninterrupted oxygen access, and less than a quarter had an oxygen concentrator. Only 35% of these health care facilities have [access](https://www.ncbi.nlm.nih.gov/pubmed/20818088) to electricity. In another study in the [Lancet from 2010](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960392-3/fulltext), 19% of 77,700 surveyed surgical rooms, with a geographically and demographically diverse representation from over 50 countries, did not have access to pulse oximetry.
+Another example of the “stuff” that is required to care for COVID-19  patients is oxygen and the means to deliver it. Oxygen delivery is a critical need given that the cardinal manifestation of COVID-19 prompting hospitalization is hypoxemic respiratory failure progressing to acute respiratory distress syndrome \(ARDS\). As global reports suggest, approximately 15% of patients with severe COVID-19 have oxygen therapy, and 5% of those with critical illness are being treated in an intensive care unit \(UCI\). Furthermore, most critically ill patients with COVID-19 require mechanical ventilation. Healthcare facilities are required to be equipped with pulse oximeters and operating oxygen systems that include single-use oxygen supply interfaces \(nasal cannulas, nasal prongs, simple face masks and masks with reservoir bag\), highlighting that only [medical grade, high quality oxygen](https://www.who.int/publications/i/item/oxygen-sources-and-distribution-for-covid-19-treatment-centres) should be administered to patients. Supplemental oxygen therapy must be applied immediately to patients with[ Severe Acute Respiratory Infections \(SARI\)](https://www.who.int/docs/default-source/coronaviruse/clinical-management-of-novel-cov.pdf) and respiratory distress, hypoxemia or shock, targeting [SpO2&gt; 94%](https://www.england.nhs.uk/coronavirus/wp-content/uploads/sites/52/2020/03/specialty-guide-NIV-respiratory-support-and-coronavirus-v3.pdf). 
 
-Successful oxygen treatment requires an **oxygen source**, either from oxygen cylinders, oxygen concentrators, or liquid oxygen; and the **ability to deliver oxygen effectively**, requiring pulse oximeters, tubing, and trained staff. Low resource settings typically depend on oxygen cylinders or oxygen concentrators. Cylinders require a supply chain, transportation, and flow meters, and may have [leakage](https://www.researchgate.net/publication/273256731_The_maintenance_needs_of_oxygen_concentrators_in_low-resource_settings_and_implications_for_technician_training_Experience_from_The_Gambia). Oxygen concentrators require electricity and [technicians](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4129-7) who can repair the devices. If electricity is reliable, oxygen concentrators are more cost-effective than oxygen cylinders. In settings with unreliable electricity, oxygen cylinders may be [preferred](https://www.ncbi.nlm.nih.gov/pubmed/19876543). A possible decision tree for deciding between the use of oxygen cylinders and oxygen concentrators in resource-limited settings is based on a cost-effectiveness analysis done in Gambia is shown below.
+![Oxygen system. Technical specifications and guidance for oxygen therapy devices \(WHO, 2019\) ](../.gitbook/assets/image%20%281%29.jpeg)
 
-[![](../.gitbook/assets/7.png)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2755310/)
+Successful oxygen treatment requires an **oxygen source**, either from oxygen cylinders, oxygen concentrators, or liquid oxygen. Choosing the [appropriate oxygen source](https://apps.who.int/iris/bitstream/handle/10665/329874/9789241516914-eng.pdf?ua=1) depends on many factors, for example: the amount of oxygen needed, the available infrastructure, electricity available, cost, capacity, and supply chain for local production of medicinal gases, as well as access to maintenance services and spare parts, to name a few. A possible [decision tree](https://pubmed.ncbi.nlm.nih.gov/19876543/) for deciding between the use of oxygen cylinders and oxygen concentrators in resource-limited settings is based on a cost-effectiveness analysis done in Gambia is shown below.
 
-[**Oxygen Decision Tree**](https://www.ncbi.nlm.nih.gov/pubmed/19876543) **\(Howie et al. WHO Bulletin 2009\)**
+![Oxygen Decision Tree \(Howie et al., 2009\)](../.gitbook/assets/image%20%2821%29.png)
 
-Most hospitals and healthcare facilities in HICs use [liquid oxygen](https://www.chthealthcare.com/blog/medical-gas-systems). Two major medical gas companies that provide liquid oxygen and oxygen cylinders in the U.S. and around the globe are facing increasing demand for their products. These global medical gas companies are currently able to manage this demand, and have started [preparing their supply chain](https://www.wsj.com/articles/gas-suppliers-face-soaring-demand-for-oxygen-to-treat-coronavirus-patients-11585223338) to address potential future bottlenecks.
+Most hospitals and healthcare facilities in high-income countries \(HICs\) use [liquid oxygen](https://www.chthealthcare.com/blog/medical-gas-systems). Two major medical gas companies that provide liquid oxygen and oxygen cylinders in the U.S. and around the globe are facing increasing demand for their products. These global medical gas companies are currently able to manage this demand, and have started [preparing their supply chain](https://www.wsj.com/articles/gas-suppliers-face-soaring-demand-for-oxygen-to-treat-coronavirus-patients-11585223338) to address potential future bottlenecks. Nevertheless, the most popular source of oxygen storage used in healthcare facilities are oxygen [cylinders](https://apps.who.int/iris/bitstream/handle/10665/329874/9789241516914-eng.pdf?ua=1). A [medical oxygen cylinder](https://apps.who.int/iris/bitstream/handle/10665/329874/9789241516914-eng.pdf?ua=1) is a refillable cylindrical storage vessel used to store and transport oxygen in the compressed gas form. 
+
+Healthcare facilities in resource-limited settings have many barriers to delivering oxygen to patients. According to a 2010 survey of health care facilities in 12 African countries, less than half reported uninterrupted oxygen access, and less than a quarter had an oxygen concentrator. Only 35% of these health care facilities have [access](https://www.ncbi.nlm.nih.gov/pubmed/20818088) to electricity. In another study in the [Lancet from 2010](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960392-3/fulltext), 19% of 77,700 surveyed surgical rooms, with a geographically and demographically diverse representation from over 50 countries, did not have access to pulse oximetry. In this settings, an advantage of oxygen cylinders is that they **fit perfectly within low-income countries \(LICs\) facilities, where power supply is intermittent or unreliable**, mainly because it doesn’t require electricity. Reported disadvantages of such oxygen source are: 
+
+* Require a supply chain and transportation for refilling purposed. 
+* Require functional flow meters.
+* May have [leakages](https://www.researchgate.net/publication/273256731_The_maintenance_needs_of_oxygen_concentrators_in_low-resource_settings_and_implications_for_technician_training_Experience_from_The_Gambia). 
+
+An additional alternative for LICs are oxygen concentrators. However, they require electricity to operate and [technicians](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4129-7) to repair them. If electricity is reliable, oxygen concentrators are more cost-effective than oxygen cylinders. In settings with unreliable electricity, oxygen cylinders may be [preferred](https://www.ncbi.nlm.nih.gov/pubmed/19876543). 
+
+![A nurse dismantles an oxygen cylinder at a hospital in Gabon, Central Africa.](blob:https://app.gitbook.com/b5e5e385-0cad-41da-90ba-4fef1c7b5ad8)
 
 _Thought question:_
 
 * Should governments of HICs start to prepare for oxygen shortages? How should they do so? Should they favor oxygen concentrators or cylinders?
+* What about LICs that don’t have access to all the complete oxygen systems? How should they compensate for this deficiency?
 
 ## **Focus \#3: Respiratory Support**
 
@@ -88,7 +113,29 @@ Resource-limited settings, such as rural areas in LMICs, have long struggled wit
 
 Given this problem, experts explored a range of frameworks for practical guidance on administering respiratory support for those who are critically ill in resource-limited settings. One such framework proposed by [Inglis, Ayebale, and Sch](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6319564/)[ultz](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6319564/) is found in the figure below.
 
-[![](../.gitbook/assets/8.png)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6319564/)
+![Proposed interventions to improve outcomes in LICs and MICs. ](../.gitbook/assets/8.png)
+
+#### _Case study \#1: Reconfiguring machines for sleep apnea into hospital ventilators_
+
+A team of physicians at the[ Mount Sinai Health System](https://health.mountsinai.org/blog/mount-sinai-turns-hundreds-of-machines-for-sleep-apnea-into-hospital-ventilators-shares-instructions-worldwide/) have reconfigured hundreds of donated machines \(200 ResMed VPAP ST machines\) typically used at home for sleep apnea, with the purpose of deploying them as ventilators to be used for severely ill patients who are hospitalized with COVID-19. The Mount Sinai team made three important modifications to the VPAP ST machines: 1\) connection to an endotracheal tube replaced the typical mask that can present a risk of COVID-19 aerosolization; 2\) alarms that can alert clinicians if there is a problem with air flow were installed; 3\) enabled doctors and respiratory therapists to view and control the machine’s settings from outside the patient's room, so they do not need to enter to make minor adjustments. According to Drew Copeland, Director of Operations for the Sleep Program at the Mount Sinai Health System, “any type of high-performing sleep device that delivers a comparable level of pressure to the ResMed VPAP ST model can work as a repurposed ventilator”.
+
+Mount Sinai has shared the protocols and instructions with the greater New York Hospital Association and the American Thoracic Society, as well as with other hospitals that are dealing with a national shortage of invasive ventilators during this pandemic.
+
+![Members of the Mount Sinai team that created the ventilator prototype seen in the picture. ](../.gitbook/assets/image%20%2817%29.png)
+
+_Thought question:_
+
+* Mount Sinai has had a donation of VPAP machines, which are expensive. The reconfiguration of VPAP machines is showing good results as an option for other hospitals all over the world to reconfigure these machines into ventilators. However, what should the LMIC's without donations do given the cost of these VPAP machines? How could they have access to this solution?
+
+#### _Case study \#2: Friendly ventilador_
+
+As an example of innovation, after [Israeli hospitals](https://www.israel21c.org/israel-fast-tracks-ventilator-innovations-for-covid-19-care/) identified potential shortage of ventilators, the government of such HIC took advantage of Israel Aerospace Industries as a place to design, manufacture and mass produce the portable ventilators shown in the image. Their main advantage is that they can be used outside the hospital setting and are suitable for chronic life support ventilation in COVID-19 patients. [This friendly ventilator](https://www.inovytec.com/wp-content/uploads/2018/01/BrochureVentwayWeb.pdf) has two possible weights: 1.0 kg or 1.15 kg, and both of them have performance data such as: ventilation modes, tidal and volume, breath rate, peak inspiratory pressure, peak inspiratory flow, trigger and low pressure O2 source. This allows the patient to have specific information about some essential physiological parameters despite being outside a hospital setting. 
+
+![Inovytec&#x2019;s Ventway Sparrow portable turbine-powered ventilator.](../.gitbook/assets/image%20%2819%29.png)
+
+_Thought question:_ 
+
+* How should LMICs elaborate these kinds of ventilators or acquire access to them? 
 
 [**Optimizing Respiratory Management in Resource-Limited Settings**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6319564/)
 

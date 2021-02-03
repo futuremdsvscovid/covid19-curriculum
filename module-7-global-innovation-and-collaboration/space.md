@@ -2,7 +2,7 @@
 description: >-
   Availability of and access to clean and sanitary environments to test, treat,
   and isolate patients as well as living spaces conducive to limiting disease
-  spread
+  spread.
 ---
 
 # Space

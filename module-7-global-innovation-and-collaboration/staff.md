@@ -1,7 +1,7 @@
 ---
 description: >-
   Doctors, nurses, community health workers, respiratory therapy, environmental
-  services, custodial staff, and other medical professionals
+  services, custodial staff, and other medical professionals.
 ---
 
 # Staff
@@ -16,10 +16,10 @@ Task shifting is a mechanism employed in resource-constrained settings around th
 
 The [World Health Organization](https://www.who.int/healthsystems/TTR-TaskShifting.pdf?ua=1) defines task shifting as “the rational redistribution of tasks among health workforce teams…from highly qualified health workers to health workers with shorter training and fewer qualifications in order to make more efficient use of the available human resources for health.” The WHO recommends that task shifting be undertaken in parallel with efforts to strengthen the healthcare workforce capacity, and only after consultation with relevant stakeholders, including patients, to ensure needs are appropriately met. Per [WHO guidelines](https://www.who.int/healthsystems/TTR-TaskShifting.pdf?ua=1), successful implementation of task shifting requires knowledge of:
 
-1. the available human resources for healthcare
-2. the gaps in care provision
-3. the extent to which task shifting is already taking place
-4. the quality assurance mechanisms that already exist
+1. the available human resources for healthcare;
+2. the gaps in care provision;
+3. the extent to which task shifting is already taking place;
+4. the quality assurance mechanisms that already exist.
 
 Task shifting is typically regulated by existing institutions \(e.g. licensing boards, professional societies, local, state, and national governments\). Regulations can be modified to allow extension of the scope of practice or creation of new cadres within the healthcare system. Existing training and quality assurance programs may be modified to ensure that roles and core competencies are clearly defined for new or expanded positions. Furthermore, supervision by healthcare workers with higher levels of qualification is essential \(e.g. anesthesiologist supervises multiple nurse anesthetists\). In this way, more highly qualified healthcare workers are available for cases requiring a higher level of skill or expertise. Finally, essential health services cannot be sustainably provided on a voluntary basis, so it is [important to ensure workers are compensated](https://www.who.int/healthsystems/TTR-TaskShifting.pdf?ua=1) and programs are adequately financed.
 
@@ -36,6 +36,22 @@ As the COVID-19 burden grows exponentially in the U.S., multiple task-shifting m
 _Thought Question:_ 
 
 * How would you organize an ICU team from a group of doctors, nurses, mid-level providers, clinical assistants, and technicians who have not worked in an ICU before? Who would provide immediate and ultimate supervision of each member of the team?
+
+#### _Case Study: Mexico_
+
+Mexico´s 5th year medical school students are called “medical interns”. According to [Mexican Health Regulations](http://www.salud.gob.mx/unidades/cdi/nom/compi/r091283.html), an intern is considered to be a student who is studying for a degree in medicine in an institution of medical education, who has accredited the academic cycles established by their respective study plan and who joins the application units for their education and training as a scholarship holder. Most Mexican public hospitals rely on the workforce these students provide in order to satisfy daily patient demand. As they are considered nonessential personnel, medical institutions facing shortages of PPE during the first weeks of the national COVID-19 sanitary contingency decided to spare available equipment; only essential personnel were granted with such resources, forcing medical interns to study and work without adequate protection. As COVID-19 incidence increased, educational authorities decided to withdraw all medical and nursing students from hospital settings, from April 6th to April 30th.
+
+Virtual medical education persisted for these students until sanitary authorities issued a [statement](http://www.calidad.salud.gob.mx/site/docs/Comunicado_personal_en_formacion_F3.pdf) announcing the following: “Undergraduate internal physicians and social service interns from all health careers without risk factors for serious illness due to COVID-19 must rejoin regular activities from May 1, 2020. In the event that its units have been designated for the care of COVID-19 patients, they will be relocated to lower risk areas, determined by health authorities in agreement with the educational institutions of origin, where they continue to support healthcare services or participate in health promotion and prevention tasks.” Risk factors for severe illness due to COVID-19 included in the official list were: pregnancy or lactation, chronic non-communicable diseases \(lung, heart, liver, metabolic, morbid obesity, kidney failure, lupus, cancer, diabetes, hypertension\) or acquired or provoked immunosuppression; students with any of such risk factors were permanently withdrawn from in-hospital service “during the time of contingency due to the pandemic or until the end of their undergraduate medical internship”. Night shifts were limited by official dispositions to every 3rd or 4th day. 
+
+As the rate of medical interns attending non - COVID medical departments increased, by June almost every 5th year medical student resumed partially or totally their clinical rotations. The decisions taken by the government previously described are evidence of how to ensure the continuity of face-to-face medical education, minimizing the risk of contagion and viral transmission, and how to mitigate the shortage of medical personnel, maintaining quality standards in patient care. The latter was not completely achieved, as the Health Institute for Wellbeing \(INSABI, according to its acronym in Spanish\) hired 585 Cuban physicians and nurses to help combat COVID-19 in several federal entities. It must be noted that 12 of the most recognized medical associations of the country [publicly condemned](https://espanol.medscape.com/verarticulo/5905579) this decision, arguing that these foreign doctors “transgress the functionality in the assigned hospitals, relegate national healthcare professionals, receive excessive economic remuneration in comparison to better prepared Mexican doctors and disrupt the assignment of limited PPE". 
+
+Another important aspect of the urgent plan issued by the Mexican government is the “[Hospital Reconversion Guideline](https://coronavirus.gob.mx/wp-content/uploads/2020/04/Documentos-Lineamientos-Reconversion-Hospitalaria.pdf)”. It was issued in April 2020, seeking to “guarantee that the organization of health care services is executed under the principles of timeliness, quality and efficiency of human, material and financial resources for the benefit of the population and thereby influence the prevention and control of the pandemic caused by the SARS-CoV2 virus disease in Mexico.” It highlights an algorithm created to reduce staff occupation in intensive care units and emergency departments; specifically, it aims to ensure 1 pulmonologist or internal medicine physician as head of the medical team for every 25 ICU beds, and 1 emergency physician, general physician, or any other physician not directly trained to be on an ICU for every 5 beds. 
+
+There is no doubt that Mexico has most of the necessary tools to respond to the pandemic, but **the lack of prioritization has led to professional burnout and misuse of human resources.** 
+
+_How did the US and Spain manage such situation? Could have Mexico chosen an alternate path?_  
+  
+In comparison, the US issued immediate provisional practitioner licenses for fourth-year medical students to assist hospital staff and serve as first-contact doctors during the pandemic. As for January 5th 2021, the [Federation of State Medical Boards](https://www.fsmb.org/siteassets/advocacy/pdf/state-emergency-declarations-licensures-requirementscovid-19.pdf) has 43 States in addition to DC, Guam \(GU\), Central Northern Mariana Islands \(CNMI\), United States Virgin Islands \(USVI\) and Puerto Rico \(PR\) with medical licenses waivers. On the other hand, in Spain, the second most affected European country at the beginning of the pandemic, a national call was made to all recently graduated physicians and last year medical students to join first response teams. “There was a national call to be on a national roster of healthcare personnel ready to lend a hand when needed, and that was what many peers did and most ended up in community health centers, nursing homes and "COVID hotels”, said Ruben Moreno M.D. This strategy optimized triage services and medical attention for hospitalized COVID-19 patients.
 
 ## **Community Health Workers**
 
@@ -83,6 +99,8 @@ To provide an example from another context of how telemedicine has been utilized
 ![Lung Center COVID Ask Force Online Consultations](../.gitbook/assets/1.png)
 
 As the number of COVID-19 cases grows in the Philippines and strains its health sector, several medical groups and physicians have created a [Facebook-based platform for online consultation](https://www.facebook.com/COVIDAskForce/) services called the “Lung Center COVID Ask Force”. It primarily aims to triage patients with possible COVID-19-related complaints. Every Monday to Saturday, around 625 volunteer doctors - with the help of student volunteers from the Ateneo School of Medicine and Public Health - provide online consultation services to the first 1,000 patients who message the Facebook page that day. Additionally, the Lung Center COVID Ask Force also posts infographics based on frequently asked questions. These serve as educational materials that people can easily access without needing to consult a doctor.
+
+
 
 \*\*\*\*
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   Infrastructure, logistical organization, and governance required to ensure the
-  effective delivery of quality health care
+  effective delivery of quality health care.
 ---
 
 # Systems
