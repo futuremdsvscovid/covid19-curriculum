@@ -26,7 +26,7 @@ _Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho
 ² Brigham and Women’s Hospital, Boston, MA, USA  
 ³ Ministry of Health and Social Services, Gobabis, Namibia
 
-#### Highlight of updates \(02/3/21\) Faculty review pending.  
+#### Highlight of updates \(02/3/21\)
 
 * Staff: [case study](staff.md#case-study-mexico) about professional burnout and management of human resources in Mexico. 
 * Stuff: 
