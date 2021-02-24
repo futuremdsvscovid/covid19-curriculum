@@ -20,11 +20,12 @@ _Editors:_ [Michael Dykstra](mailto:michael_dykstra@hms.harvard.edu)¹, [Jean Wi
 ⁷ Faculty of Medicine, Bel Campus University of Technology, Kinshasa, Democratic Republic of Congo  
 ⁸ [Mitosis Health Initiative](mailto:info@mitosishealth.org), Anahuac Mexico University. Mexico. 
 
-_Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho](https://ughe.org/meet-the-team/agnes-binagwaho/), MD, PhD¹; [Cameron Nutt](https://connects.catalyst.harvard.edu/Profiles/display/Person/122757), MD²; [Leonard Kabongo](https://www.linkedin.com/in/leonard-kabongo-3b82b247/), MD, MSc³  
+_Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho](https://ughe.org/meet-the-team/agnes-binagwaho/), MD, PhD¹; [Cameron Nutt](https://connects.catalyst.harvard.edu/Profiles/display/Person/122757), MD²; [Leonard Kabongo](https://www.linkedin.com/in/leonard-kabongo-3b82b247/), MD, MSc³; [Brett D. Nelson](mailto:%20bnelson1@mgh.harvard.edu), MD, MPH, DTM&H⁴  
   
 ****¹ University of Global Health Equity, Butaro, Rwanda  
 ² Brigham and Women’s Hospital, Boston, MA, USA  
-³ Ministry of Health and Social Services, Gobabis, Namibia
+³ Ministry of Health and Social Services, Gobabis, Namibia  
+⁴ MassGeneral Hospital for Children, Boston, MA, USA
 
 #### Highlight of updates \(02/3/21\)
 
