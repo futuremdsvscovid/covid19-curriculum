@@ -315,6 +315,22 @@ Many pharmaceutical companies and governments are currently in the process of de
     </tr>
     <tr>
       <td style="text-align:left">Viral Vector</td>
+      <td style="text-align:left">Nonreplicating Ad26</td>
+      <td style="text-align:left"><a href="https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use">Johnson &amp; Johnson (Janssen)</a>,
+        BIDMC</td>
+      <td style="text-align:left">FDA EUA</td>
+      <td style="text-align:left">
+        <p>Phase 3 Trial announced 09/23/20</p>
+        <p></p>
+        <p><a href="https://www.jnj.com/johnson-johnson-initiates-second-global-phase-3-clinical-trial-of-its-janssen-covid-19-vaccine-candidate">A second Phase3 Trial</a> announced
+          11/15/20 to test the efficacy of 2-dose regimen.</p>
+        <p></p>
+        <p>2/27/21 FDA issued EUA for single shot of J&amp;J vaccine making it the
+          third vaccine available in the US</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viral Vector</td>
       <td style="text-align:left">Nonreplicating adenovirus type 5 vector (chimeric)</td>
       <td style="text-align:left"><a href="https://www.marketscreener.com/CANSINO-BIOLOGICS-INC-59318312/news/CanSino-Biologics-China-announces-first-human-trials-of-Covid-19-vaccine-30183232/">CanSino Biological Inc.</a>
       </td>
@@ -341,19 +357,6 @@ Many pharmaceutical companies and governments are currently in the process of de
         <p>11/23/20 <a href="https://www.astrazeneca.com/media-centre/press-releases/2020/azd1222hlr.html">Conclusion of Phase3 Trial</a> shows
           70% overall efficacy (although results are somewhat <a href="https://www.nature.com/articles/d41586-020-03326-w">puzzling</a>),
           with no hospitalizations or severe disease in the vaccinated group</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Viral Vector</td>
-      <td style="text-align:left">Nonreplicating Ad26</td>
-      <td style="text-align:left"><a href="https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use">Johnson &amp; Johnson (Janssen)</a>,
-        BIDMC</td>
-      <td style="text-align:left">3</td>
-      <td style="text-align:left">
-        <p>Phase 3 Trial announced 09/23/20</p>
-        <p></p>
-        <p><a href="https://www.jnj.com/johnson-johnson-initiates-second-global-phase-3-clinical-trial-of-its-janssen-covid-19-vaccine-candidate">A second Phase3 Trial</a> announced
-          11/15/20 to test the efficacy of 2-dose regimen.</p>
       </td>
     </tr>
     <tr>

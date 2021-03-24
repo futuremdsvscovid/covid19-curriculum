@@ -18,13 +18,7 @@ Another clinical feature of COVID-19 that has received considerable media attent
 
 In summary, no ONE symptom or set of symptoms can reliably diagnose or exclude COVID-19 infection but it is clear that cough, fever, and fatigue are most commonly seen. As discussed in the basic virology section, it is also important to remember that a person begins shedding the virus \(i.e. can transmit the virus to others\) prior to symptom onset and some people will never develop symptoms and remain asymptomatic carriers \([Li et al., Science 2020](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221); [Pan et al., Lancet 2020](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2820%2930114-6/fulltext); [Roth et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMc2001468?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)\).
 
-Presenting symptoms in children are similar to those in adults \(fever, dry cough, and fatigue\) although often less severe. Asymptomatic cases have also been reported in children although the exact rates of asymptomatic infection in children is unclear at this time \([Castagnoli et al., JAMA Pediatrics 2020](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2765169?resultClick=1)\). The difference in disease severity between children and adults is poorly understood, but is under active investigation. If you would like to know more about COVID-19 in children and MIS-C, please reference the summary of COVID-19 and Children in the [supplemental materials](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#heading=h.fzjmqy11md9f).
-
-_Thought questions:_
-
-* Why might infants and children infected with SARS-CoV-2 have more mild symptoms than in adults and be at a lower risk for progression to serious illness including pneumonia and acute respiratory distress syndrome \(ARDS\)?
-  * \(Note: there is currently no consensus on this topic, and it is still an area of active debate, see [supplemental materials](https://docs.google.com/document/d/1SsWujt6g1iNUAAPeOFjSP8YFaK_C48SSO_2iz0BcQi4/edit#heading=h.fzjmqy11md9f) for leading theories\)
-* If symptoms are so mild in children, why did we close schools?
+Presenting symptoms in children are similar to those in adults \(fever, dry cough, and fatigue\) although often less severe and asymptomatic cases have also been reported \([Hoang et al., EClinicalMedicine 2020](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2820%2930177-2)\).
 
 ## Diagnostics
 
