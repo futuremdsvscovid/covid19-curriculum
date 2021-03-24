@@ -12,10 +12,13 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
-**Highlight of Updates \(1/22/21\):**
+**Highlight of Updates \(3/23/21\):**  
+\*Not yet reviewed by faculty editors
 
-* New discussion of [COVID-19 variants](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection)
-* Updated [vaccine development table](investigational-therapeutics-and-vaccine-development.md#clinical-vaccine-trials)
+* Updated discussion of [SARS-CoV-2 variants](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection)
+* Moved discussion of [clinical course in children and MIS-C](management-of-covid-19.md#clinical-course) from supplemental materials to “Clinical Course” section in the main text
+* Discussion of [EMPACTA trial](management-of-covid-19.md#treatment) of tocilizumab and its implications for treatment recommendations
+* [J&J Vaccine](investigational-therapeutics-and-vaccine-development.md#clinical-vaccine-trials) update
 
 The Coronavirus Disease 2019 \(COVID-19\) pandemic has had massive, overarching ramifications for our global population. This is an unprecedented time for our healthcare system, and as medical trainees ourselves, we felt an obligation to synthesize the growing literature and educate our peers. 
 
