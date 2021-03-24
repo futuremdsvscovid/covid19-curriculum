@@ -13,7 +13,7 @@ _Editor:_ [Kendall Carpenter](mailto:kendall_carpenter@hms.harvard.edu)
 _Reviewers:_ Gaurav Gaiha, MD, PhD; Daniel Solomon, MD; Shiv Pillai, MD, PhD
 
 **Highlight of Updates \(3/23/21\):**  
-\*Not yet reviewed by faculty editors
+\*Not yet reviewed by faculty 
 
 * Updated discussion of [SARS-CoV-2 variants](basic-virology-and-immunology.md#pathogenesis-of-covid-19-infection)
 * Moved discussion of [clinical course in children and MIS-C](management-of-covid-19.md#clinical-course) from supplemental materials to “Clinical Course” section in the main text
