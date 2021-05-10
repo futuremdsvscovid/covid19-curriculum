@@ -7,7 +7,7 @@ description: >-
 
 # Module 7: Global Innovation and Collaboration
 
-_Authors:_ Aditya Achanta¹, George Agyapong¹, Isaac Alty¹, Jeremie Kyle Angeles², Kathryn Ellyse Burgonio², Noelle Castilla-Ojo¹, Hassan Ali Daoud³, Parisa Fallah¹, Luis Freitas⁴, Philippe Jefferson Galban², Jessica Laird¹, Jean Wilguens Lartigue⁵, Jonathan Niyotwambaza⁶, Gavin Ovsak¹, Kirstin Woody Scott¹, Ulrick Sidney⁷, Julius Nico Valdez², Angela Zou¹, Jorge A. Abello Vaamonde⁸, Desireé Franco⁸, Alicia Amairan Gutiérrez⁸, Alejandra Cortés⁸, Melissa Fragoso⁸, Juan José Menéndez⁸, Liliana Salgado⁸
+_Authors:_ Aditya Achanta¹, George Agyapong¹, Isaac Alty¹, Jeremie Kyle Angeles², Kathryn Ellyse Burgonio², Noelle Castilla-Ojo¹, Hassan Ali Daoud³, Parisa Fallah¹, Luis Freitas⁴, Philippe Jefferson Galban², Jessica Laird¹, Jean Wilguens Lartigue⁵, Jonathan Niyotwambaza⁶, Gavin Ovsak¹, Kirstin Woody Scott¹, Ulrick Sidney⁷, Julius Nico Valdez², Angela Zou¹, Jorge A. Abello Vaamonde⁸, Desireé Franco⁸, Alicia Amairan Gutiérrez⁸, Alejandra Cortés⁸, Melissa Fragoso⁸, Juan José Menéndez⁸, Liliana Salgado⁸, Michelle Guinand Reiners⁸
 
 _Editors:_ [Michael Dykstra](mailto:michael_dykstra@hms.harvard.edu)¹, [Jean Wilguens Lartigue](mailto:drlartigue@gmail.com)⁵, [Jorge A. Abello Vaamonde](mailto:abelloj.mitosis@gmail.com)⁸
 
