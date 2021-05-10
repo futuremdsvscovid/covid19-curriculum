@@ -7,7 +7,7 @@ description: >-
 
 # Module 7: Global Innovation and Collaboration
 
-_Authors:_ Aditya Achanta¹, George Agyapong¹, Isaac Alty¹, Jeremie Kyle Angeles², Kathryn Ellyse Burgonio², Noelle Castilla-Ojo¹, Hassan Ali Daoud³, Parisa Fallah¹, Luis Freitas⁴, Philippe Jefferson Galban², Jessica Laird¹, Jean Wilguens Lartigue⁵, Jonathan Niyotwambaza⁶, Gavin Ovsak¹, Kirstin Woody Scott¹, Ulrick Sidney⁷, Julius Nico Valdez², Angela Zou¹, Jorge A. Abello Vaamonde⁸, Desireé Franco⁸, Alicia Amairan Gutiérrez⁸, Alejandra Cortés⁸, Melissa Fragoso⁸, Juan José Menéndez⁸, Liliana Salgado⁸, Michelle Guinand Reiners⁸
+_Authors:_ Aditya Achanta¹, George Agyapong¹, Isaac Alty¹, Jeremie Kyle Angeles², Kathryn Ellyse Burgonio², Noelle Castilla-Ojo¹, Hassan Ali Daoud³, Parisa Fallah¹, Luis Freitas⁴, Philippe Jefferson Galban², Jessica Laird¹, Jean Wilguens Lartigue⁵, Jonathan Niyotwambaza⁶, Gavin Ovsak¹, Kirstin Woody Scott¹, Ulrick Sidney⁷, Julius Nico Valdez², Angela Zou¹, Jorge A. Abello Vaamonde⁸, Desireé Franco⁸, Alicia Amairan Gutiérrez⁸, Alejandra Cortés⁸, Melissa Fragoso⁸, Juan José Menéndez⁸, Liliana Salgado⁸, Michelle Guinand Reiners⁸, Daniela Arreola Barrios⁸
 
 _Editors:_ [Michael Dykstra](mailto:michael_dykstra@hms.harvard.edu)¹, [Jean Wilguens Lartigue](mailto:drlartigue@gmail.com)⁵, [Jorge A. Abello Vaamonde](mailto:abelloj.mitosis@gmail.com)⁸
 
@@ -27,15 +27,10 @@ _Reviewers:_ [Agne](https://ughe.org/meet-the-team/agnes-binagwaho/)[s Binagwaho
 ³ Ministry of Health and Social Services, Gobabis, Namibia  
 ⁴ MassGeneral Hospital for Children, Boston, MA, USA
 
-#### Highlight of updates \(02/3/21\)
+#### Highlight of updates \(05/09/21\) 
 
-* Staff: [case study](staff.md#case-study-mexico) about professional burnout and management of human resources in Mexico. 
-* Stuff: 
-  * N95 respirator [microwave steam decontamination](stuff-1.md#addressing-ppe-shortages-in-the-united-states).
-  * [Effectiveness](stuff-1.md#addressing-ppe-shortages-in-the-united-states) of household textiles, N95 respirators and medical masks against environmental droplets. 
-  * [Technical specifications and guidance](stuff-1.md#focus-2-oxygen-administration) for oxygen therapy devices \(WHO, 2019\). 
-  * Case studies \([\#1](stuff-1.md#case-study-1-reconfiguring-machines-for-sleep-apnea-into-hospital-ventilators) & [\#2](stuff-1.md#case-study-2-friendly-ventilador)\) about respiratory support innovation.  
-* Systems: effective [risk communication strategies](systems/risk-communication-strategies.md) between national authorities, scientific communities and the general public. 
+* Stuff: optimizing face mask usage. 
+* Systems: effective vaccination protocol in high income countries \(Israel\). 
 
 ## **Introduction**
 

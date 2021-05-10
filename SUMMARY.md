@@ -88,6 +88,7 @@
   * [Space](module-7-global-innovation-and-collaboration/space.md)
   * [Systems](module-7-global-innovation-and-collaboration/systems/README.md)
     * [Risk Communication Strategies](module-7-global-innovation-and-collaboration/systems/risk-communication-strategies.md)
+    * [Effective Vaccination Protocols](module-7-global-innovation-and-collaboration/systems/effective-vaccination-protocols.md)
   * [Refugee and Migrant Health Case Study](module-7-global-innovation-and-collaboration/refugee-and-migrant-health-case-study.md)
 * [Module 8: Medical Ethics in Relation to COVID-19](module-8-medical-ethics/README.md)
   * [Overview of U.S. Medical Ethics](module-8-medical-ethics/overview-of-u.s.-medical-ethics.md)
