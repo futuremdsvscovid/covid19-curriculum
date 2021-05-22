@@ -8,7 +8,7 @@ description: >-
 
 _Authors:_ Isaac Alty, MD; Luis Guilherme Cardoso; Michael Kochis, MD, EdM; Ashwini Joshi
 
-_Editor:_ [Wesley Chou](mailto:wesley_chou@hms.harvard.edu), [Andrew Foley](mailto:andrew_folely@hms.harvard.edu), MPH, and [Joyce Zhou](mailto:joyce_zhou@hms.harvard.edu)
+_Editors:_ [Wesley Chou](mailto:wesley_chou@hms.harvard.edu); [Andrew Foley](mailto:andrew_folely@hms.harvard.edu), MD, MPH; [Joyce Zhou](mailto:joyce_zhou@hms.harvard.edu)
 
 _Reviewers:_ Aliya Feroe; Andrea Wershof Schwartz, MD, MPH; Catherine Mankiw; Jocelyn Streid, MD, MPP; Kate Treadway, MD; Katie Greenzang, MD, EdM
 
@@ -37,7 +37,7 @@ At the end of this module, medical students should be able to:
 * VitalTalk, [COVID-ready communication skills](https://docs.google.com/document/d/1uSh0FeYdkGgHsZqem552iC0KmXIgaGKohl7SoeY2UXQ/mobilebasic).
 * Recommended Activity: Tamerius and Campt, “[Your Angry Uncle Wants to Talk About Politics. What Do You Do?](https://www.nytimes.com/interactive/2019/11/26/opinion/family-holiday-talk-impeachment.html)” _New York Times Opinion_.
 * Patient-friendly infographic: [COVID-19: What you need to know: a 1-page guide](https://clinicalproblemsolving.com/wp-content/uploads/2020/04/4-5-20_COVID19-Patient-Communication-Tool.pdf) \(last updated April 2020\)
-  * Patient-friendly resource from [UpToDate](https://www.uptodate.com/contents/126678#H2375421419) \(last updated September 2020\)
+  * Patient-friendly resource from [UpToDate](https://www.uptodate.com/contents/126678#H2375421419) \(last updated May 2021\)
 
 
 

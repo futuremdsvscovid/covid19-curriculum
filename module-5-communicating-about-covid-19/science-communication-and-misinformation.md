@@ -31,21 +31,17 @@ With patients increasingly spending time on the Internet and connecting with oth
 
 Misinformation has proliferated during the pandemic, ranging from unfounded statements about the origins of COVID-19 to spurious links between 5G and COVID-19. In this section on navigating misinformation, our aim is not to make you an expert on how to dismantle every false belief, but rather to provide communication tools that build off previously described frameworks to speak with patients about misinformation. Thus, we want to address: how do you, as a trainee or clinician, communicate effectively with someone whose beliefs about COVID-19 may be grounded in false information? How might you navigate gulfs between a wide scientific consensus and an individual’s beliefs? To illustrate this, we have included a table below on another divisive issue: childhood vaccinations, an area that taps into similar fears and concerns that patients may have.
 
-## An example using childhood vaccinations
+## Conversations on COVID vaccines
 
 {% tabs %}
-{% tab title="Facts conversation" %}
-Many parents who hold anti-vaccination beliefs and patients who believe false information about COVID-19 have received their information from somewhere they took to be true, and are simply acting in accordance with what they have learned.
-
-For[ example](https://pubmed.ncbi.nlm.nih.gov/26814029/), media coverage of the anti-vaccination movement has often focused on fears of mercury additives or autism. However, research and interviews show that vaccine-hesitant parents have various, often nuanced concerns regarding vaccines, such as towards one particular vaccine versus another, the number of vaccinations within a time period, and skepticism about vested financial interests of physicians.
+{% tab title="Background" %}
+Vaccine hesitancy is a complex issue. Rampant misinformation, the novelty of these medications, and polarized discourse have all contributed to reluctance towards vaccine uptake. Longstanding medical racism is also inextricably linked with potential skepticism for BIPOC communities that have suffered disproportionately from COVID-19. From a medical perspective though, mass vaccination efforts sufficient to reach herd immunity are critical for addressing the pandemic. These differing perspectives have inevitably led to tensions and disagreement between healthcare providers and patients. However, while the vaccines themselves may be novel, many of the same principles previously covered in this module are relevant in such conversations with patients.
 {% endtab %}
 
-{% tab title="Feelings conversation" %}
-For clinicians, anti-vaccination beliefs held by our patients can elicit frustration, as can conspiracy theories about COVID-19. For our patients, these beliefs can be grounded in a number of emotions, such as anxiety, fear, or insecurity. For example, parents who are vaccine-hesitant may have underlying feelings of fear that they might hurt their child, or a desire for agency when other areas of their lives feel out of control.
-{% endtab %}
+{% tab title="Approaching these conversations and resources" %}
+Providers should learn more about where patients are receiving the information and what is driving their concerns regarding vaccines. It is critical not to anchor onto assumptions when broaching these conversations, such as who is more or less willing to be vaccinated. While it is of course important to be cognizant of these factors, this should not result in premature conclusions that a certain patient will be unreceptive to vaccination, and as a result, prevent such conversations from even being broached. For example, overemphasizing hesitancy in black communities glosses over[ inadequate access to vaccines](https://www.washingtonexaminer.com/news/covid-vaccine-hesitancy-exaggerated) and other health services for the many black individuals who wish to receive them.
 
-{% tab title="Identity conversation" %}
-In the setting of refusing childhood vaccinations, a parent may view themselves as their child’s guardian. This is a key identity that they may feel a strong desire to maintain.
+ Answering patients’ questions does require keeping up to date on a rapidly changing topic; common questions with potential responses are displayed in this[ NEJM article](https://www.nejm.org/doi/full/10.1056/NEJMp2103104), and other sources are available in Table 2 of this[ article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7772995/). Healthcare workers should be upfront about what is and is not known about the vaccines. For example, while we have strong evidence of severe COVID-19 being prevented in vaccinated individuals, long-term data directly showing duration of immunity are not yet available. Together, healthcare providers should have strong, clear recommendations. In addition to directly addressing patient misgivings,[ other strategies such as framing the vaccine from a positive perspective and appealing to protecting patients’ loved ones](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7772995/) have been shown to be helpful.
 {% endtab %}
 {% endtabs %}
 
