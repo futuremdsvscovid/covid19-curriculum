@@ -1,22 +1,39 @@
 # Investigational Therapeutics & Vaccine Development
 
-This section will build off the fundamental SARS-CoV-2 virology and potential mechanisms of COVID-19 pathogenesis to explore the scientific basis of potential therapeutics and vaccines. In addition, we will provide information on clinical trials and approval of COVID-19 therapeutics and vaccine development. As best as possible, we will maintain an update of in vitro, animal based, and clinical studies of therapeutic effectiveness of investigational drugs, vaccines and therapies in this section.
-
-_Thought Questions:_
-
-* Based on what you know about SARS-CoV-2 viral structure and pathogenesis, what kinds of drugs do we already have on the market that could have efficacy in treating COVID-19?
-* Who will most benefit from investigational therapeutics? From a vaccine?
-
 ## Investigational Therapeutics
 
-There are currently no FDA approved treatments for any coronavirus in the US; this includes SARS & MERS. However, on 3/29/2020, the FDA [issued emergency use authorization \(EUA\)](https://www.hhs.gov/about/news/2020/03/29/hhs-accepts-donations-of-medicine-to-strategic-national-stockpile-as-possible-treatments-for-covid-19-patients.html) for the antimalarials hydroxychloroquine and chloroquine \([subsequently revoked](https://www.fda.gov/media/138945/download)\), and on 5/1/2020, the FDA issued a [second EUA for the novel antiviral drug remdesivir](https://www.fda.gov/media/137564/download). EUAs are issued when the FDA determines that the known and potential benefits of a drug outweigh the known and potential risks of the product and that there are no alternatives available. This allows physicians to prescribe these drugs for hospitalized patients when appropriate, but does not mean that the drugs have demonstrated efficacy through clinical trials or that the drug has received FDA approval \([Rome and Avorn, NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2009457)\).  
-  
-This section will build off the fundamental SARS-CoV-2 virology and potential mechanisms of COVID-19 pathogenesis to explore the scientific basis of potential therapeutics and vaccines. We will highlight important pre-clinical in vitro and in vivo data. Additionally,we will discuss the relevance of recent clinical trials investigating drug and vaccine efficacy.
+In this section we will build off fundamental SARS-CoV-2 virology and COVID-19 pathogenesis discussed in section 1 to explore the scientific basis of therapeutics and vaccines. We will discuss general approaches to therapies and vaccines but we will not be providing most up-to-date information about specific therapies. For that level of information, we highly suggest referencing The New York Times COVID-19 [drug](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html?fbclid=IwAR3XGClUpmmEJlrsNRkJMAEWll7WRHD_KvOSkVpk0icQiRY7dJ07xBF_zeM) and [vaccine](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?fbclid=IwAR2kYzypoNJaSpl8ef3GT_6OpJeNAr3eDAPFekatGW5c-R3EiLNbgSuyt3U) trackers which are updated daily.
+
+_Thought Question:_
+
+* Based on what you know about SARS-CoV-2 viral structure and pathogenesis, what kinds of drugs do we already have on the market that could have efficacy in treating COVID-19?
+
+### **Drug approval process**
+
+The FDA \(US Food and Drug Administration\) is responsible for approving new drugs. The Center for Drug Evaluation and Research \(CDER\) receives applications for new medications and evaluates the evidence that the new drug is safe and effective \([FDA website](https://www.fda.gov/drugs/development-approval-process-drugs)\).
+
+In order to test the new compound, the company or group developing the drug must perform preclinical studies, usually on cells and experimental animals, to understand how the drug is likely to work and the safety profile. They then submit data from preclinical studies to the FDA to obtain an investigational new drug \(IND\) approval. Next, they test the medication in phase 1, 2 and 3 studies. Phase 1 studies evaluate the drug’s safety in humans by giving a small dose to a small group of people, observing them for side effects, and then gradually scaling up the dose. Phase 2 studies look for efficacy based on markers of disease in a somewhat larger group of people. Phase 3 studies compare the medication to whatever is currently available, which may be the standard of care or placebo, and are done in a large enough group of people to statistically evaluate pre-determined outcomes \([Cancer.org, Types and Phases of Clinical Trials](https://www.cancer.org/treatment/treatments-and-side-effects/clinical-trials/what-you-need-to-know/phases-of-clinical-trials.html)\). During the clinical trial phase, access to INDs is only available as part of a clinical trial, with exceptions noted below. Evidence from these studies is submitted to the FDA as part of a New Drug Application \([FDA website](https://www.fda.gov/drugs/types-applications/new-drug-application-nda)\).
+
+In states of emergency, the FDA can authorize treatments for life-threatening conditions when there are no adequate, approved and available alternatives using a method called Emergency Use Authorization \(EUA\). The secretary of Health and Human Services authorized EUAs for COVID-19 effective March 27, 2020 \([FDA website](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization)\); these approvals will be valid until the state of emergency ends. The EUA is made given the best available evidence weighing risks and benefits in order to make products available to the public in a timely manner, and may be revoked as further evidence becomes available. Please see [this website](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization) for an updated list of EUAs for vaccines, therapeutics, and medical devices.
+
+Other pathways for access to medications for a new condition like COVID-19 include expanded access and off-label use \([FDA website](https://www.fda.gov/consumers/consumer-updates/understanding-regulatory-terminology-potential-preventions-and-treatments-covid-19#:~:text=The%20EUA%20process%20is%20different,for%20FDA%20approval%20or%20clearance.)\). Expanded access, also known as compassionate use, allows people with a serious or life-threatening condition to access investigational new drugs outside of a clinical trial. Expanded access has been used frequently for convalescent plasma, which made it harder to evaluate the efficacy of the treatment. Off-label use allows providers to prescribe an FDA-approved medication for another indication than the original one it was approved for. This mechanism has been used for many medications like hydroxychloroquine that were approved by the FDA for treatment and prevention of malaria and treatment of certain autoimmune diseases. 
+
+_Thought Question:_
+
+* What are the advantages and disadvantages to an individual patient to receiving a drug outside of a clinical trial through expanded access or off-label use? What about to society?
+
+### **Approaches**
+
+Some medications target the virus, while others target the immune response to the virus.
+
+Of antivirals, some are small molecules which inhibit viral processes. For example, remdesivir is a nucleotide analog which interferes with replication of SARS-CoV-2 by causing premature termination of RNA made by the viral RNA-dependent RNA polymerase.  Other virally-directed medications are biologic drugs that use antibodies to block viral entry, like the monoclonal antibodies bamlanivimab, etesevimab, casirivimab and imdevimab. These types of medications can lose efficacy as SARS-CoV-2 evolves, but are less likely to interfere with other homeostatic processes.
+
+Anti-inflammatory drugs include corticosteroid hormones like dexamethasone, small molecules like baricitinib, and larger proteins like tocilizumab. These medications inhibit the inflammatory response which is responsible for many of the symptoms of COVID-19 by targeting inflammatory signaling. The drugs that target the immune response to the virus are more useful later in the course of disease when more symptoms are due to the immune response rather than the virus itself.
+
+For more information on particular medications, please visit these resources:
 
 **Other Resources:**
 
-* [A review of pharmacological treatments under investigation](https://jamanetwork.com/journals/jama/fullarticle/2764727)We will outline select results on the use of these drugs in recent reports and clinical trials. 
-* A registry of clinical trials ongoing globally can be found on the [WHO International Clinical Trials Platform](http://apps.who.int/trialsearch/AdvSearch.aspx?SearchTermStat=117&ReturnUrl=~%2fListBy.aspx%3fTypeListing%3d0) and [clinicaltrials.gov](http://clinicaltrials.gov). 
 * The New York Times COVID-19 [drug](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html?fbclid=IwAR3XGClUpmmEJlrsNRkJMAEWll7WRHD_KvOSkVpk0icQiRY7dJ07xBF_zeM) and [vaccine](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?fbclid=IwAR2kYzypoNJaSpl8ef3GT_6OpJeNAr3eDAPFekatGW5c-R3EiLNbgSuyt3U) trackers
 * We have made concept videos for medical professionals on leading antiviral and immune therapies for COVID-19, including mechanism, trial data and outlook:
 * * [Medications for COVID-19: Antivirals \(Part 1\)](https://tinyurl.com/COVID19MedsAntivirals)
