@@ -12,6 +12,8 @@ _Editor:_ [Catherine Mankiw](mailto:catherine_mankiw@hms.harvard.edu)
 
 _Reviewers:_ Jennifer Potter, MD; Fernando Rodriguez-Villa, MD; Nhi-Ha Trinh, MD, MPH; Aliya Feroe; King Fok, MSc; Sabra Katz-Wise, PhD
 
+**Last Update:** December 2020
+
 ## Introduction
 
 The COVID-19 pandemic has already caused a significant psychological impact across the globe, and patients are now experiencing many new stressors that may negatively affect their overall mental health status.\([Galea et al., JAMA 2020](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2764404)\). The[ World Health Organization](https://www.who.int/docs/default-source/coronaviruse/mental-health-considerations.pdf),[ National Alliance on Mental Illness](https://www.nami.org/covid-19-guide), [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html) \(CDC\), and[ Substance Abuse and Mental Health Service Administration](https://www.samhsa.gov/coronavirus) \(SAMHSA\) have all released guidelines for individuals to address the mental health consequences of the pandemic.

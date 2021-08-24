@@ -17,7 +17,7 @@ _Past Reviewers:_ Holly Rawizza, MD; Michael Dougan, MD, PhD
 
 In Module 3 of this curriculum, students will begin to consider the broader implications of the COVID-19 pandemic. In the first section of this module, students will discuss health disparities and how the pandemic has lifted the curtain on these disparities. In the next section, students will learn how state and federal governments, in addition to insurers, are able to respond to public health crises and the actions they have taken thus far in addressing the COVID-19 pandemic. We provide state-by-state case studies to allow students to compare and contrast the various responses across the country. Finally, students will receive a general overview of how the pandemic impacts healthcare that is not associated with COVID-19, in addition to many social and economic aspects of daily life. While these sections are by no means complete reviews, we hope that they will invite further consideration of the broader scope of the pandemic. We expect that this module will take **3 hours** to complete.
 
-Highlight of Updates December 2020 \(not yet reviewed by all faculty reviewers\)
+**Highlight of Updates December 2020** \(not yet reviewed by all faculty reviewers\)
 
 * ICU capacity and elective procedures in current surge
 * Rates of infection in ICE detention centers
